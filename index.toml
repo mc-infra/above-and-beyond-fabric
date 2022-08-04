@@ -2,1898 +2,2506 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/EnderStorage.cfg"
+hash = "ee18dee1a8206cc3853e156102d70038554a4d0e30937e1e8145ef49086d0670"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
+hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/appliedenergistics2-client.toml"
+hash = "8d7e91306e5f4acffc6e5a4fd597b3e0d0acaf8c93641511f80a120d7f0fcf90"
 
 [[files]]
 file = "config/appliedenergistics2-common.toml"
+hash = "4372b4633ca643cb78b430cf32d1c9f3d3efe41e09a1398bdbb4decbc45719e5"
 
 [[files]]
 file = "config/chiselsandbits-client.toml"
+hash = "6ea45dc73e071831108a02feaffd10c43dabda1cdc54682c1b000ad2af694201"
 
 [[files]]
 file = "config/chiselsandbits-common.toml"
+hash = "e2010c8cd87c32b0f97334cbb3f3fcbe1801b10063d2ae72f57b9cc26748efb1"
 
 [[files]]
 file = "config/computercraft-client.toml"
+hash = "b68218c31bae20db566d9da8cbc1839a1feec2dfa82cf52fe60d97ca68d04f11"
 
 [[files]]
 file = "config/craftingtweaks-client.toml"
+hash = "1b585a9754d011ab9cc49c2b6637ed2be68204cd52886c0050710f6bad3d339b"
 
 [[files]]
 file = "config/craftingtweaks-common.toml"
+hash = "5f162c1b1f3ed2cb35ce5be5ab87d04fa55fef02f8bc7728aabfca675b4c07e6"
 
 [[files]]
 file = "config/create-client.toml"
+hash = "6f848d35069f49f3ef5aa8747724d9507b317b12d4ebdaa4aeb77deae1b2cfb2"
 
 [[files]]
 file = "config/create-common.toml"
+hash = "de8a81bd705f70b09014566b85a823f96545940bc353b60e8e4d63c99d2e1885"
 
 [[files]]
 file = "config/decorative_blocks-common.toml"
+hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
 
 [[files]]
 file = "config/defaultoptions-common.toml"
+hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
+hash = "7af745f0518a0d2800b0b33bca11587872b956bb760602b451ebc333a38e5784"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
+hash = "02dc9ef6a7fae12fe54ccc4eeb6685e7a66e7f0949c9b83c97c11baccde0e0db"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
+hash = "60bca90897fd2e13a1897ce9ed65274a0547ac110ea9a2450feafcbec46bd86d"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "64a0c8e2354c1ccdbb66db1a779414e4579ee95d775f7ad3aaade02a41c0025d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lifesavers.snbt"
+hash = "018b4c947a8c25e37739533440f8a0fbe7e75bdefdba5ad2aa59c76faebdab80"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/market.snbt"
+hash = "03b2829daf6755212b92a1e2499a8bee4f37f37e1eccda5d3677976f9e4348b9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/metallurgy.snbt"
+hash = "cd3e95ef4bded86ed66926795493c21f0785b05bb397fd6e6eb8b43543282bf9"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/overview.snbt"
+hash = "2f9f5dd9d431f82d872aae5f22f109bada59c93e5e0d452ab3d052d081c47842"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/professions.snbt"
+hash = "be3e501e9fab8651da95253aeb73215481a15ff4e5952441699cee2f046dd56a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shipments.snbt"
+hash = "cb10d4a988412b698bda726c691fb723e7f7267470f3a874d3bae034e9b13d75"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_1.snbt"
+hash = "93fc5392146dee4f8bd4fe86e054fb54a4e110d430c9bafc7d216a3bccc2b41f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_2.snbt"
+hash = "5a7d279d8a5a60481b29cb1e19e2a8e80c6cac491043d6ee0fd5a87a3ebd25af"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_3.snbt"
+hash = "832c43a992933c173ceb72c854a9d92877c07d25ca130e5136921c146d2a0143"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_4.snbt"
+hash = "21f874d10efa67ef05fae1b7dd60e1cddc80cae0c3e84df0c8f5824678acb7e0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_4b.snbt"
+hash = "614900c98ace59e45187710e0ac98a382f23521f5be371f74250f67edfab8d3f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_5.snbt"
+hash = "548cefe284f4466cf0e4f11a67a06ff3a9fd35dfb1a5ffa532fbc96e0029aad0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
+hash = "ab8608fc8b39154657b01bb3f2ab885bceebdae2a79ad6ea5f163d75a56046ab"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
+hash = "8f43b84ed4a64baa333c8fec1f9b2286abaa31fd67537045682709a9ee4a5bbc"
 
 [[files]]
 file = "config/naturescompass-client.toml"
+hash = "7e32b0c42527c8fbe8df27a857140f91c201553a0e4a989f8e703e4dcb29a88a"
 
 [[files]]
 file = "config/naturescompass-common.toml"
+hash = "5d47dd0a56c005c033f9ccc4318f275ba5c9e89550ae8a69dbc672e11167ef56"
 
 [[files]]
 file = "config/openloader-common.toml"
+hash = "b74e0274a519e547f1f83322c2de4a3c15f7b497911b03a6d748a5f2e8e75717"
 
 [[files]]
 file = "config/openloader/.cache"
+hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/broken_windmill.json"
+hash = "4ffd03c8ad439e08e7bccfee01e5c5a2660db901cd0a8a6e2cad5aa0d8ac01ba"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/crashed_rocket.json"
+hash = "0df7771f5de555b0438579910d7e57bb3a3d431a0f0e1068dcb3fba41066cfa4"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/log_cabin.json"
+hash = "fdc8a9559bae334ae6f177c85f2f9f240df3d98b9c0aaf49b463ce1b59b86fde"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/moonbase.json"
+hash = "cb0704416bbd22fa713d18b27ec154e9f1d6818552fb8c10127f06a7bb8a62f2"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/oil_fountain.json"
+hash = "5fc10abb64d2abe53618187f82058bcae4d21ba757615d5f7241f8c9d13d41d0"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/railshaft.json"
+hash = "1cf812114099b964a5f19c4e0e9619d94747b147333cf7b0fb6e3cbec8e58e11"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/ruins.json"
+hash = "4a57ab257b28af21c735d8b0d99c95201d5037d7123ee5597ccb385497465c4f"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/slime.json"
+hash = "65b9846d3159fedfb0dfbaaaa8f3f555edbd1da4c76d398004781abd019db5e7"
 
 [[files]]
 file = "config/openloader/data/pack/structure_spawners/underground_lab.json"
+hash = "9d9d5e3667d55cc56ff8bc0855f940c5a1cb7747ead9a893cc15cd039f4a6475"
 
 [[files]]
 file = "config/openloader/data/pack/structures/blacksmith_shop.nbt"
+hash = "d56498be0adbb6353c75ad0b27b048d86da13d77ee89e6bd204136ef71fcadbf"
 
 [[files]]
 file = "config/openloader/data/pack/structures/broken_windmill.nbt"
+hash = "263b359ed8c179ce4a552b1c8c33e61c88fb8207287f468d9deb9f7d2006cb30"
 
 [[files]]
 file = "config/openloader/data/pack/structures/campsite.nbt"
+hash = "9019724102ac5015d2559d06295ea9b621933a3e22edccf4c952b8bcbaefb8b9"
 
 [[files]]
 file = "config/openloader/data/pack/structures/crashed_rocket.nbt"
+hash = "23c4b6eb8e1e8633419fc8b672681473e750d5fd3a87f1af0eec7e1f65c11000"
 
 [[files]]
 file = "config/openloader/data/pack/structures/log_cabin.nbt"
+hash = "2a394b2378cc3f985e9397ac380e3ec205e609001f8392b96285a4bdc8889955"
 
 [[files]]
 file = "config/openloader/data/pack/structures/moonbase_cargo.nbt"
+hash = "3fecbd337fc13ad53c2e2625ef3ef0ed556120d9e06831b847b548d509b9057c"
 
 [[files]]
 file = "config/openloader/data/pack/structures/moonbase_me.nbt"
+hash = "09f6b08ab8ca2012237daab85b20c881853c79cd00d75e810d2529445b5f554a"
 
 [[files]]
 file = "config/openloader/data/pack/structures/moonbase_oxygen.nbt"
+hash = "1ed99eed4d47569d1558f5ffd7abaa5b658dcf67c832e3e23046ce4b8c90fdcd"
 
 [[files]]
 file = "config/openloader/data/pack/structures/moonbase_rusty.nbt"
+hash = "adb4883c4aac0ea6180a63c46bf9e75c1e654383672f25324491132f4605c2f7"
 
 [[files]]
 file = "config/openloader/data/pack/structures/moonbase_wreck.nbt"
+hash = "0c0d40f8fcba0fabbc5298fcf2c11993cb520efd90b07ef66115bbf936d87d3a"
 
 [[files]]
 file = "config/openloader/data/pack/structures/oil_fountain.nbt"
+hash = "da7422d6feb5d99ee162ef50605624f31ec9b54662efb0e16663612af636bf9c"
 
 [[files]]
 file = "config/openloader/data/pack/structures/oil_fountain_1.nbt"
+hash = "6f958bdf9e0588b78d2a9eb1ab4edfbbe0d5a876a6d88d9a38bd2ded10389e37"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/bad_ending.nbt"
+hash = "9d1fd4e4e17bb5f5e871e8e9014510e8a5056fb4b9a22f879ca48e2cffa799ad"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/good_ending.nbt"
+hash = "df5e9f6b8e8846d8716b1f607d95298ca1ac2e28da37bf5f01256d379cf41d78"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/house.nbt"
+hash = "9f468f86d64fa99337b48d027260eba538a3ce9ee4e5c9ee0bfaebafcbf04cb8"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/slope_both.nbt"
+hash = "95e5253f181ecaa9edd3a3b62b7936025fc44179799b84015a41834651213441"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/slope_left.nbt"
+hash = "c1bef5ce83069c0f4e50624af9b58fc31008da98f4e7d06851d5e0d13f35c916"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/slope_right.nbt"
+hash = "32c78472e6341989c540f8f6b9bca180512afd816e58d4e02da7c9a3902acda5"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/slope_straight.nbt"
+hash = "057e6b04e2c2b44018c0e774e72db7fddeee29556e54fb845cc370e77330d805"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/watery.nbt"
+hash = "13236d6f0050517c1a7c3dd61ab0f67a6dc8d0f9a3169a1c7158256350389043"
 
 [[files]]
 file = "config/openloader/data/pack/structures/railshaft/weak_slope.nbt"
+hash = "538fad3c6e2704106a827b4848b0e6beadd335a2d1e8e56e903ee80ec4befe2c"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/arch.nbt"
+hash = "228bc65a80a73c9a77897f8e79dbec6a851380f65b4dcfe98298127af95b34ff"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/bridge.nbt"
+hash = "404d14c557731631b517f6240edd47b02241fb318d75b0e55b7654bbddc4e798"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/crossing.nbt"
+hash = "9bee3e5fb5151709c6ea4c21c47155783bc19d5e8001880be5e3e9616e67f4b5"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/end.nbt"
+hash = "5ea34d7a11be1eb5e2413240d01b7f9d84c5319f429f2ec2c81c4874b3303d32"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/foundation.nbt"
+hash = "28de39aa71e986d58ed14eefd0b6c9e977638ffa988446a9f68c1411af68a846"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/house.nbt"
+hash = "e6ad2e042b006f0cd22249e4ae2464a00859c2e54e86f1100fbad8a62ba6969a"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/spires.nbt"
+hash = "2b94c3de0c4961f3712c95fa79044331bc6b7860a5f4e74516ff66d0338b063b"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/straight.nbt"
+hash = "e949312aef772f4e9466512f10135ca6de20a6597245391724684eca2373e6fd"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/tower.nbt"
+hash = "3cc4c7b0f3900ba8d99230504156bc3c3c7beb29d3afca677d5be82696006da6"
 
 [[files]]
 file = "config/openloader/data/pack/structures/ruins/gabbro/turn.nbt"
+hash = "e7fd5b5372c17311c7f9cb33199d2ff46df71b9dd4e2ab592977456f40a88281"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/blue.nbt"
+hash = "09566981475e532d08c8354a00f0d83283dc3c668033b61f221fef92942f9d4a"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/blue_1.nbt"
+hash = "5c9c33ba43332d72a14f1cc7b11cb67bc23424ba3411c025ece5e6bcc8a712b7"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/blue_2.nbt"
+hash = "ceecbde9e4d74bffe4634796da6a02811ebb71b2e7fd969b1c8ad80d154bcbc8"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/blue_small.nbt"
+hash = "de9e0a4108cd1b2fbb99dd180fd5dd4640154c2e0b0ecd74c70af384da871b0b"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/green.nbt"
+hash = "15b2653825cb32ca4a53cd7987e2c223ac6879fef96eb3624a6aeca02b6dca28"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/green_small.nbt"
+hash = "e27aec400af41bcf4014630dfb0da59f6a0a97724bdabdfffba285e39816339e"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/purple.nbt"
+hash = "0afff39dd0f473c6a6d5a4eb29fca2e42c3f8ea1b686bd9b2d44e2190da7cc08"
 
 [[files]]
 file = "config/openloader/data/pack/structures/slime/purple_small.nbt"
+hash = "329adb4777e0ead7cb86644a5b46c690ba93bf01d3dd25d20b489338af45f210"
 
 [[files]]
 file = "config/openloader/data/pack/structures/underground_lab.nbt"
+hash = "035dccdd94a44f7910ce44f350476d90c738ad63e7fcfd77f0eaf36d94373423"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/moonbase.json"
+hash = "2927a915a1e81c1bce97962efe913007626e623762100a9761f445c3f550a619"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/oil_fountain.json"
+hash = "8df40d080efc418e9b09a1ba4617e83cdfbc9e2097da6b05af35c146f1b12dd8"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/railshaft/after_horizontal.json"
+hash = "e26e40b57e67d5f92f35f7efc2f4e4cb5431c96a225a12d6f4cabe1d74c7899d"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/railshaft/after_slope.json"
+hash = "7a7088100160bf1ffe7bc94fe72d6029ee29e08f22983eb602c1296578ba4547"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/railshaft/first.json"
+hash = "2d24c7b2e677153ea0402a0a95e3d250243971ceb69d5df13de10b65a7989a1b"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/railshaft/house.json"
+hash = "661d65b917a3e5ba96b945abb884b72eb9b0ce7dc14e66e0bf2c7b0a4c44f0f3"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/ruins/any.json"
+hash = "bb60e3652b9a72b2538d8df59f2dba779dada9e9fe253e3c1147bc98258d372c"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/ruins/gabbro.json"
+hash = "a671f6fe38d5fd7d61c04c9e165e6da4a8c49af069a1b2bb211366423c6c574b"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/slime/any.json"
+hash = "b62a61527b71af5b0f0c9bceeb316632023193460f67019f64c1db429d1ae497"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/slime/blue_1.json"
+hash = "a9b48cc7e8a3f0edfdca1227158d30bd8dfd21e6bb464e67673c92f796087d3e"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/slime/blue_2.json"
+hash = "4670ed2ba4f3b4d03ff98872b65ec207f9e0f349cdc65412949343fdb183cf26"
 
 [[files]]
 file = "config/openloader/data/pack/worldgen/template_pool/surface_build.json"
+hash = "02db36fed8254808812cca0e3485205c548504c705bccdd6ada501fd186e4533"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/fueltank.json"
+hash = "e53ce6ebb144ef3db3f3e38b668ca2d106b177de51c5c8672da52553345f9f50"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/launchpad.json"
+hash = "caca6c6bef551fa694f0563e54af4e4a505dfe331a275348de8008a15a54ef78"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/moonturf.json"
+hash = "4d09e465e01eea74027463cf8cbf824ac1a061c628141a115f2196ccb9f87def"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/rocketmotor.json"
+hash = "89457069b1c0fd0076e3dc031185cf2fe162f16cc139aecab3d36f27ac12a51b"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/lang/en_us.json"
+hash = "dcf6797a5b666664f68f1fd451a3528dff712ca8f3e739fb272737f47199e7b3"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/fuelingstation.json"
+hash = "ee6713621e6bf418f5731e69eda990623d50bd3b2d734171781eeef6c3f91b49"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/fueltank.json"
+hash = "d36d2cab6992e209bbb9a76e50b41d582aba1c4f213cff3ea859d5f81fca7d35"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/guidancecomputer.json"
+hash = "5ae0689736d2c585a92425b2867b63aae2c26cbb0b1271c6b610ed7dab9dd790"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/launchpad_all.json"
+hash = "476f6de97830dac8fea5eee6774d98bd8fd80954a2a05d708a07456b927a4ff6"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_1.json"
+hash = "73d6a7e26ce603b4c3c9cd0472564c6fedac1b34bff86ca220e64a7ff6eaec0a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_2.json"
+hash = "2750ba3b5c41e04e018bb034c9269541034f4e331605d056493efd25c6746907"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygencharger.json"
+hash = "f68231b1c3a80363ce68f685ff5d2901156a795d585225d72b4b5f7ce92688b8"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygenvent.json"
+hash = "93527139a5a80fe9680e910e7067d7dffc9d909a75dbbc05c2eb215a46476b06"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketbuilder.json"
+hash = "bcc49f1709074d7e8297286c5e196395eda60e74e2628032d638b924a11b8d90"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketmotor.json"
+hash = "a1b77f819f61c134cbd701944c0607d01b80cdc35e445e90294e5d812ba99679"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/seat.json"
+hash = "6065266f3b58c6de230d89bcc37c3a3f4e684836403efd63959ce2a52a53de58"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/structuretower.json"
+hash = "4361fdd287bfc8030b6062e725fa2dfa00ffc7f5db856d03fc7fc8229b48efdd"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/item/fueltank.json"
+hash = "37df0482a7795ab4045842b84fdd583a83845aa383f25e73c3d9f4d8ed43308f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/item/launchpad.json"
+hash = "efb9d5aa65cd3124b16628075982f0c01b269dc3e90f4fb3ea8d2808a636095f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/item/rocketmotor.json"
+hash = "d774adb41d4bbd9f6096986131a7f2e81fcff6be02e5a80b8c08a4cc396576d2"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1.png"
+hash = "7ac3d475ba451ee266f19b5e701ee91e77023bb84bde75d5af97f83595fdc3a1"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1_overlay.png"
+hash = "c8cf907b83d78d2329286b2b86e8c25f2e3caf23534d288bef14746fad6f9b07"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2.png"
+hash = "84855bee6ec3c7dd1d8183adfd9622af0bd6be63a7aef84d714e9c6defab0f93"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2_overlay.png"
+hash = "3d68a64b8a6bd29bb95d9b66c6c3ae4d626c32d040457bc9bea259c73cba296f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/assembler.png"
+hash = "b849667bc9f6dd3dcbd3485b77df39730b2b54750f6cbd0a199ca4457e2432d5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png"
+hash = "2a81716cab09ae69507bb2299732411f7e26aac837d20c4f9dc998e30a2e021a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png.mcmeta"
+hash = "fee047921ccf57b0efc8f8b1ab8ea96ea60a0638501dd32e372965d442e3e698"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png"
+hash = "d98cf5d4d16c9758e96f4621e2cad0caada13bd026f235d9436c2025915a130d"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png.mcmeta"
+hash = "fee047921ccf57b0efc8f8b1ab8ea96ea60a0638501dd32e372965d442e3e698"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fuelloader.png"
+hash = "41a93b8ba1f60b1f2fe9385cf14e3fde919c5cce46972b210e780d725e11e2e1"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png"
+hash = "8029d5a807c29410a3db8aa6a1566b86eec96b42f51d1379306ddaa6a028a748"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png.mcmeta"
+hash = "09b5741f4abd04ba305d0cb4b91b717c544ccc146534ac6ff53a1256c7f90f1f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_ctm.png"
+hash = "f7146805093141a5084112db8d9f5e12fef97bd8bdb1039e927ae9a4a32bd295"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_top.png"
+hash = "f7a76fa2afce80bd14b488a10c9e75888961bed4e7a25dccdd660837c8bb6555"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/gaschargertop.png"
+hash = "66234cccb9579debb45abf9707a2c2fde23d79c533635c895b40adaa8f5e8e65"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/guidancecomputer.png"
+hash = "e9843557d48093d634994b2a36fee87b0f43b31a4df80385a0ebb0989be551b1"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine.png"
+hash = "dd6b9b1b38c47c061a29eb3b27b05abe563fe161bf2d7f2b44b39847e0068581"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine_end.png"
+hash = "9e6015a08c4b48eedf7e9f1fb1ebe5fbcc8ae7e66682636a65a00694dec47b9e"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent.png"
+hash = "2eaf1db9d53763c409373ab0e071c9df737ea2a6d364c1358aa7ceedccf9919b"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent_end.png"
+hash = "9e6015a08c4b48eedf7e9f1fb1ebe5fbcc8ae7e66682636a65a00694dec47b9e"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf.png"
+hash = "99edd6588f2c561265513e38615c60fa428175d92ec789ffffb7b01c4f539632"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_1.png"
+hash = "cb74799e71f30fb5b42c719f0023a359780dd2c1a32d0a9e3c9fd8ea775d4f89"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_2.png"
+hash = "a1a4197bd49671ca05988f8df925ae4ed810d5c6bbe9ec35f4ba3857dd72ee7f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/panelside.png"
+hash = "56b69e6792e03b3c565bbaf68872f6d03faddf780340d3986d3fb62a202c68a7"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png"
+hash = "57e33221ce19d11345392567d93aa517f097b38eeeba0eba18fe84cd8ba45c12"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png.mcmeta"
+hash = "393e79d7d12e91ff617a6b9e978de57a2725da61f40de89da8c48868cbbfa1ab"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png"
+hash = "3e7ca5fef9007581ef4feffbfebf9abc9c0f57177db48de94f8d15da93398107"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png.mcmeta"
+hash = "73adea4c82d5e632c4ce37bc1dcae2c4e3503acc892a2965edbd5a9ddef034dd"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top_ctm.png"
+hash = "ecc5536f03831de1b1845340b7a1ad92c7e951d56f1ec13248b4d96fc9f48296"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold-ctm.png"
+hash = "ba44be7d0f653c3e68b1ae6f9c152640780a0b889ef1b4aa27478846368abe56"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png"
+hash = "cdbae25aeb41201cc3ed07f0652439452c971cb0670cb8e42f338e0f7cdb82e7"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png.mcmeta"
+hash = "82716f41da2c82120285e000b151af530e9b33f1cf4c50dbb02156789dc08730"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat.png"
+hash = "6843c788472fc5b3ebf33e3fc2295d9f735aa196e2d3579ed010423975fe67bc"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat_top.png"
+hash = "2dda48059c0ccf402add77a008e2783e4f4998ff24575076ee115b6899191855"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/tank_inner.png"
+hash = "5aed630bbc6d86dc2356b60527bbcca7b8d54869c1b770e6aa4515ce315b9921"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster.png"
+hash = "4ba5d932a22f90a0752891e11b72e6e0fa1ae5d323f00dd1c997215f9a2ed2c9"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster_top.png"
+hash = "820c89810a25e4e712640ad79ca0198b09982a12d52761400a1188cf2451edf3"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun.png"
+hash = "7d0985b35ec46699c0b22fc7acf191859dc91344bf636cd3a59dd3d5832a07f7"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun2.png"
+hash = "1c8b9faf532571d87e2091282eaef8cb4add9b14b73b82d5ffe9f86161d2bde6"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/gui/rockethud.png"
+hash = "c547a7eb6bddb4ddf8e562d15d854ce602c0ee070ebf2f19b2d3e6c10cd3a745"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/planetidchip.png"
+hash = "47fef3a5421ec72b85639236dbde1b2e05bd80f4345b054b51ffecb252d48e83"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet.png"
+hash = "ad39fe3fe69c4c54ce84827e5e512688052e0666416b81ba9475dc4b1a25d23b"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet_overlay.png"
+hash = "530847e91fbe43ee7e2e633ace5296dac46af64b265544ff94adb6e920c3e016"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_hydrogen.png"
+hash = "16e6feb3baca79393facf8eb540c1d35bce8bcc315adcfb18be81c0d665aa410"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_oxygen.png"
+hash = "29517786f0e8e027640f1bd11b8fb73677bfe403d4bb9f00263feddca00b4dba"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/models/girder.png"
+hash = "2f3d41953783432cbd6aa720308f3d31a38978e45228c374d1bc8c7ef7427621"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/models/grid.png"
+hash = "81c9a7980d91ddada4a451902ad6514f654c3c8e9e4362891ff4a261d4b2e713"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/models/round_h.png"
+hash = "0e026e8c8f5aae49ee76c21b376d67425769d0cd5814ec4d254aa80a17f1e879"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/atmosphere2.png"
+hash = "ba62a9655d917e5c948f1ffd1254460f143671fc1050365fb3fbe71b8d71dcbe"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.pdn"
+hash = "a06a231d8fe0c71b95bad15f963377f68539eaf7a76c22d7b527a1f9af695f98"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.png"
+hash = "f9841f9a95ffde2d18dcb6569027d31cedc6b1f75b721170a8dacde6682a9802"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikebase.png"
+hash = "a748dde4ff69ac076e18f0a013b78597d3246d25f3d50b3d6ea3eccb46943142"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikeleo.jpg"
+hash = "5c252129611020cb1d6a52890ad7ecb003d8d92e61f3189a733b8a1e861497f6"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moon.png"
+hash = "ff689d3ae78d2bc1066b731492b940a4f353d910ddead9695a682ab683b279d3"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moonleo.jpg"
+hash = "a0bb80569fc50466e4ed8432d4f5b7b5b82f63af1e8d0d4a250649877830d798"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadow.png"
+hash = "4fd0ed4f8d00ea38a0699701929056d00eb72628d2adb14aedac02d3d1f4e153"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadowold.png"
+hash = "9054fd90bcb09b3356e2c634e814b8573283d9bb8c5074d5361e1cf63f467927"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/models/block/charger.json"
+hash = "d3cf01465cd3995c51c0a7e9e8fd63fe8e16adff3a8b789961190d5687fe7cf9"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_base.json"
+hash = "5ee070127a991621e7fd5773eb49a7ebebfcb1ac0925ebf36ab48727b0bf6598"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_pointer.json"
+hash = "277f94223b0f352fa569d38d4fa4eca381a7c1a18e386e48d7b4c1abf1ca2f76"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/charger.png"
+hash = "99ee592f177d8cfd8d6175318135c625109895dca004de13c2e5574306d35f83"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/sky_compass.png"
+hash = "8e44e0ca01f1f76935e8363a80cddfe9aee2926ba5b865a681ac834b577a9e93"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/calculation_processor.png"
+hash = "e806ab2ae269f7f6644764c7517fece648823ee9babc9b2519a95b6ad84f0853"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/printed_calculation_processor.png"
+hash = "ef36d793d83335c4bcbcb31b6f1d48c5a2c3b909023c0e630801e1dd0019f268"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss.png"
+hash = "5efa0795ba4caf73751c2a6e0c7071764e9a6ae36a9b82630330364b53442911"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss_plant.png"
+hash = "41920d6fe104a545add0941976aeb850fba7bc8ae6c306b5e192c425bdee0882"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png"
+hash = "4355329c54c0f386e2a13a36c9a24135175fe6895bedd7728432bfcb8d7a3797"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png.mcmeta"
+hash = "cbba32b62b675f17883a65269e8942c1ee57fb9a59c950956d1f35babd722035"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/cofh_core/textures/gui/elements/scale_compact.png"
+hash = "2082af5626be261ce55ede213a70209af202c3fd3ec562a49776f25e3e0f2050"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/create/lang/en_us.json"
+hash = "b1973c78b4f7a668abab9435b80f124a82c59d9dbb9fe637f13cc11cd64aa872"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/block.json"
+hash = "e9301560d1f20626cf9307509e9280535d6e8b4ac2cdc194ab68d0f81b402586"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/item.json"
+hash = "6a2d721dcb1786461cc0b7f016d2e96e707a74f97b3f58d563cbbbf297bff569"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/create/textures/block/portable_storage_interface.png"
+hash = "e541c36bf11554cfc139f974f510fe6b4d3b25a437aa71095188705dba0e2331"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/create/textures/item/golden_electron_tube_unused.png"
+hash = "6c67ead99bfd6b3f426b87861e833c1135e4e0039c182d82448583dc39075168"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/create/textures/item/incomplete_precision_mechanism.png"
+hash = "2b7803d1723b455200000939f56c794bb8b989dc136f62bdb1ed61df1387221a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/models/enderchest.png"
+hash = "1f1495d06956404754c551e6d85893af4cd824c5ffc3ba6e0c9c1d89c6f49a32"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.bbmodel"
+hash = "1dc182b5681171b00dfec529771f506aeb81d31b05dd5bed9d3d017f32a2cb36"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.json"
+hash = "55373416f6b3fba274510bb18c3cc08bb2fb79b8780128dab5e0068a89b88cfe"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.mtl"
+hash = "c85e70974a5ba6e07de58d662c79aceac6f34991fdcbec61d78e53385f8e4dfa"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.obj"
+hash = "60bde7104cc892af811ed8c66947807586c7756600270e2edfe4b049ae92c8e2"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.png"
+hash = "2533bb0577442fe4898ca51e97ba316c9475db2f958fabf1fcc3995603617ad2"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/textures/enderchest.png"
+hash = "deeae8644a88ae18be98911c56dcad51ff4dbc2c1e97b9ba721c01449a7f9920"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/enderstorage/textures/endertank.png"
+hash = "7834d42c094b96aad41487742c278ed21da4f8decdac8811586dffa56abf1a75"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/extcaves/blockstates/brokenstone.json"
+hash = "3bf728bca75b8903e65d76078aa551b9ec5626f1cccbe203f5587a99c4fa07d1"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/extcaves/models/block/brokenstone.json"
+hash = "032c2d4495c59d8c229f2f19c20f2dfa82cc4f77dfba83b06935bc9db2bfd446"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/extcaves/textures/block/brokenstone.png"
+hash = "1c2a4a5a0e11af0f931e0cf9b12e928ad17f60466968e18c2245854131e7e2d6"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/libvulpes/lang/en_us.json"
+hash = "f6293909c3618546f3bb7cfe60419e8f4918c9ae66a82a1ce0f3878d0e85a27f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/libvulpes/models/item/linker.json"
+hash = "bd02a2594cf2b1b425f118c339d14a7ad8646f82c769f4f6aa670d35dc021184"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/libvulpes/textures/item/linker.png"
+hash = "6b576a1c9d706691d424b1e6cd3a8e1578e74091a80b5b0168fb1539bd05c65d"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/lang/en_us.json"
+hash = "f909891978e744494198e3cfaf2cea0c25237577c1368b675623b767fb6c2ad0"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_bottom.png"
+hash = "06a4b31612ae8d3ae21206f4bb9216ec1be742d317e9f78aad34c4c26a106c9e"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_side.png"
+hash = "e839aa565893b1f08026063ea1d8838e29494929b360904656dc8275a8dd2d96"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top.png"
+hash = "da24ba540e6b3cfcb31ab35b0290b57f0011ade4773aeec5a96e2d703f505050"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top_open.png"
+hash = "49c07afa917192e95a6ae973330edf95632231bf6ce17a3c3e622e38aa856a4e"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_bottom.png"
+hash = "bc7bbed8d50936babb6cd7104aa48bf87cd400d81b1d31581ada8f8204ff8900"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_side.png"
+hash = "5f33162dfb3f6b3c24c939fffb36bad2c472749b4b09abb99ce254a0330d391f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top.png"
+hash = "d02dc74c728fc04ae4e5b47c09845e8204c891456969766f1655797e9eee0066"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top_open.png"
+hash = "9608d8d8677216b882b13e678771b747a6be7041770d09ac0acb43f6104a8d49"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_bottom.png"
+hash = "43cfedb598d82c36e7f6e4111ea3ca1e60504db9af8374a55678a43c6a9548c9"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_side.png"
+hash = "518681950a7da7b76435e6c35f06caa646754d379362440bdbfecee27aeba0dc"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top.png"
+hash = "9da2626c86eb5d95d019388f6fc5961a0b047e54c61b15a00f1bb46d0ccc83d2"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top_open.png"
+hash = "74ea6c575b5742467344b50c3edc8fa81ab59617e50afe001f46566b09a36c1b"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_bottom.png"
+hash = "ae5f321eb12dc6a57596cd2b3dd2db94cffe6dc7671f77c1dc0eca8ae07e1117"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_side.png"
+hash = "fe613e8e60de5f07eeb2467c3d9524914826e7a53e843fa94e2abc435bcd7c04"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top.png"
+hash = "cfcf76c87d1e2ac3113877b286bd02d186dab181644d37fb403b7a14c106e2d5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top_open.png"
+hash = "3968e4b13247c8c58d95ffa2af07d4b4da7a1e2d4c264c1889ebf001577b6309"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_copper.png"
+hash = "eec40eaf83be7e82089b95edab8d60df4b76e11c3da66f16998d7a0136f6782c"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_gold.png"
+hash = "245867aae2f01ce16054dbf5405374ec886b66758d2295ec9fcfb4f1c29f7ea4"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_iron.png"
+hash = "85f11470523bd0fcbb527f9b32779464fc976e0659f042d9dac73c8eaf756bae"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_silver.png"
+hash = "c82125a03710a6f9933ce825885de995c5b06acbc8f3ecdbf8629d73502fdd12"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/minecraft/texts/splashes.txt"
+hash = "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "469cfba2b5e089e0aafabb4c4ee912f453dd149b90273fb155493bbea758f566"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "a815b4ab8f39525a84cf427a1da3fdfdd427c32f072efe6ae20de3a9d04f900a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "a82c51ef5cc31d31a9b5560d73f48fe4ee06436e98dae5a77a449690bdf7ca8f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "a25b967d212cf23ac4b3909cfe0600f70b0a47b93c1a02d1def4ab8aa7ef12bf"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "ab9124635d718408f6bdeadabc6ff7667f11f3093866d6bb25ecf046d645b8b5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "2f5d101242feb1a1c9b3dd77c68cb718846c8afefce0d5b4b6f1b2ed32e3677a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/occultism/lang/en_us.json"
+hash = "57dc06eb5c4de23cf7c1c3c3e906b80c9e1b1cb82e10a4d491b266e0c55ca3a1"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/occultism/sounds/start_ritual.ogg"
+hash = "abddae34e33bc1e1f1c719f9ae8aae69579d20e28ca333c6dce187329f6f635e"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/blockstates/energy_pipe.json"
+hash = "80afb48b0ef77bed82c8a274807d4745f4d8f04335db6934b19a1850af7700a8"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/lang/en_us.json"
+hash = "e880763ea46c6a5956e60aafd1f554d2338da0b2b33d881c60e91133bb9f70ea"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/bottom_corner.json"
+hash = "9e41ed41ea8b1a0bc77d7ab07f0ec4734f2a4010e94e12930359af0b2cffc2e5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/cover.json"
+hash = "572fb63d9b90f79124fd6827289ff25f9356652e975b960bf5a825ff0121b5b5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/end.json"
+hash = "44e4dc35b3bd279016bae68974937cbdfcc537ad03e0d34d83cf554049278383"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/energy_pipe_extract.json"
+hash = "e32372afbb828117e3365599b1ad691febaeb3fc87a5593e20537f0303c078fe"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/open_end.json"
+hash = "e50c4a403afc41bd8fd5e40d6a3726d43fc09c53fa881cccef1d6bd34995fa52"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/side_corner.json"
+hash = "d9403e732a5bc25ef48295570a73c73c1441ca061a5dfd9224a2c4d65ecf5bc1"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/single.json"
+hash = "9d761ec49ad2ede761314d83c1459bcd1792cee879d22e255fb49fb1876435d7"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/top_corner.json"
+hash = "da0d8d3036c3f85f76e77f0b26e35bac659b74e573d1bae2fb33c8c56214a054"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/block/window.json"
+hash = "662d8c266787f60e6793feb2546e65402e3d65f1000c1a2d7c5ba26c6569f873"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/models/item/energy_pipe.json"
+hash = "9d21ab38cd8960f7dfac8e6caf0d15aee3dd1aa266aee8e48250df3bce76c88a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_cover.png"
+hash = "4cab574e4fa7df77930e8a9a2d2c5caff0fae1f0597e0e200a11a093ecf2d875"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end.png"
+hash = "f3cadc590e636907088161e3079aa9a3e6fb931da12c72d7e2beb29f6830658b"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end_inner.png"
+hash = "0074ada88984af2392a52ed38953e0d69b744bcaf693e68f84c5c074d76fc56c"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_extract_overlay.png"
+hash = "36b0a92f1e4ba6e152e11c8393ff1a98b91d1054d5626a49673b994cb270ff9a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims.png"
+hash = "3bf151e39a3b75d514b1359fde36cf37e48f33b3a61339d425102131924c6d59"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims_inner.png"
+hash = "f35e36923a96483b501efa583a34097d8c1e7d010351d72c1123ca0d7e66b4b9"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/blockstates/pipe.json"
+hash = "6cdde97a607f91ca000ed191cb2f13b4c990012eeedd22844af0881c595c80a6"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/lang/en_us.json"
+hash = "2edab60e687bd28f1aa9d8de3ad629052aad4c06d8810270723c5d288f55d79d"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/andesite_card.json"
+hash = "0608a8c777192e569e10c40bc8c682d41ed0c3168ec70cb07826f10837baa0b6"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/bottom_corner.json"
+hash = "1b527ca4bffc60446429bc5551a5f09d953344909c073da8bca15962172cf1e6"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/cover.json"
+hash = "7da7c60c1db63c3a49d1f0d39543337422e82a53200bdbbc7e16c041aaa65aa2"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/crafting_terminal.json"
+hash = "2cbf94376b3e2c4f0b6634d62512a3d74adb5b1a4427b7045df24313d49c19c5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/end.json"
+hash = "9794bcbb7da272acf6111e3588313f6b263bc63fca4c06466d4c66a8cd2c6890"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/item_terminal.json"
+hash = "0ddeebe48a46347b2f5cca12e96e901d4f1b11c0313321dba0a357e9e93f0650"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/legs.json"
+hash = "e7b302c4f44092282c30309e406611d47b0fd41063378a180a91fb8903de581f"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/open_end.json"
+hash = "b6709b636584624b0513beedb921e7095d20a3eb40f4b67e75db74f902efd293"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/pressurizer.json"
+hash = "b5428cd4e167e0bd4ac9d9b93b2a065825f3cb371cc0fbb9ac5b92d75d8382cf"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/side_corner.json"
+hash = "b7851a981d91c7db1da3c6aa2471080a6a399e3d9ecf996ed49309481f78a710"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/single.json"
+hash = "a8f9471d6d7cf3fd2774717a04bc0e0f1068a645181c63a9aee0738c058a5ccb"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/top_corner.json"
+hash = "70bc94e7e1975ca3f748a729b8615d6b3dc537f2a943533f725016b67c65c8dd"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/window.json"
+hash = "9452b6a32b005408afdf9c2dd4e6279384478a6c1b3da5cd57aa773ee25bc2d5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/models/item/pipe.json"
+hash = "c35072d3b28b98d7db396d96db6ad7a1243d628bc0119148d9bec9d11ddc5700"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png"
+hash = "e7f1703eb6713643cdc8ea1ff86b15063b322cd91979c92b202f8fa3aa08cc19"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png.mcmeta"
+hash = "ea6aeef032013c763679ee34ea3d7c0e4741a5ae208146242b8b7b6873d75e10"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_cover.png"
+hash = "173ad26b7006e377147e916a08fc1b2aec729bfeeba3bd13392b14a44eca6118"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end.png"
+hash = "1d006ca9f023aac1a98173485e5c93a971f0ef644db25bfd86522bc240f1ab90"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end_inner.png"
+hash = "bf96158aaa2611b4c03dd4011cf654e257c1cc51bf57c08a883851def20f34a3"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims.png"
+hash = "f9971e9a74ef44ddccf2f003739dabe5d573ec4a951976c6689e1cfa32cc2039"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims_inner.png"
+hash = "74d04558c9efe77584f000e9930129419f31b5e46bdae02c3d61e68b417f39ed"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/terminal.png"
+hash = "70052b27bab0b98e204b3461a9fc47fd2a6af203f916139401e34951d681cbed"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/item/pipe_frame.png"
+hash = "3875af4a7cb688ae6dd2aa1fb18411d1d3203e728cb0b2b0800b64d713f18e36"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/projectred-core/lang/en_us.json"
+hash = "1a73da19c2bfd9a57647849578f4ed6fbf4478274a197ee5988f49e28d00be63"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/rubber_duck/sounds/rubber_duck_use.ogg"
+hash = "2d5f4afb520569e6dab398a33962aca83b542f7159499a86cbe8883b0d8027df"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/structurescompass/lang/en_us.json"
+hash = "8222924060614996beb05dbd0cac37d70cf607db9f166ab68b75b24eb2dd30cb"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/tconstruct/lang/en_us.json"
+hash = "783f426596af21ca1beaf09080a685df9fea1fa08a656abb4e2f75ea707410b5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/lang/en_us.json"
+hash = "fb322918e886aa1ba43a1834c55d0e97a68b2296c54cce5e3b22957d6a085b94"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/models/block/machine_press.json"
+hash = "78bd985d888db2d10bb6567d7ac8d07a352ab402d44e3d0e09dd541209c0bf36"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/config/machine_config_accessible.png"
+hash = "a8d5d7b023bba6892da27797fda80c3937acce01cec59e73e3252bfc771ecf12"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector.png"
+hash = "88fe065a2eda8104a4fb56ec7a16762a5ec22bf4246313a8e1adeff249d4ce30"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_active.png"
+hash = "382ce4caa38b9262f994a4bcbf625abaa0a9cbe6aefc0004d7f8c61ccf822e51"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_bottom.png"
+hash = "c19ace8e788044991a8632d515c370cbd6a2b904a7f3a15459fc71ee86585c14"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side.png"
+hash = "1fbf24f60e997880bbb45d26a9f9f6533206acff41b87767d8f78b4ee66e32b5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side_active.png"
+hash = "ef87550bf05649fc61750074dbeda72d30081a256f2b020a8a1abf5b3b13813a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier.png"
+hash = "969bdba091d9724181e8efea4a7f1b05a686c40e40f489a4a947568f84c05b7a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png"
+hash = "4033a1fa2dc3c8c40a85abd92f6677ba7371edd81b5844ccff5f9efec9eb822d"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png.mcmeta"
+hash = "c5cf20d7d913422391981b9ce3ebca583619979a2699fa989fa7d98ef15466ff"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_bottom.png"
+hash = "d89bc7e16fdd667284aa8b6726e3b8d2460ef4dfda06ceafac4c7a349fcbe060"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_side.png"
+hash = "accfca6f9139d64b10301db103400374f584499bbdd7ec135df15dc85fb49b66"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen.png"
+hash = "6e62731be8c1b7238f2403e72387395cf5899ff40287281722407176de539f5a"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png"
+hash = "41eb05fc815d1330d0ddae3875c65871c879b44fff75309020ac6396ddbe61a0"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png.mcmeta"
+hash = "943c8ab02542791e1a1baaf3d309c44d35f8ecc59c50dedaef24bbaedd91b8ba"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_bottom.png"
+hash = "05c988e902c4b35f784e6c62a2d13bf941a2250d83fa9036db6e2b2797cadc7c"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side.png"
+hash = "b7ee50f6f24aaf6baea8a50e6b796cf3ba132c7f4937539d2c794cc936335139"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side_active.png"
+hash = "5abd9fa18faea833366002e579c0b1d34b067e35e3d8cdb03bc79b167e64e5cf"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png"
+hash = "6ad774e6ae01077ff184e6f14ab6c16b888aef079ce3ebd6969a93946ee789ad"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png.mcmeta"
+hash = "e0f0fa3902b18f3dae777234b3e455a91d89971f1542831e08d218bebafcbdc5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_front.png"
+hash = "1018eb8b10892932b4ab2a682f89f31726c9b13f04d1e89a482f3a43553d5d65"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_side.png"
+hash = "f0b9fbe25e44061dd03006b04aede10199c55d09c8cfe2c6278485be76d055d4"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/gui/jei_handler.png"
+hash = "4a67c612501f6687cb7f76a8910b06ebbb602b698eb7b82bf2039c517c6af124"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_1.png"
+hash = "051ef75a654ae84839014217064a2f41d9436971f3971351741c18e9af349e69"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_2.png"
+hash = "b33833f76ea2ecc531715eb83aa4127d21cd6f15f5e6679b98872877f1b1a45d"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/dusts/apatite_dust.png"
+hash = "254cdc6ed92ad13d8b4530cb5551137b93fa21816d5af0b237f32864a701854e"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/dusts/cinnabar_dust.png"
+hash = "ab8acd9ab1c44e9beea84268b228c4e0bdc85103f31186041b5c27267988e174"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/ingots/invar_ingot.png"
+hash = "9ea971450b16ecdef01dfdde3cd3a21384f65b076497c4c636c4a4634e8fccb1"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/lang/en_us.json"
+hash = "5133e56c06614d7e8dd789e9920ea89adbcab393bc4b1aac6b52bda26455dda2"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type5.json"
+hash = "c86fd57f74c699ddf38a47da604a75780103fdb49cc40866fb11a9173a5e2a86"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type7.json"
+hash = "cf0c5467efa163d1cb82b3631d87a1e35e851e13ceb020b2338505c7a9b06211"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_side.png"
+hash = "1708fac3e0b0ed657f9935e71992035e1ab56e97f6e475e2b719f955600aa5c0"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_top.png"
+hash = "5c660789dd145caf167e87ea3d2404f78cfd6074b06db67ec6f23f97e3463414"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman.png"
+hash = "f90803a8e9efe723ff1c3bd1580bda5a490a43c27345aeba74a8f6dacf9046f4"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman_top.png"
+hash = "aeb148fdb831e3df452278144f36f76a252db270dfeb514b2070ef211d97f740"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman.png"
+hash = "dc5764e5d11bd4c1b5281e9b366ba2c1c4ce45445fb6fff08ac1707afc8c7355"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman_reinforced.png"
+hash = "b5a9f3ec46320ce960d5caad0415940959cd6c0656540cda9984a97b666fedfa"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist.png"
+hash = "38c9aa34708f1e6c915a541feae52f221b53ebcdd7eefc75e6ab285b11fef3d4"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png"
+hash = "a810c0d3577f92d33e8a74cca7edc9cf8df344a4836927c93d83f2777ba9295d"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png.mcmeta"
+hash = "ce1d04b7ad2d4d46f0bce8962b747e94b18c6f4e728c457d35a43cb599cf30c5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/pack.mcmeta"
+hash = "eda5f378dfca5f5a6a8ea65fe982faebba0627aea84b7f84656af145b587717c"
 
 [[files]]
 file = "config/paintings-client.toml"
+hash = "3a061cf93df17f94c375bef31cf2f5f4821457d7061fdeb3d581de8a03e04d6f"
 
 [[files]]
 file = "config/patchouli-client.toml"
+hash = "13ab4823538aa3c136c4fa291e785bff3dd34df3e5a20f0524ab11b0be68fd15"
 
 [[files]]
 file = "config/repurposed_structures-forge/bastions.toml"
+hash = "2916ab6bdb5e4cac4cec46e4a7cfb48ea872544c34006bafb56ff0deb097768b"
 
 [[files]]
 file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
+hash = "2480c59ea4fdea431e3bde68b35753bcc226c1c62312b4aa5ec17a0e9dd285cd"
 
 [[files]]
 file = "config/repurposed_structures-forge/cities.toml"
+hash = "f20e59cda562c64408528da6bb14bbf4203fbdee8f155658127aadf8c887b9be"
 
 [[files]]
 file = "config/repurposed_structures-forge/dungeons.toml"
+hash = "0efea07fbc0c38d61d535d60d0437100a585a9e666b53be12cd02bdf61e4fa22"
 
 [[files]]
 file = "config/repurposed_structures-forge/fortresses.toml"
+hash = "0a9ed8a993e90df0bfa9601a30de255ca5b33fbc4ae6c8e05c45cb1a4cb6ceda"
 
 [[files]]
 file = "config/repurposed_structures-forge/igloos.toml"
+hash = "66a0a06587890fbab1994bf85ad25e3854af8564f8319cd25410c0e425f5bf84"
 
 [[files]]
 file = "config/repurposed_structures-forge/mansions.toml"
+hash = "88eb3c724e5ea45e88762ece219d2666f9da704fa84fdc283741ad3d10f7492e"
 
 [[files]]
 file = "config/repurposed_structures-forge/mineshafts.toml"
+hash = "64240f492620565922d89c1eee78ed7e720f4b32fa87a8f9f2f4e3556c2a1138"
 
 [[files]]
 file = "config/repurposed_structures-forge/modded_loot.toml"
+hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
 
 [[files]]
 file = "config/repurposed_structures-forge/natural_mob_spawning_configs.json5"
+hash = "c9b4a903d7cae81e5ffea1f26090ae18f7ebbbdd0243f4f6882dd9a116729ba6"
 
 [[files]]
 file = "config/repurposed_structures-forge/outposts.toml"
+hash = "c749e144b6c3d3efb96d312ef82065bae8a09ef3ba490db3eb7f4598417780f8"
 
 [[files]]
 file = "config/repurposed_structures-forge/pyramids.toml"
+hash = "bcef82552c675857744d1c919dd3a4b526eba1ef8521de128a6a6815559b0a3f"
 
 [[files]]
 file = "config/repurposed_structures-forge/ruined_portals.toml"
+hash = "78ff3a408f5370205f7610122b5c6ba827eaa6d664ad451c460583efa97a55b1"
 
 [[files]]
 file = "config/repurposed_structures-forge/ruins.toml"
+hash = "e54d42ddedd667a2e4c6e182a963d8c234f62e9fc2cd43c7f2faaa91912badec"
 
 [[files]]
 file = "config/repurposed_structures-forge/shipwrecks.toml"
+hash = "bb98bed369ff9f0ac98fa4af2be44eda897bb9c95140a0f205a4a6644556d247"
 
 [[files]]
 file = "config/repurposed_structures-forge/strongholds.toml"
+hash = "b106842bda2e5deb6d7ad40c98151232a9cc844b8b78bd1f4f7d9fb75c9a7986"
 
 [[files]]
 file = "config/repurposed_structures-forge/temples.toml"
+hash = "4f94338b3dabf12b1162225dfd5f941126fe9e54e20f33e6352408fc69fc9307"
 
 [[files]]
 file = "config/repurposed_structures-forge/villages.toml"
+hash = "d535d020541eb11ff635fb8b975928e7620f41ae721b3f75a5ad3081b03e8b02"
 
 [[files]]
 file = "config/repurposed_structures-forge/wells.toml"
+hash = "4d727cd71e4ce5f67f253e6ad6cca8c983c2cd53a55cadf484116b0601b03330"
 
 [[files]]
 file = "config/repurposed_structures-forge/witch_huts.toml"
+hash = "cc4b030cb1a2eb54777ab27031d6278c84d0307ba416378abd132f937ceed057"
 
 [[files]]
 file = "config/sidebar_buttons.json"
+hash = "2ed291974e365406539a974682bf53acab98fd2ac32955c24d0aacfea50da05d"
 
 [[files]]
 file = "config/spark/activity.json"
+hash = "d358ef1b382c51efab862800d222f15bb3a16bf5a95963413aa37afbd7a0e4f4"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
+hash = "3520ac61dbd78042164c57359788bfc5c3ed0738d7b36187f56f803b2742b9f0"
 
 [[files]]
 file = "config/waila/waila.json"
+hash = "a50e8274146e5dc93c1580d8ab8e6b62defb1d7d5703a28d9432867bfb37b1df"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
+hash = "7be8c985331b487767d3007214f88b58ecfa66794c33898037ad2236e7734c2c"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
+hash = "70e70a154b06bbfb9e83893a26c56cdd781940091871882b0be81a7429b8a4b7"
 
 [[files]]
 file = "kubejs/README.txt"
+hash = "9b9b1f69f95d8fc859d3861c0b0aef61b0fdd97897b4354d5cfd1b4fdd2f02ea"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/accellerator.json"
+hash = "ba62e66e8c3cc03af93ec859f6dcdc2a99fb4431592a06f3efef1b10b3a05f4f"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/andesite_machine.json"
+hash = "fab19c024416f68481e29168733ba4689d8c1f6ae9f766e4463dcfed7f888d0c"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/brass_machine.json"
+hash = "e329f0122a2530a10ef74bb390a120954a8d59607396d1a2568748da0e36f405"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/catalyst.json"
+hash = "270e1cc9165a41d118394ef3868d0e6487ce103cef9efb445e882e18157435a3"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/chaos_catalyst.json"
+hash = "e9d43395a576459b4da9a0a3e095656cfdcfa37ea24b3ff4d6e16868b7edc56e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/copper_machine.json"
+hash = "6d8274f65706bd63e2c9a5cea07a17606f89256082b96b151713e22da56fea81"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/enderium_casing.json"
+hash = "043a77903ceb38d969b0bcdce879412eb3dce62a2ec8dc5d6ae19af36bc268d4"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/enderium_machine.json"
+hash = "bb5d743852e4b47bb5c7fcf90f04e9176bdf2ccfa5784ca6cc663eae3b47ea9a"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/machine.json"
+hash = "d0edce7b9b55793a0309d94d705104d6cb32f3554ed43dc9c8fba4f3c2e2f8de"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/mundane_substrate.json"
+hash = "dc8ce6b12e174ad0b56aa7e3e68a1d85f07629c9c864db2277c16bbad7f5d353"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/ponder_laser_lamp.json"
+hash = "913a6b0c512c87df3407091db3156aaa72c2bcbadc245cd93831e8ab25c3c1ba"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/ponder_laser_lamp_on.json"
+hash = "67069b08dc993cd68f1eaaf4a00fe3982df567d744fdb3e36260bee953fd0f82"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/substrate.json"
+hash = "55c16e0fac4c9d87fbc40cdfcdf2d7ceb3f32e73a5ffb3c74a59dbf00ab95e58"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/zinc_machine.json"
+hash = "55672ce2ccb729aaa8da206d75f44a5046fa854bbeed8002820a1689b44a6cb9"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/computation_matrix.json"
+hash = "9bc1a9b36e2ed1ade82cc5d19cadfd255964323b1d97c0368ed1490f74c566e8"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/profession_card.json"
+hash = "6088e643806a713305a6ab33cadc4b640b299205f08aa2beedf1eb182ce1af48"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/trade_card.json"
+hash = "ada86d1570e9b9e16bb8984f1a85fadf3d6e771bd6ab3df7b3d9de2b2095fa8a"
 
 [[files]]
 file = "kubejs/assets/kubejs/ponder/laser_alchemy.nbt"
+hash = "2f9e9ba82fd23e97d51086f0596fab7c65d47946c91b7906fc3b433b4ccfe46a"
 
 [[files]]
 file = "kubejs/assets/kubejs/ponder/rocket_scene.nbt"
+hash = "795ddb1cbe492a35c542f9ba0045e64c615fbd36a4f1718464fd032c498eab1d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/accellerator_glass.png"
+hash = "3af027e294d37f3b8ed0d240bc3c4a257570a6d4ca3836974e8696570ffb83ff"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/cage_lamp.png"
+hash = "0e34b0781dd85fb044b6fe401bd74eeb8b93563e603f5e65133ccd87d88231d6"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/catalyst_glass.png"
+hash = "34bff822d83cc61dc8a8b358620a6aec4c2793adaca3eba2ae279a26d61276fc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/chaos_glass.png"
+hash = "c44756f82b2ffbf5bacb1b36dbd82ec93aa2dbddb6df77ca0e5a4cf87d458436"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/computation_matrix.png"
+hash = "7b7cf0dc36d764103aa4a5357b335ce9af676bae6a52d835cfdc2fe2f5cd1348"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/computation_matrix.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/computation_matrix_2.png"
+hash = "435de10be8c8ba05c5f8529a255f925013c5945fdb127bc3adc70ccab5626ab1"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/computation_matrix_2.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_casing.png"
+hash = "e6b17db8c380cbd1a05c187d30c466324735ee6e14b15b3c2b27a4f22bbb5076"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_casing.png.mcmeta"
+hash = "d6a4d1af697ee152c69ee39acb7f2b857f45a0f0edbcb9963b7b7785493f3b32"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_casing_ctm.png"
+hash = "fae8d1444d718f718f9af32943d8fb20a662027800a3662c01c4f51379dd6a54"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_casing_top.png"
+hash = "b2085ce5b46506fb48dc0ffbb5523e37000533c71f00b9ec84b2e3ecd9c5f346"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_casing_top.png.mcmeta"
+hash = "f0ebc4561714b220371f410d61f760b28ea3a6ddb67cd47eda65f9f07470bf97"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_casing_top_ctm.png"
+hash = "cb072f3f122b0b3870187aca55f76f85a9cbc4a9d9fe5b85e1ab3ec3bf45f872"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_machine_bottom.png"
+hash = "c1a498aea64f0025a4f3d117b4f64748469888764931ac1bea822b950c290936"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_machine_inner.png"
+hash = "6b4d5ed5297ddf4902cd2ecf84da6203eed0373e2ce10371acfdd8adabda0976"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_machine_side.png"
+hash = "e6aced19f863a0d354760e6e5d8c858dbd0ba8b5aa8277baad4c76df57411839"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/enderium_machine_top.png"
+hash = "47c20a5fd995263cf5be25b6589e47990d01c0308235916b99580907ee5768b7"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/fluix_casing.png"
+hash = "53ac09714a087ad0cefa54e2005ab483e50dba747587174973fc40dba4b82c17"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/fluix_casing.png.mcmeta"
+hash = "f06beb3d0cefa44a977bf5fdbf05defa08fb42b99432989828ef1b893688d216"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/fluix_casing_ctm.png"
+hash = "b90d6379dcab2df62ed206f5fc570c3d644e5f715ed86f61fbc95f007d08426d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/invar_casing.png"
+hash = "2620b642f41f82c2b3e2e71dd1f6a14cbb474400a5863777b627c04bc46fbb96"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/invar_casing.png.mcmeta"
+hash = "b971d253b295d0604c8c7e7ad443d95139837d2716d6ce169aac5e77693e577f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/invar_casing_bottom.png"
+hash = "b9d11adc3683de2ff00faf5bc6711141f6566641df9d2b522e32301b75319765"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/invar_casing_ctm.png"
+hash = "aeb4b70309f5fd832648f47653c613b59e9ffb3208238d95d32931f92de61e8e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/invar_casing_top.png"
+hash = "56ee50026903fb313ca6275f324854660c252bad9ba3894f46b7c0bb947c9c59"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/mundane_glass.png"
+hash = "c053fe68d34f50433beaa5f4aec4dbc58a2351c877807886f6654976c7920000"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/reagent_glass.png"
+hash = "ccab82557e43343126ce3ad49e10aac67c7a71bfac471640b09d03cd3c22f82e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_casing.png"
+hash = "064d093c0cac59b65bb6b8cb3bedfd160908c9ad6c6b1480c33c604e9e807157"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_casing.png.mcmeta"
+hash = "a4f158c9d68bf6e0a1576ea8104d22b59c057b9767c93733e949dd6c5c3bb1d9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_casing_ctm.png"
+hash = "79ddd25d16102cf71fcac59c129a22a57dd626852c279ddbe4d04fec26b9d255"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_machine_bottom.png"
+hash = "3d3291a47b72d79da271dad105ff743c95d9d5b3a7bcfaaebbcf1dfd0a354338"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_machine_inner.png"
+hash = "e0b0c181b27a13cef7ddfe5c55f559776eabe089d1795dbfc3d2a26bd67efbbc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_machine_side.png"
+hash = "739a7e651c16ecf2317cd9bd9fac087eba38614300d83c8724e882ef8c7b9c58"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/zinc_machine_top.png"
+hash = "1907eb3c80e9a1683816ee4de1b7be4a5e4c9936a45faeffad7be679552f90de"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png"
+hash = "2da3ef20dd2e5185dcd47a1a98fe539a81323bec29f5ad42c82ba1fb63ef4346"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png.mcmeta"
+hash = "ed39fbc8bc81aae6e1eebd4a86d2caee28d1f81867c117d4cefd33cad8c8c802"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/fine_sand_still.png"
+hash = "6905baaf9ae047b7cf61a86eece232704a60c49c2876a49a705602fc4c12f5f3"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/matrix_flow.png"
+hash = "f91674a6133cf953c44a918b2fd64d6c0f8afa702bfeec6119388f7e59ddc3df"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/matrix_flow.png.mcmeta"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/matrix_still.png"
+hash = "b1e838a80bc281d1a0e503f6becd4c1ef07807100baf4b0d6f00c55c7e8634c3"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/matrix_still.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/number_flow.png"
+hash = "2a81716cab09ae69507bb2299732411f7e26aac837d20c4f9dc998e30a2e021a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/number_flow.png.mcmeta"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/number_still.png"
+hash = "d98cf5d4d16c9758e96f4621e2cad0caada13bd026f235d9436c2025915a130d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/fluid/number_still.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/abstruse_mechanism.png"
+hash = "fddfbd67a4f82dad70fda5ac15376ecbd208a5e8339242638179f4f6a4c53471"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/boot_medium.png"
+hash = "f9d0a4035a7d4213a2d56007a4459233bb03c77ff60b5e2f1664bcff730412a0"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/calculation_mechanism.png"
+hash = "8658b698f18f5dbbe629f5705a2d0187063e35fc26dc0a35a33ccf5dfceec34b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/calculator.png"
+hash = "844a7d04ac4eeb6ca0e06519aef7a66225b7904fc591bbdfac1ded3f03f8e66f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/charged_calculator.png"
+hash = "ddfb8fbde8ba2f2823792c4904280717bf03134b3467d07824c5908eb0a488c7"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/charged_calculator.png.mcmeta"
+hash = "4de2fc02a986a7f5ac46edfe4936f85152ad025fdb6afd51a688b545be2d0eb7"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/chromatic_resonator.png"
+hash = "aec1590203256fd9760e1fc699e016f4a840e32b4a5f20e0ffc746010d92ad27"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/chromatic_resonator.png.mcmeta"
+hash = "8552792149f206f62f26882a4ebe39720b92114330cf42007d13bc344d22f5b2"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/circuit_scrap.png"
+hash = "38a8ff95dfde2f41c56f8c71c13750d3e7cdcb49a55a0a0b6789412a55443ed2"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/coke_chunk.png"
+hash = "83271c9cbc5764a87a015ad3be95975e5b764ff9b7f6438ba62f47ed98d9aead"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/creosote_pellet.png"
+hash = "5745e508de86ff839fe7eb6a4b69e071213c8f40cac3e6b8751a8a306164d5a9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/divide.png"
+hash = "41ef32c8e4e783529bc20fb5c28cc197d3ee0d6c2339618ac2cd5e08ce09295e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/divide_cast.png"
+hash = "a72592987949e20d34f54e108abf26ceaf7f8b75d078abb09c4852fcf26677ba"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png"
+hash = "ff62c1274a9185a612a4d5fe24ca00513be003e6424b14011d9662a55ac8c746"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png.mcmeta"
+hash = "64026175403fa142db0500270b215870537e0c128a0e9b09d6a9d85c4825d480"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/eight.png"
+hash = "f2dd0e68e2e033750623086936123648a5cbe62ec820a212a6c4d84c1f14eea8"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/eight_cast.png"
+hash = "dab1c9937360c424bf71b5d7a3adc3f941159688494272fc101be9b9168b8847"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/five.png"
+hash = "30517c065cdadb73b3b8d0cc10b828eb39fcd81ed568e0844a178aa1ab931756"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/four.png"
+hash = "9441b53046a5c9041e1b30fa80ba9265f465c5fb78bb1a63efa27e680f15f9fe"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/ground_slimy_fern.png"
+hash = "5c6e3c945043c21f9bfbf7184c49ecd1f6468710c9ddbb94686461c83b9e3126"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_abstruse_mechanism.png"
+hash = "4c9f7dc7bc4a6df9c5bbef37815b81c9d82d74a6c0ca84452de686d205716510"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_calculation_mechanism.png"
+hash = "4fcfea4acba5f43652d4dcdd8176b0a0d475e5c43516dc0bb9f19e98f8571b84"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_calculation_processor.png"
+hash = "a7dded0c898181e81eed4cdcb0208f6d555631900dc4ae3340bcec28fda1108b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_coke_chunk.png"
+hash = "fdc34da70579cc1ba71b328f5eddb4fc1b164049117bef8aa56654b1925db3b8"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_engineering_processor.png"
+hash = "0b07ae96f4d4d51eb6ab4cf51a2e647351d55f2e440495ff549d8eee6df177d1"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_inductive_mechanism.png"
+hash = "f43a1d531d23d6b7bd671a1ac62ab351b9be920a9cd329d30c1891a19701f999"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_infernal_mechanism.png"
+hash = "115416c4ca6b0e2c6682db805fd8d674c555ffb29c3730d73ab6fec0f8e32172"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_kinetic_mechanism.png"
+hash = "8fcbac9e3a2cda8e47004aad9928d14b9c2144cdcf1763d83fd9a22ddd477e4e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_logic_processor.png"
+hash = "78c4755e4ada7116fdf83ba0c3d186a95858965422f715be675421a1fe353542"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/incomplete_sealed_mechanism.png"
+hash = "ae6ac0aae5f0d06c067c78aa1d968164606382e3ac889789f864ec000c1ae12a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/inductive_mechanism.png"
+hash = "b52228a7dd5445819a3919984e2066d521b677b543c78e845c498275362e9238"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/infernal_mechanism.png"
+hash = "d743f3fac69f258e1a6f218fee31bd8631986d5a89fbfba8401bf0d86446ba5b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/invar_compound.png"
+hash = "31738db964f00746d5345a29405ac2e854c96d85a58d082f80493a28288457ce"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/kinetic_mechanism.png"
+hash = "5245721f0571489fbe4152ab12e71a2d45002f00fa6003375dca45bc6766700b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/matter_plastics.png"
+hash = "aa9ccbd524b5d8b1c2b3d50ebd4868d7c8969d06185686c3a98315f04a23fc6f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/minus.png"
+hash = "3b9f18e673f33ec676eaddeb0a112ea5aa44c2bf46a252f49219d9a8d88e9f0a"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/minus_cast.png"
+hash = "af2216dc53790bd551fe4cb95c8a5037fef39cd244462635d15d7bece42480af"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/missingno.png"
+hash = "96d73582f96e0e9b1eb0a7194b5adac23b88fafe8586fc4c102d256fc8d5018b"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/missingno.png.mcmeta"
+hash = "806a15c83ed1f2b1c7e6c60a9fc443edd193f3d59bda2f90c43fed63879c5c95"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/multiply.png"
+hash = "c16e827eed2225ec99cc9f121313f3b6e6a26ce416fbc17834a7de74a0a3b139"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/multiply_cast.png"
+hash = "948088647ef76df25e7f511367e58d25654ec1c7264822ae61dfd648fafdd971"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/nickel_compound.png"
+hash = "8e4fb1f9e87af6ec27e2a35d099dbb67351758acb81b26541f95d904861108aa"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/nine.png"
+hash = "3db7e3d06ce29497d075521b45de19816295ff78c12cdbef047f81a1a94db823"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/one.png"
+hash = "12e2d59c9bcdd0a3c04f45d2d24262b406a7458d28ad461309d071cb0465dcd6"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/pipe_module_tier_1.png"
+hash = "597cc2581f51eb354807a2377eeef34a13274f99fa8b1f6f68b8d5288dcbcee1"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/pipe_module_tier_2.png"
+hash = "e9f44bdc52f0dc86bb78aa364460474f1241466011f730dd4c32ffb86067540d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/pipe_module_tier_3.png"
+hash = "a4e16a85171a131572d52813552f6ef773ff768870b639acb13f0fb468606a2f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/pipe_module_utility.png"
+hash = "d325d273b4f02117e259dec82dc1d1959732fe61194f699322f4f1f2f50bcf44"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/plus.png"
+hash = "ed7aa2bbd469910cdf5dbcfa2966fbacf6e87b23ba4385fa8884e6fbc20b3451"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/plus_cast.png"
+hash = "5dd17fa27ad209d26f5277d3cd156154bef90fc31e7432c7066e3c2c4e196aa5"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/profession_card_0.png"
+hash = "3a49959040293c7a3cf9620b3c05871938849a6eb84e8064c93646052e3fe3ce"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/profession_card_1.png"
+hash = "b03e0600c6678cdb6caae8f87a067157e990f6cb13061e0a4c3d244446e80d7c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/profession_card_2.png"
+hash = "7d18fbee32013bc932f162a84d615beae80b99145916cbeeb401db4e50dfa8c2"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/purified_sand.png"
+hash = "850da4508df2881a7758193fcc78e3a0db38dce05f0d2a3aec2809d84490e704"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/radiant_coil.png"
+hash = "d2baf29326abcec7e9b22ab00fa032be9a9563cca1e94f08f0f1fc734d7bf6e4"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/radiant_sheet.png"
+hash = "d5a94e8f0066a3f0307b1d361331fa510929037d4ada0d77fa8f6f8d394a08f9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/rough_sand.png"
+hash = "6bc7d2e34fb803fa863b1c689fdf6bf8b3b31d9e6079696c1715a2d70d14200e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/sand_ball.png"
+hash = "23a10b1114fad05626656b4852e5f113c01b7e379061a299412d81312fc969a1"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/sealed_mechanism.png"
+hash = "5322b586fd584392c593a553fb0802c2a849f4156fd287910048eca9b8953115"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/seven.png"
+hash = "da0eb5a17bd31fe1e8d029d18eab450232681995827afd5eb19f4cca5369e622"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/silicon_compound.png"
+hash = "e4850ce80a4f51c82d2737f5fdf8fb3c81e5918d17a0e4b6f218394c10970860"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/six.png"
+hash = "f854e8bf958d4ce960a2cfd2a85af4a0be043a4549edb4e400819e4f429bafe7"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/slimy_fern_leaf.png"
+hash = "43908221e938c87ae2be5782f99b542ec7b357a6f9f33e0d998c5f09d07ea746"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/smoke_mote.png"
+hash = "da3747835f357941560c84d4c837552e2ed4409b89716de4a8f77a620e311902"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/thermal_cast.png"
+hash = "1c5faad825af147cfde9f7543cac9bf9413bf8d9a59e11b33d527058e12b900c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/three.png"
+hash = "7ed3dd6eb8e6ee6adb670fca1cdbf38b0090952b969c46bb60394210b4eedb2c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/three_cast.png"
+hash = "fe010f2f1f17726cc977877c7ea14922246e7279bd6e446d54b08d24e2478977"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/trade_card_0.png"
+hash = "221e83e9247ad084c7beeb201a238e738e5808d7eeab62f60c85e9458b965116"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/trade_card_1.png"
+hash = "f46dba0e09d5f2385e9aebf24d62967289ead927fc80d7fd8d8f9a6dd2b4c9de"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/trade_card_2.png"
+hash = "f5b93cb86004d2a3323b92091fffec2f72d5543d29e88a5e201b86b5ee58b632"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/two.png"
+hash = "8a96c041de8cd97ecb225d8b8318cc8d76afeba9254777c2454a43be8e13b323"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/zero.png"
+hash = "f4972e5b065c6b1dd7aba4cf2f455828da72ce1716a3d278b3e39b5a91bcdb30"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/zinc_dust.png"
+hash = "1c1f59ec9b0c7120de38e94bb2216a398e5c1efb7affa20511f5120d11345a78"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/zinc_sheet.png"
+hash = "0b09a3cf07b366b1d34563e3469e1b9052768235a1f73c08be745cc894778abc"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
+hash = "d5d20184431c480ebe353a2939d1969c8368efb925383e61a57caaba51a3b463"
 
 [[files]]
 file = "kubejs/client_scripts/ponder.js"
+hash = "96ae039638cb637b43ab32a1005a8a620fb4d9e2ecb730e15af8fdf7d04cbdf5"
 
 [[files]]
 file = "kubejs/config/client.properties"
+hash = "45d0fa7987f52a357bd21eab3d8bc3d41d5464656a1d82eec7769105cc255a5b"
 
 [[files]]
 file = "kubejs/config/common.properties"
+hash = "0ce6c9705002b5ed780beee8b337c0cfc4d220c17049541f6c980a19b359401f"
 
 [[files]]
 file = "kubejs/data/architects_palette/loot_modifiers/wither_skeleton_bones.json"
+hash = "b8584eca87818212093c50de288d49add94ee7cf6ed6f6c297a5afd961cc5647"
 
 [[files]]
 file = "kubejs/data/buddycards/loot_tables/inject/fd_buddybeans.json"
+hash = "7e95a5fab594ea40315eb56170e68bc4c68d983d8d62135dfc35343a34ea7631"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/moon_junk.json"
+hash = "bac0c8e594960d09b61c1616bc26e6f131e0d87207323679280f4e8017227381"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/moon_treasure.json"
+hash = "81cdaea285fb1b8f6993c1ec44160001498cda9e95347b633e50d0d4044552ab"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/patience_1.json"
+hash = "82d6e486f5cc4e8ea0d3490e02095a1358570593dfa486523f8482cf4274f9ea"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/patience_2.json"
+hash = "f433fd218f27b7bd63ac85294bb322662cf9099742c980a142e7427bdb9b8792"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/tinker.json"
+hash = "d36db9587c434e1f58dd5f25c15275532006e913219a3c24a9ae57989cb50aca"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_slab.json"
+hash = "9bee66b819e4d1de78d01ebedea959ed46ecebadec801ae65ea03ec23fd6a441"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_stairs.json"
+hash = "ee25bcd7739b743242ae54f2f8e213e36acc0e9e7e2c9efb5f2fadbebbf5cc62"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone.json"
+hash = "467e9e03e0adbafa84dcafcb807d2657cf48c186282caaf450bad74f5dfe6c84"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_slab.json"
+hash = "4488eed7d736de33ef24e87cb3ad4c8453623c26a546d2380489894136f2f5e9"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_stairs.json"
+hash = "86d6f4304a972b449d0ab1189bfef743b54af346a8710b079c93b14f0d58b222"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot.json"
+hash = "d54543da785452d90c7a973fcd2f28236dc9e03a40b62e357875035f4f6bfe4b"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_long.json"
+hash = "74672c2d69433ee6441beb285f98f362d014807264ad948ee738f4649a8174ef"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_long.json"
+hash = "8e82b34643c6721089b7d1262d88a54d1eecc67f099f24086fcb36a0406e53cb"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_short.json"
+hash = "7da34f9044af66e05a477e9791e0742b9b6bb64646bce17c7607738a6761d73c"
 
 [[files]]
 file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_short.json"
+hash = "e28a4776b1cde0d5791a57f4d8b64234ab38efc2dc6f658897431fbfa91c7012"
 
 [[files]]
 file = "kubejs/data/forbidden_arcanus/loot_tables/inject/abandoned_mineshaft.json"
+hash = "e3e92273e5cafd66c2f3649aae956734203dd47f82c4e37903dbdd55483460fe"
 
 [[files]]
 file = "kubejs/data/occultism/loot_tables/blocks/datura_seed_additions.json"
+hash = "16501789150fc46ee546cbaca45d6e7e4709f125be180fe253f13e7ad8202416"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
+hash = "3121a7bbd951442d19df73bd21f24a14f1f05ac4623e983d9acdf498bbebe724"
 
 [[files]]
 file = "kubejs/exported/tags/enchantments.txt"
+hash = "fd6f28821f970bfcd11601a3d2d2ae0ef2f0fac1ac1d7f8558deabf12c008911"
 
 [[files]]
 file = "kubejs/exported/tags/entity_types.txt"
+hash = "99787248f750dfb291e7ed6f0acc10e14ffcb61cec8309c2056457f7fbdf549a"
 
 [[files]]
 file = "kubejs/exported/tags/fluids.txt"
+hash = "59fe585f52f77c148e18cbf02ed26b7f31b1b2cf9b42a8e59bd04862e166a3c7"
 
 [[files]]
 file = "kubejs/exported/tags/functions.txt"
+hash = "083cfb70b536cfc2bbc515b2dff3856e9aa07f67faf26531c44c4803ab51de59"
 
 [[files]]
 file = "kubejs/exported/tags/items.txt"
+hash = "397dd2d08a808c4b2bbdf32c038f8c2122b69903456661007f10ec9f7c866431"
 
 [[files]]
 file = "kubejs/exported/tags/potions.txt"
+hash = "fd6f28821f970bfcd11601a3d2d2ae0ef2f0fac1ac1d7f8558deabf12c008911"
 
 [[files]]
 file = "kubejs/exported/tags/tile_entity_types.txt"
+hash = "9f137569f1e938dfa4c2dd64e91cb6826028b7c00dba7e5e914578f7e8c4a029"
 
 [[files]]
 file = "kubejs/server_scripts/better_dynamo_placement.js"
+hash = "46567ac7c21f9c3936f562c7401c0494a45630d7ffd0e9b1cd791b1ef222fd33"
 
 [[files]]
 file = "kubejs/server_scripts/bonkers_chemistry.js"
+hash = "61ad6d29c9dca5b040c5ac313e7034545dd2ce3ab8a2cd3407b995749bd0a0bb"
 
 [[files]]
 file = "kubejs/server_scripts/express_mode.js"
+hash = "52c61e7ba9da0d5ae0a2bed074b3d302126efe1e1d92b0f43d70ae6cd8517e0f"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"
+hash = "6f23df524a62ccdcb961f5e511040de3722082ef77a7153a6d2f72dd23149907"
 
 [[files]]
 file = "kubejs/server_scripts/quests.js"
+hash = "53bfe71388f200749b12269066b7c2d0806759b1e1dd94f43024114ad71c4979"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
+hash = "4246ebe083a01679787d0b721152ab52489b4e5af996dddf3c4c152cfd2d37e5"
 
 [[files]]
 file = "kubejs/startup_scripts/launch.js"
+hash = "237832936a8c6cc26ba0f25a6fecbf252fcc01ec7be537e6d1b01c9afce8979e"
 
 [[files]]
 file = "kubejs/startup_scripts/trading.js"
+hash = "c1db2a1cf65331543f20313fa124421ff8a62575562c0e6f6dfb13af20366539"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
 file = "mods/alloy-forgery.pw.toml"
+hash = "48f377a6673a9cbaa80e6a8fc99a7ac54e42b502ba7365b63db92145ce908bf4"
 metafile = true
 
 [[files]]
 file = "mods/applied-botanics-addon.pw.toml"
+hash = "f68a88d276c5f7663f7748865addc677e5e85474921ec1c630c4d98b1fef363a"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "85c977e4c0b1183e17230521113a89819bd0b4893c15bd8c38230ea6b214ab64"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
+hash = "bf34c6cd09581dbf436b81d6fa3369a903453c973a33dedc2cf701c3dd11082f"
 metafile = true
 
 [[files]]
 file = "mods/architects-palette-fabric.pw.toml"
+hash = "5d068ee053bfe3b7815d9b28b12144aaf65f9253247eff40480aacf3c2a8e02e"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
+hash = "69250e9cd7c3c252dc5739154ed99a0bd31641950b2a330caa5a55d5588677a8"
 metafile = true
 
 [[files]]
 file = "mods/balm-fabric.pw.toml"
+hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
 metafile = true
 
 [[files]]
 file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
 metafile = true
 
 [[files]]
 file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
 metafile = true
 
 [[files]]
 file = "mods/betternether.pw.toml"
+hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
 metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
+hash = "9670c25141c3756c8a5b1c51560921279d1bb66122ffb7a6c2a18009c94ab8da"
 metafile = true
 
 [[files]]
 file = "mods/botania-fabric.pw.toml"
+hash = "79c8680f0830484b9d32844127438fd7dddeb63dd870b71eb1aace99d902e70c"
 metafile = true
 
 [[files]]
 file = "mods/cardinal-components.pw.toml"
+hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
 metafile = true
 
 [[files]]
 file = "mods/cave-enhancements.pw.toml"
+hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
 metafile = true
 
 [[files]]
 file = "mods/cc-restitched.pw.toml"
+hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
 metafile = true
 
 [[files]]
 file = "mods/chunky-border.pw.toml"
+hash = "15c9791bac9dd6efc578e0398a8852fc7d829ec480344ae1ef42be24ef5848ed"
 metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator.pw.toml"
+hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "eb3b0632a958279236ad10c8ee4986439c96335ef764c04e9724be514d8306e8"
 metafile = true
 
 [[files]]
 file = "mods/collective-fabric.pw.toml"
+hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
 metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
+hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
 metafile = true
 
 [[files]]
 file = "mods/cosmetic-armor.pw.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
+hash = "93ede0321cb3525c62a3fbdffcf9a96413b02bbf054be920c92fcbf25a17134b"
 metafile = true
 
 [[files]]
 file = "mods/createplus.pw.toml"
+hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
 metafile = true
 
 [[files]]
 file = "mods/default-options-fabric.pw.toml"
+hash = "42844974787f15c97fe72fbdbf2cb0d32f747f6d7e0c2101540973f649cf45d2"
 metafile = true
 
 [[files]]
 file = "mods/ender-storage-1-8.pw.toml"
+hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
+hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
 metafile = true
 
 [[files]]
 file = "mods/fabric-chisel.pw.toml"
+hash = "7cc2807ba2777fa8303ee16393523a8767fa7f9c49fb71a094e62c1a439a25fd"
 metafile = true
 
 [[files]]
 file = "mods/factory-blocks.pw.toml"
+hash = "0a4db601cda940edb820c7fcfb87e3461075e809e8f6dc8ef33842c2d6403d32"
 metafile = true
 
 [[files]]
 file = "mods/fallingtree.pw.toml"
+hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
+hash = "496f2bbca3c4ceb20c9f9d780038ba6babd966eb7c056a7a2a212db413b6035b"
 metafile = true
 
 [[files]]
 file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "c178b68d473bba33bf17fccaccd2ec5c76cd68e9e96accda07145d6f7aef2b8c"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
+hash = "d6fe7bafcf70423e17d05f3d21a502ca31a1115db4b5e774a95df611dae248a4"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
+hash = "ff48e48e828ba58db59ade1d3b05ab01373e528bba4ca74417566c9f6ed208a9"
 metafile = true
 
 [[files]]
 file = "mods/ftb-teams-fabric.pw.toml"
+hash = "03f6d4651da69de498d2033f9cec972d59878abbef08131eb8f0d9b1ab5d2dba"
 metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
+hash = "82bb46b33410b83af78f1ff08ae79ff4506767a07f7c0b09c53370f28052a02b"
 metafile = true
 
 [[files]]
 file = "mods/go-fish.pw.toml"
+hash = "6064b8f1be0463783bcd84d401b52bc2b168fc22b27c706713b1e4dbc4bff679"
 metafile = true
 
 [[files]]
 file = "mods/hotbarcycle.pw.toml"
+hash = "417207595f4f7bad7fd126f074d9b812cf55ffce2584529667c6965e64965862"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
+hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
+hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
 metafile = true
 
 [[files]]
 file = "mods/item-filters.pw.toml"
+hash = "34c3d305cba253298133e2f9da0da457b2d353cef6bcdd80707a3acfc75bfaf9"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
+hash = "07431087764d1ec78878ab0dea140cd8627fd7e1948cd46e76ff159429711c9b"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
+hash = "50587143a6e103086389a98ede6991470f831811839aed5b4e9e2e7c884cee57"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
 file = "mods/megane.pw.toml"
+hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
+hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
 
 [[files]]
 file = "mods/moon-and-space-dimensions-fabric.pw.toml"
+hash = "e054c2574b17da77170e8202bb25e2ac12d8cce95b6315219f385baedf9825f1"
 metafile = true
 
 [[files]]
 file = "mods/mythicmetals.pw.toml"
+hash = "29f33b8d3062c01c9f415544c4e7f0f275ee0c352c5feeaad9ecca5eb699dc3e"
 metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
 metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
 
 [[files]]
 file = "mods/open-loader.pw.toml"
+hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
 metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
+hash = "997e86885cc636951fa8fa352997faf7f72464aeec93f9c8880be543e95c5292"
 metafile = true
 
 [[files]]
 file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
+hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
 metafile = true
 
 [[files]]
 file = "mods/quarry-reborn.pw.toml"
+hash = "43ca32cb1e3ba894d65af2a98ce3807d0839f83868015197e44a0017d2e66177"
 metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
+hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "66f45a7fc2ebc338933a90d9385494ea9e0c8aef5cb9e872219904f0d0744335"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
+hash = "c8237d62ff964cd0d22e3293d536f00163f718b39d93dec880398882fb608dab"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
+hash = "53128f525532c2dd8927f8ca23f67a357c0e84d3907f86b99274092f14b76625"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "5628d083deceacce3c5927ae23491cd6f2a4382fd9421b3ccc269a5645b211ee"
 metafile = true
 
 [[files]]
 file = "mods/roundaround-inventory-management.pw.toml"
+hash = "e14862433de31f2d93cf5b7458897ea42dd76e2428b3b26802644a697bd995cb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
+hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
+hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
+hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
 metafile = true
 
 [[files]]
 file = "mods/starter-kit-fabric.pw.toml"
+hash = "74d5a6efc295d425c3d6c04a58bf921ebe02fc3698a81acb7f0918ef07043efc"
 metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
+hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
 
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
+hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
 metafile = true
 
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "1ae7a11f0ac9ba93854fc90c35efc3bb60540f365a3403834210e217480a0e29"
 metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
 metafile = true
