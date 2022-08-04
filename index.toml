@@ -1933,70 +1933,6 @@ file = "kubejs/data/architects_palette/loot_modifiers/wither_skeleton_bones.json
 hash = "b8584eca87818212093c50de288d49add94ee7cf6ed6f6c297a5afd961cc5647"
 
 [[files]]
-file = "kubejs/data/buddycards/loot_tables/inject/fd_buddybeans.json"
-hash = "7e95a5fab594ea40315eb56170e68bc4c68d983d8d62135dfc35343a34ea7631"
-
-[[files]]
-file = "kubejs/data/custom/loot_tables/chests/moon_junk.json"
-hash = "bac0c8e594960d09b61c1616bc26e6f131e0d87207323679280f4e8017227381"
-
-[[files]]
-file = "kubejs/data/custom/loot_tables/chests/moon_treasure.json"
-hash = "81cdaea285fb1b8f6993c1ec44160001498cda9e95347b633e50d0d4044552ab"
-
-[[files]]
-file = "kubejs/data/custom/loot_tables/chests/patience_1.json"
-hash = "82d6e486f5cc4e8ea0d3490e02095a1358570593dfa486523f8482cf4274f9ea"
-
-[[files]]
-file = "kubejs/data/custom/loot_tables/chests/patience_2.json"
-hash = "f433fd218f27b7bd63ac85294bb322662cf9099742c980a142e7427bdb9b8792"
-
-[[files]]
-file = "kubejs/data/custom/loot_tables/chests/tinker.json"
-hash = "d36db9587c434e1f58dd5f25c15275532006e913219a3c24a9ae57989cb50aca"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_slab.json"
-hash = "9bee66b819e4d1de78d01ebedea959ed46ecebadec801ae65ea03ec23fd6a441"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_stairs.json"
-hash = "ee25bcd7739b743242ae54f2f8e213e36acc0e9e7e2c9efb5f2fadbebbf5cc62"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone.json"
-hash = "467e9e03e0adbafa84dcafcb807d2657cf48c186282caaf450bad74f5dfe6c84"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_slab.json"
-hash = "4488eed7d736de33ef24e87cb3ad4c8453623c26a546d2380489894136f2f5e9"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_stairs.json"
-hash = "86d6f4304a972b449d0ab1189bfef743b54af346a8710b079c93b14f0d58b222"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot.json"
-hash = "d54543da785452d90c7a973fcd2f28236dc9e03a40b62e357875035f4f6bfe4b"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_long.json"
-hash = "74672c2d69433ee6441beb285f98f362d014807264ad948ee738f4649a8174ef"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_long.json"
-hash = "8e82b34643c6721089b7d1262d88a54d1eecc67f099f24086fcb36a0406e53cb"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_short.json"
-hash = "7da34f9044af66e05a477e9791e0742b9b6bb64646bce17c7607738a6761d73c"
-
-[[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_short.json"
-hash = "e28a4776b1cde0d5791a57f4d8b64234ab38efc2dc6f658897431fbfa91c7012"
-
-[[files]]
 file = "kubejs/data/forbidden_arcanus/loot_tables/inject/abandoned_mineshaft.json"
 hash = "e3e92273e5cafd66c2f3649aae956734203dd47f82c4e37903dbdd55483460fe"
 
@@ -2050,11 +1986,11 @@ hash = "52c61e7ba9da0d5ae0a2bed074b3d302126efe1e1d92b0f43d70ae6cd8517e0f"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"
-hash = "6f23df524a62ccdcb961f5e511040de3722082ef77a7153a6d2f72dd23149907"
+hash = "86f061d79ac57184dedd342726335a62ad9af35b90f20dd9074093120733a73e"
 
 [[files]]
 file = "kubejs/server_scripts/quests.js"
-hash = "53bfe71388f200749b12269066b7c2d0806759b1e1dd94f43024114ad71c4979"
+hash = "0eb37c9ed4a96592f5852d3a789fb55d90a64da86048192e53e32fb33d1fc843"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
@@ -2062,7 +1998,7 @@ hash = "4246ebe083a01679787d0b721152ab52489b4e5af996dddf3c4c152cfd2d37e5"
 
 [[files]]
 file = "kubejs/startup_scripts/launch.js"
-hash = "237832936a8c6cc26ba0f25a6fecbf252fcc01ec7be537e6d1b01c9afce8979e"
+hash = "c035466d9b7cde06737095e9309cfacaad7aec80c9ca8e0e257cca6be40d380c"
 
 [[files]]
 file = "kubejs/startup_scripts/trading.js"

@@ -185,12 +185,8 @@ onEvent('block.registry', event => {
 	let reagent = (c1, c2, id, prefix, ingredient, outputItem) => substrate_base(c1, c2, id, `${prefix} Reagent`, "substrate", ingredient, outputItem)
 	let catalyst = (c1, c2, id, prefix, ingredient) => substrate_base(c1, c2, id, `${prefix} Catalyst`, "catalyst", ingredient)
 
-	reagent(0x5F5F5F, 0x8E8E8E, "andesite", "Andesite", "create:andesite_cobblestone")
-	reagent(0x7F7F7F, 0xD4D4D4, "diorite", "Diorite", "create:diorite_cobblestone")
-	reagent(0x563A2F, 0x9A6C5B, "granite", "Granite", "create:granite_cobblestone")
 	reagent(0x585858, 0x646363, "cobblestone", "Stone", "minecraft:cobblestone")
 	reagent(0x32333D, 0x5C5C5C, "basalt", "Basalt", "minecraft:basalt")
-	reagent(0x6B5D4F, 0x7D6B5A, "gabbro", "Gabbro", "create:gabbro_cobblestone")
 	category()
 	reagent(0xD30000, 0xB80F0A, "red", "Crimson", ["minecraft:rose_bush", "minecraft:poppy", "minecraft:red_tulip"], "minecraft:red_dye")
 	reagent(0xFC6600, 0xb1560f, "orange", "Orange", ["minecraft:orange_tulip", "biomesoplenty:burning_blossom", "minecraft:pumpkin"], "minecraft:orange_dye")
