@@ -2249,6 +2249,11 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "82bb46b33410b83af78f1ff08ae79ff4506767a07f7c0b09c53370f28052a02b"
+metafile = true
+
+[[files]]
 file = "mods/go-fish.pw.toml"
 hash = "6064b8f1be0463783bcd84d401b52bc2b168fc22b27c706713b1e4dbc4bff679"
 metafile = true
@@ -2331,6 +2336,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
 hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "6b2f6d4e03dc1d7246cb4aeff3fce38281cbfbbb44b16dd34179f61932fd9bc9"
 metafile = true
 
 [[files]]
