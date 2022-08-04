@@ -2309,6 +2309,11 @@ hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "f61810be98ef52436d3355ecfa4354bc47d142cbe9468fbd14415e5bc6d66125"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
 metafile = true
