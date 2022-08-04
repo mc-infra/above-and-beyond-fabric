@@ -2094,6 +2094,11 @@ hash = "bf34c6cd09581dbf436b81d6fa3369a903453c973a33dedc2cf701c3dd11082f"
 metafile = true
 
 [[files]]
+file = "mods/arcanus.pw.toml"
+hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
+metafile = true
+
+[[files]]
 file = "mods/architects-palette-fabric.pw.toml"
 hash = "5d068ee053bfe3b7815d9b28b12144aaf65f9253247eff40480aacf3c2a8e02e"
 metafile = true
@@ -2139,11 +2144,6 @@ hash = "79c8680f0830484b9d32844127438fd7dddeb63dd870b71eb1aace99d902e70c"
 metafile = true
 
 [[files]]
-file = "mods/cardinal-components.pw.toml"
-hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
-metafile = true
-
-[[files]]
 file = "mods/cave-enhancements.pw.toml"
 hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
 metafile = true
@@ -2164,8 +2164,8 @@ hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
-file = "mods/collective-fabric.pw.toml"
-hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
+file = "mods/compact_storage.pw.toml"
+hash = "703ea08f3fdbda0da657e81b8d427e228dd18344af608b36179225147f1098a8"
 metafile = true
 
 [[files]]
@@ -2179,6 +2179,11 @@ hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "60906ae763074f3a483983e31fc771f69181315740579d69e39f961f1aea4731"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "93ede0321cb3525c62a3fbdffcf9a96413b02bbf054be920c92fcbf25a17134b"
 metafile = true
@@ -2186,6 +2191,11 @@ metafile = true
 [[files]]
 file = "mods/createplus.pw.toml"
 hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
+metafile = true
+
+[[files]]
+file = "mods/dark-enchanting.pw.toml"
+hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
 metafile = true
 
 [[files]]
@@ -2234,33 +2244,13 @@ hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "d6fe7bafcf70423e17d05f3d21a502ca31a1115db4b5e774a95df611dae248a4"
-metafile = true
-
-[[files]]
-file = "mods/ftb-library-fabric.pw.toml"
-hash = "ff48e48e828ba58db59ade1d3b05ab01373e528bba4ca74417566c9f6ed208a9"
-metafile = true
-
-[[files]]
-file = "mods/ftb-quests-fabric.pw.toml"
-hash = "5faffccc8307b532b3e32f0e80aa72a7661785344e72759bb8c6c67048ce1b9d"
-metafile = true
-
-[[files]]
-file = "mods/ftb-teams-fabric.pw.toml"
-hash = "03f6d4651da69de498d2033f9cec972d59878abbef08131eb8f0d9b1ab5d2dba"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "82bb46b33410b83af78f1ff08ae79ff4506767a07f7c0b09c53370f28052a02b"
-metafile = true
-
-[[files]]
 file = "mods/go-fish.pw.toml"
 hash = "6064b8f1be0463783bcd84d401b52bc2b168fc22b27c706713b1e4dbc4bff679"
+metafile = true
+
+[[files]]
+file = "mods/guild.pw.toml"
+hash = "b4745e1dcd7e3869a0047dfcb78eb8cd7d5b528bfb97e544aecfe251cb51f2bc"
 metafile = true
 
 [[files]]
@@ -2274,13 +2264,13 @@ hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "4260894fd18d9e593e8364a0ac3aab1ac7ba6b654010a928f05f12f1e1a83006"
 metafile = true
 
 [[files]]
-file = "mods/item-filters.pw.toml"
-hash = "34c3d305cba253298133e2f9da0da457b2d353cef6bcdd80707a3acfc75bfaf9"
+file = "mods/iris.pw.toml"
+hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
 metafile = true
 
 [[files]]
@@ -2339,8 +2329,18 @@ hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
 
 [[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "6b2f6d4e03dc1d7246cb4aeff3fce38281cbfbbb44b16dd34179f61932fd9bc9"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "a2e10c53a64cff861d2d821c142e5e1662bd91dbdfd69e9d4502db9eb99998e6"
 metafile = true
 
 [[files]]
@@ -2356,6 +2356,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
+metafile = true
+
+[[files]]
+file = "mods/purpeille.pw.toml"
+hash = "e8f540789a9fc6a8cc328a30c99b04278f234714d7462e342072007e32727a0e"
 metafile = true
 
 [[files]]
@@ -2394,6 +2399,11 @@ hash = "e14862433de31f2d93cf5b7458897ea42dd76e2428b3b26802644a697bd995cb"
 metafile = true
 
 [[files]]
+file = "mods/smitheesfoundry.pw.toml"
+hash = "1aa6f783f25f3f8b9d2bfde507c1a34531370cc81f03a11d752e81db1059465c"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
@@ -2426,11 +2436,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
-metafile = true
-
-[[files]]
-file = "mods/travelers-backpack-fabric.pw.toml"
-hash = "1ae7a11f0ac9ba93854fc90c35efc3bb60540f365a3403834210e217480a0e29"
 metafile = true
 
 [[files]]
