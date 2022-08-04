@@ -1,0 +1,13 @@
+# Exclude README
+/README.md
+/saves
+/backups
+/XaeroWaypoints
+/XaeroWorldMap
+/dashloader-cache
+/.fabric
+/fancymenu_data
+/scripts
+/local
+/Gemfile
+/index.html

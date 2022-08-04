@@ -1,0 +1,13 @@
+name = "Create Above and Beyond"
+author = "appkins"
+version = "v1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6c78b76a97e3bec098fbb8177f9eb9bfddd72485ca42e9e9982c03ac409f3d79"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.18.2"
