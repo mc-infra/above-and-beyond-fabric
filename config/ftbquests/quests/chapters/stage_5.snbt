@@ -544,7 +544,7 @@
 		}
 		{
 			title: "Upcycle Bin"
-			icon: "appliedenergistics2:matter_ball"
+			icon: "ae2:matter_ball"
 			x: 2.0d
 			y: 3.0d
 			subtitle: "Contraption 47"
@@ -560,7 +560,7 @@
 				{
 					id: "245415CFAEFCA7ED"
 					type: "item"
-					item: "appliedenergistics2:matter_ball"
+					item: "ae2:matter_ball"
 					consume_items: false
 				}
 				{
@@ -722,111 +722,6 @@
 					consume_items: false
 				}
 			]
-		}
-		{
-			title: "Where to?"
-			x: 3.5d
-			y: 9.0d
-			shape: "circle"
-			description: ["In order for your Guidance Computer to know its Destination, a Planet Id Chip has to be inserted."]
-			hide_dependency_lines: true
-			dependencies: ["5D0454F977C4F080"]
-			id: "462CE0A4C80442FB"
-			tasks: [{
-				id: "4036EE2984EFEA1A"
-				type: "item"
-				item: {
-					id: "advancedrocketry:planet_id_chip"
-					Count: 1b
-					tag: {
-						dimId: "custommoon:moon"
-						DimensionName: " The Moon "
-					}
-				}
-				consume_items: false
-			}]
-		}
-		{
-			title: "Electrolysis"
-			icon: "advancedrocketry:oxygencharger"
-			x: 0.5d
-			y: 6.0d
-			shape: "circle"
-			subtitle: "Contraption 48"
-			description: [
-				"In order to fill your Oxygen Tanks, stand on a Gas Charge Pad with oxygen in its internal storage."
-				""
-				"Suitable Oxygen can be gained by separating water into its components via heated mixing."
-			]
-			dependencies: ["6A156D11D983661D"]
-			id: "3AD7553F3C8593F9"
-			tasks: [
-				{
-					id: "045DB251DB8BB97F"
-					type: "item"
-					item: "advancedrocketry:oxygencharger"
-					consume_items: false
-				}
-				{
-					id: "23140AC17E9BE946"
-					type: "item"
-					item: "advancedrocketry:bucketoxygen"
-					count: 4L
-					consume_items: false
-				}
-			]
-		}
-		{
-			title: "Launch Pad Structure"
-			icon: "advancedrocketry:launchpad"
-			x: 2.0d
-			y: 6.0d
-			shape: "circle"
-			subtitle: "Contraption 49"
-			description: [
-				"The Launch Pad for your Rocket requires special surface materials and reinforcement structures."
-				""
-				"In order to learn about the specific guidelines, locate the ponder scene of the Guidance Computer, or use the command"
-				""
-				"&6/c ponder advancedrocketry:guidancecomputer"
-			]
-			dependencies: ["6A156D11D983661D"]
-			id: "4800892E1E70648D"
-			tasks: [
-				{
-					id: "1F86655043929A18"
-					type: "item"
-					item: "advancedrocketry:launchpad"
-					consume_items: false
-				}
-				{
-					id: "2BC9E126D403902B"
-					type: "item"
-					item: "advancedrocketry:structuretower"
-					consume_items: false
-				}
-				{
-					id: "3D2474BE8BAE28D1"
-					type: "item"
-					item: "advancedrocketry:rocketassembler"
-					consume_items: false
-				}
-			]
-			rewards: [{
-				id: "6023AC8699FE1451"
-				type: "command"
-				title: "Open Ponder Scene"
-				icon: {
-					id: "occultism:book_of_calling_djinni_manage_machine"
-					Count: 1b
-					tag: {
-						spiritName: "Zedzeraeus"
-					}
-				}
-				team_reward: false
-				command: "/c ponder advancedrocketry:guidancecomputer"
-				player_command: true
-			}]
 		}
 		{
 			title: "Pipeless Loading"

@@ -1644,7 +1644,7 @@
 		}
 		{
 			title: "8x Certus Quartz"
-			icon: "appliedenergistics2:certus_quartz_crystal"
+			icon: "ae2:certus_quartz_crystal"
 			disable_toast: true
 			x: 1.5d
 			y: 8.0d
@@ -1677,7 +1677,7 @@
 		}
 		{
 			title: "8x Fluix Quartz"
-			icon: "appliedenergistics2:fluix_crystal"
+			icon: "ae2:fluix_crystal"
 			disable_toast: true
 			x: 2.5d
 			y: 8.0d

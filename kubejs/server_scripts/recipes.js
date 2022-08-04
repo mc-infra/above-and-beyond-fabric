@@ -368,7 +368,7 @@ function unwantedRecipes(event) {
 	event.remove({ id: /tconstruct:smeltery\/melting\/ender\/.*/ })
 	event.remove({ id: /tconstruct:smeltery\/casting\/ender\/.*/ })
 	event.remove({ id: /tconstruct:smeltery\/.*\/tin.*/ })
-	event.remove({ id: /appliedenergistics2:tools\/paintballs.*/ })
+	event.remove({ id: /ae2:tools\/paintballs.*/ })
 	event.remove({ id: "grapplemod:repeller" })
 	event.remove({ id: "grapplemod:forcefieldupgradeitem" })
 	event.remove({ id: "grapplemod:rocketupgradeitem" })
@@ -1275,7 +1275,7 @@ function trickierWindmills(event) {
 		'NAN',
 		'SSS'
 	], {
-		A: '#appliedenergistics2:wool',
+		A: '#ae2:wool',
 		N: 'minecraft:iron_nugget',
 		S: 'minecraft:stick'
 	})
@@ -1554,8 +1554,8 @@ function electronTube(event) {
 	let redstone = MC('redstone')
 	event.shapeless('create:rose_quartz', [[MC('quartz'), AE2('certus_quartz_crystal'), AE2('charged_certus_quartz_crystal')], redstone, redstone, redstone, redstone])
 
-	event.recipes.createMilling([AE2('certus_quartz_dust')], '#appliedenergistics2:crystals/certus').processingTime(200)
-	event.recipes.createMilling([AE2('nether_quartz_dust')], '#appliedenergistics2:crystals/nether').processingTime(200)
+	event.recipes.createMilling([AE2('certus_quartz_dust')], '#ae2:crystals/certus').processingTime(200)
+	event.recipes.createMilling([AE2('nether_quartz_dust')], '#ae2:crystals/nether').processingTime(200)
 
 	event.remove({ id: CR('compat/ae2/milling/sky_stone_block') })
 	event.remove({ id: CR('compat/ae2/milling/nether_quartz') })
@@ -2013,7 +2013,7 @@ function invarMachine(event) {
 	invar_machine(TE('dynamo_compression'), 1, TE('rf_coil'))
 	invar_machine('kubejs:pipe_module_tier_2', 4)
 
-	event.replaceInput({ type: "minecraft:crafting_shaped", id: /appliedenergistics2:.*/ }, F("#ingots/iron"), TE("lead_plate"))
+	event.replaceInput({ type: "minecraft:crafting_shaped", id: /ae2:.*/ }, F("#ingots/iron"), TE("lead_plate"))
 
 	// invar_machine(TE('machine_crucible'), 1, MC('nether_bricks'))
 	// invar_machine(TE('machine_furnace'), 1, MC('bricks'))

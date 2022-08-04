@@ -1,19 +1,10 @@
 // priority: 0
 
-onEvent('jei.hide.items', event => {
-	event.hide('appliedenergistics2:facade')
-	event.hide(`#buddycards:cards`)
-	event.hide(`#buddycards:gummy_cards`)
+onEvent('rei.hide.items', event => {
+	event.hide('ae2:facade')
 })
 
-onEvent('jei.subtypes', event => {
-	event.useNBT('advancedrocketry:planet_id_chip')
-})
-
-onEvent('jei.hide.fluids', event => {
-})
-
-onEvent('jei.add.items', event => {
+onEvent('rei.add.items', event => {
 	event.add('thermal:ruby')
 	event.add('thermal:ruby_dust')
 	event.add('thermal:ruby_ore')
@@ -22,16 +13,6 @@ onEvent('jei.add.items', event => {
 	event.add('thermal:sapphire_dust')
 	event.add('thermal:sapphire_ore')
 
-	event.add(Item.of("advancedrocketry:planet_id_chip", { dimId: "custommoon:moon", DimensionName: " The Moon " }))
-	event.add(Item.of("advancedrocketry:planet_id_chip", { dimId: "minecraft:overworld", DimensionName: " Earth " }))
-
-})
-
-onEvent('jei.remove.categories', event => {
-	event.yeetIf(element => {
-		let name = (element.getUid() + "")
-		return name.startsWith('advancedrocketry:') || name.startsWith("thermal:centrifuge")
-	});
 })
 
 onEvent('item.tooltip', tooltip => {
@@ -43,10 +24,9 @@ onEvent('item.tooltip', tooltip => {
 
 	tooltip.add("minecraft:redstone_ore", [`§7Does not generate, crush Cinnabar to obtain Redstone.`]);
 
-	ore("forbidden_arcanus:arcane_crystal_ore", 1, 9)
-	ore("appliedenergistics2:charged_quartz_ore", 1, 30)
+	ore("ae2:charged_quartz_ore", 1, 30)
 	ore("forbidden_arcanus:xpetrified_ore", 1, 30)
-	ore("appliedenergistics2:quartz_ore", 1, 30)
+	ore("ae2:quartz_ore", 1, 30)
 	ore("thermal:apatite_ore", 1, 30)
 	ore("thermal:cinnabar_ore", 1, 30)
 	ore("thermal:niter_ore", 1, 30)
@@ -64,8 +44,6 @@ onEvent('item.tooltip', tooltip => {
 	ore("minecraft:lapis_ore", 1, 32)
 	ore("minecraft:gold_ore", 1, 32)
 	ore("minecraft:diamond_ore", 1, 16)
-
-	tooltip.add("advancedrocketry:planet_id_chip", [`§3How to Use:`, `1. §7Use the Survival Mode recipes to obtain these`, `2. §7Open the UI of your Rocket`, `3. §7Click on the displayed Guidance Computer item`, `4. §7Insert chip into the empty slot`, "§8§o(Using the Planet Selection menu crashes the game)"]);
 
 	holds('copper', 5 * 9)
 	holds('iron', 6 * 9)
@@ -102,29 +80,14 @@ onEvent('item.tooltip', tooltip => {
 
 	tooltip.add("magicfeather:magicfeather", [`§6Grants Creative Flight`]);
 
-	tooltip.add("xreliquary:alkahestry_tome", [`§6Cannot be used in Mechanical Crafting`]);
-
-	tooltip.add("pipez:energy_pipe", [`§7Connections may have to be`, `§7marked as §fInputs §7by sneak-clicking`, `§7the connection with a §fWrench`]);
-
 	tooltip.add("kubejs:accellerator_redstone", ["§7When used in Alchemy Research:", "  §6One of the §ecorrect §6Reagents",
 		"  §6in §eincorrect §6slots will not be consumed"]);
 	tooltip.add("kubejs:accellerator_glowstone", ["§7When used in Alchemy Research:", "  §6One of the §ecorrect §6Reagents",
 		"  §6in §ecorrect §6slots will not be consumed"]);
 
-	for (i = 0; i < 15; i++)
-		tooltip.add(`kubejs:failed_alchemy_${i}`, [
-			`§7Place in Centrifugal Separator to analyse.`,
-			"",
-			"§6Yields",
-			"- Ash §7for each incorrect ingredient",
-			"- Redstone §7for each correct ingredient",
-			"   §7in an incorrect slot",
-			"- Glowstone §7for each correct ingredient",
-			"   §7in the correct slot"
-		])
 })
 
-onEvent('jei.information', event => {
+onEvent('rei.information', event => {
 	// event.add('thermal:blitz_rod', ["Obtain by running a §9Charged Staff§0 (with Charge) and any amount of §9Tiny Smoke Clouds§0 through an §5Alchemical Laser§0."])
 	event.add('thermal:blizz_rod', ["Obtain by running an §9Entropy Manipulator§0 (with Charge) and any amount of §9Snowballs§0 through an §5Alchemical Laser§0."])
 	event.add('thermal:basalz_rod', ["Obtain by running a §9FluxoMagnet§0 (with Charge) and any amount of §9Basalt§0 through an §5Alchemical Laser§0."])

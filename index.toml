@@ -46,6 +46,11 @@ hash = "652a6f02347af12ad23efcb780407aee0a3ba5bd60ec5d9d8c386e6b05a2f7a1"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
+metafile = true
+
+[[files]]
 file = "mods/bclib.pw.toml"
 hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
 metafile = true
@@ -128,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/createplus.pw.toml"
 hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
+metafile = true
+
+[[files]]
+file = "mods/default-options-fabric.pw.toml"
+hash = "42844974787f15c97fe72fbdbf2cb0d32f747f6d7e0c2101540973f649cf45d2"
 metafile = true
 
 [[files]]
@@ -236,8 +246,18 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/megane.pw.toml"
+hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+metafile = true
+
+[[files]]
+file = "mods/moon-and-space-dimensions-fabric.pw.toml"
+hash = "e054c2574b17da77170e8202bb25e2ac12d8cce95b6315219f385baedf9825f1"
 metafile = true
 
 [[files]]
@@ -353,4 +373,9 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
 metafile = true

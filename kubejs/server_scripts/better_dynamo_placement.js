@@ -16,7 +16,7 @@ function opposite(face) {
 
 onEvent('entity.spawned', event => {
 	let entity = event.getEntity()
-	if (entity.getType() == "appliedenergistics2:singularity") {
+	if (entity.getType() == "ae2:singularity") {
 		let item = entity.getItem()
 		if (item == null)
 			return

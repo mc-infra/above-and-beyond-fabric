@@ -731,7 +731,7 @@
 		}
 		{
 			title: "Press Express"
-			icon: "appliedenergistics2:silicon_press"
+			icon: "ae2:silicon_press"
 			x: -1.0d
 			y: 2.0d
 			subtitle: "6 Gold"
