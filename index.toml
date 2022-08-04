@@ -2232,11 +2232,6 @@ hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
-file = "mods/codechicken-lib-1-8.pw.toml"
-hash = "eb3b0632a958279236ad10c8ee4986439c96335ef764c04e9724be514d8306e8"
-metafile = true
-
-[[files]]
 file = "mods/collective-fabric.pw.toml"
 hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
 metafile = true
@@ -2264,11 +2259,6 @@ metafile = true
 [[files]]
 file = "mods/default-options-fabric.pw.toml"
 hash = "42844974787f15c97fe72fbdbf2cb0d32f747f6d7e0c2101540973f649cf45d2"
-metafile = true
-
-[[files]]
-file = "mods/ender-storage-1-8.pw.toml"
-hash = "7129dd0baa2447cfc50176833dbbd70cb0b27a9918f7c1e7b68ee22a2fc339be"
 metafile = true
 
 [[files]]
@@ -2319,6 +2309,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
 hash = "ff48e48e828ba58db59ade1d3b05ab01373e528bba4ca74417566c9f6ed208a9"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "5faffccc8307b532b3e32f0e80aa72a7661785344e72759bb8c6c67048ce1b9d"
 metafile = true
 
 [[files]]
