@@ -145,6 +145,10 @@ file = "config/openloader/.cache"
 hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
 
 [[files]]
+file = "config/openloader/data/pack/pack.mcmeta"
+hash = "0a9278a428f330c592ba526e1354de32a4d69a630a0f84a37883702176f7f87a"
+
+[[files]]
 file = "config/openloader/data/pack/structure_spawners/broken_windmill.json"
 hash = "4ffd03c8ad439e08e7bccfee01e5c5a2660db901cd0a8a6e2cad5aa0d8ac01ba"
 
@@ -1298,7 +1302,7 @@ hash = "ce1d04b7ad2d4d46f0bce8962b747e94b18c6f4e728c457d35a43cb599cf30c5"
 
 [[files]]
 file = "config/openloader/resources/simis_edits/pack.mcmeta"
-hash = "eda5f378dfca5f5a6a8ea65fe982faebba0627aea84b7f84656af145b587717c"
+hash = "74e6d1e347552f0cbea226b82bd7ba3b754e0f59a747af7f2735456805df46d7"
 
 [[files]]
 file = "config/paintings-client.toml"
