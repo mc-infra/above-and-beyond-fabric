@@ -2334,11 +2334,6 @@ hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
 metafile = true
 
 [[files]]
-file = "mods/opac-fabric-create-support.pw.toml"
-hash = "6b2f6d4e03dc1d7246cb4aeff3fce38281cbfbbb44b16dd34179f61932fd9bc9"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
 metafile = true
