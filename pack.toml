@@ -1,4 +1,4 @@
-name = "Create Above and Beyond"
+name = "Above and Beyond"
 author = "appkins"
 version = "v1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c3bf7250d636c50aaac53e2e7a4a4ffd60dfb11d2932d6b9efedf43c1069a74b"
+hash = "792c727dcb235409ce0fef5eacece0c5803be7ab5d7fd8404cb1508a2e8d730b"
 
 [versions]
 fabric = "0.14.8"
