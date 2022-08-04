@@ -2228,7 +2228,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "465fc56307952173b0d9f33d287443f2d047238b4a1cff30c6ceb5a996e22665"
+hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
@@ -2299,6 +2299,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "496f2bbca3c4ceb20c9f9d780038ba6babd966eb7c056a7a2a212db413b6035b"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "c178b68d473bba33bf17fccaccd2ec5c76cd68e9e96accda07145d6f7aef2b8c"
 metafile = true
 
 [[files]]
@@ -2433,7 +2438,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "08b91d64595d30ae8d99da996701f53c029a53333fec70d5dbba0cd8b31dcd31"
+hash = "66f45a7fc2ebc338933a90d9385494ea9e0c8aef5cb9e872219904f0d0744335"
 metafile = true
 
 [[files]]
