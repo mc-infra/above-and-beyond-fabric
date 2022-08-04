@@ -1,0 +1,13 @@
+name = "Starter Kit (Fabric)"
+filename = "starterkit-fabric_1.18.2-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc34ff8c044290fed7f13db52b6439f90abb2eb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3907722
+project-id = 527822

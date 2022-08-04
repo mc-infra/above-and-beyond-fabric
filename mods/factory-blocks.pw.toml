@@ -1,0 +1,13 @@
+name = "Factory Blocks"
+filename = "factory-blocks-mod-1.0.0+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ht0eTMEs/versions/1.0.0/factory-blocks-mod-1.0.0%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "b51e58a5db1b95398d050f144adf217bde8e0cfc"
+
+[update]
+[update.modrinth]
+mod-id = "ht0eTMEs"
+version = "hQInlHVy"

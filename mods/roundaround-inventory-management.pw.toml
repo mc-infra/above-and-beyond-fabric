@@ -1,0 +1,13 @@
+name = "Roundaround's Inventory Management"
+filename = "inventorymanagement-1.0.3+1.18.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F7wXag4i/versions/1.0.3+1.18.2/inventorymanagement-1.0.3%2B1.18.2.jar"
+hash-format = "sha1"
+hash = "eadd0c82534a62a36944595eb541fee50153b4a2"
+
+[update]
+[update.modrinth]
+mod-id = "F7wXag4i"
+version = "3MKlFwlL"

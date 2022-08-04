@@ -1,0 +1,13 @@
+name = "HotbarCycle"
+filename = "hotbarcycle-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/it3li8KI/versions/1.0.2/hotbarcycle-1.0.2.jar"
+hash-format = "sha1"
+hash = "3f11d18f4fac5822ac6c3af995347abb9b031adb"
+
+[update]
+[update.modrinth]
+mod-id = "it3li8KI"
+version = "FmmtAvmv"

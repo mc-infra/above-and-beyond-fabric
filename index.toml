@@ -46,8 +46,18 @@ hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.pw.toml"
+hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
 metafile = true
 
 [[files]]
@@ -121,6 +131,11 @@ hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
 metafile = true
 
 [[files]]
+file = "mods/item-filters.pw.toml"
+hash = "34c3d305cba253298133e2f9da0da457b2d353cef6bcdd80707a3acfc75bfaf9"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
@@ -151,6 +166,21 @@ hash = "08b91d64595d30ae8d99da996701f53c029a53333fec70d5dbba0cd8b31dcd31"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "53128f525532c2dd8927f8ca23f67a357c0e84d3907f86b99274092f14b76625"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "5628d083deceacce3c5927ae23491cd6f2a4382fd9421b3ccc269a5645b211ee"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-inventory-management.pw.toml"
+hash = "e14862433de31f2d93cf5b7458897ea42dd76e2428b3b26802644a697bd995cb"
+metafile = true
+
+[[files]]
 file = "mods/smitheesfoundry.pw.toml"
 hash = "1aa6f783f25f3f8b9d2bfde507c1a34531370cc81f03a11d752e81db1059465c"
 metafile = true
@@ -163,4 +193,14 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit-fabric.pw.toml"
+hash = "74d5a6efc295d425c3d6c04a58bf921ebe02fc3698a81acb7f0918ef07043efc"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "49f5590e6160266691eaca6948b33a3a2763e590ed4bcf90189f13650066c84e"
 metafile = true
