@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "cf5dc84f8614662235d680ad9cd601de26e0f35690bc4aabb1427cc01a9ae66f"
 metafile = true
@@ -66,6 +71,11 @@ hash = "79c8680f0830484b9d32844127438fd7dddeb63dd870b71eb1aace99d902e70c"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components.pw.toml"
+hash = "fb92a9f098e0b0ad7ce8af2d9f046ad8f3ae7179df3a7029423f9ecc27f375aa"
+metafile = true
+
+[[files]]
 file = "mods/cave-enhancements.pw.toml"
 hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
 metafile = true
@@ -73,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
+metafile = true
+
+[[files]]
+file = "mods/chunky-border.pw.toml"
+hash = "15c9791bac9dd6efc578e0398a8852fc7d829ec480344ae1ef42be24ef5848ed"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
 metafile = true
 
 [[files]]
@@ -323,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/travelers-backpack-fabric.pw.toml"
+hash = "1ae7a11f0ac9ba93854fc90c35efc3bb60540f365a3403834210e217480a0e29"
 metafile = true
 
 [[files]]
