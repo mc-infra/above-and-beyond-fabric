@@ -1,0 +1,12 @@
+{
+  "modules": {
+    "megane-fabric-transfer": {
+      "lol.bai.megane.module.fabrictransfer.MeganeFabricTransfer": true,
+      "badasintended.megane.impl.FabricTransfer": true
+    },
+    "megane-vanilla": {
+      "badasintended.megane.impl.Minecraft": true,
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}
