@@ -1,0 +1,6 @@
+
+[Client]
+	overlaySide         = "LEFT" # Allowed Values: LEFT, RIGHT
+	displayWithChatOpen = true   # Displays Nature's Compass information even while chat is open.
+	fixBiomeNames       = true   # Fixes biome names by adding missing spaces. Ex: ForestHills becomes Forest Hills
+	overlayLineOffset   = 1      # Range: 0 ~ 50 - The line offset for information rendered on the HUD.

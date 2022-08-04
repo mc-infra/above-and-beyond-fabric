@@ -1,0 +1,33 @@
+{
+    "template": {
+        "type": "pool",
+        "id": "pack:surface_build"
+    },
+
+    "averageSpacing": 18,
+    "avoidOthers": true,
+    
+    "placement": {
+        "offset": 1,
+        "terraform": 0,
+        "minY": 60,
+        "maxY": 200,
+        "type": "surface"
+    },
+
+    "dimensions": [
+        "minecraft:overworld"
+    ],
+
+    "biomes": [
+        "#taiga",
+        "#extreme_hills",
+        "#jungle",
+        "#plains",
+        "#savanna",
+        "#icy",
+        "#forest",
+        "#swamp"
+    ]
+
+}
