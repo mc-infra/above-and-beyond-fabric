@@ -2222,11 +2222,6 @@ hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
 metafile = true
 
 [[files]]
-file = "mods/chunky-border.pw.toml"
-hash = "15c9791bac9dd6efc578e0398a8852fc7d829ec480344ae1ef42be24ef5848ed"
-metafile = true
-
-[[files]]
 file = "mods/chunky-pregenerator.pw.toml"
 hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
 metafile = true
