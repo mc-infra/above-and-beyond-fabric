@@ -2164,6 +2164,11 @@ hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
 metafile = true
 
 [[files]]
+file = "mods/collective-fabric.pw.toml"
+hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
+metafile = true
+
+[[files]]
 file = "mods/compact_storage.pw.toml"
 hash = "703ea08f3fdbda0da657e81b8d427e228dd18344af608b36179225147f1098a8"
 metafile = true
