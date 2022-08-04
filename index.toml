@@ -14,7 +14,7 @@ hash = "8d7e91306e5f4acffc6e5a4fd597b3e0d0acaf8c93641511f80a120d7f0fcf90"
 
 [[files]]
 file = "config/appliedenergistics2-common.toml"
-hash = "4372b4633ca643cb78b430cf32d1c9f3d3efe41e09a1398bdbb4decbc45719e5"
+hash = "e1745188484a297db4b86c2f075e077e825e3c7c3fc2d5266a00f8b916eefad7"
 
 [[files]]
 file = "config/chiselsandbits-client.toml"
