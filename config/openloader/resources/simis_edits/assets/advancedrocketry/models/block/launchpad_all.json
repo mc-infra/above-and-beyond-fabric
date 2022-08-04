@@ -1,8 +1,0 @@
-{
-  "parent": "block/cube_bottom_top",
-  "textures": {
-      "top": "advancedrocketry:blocks/rocketpad_top",
-      "side": "advancedrocketry:blocks/rocketpad_side",
-      "bottom": "architects_palette:block/heavy_stone_bricks_bottom"
-  }
-}

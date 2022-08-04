@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "side": "advancedrocketry:blocks/machinevent",
-    "end": "advancedrocketry:blocks/machinevent_end"
-  }
-}
