@@ -1496,6 +1496,11 @@ hash = "7cc2807ba2777fa8303ee16393523a8767fa7f9c49fb71a094e62c1a439a25fd"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "0a4db601cda940edb820c7fcfb87e3461075e809e8f6dc8ef33842c2d6403d32"
 metafile = true
@@ -1718,6 +1723,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-fabric.pw.toml"
 hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
+metafile = true
+
+[[files]]
+file = "mods/terrarian-slimes.pw.toml"
+hash = "a90d7b8dcd071f3ee30e9845fb43cb0067ac95d9837338c4ad24793d9666dd92"
 metafile = true
 
 [[files]]
