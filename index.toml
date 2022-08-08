@@ -1310,7 +1310,7 @@ hash = "d358ef1b382c51efab862800d222f15bb3a16bf5a95963413aa37afbd7a0e4f4"
 
 [[files]]
 file = "config/starterkit/starterkit.txt"
-hash = "cce10d9f0c74c4c424d63ab517dd01d16266a0c5a029c8b12225ef9dea1284d5"
+hash = "1b430984432550856e170279a1836a2572ffcfda4dcdbfdd4c55b75859c72876"
 
 [[files]]
 file = "config/waila/megane_modules copy.json"
