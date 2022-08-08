@@ -1586,6 +1586,16 @@ hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "5ba9b8d7cc67b41a8a58f5348dee264431c507f6548b39f25e01d9576be31855"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges.pw.toml"
+hash = "ebbb66ec2c5d8ec1cbccccc9d93ed170409a0f4abaefda5dac0b921159ce5dac"
+metafile = true
+
+[[files]]
 file = "mods/megane.pw.toml"
 hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
 metafile = true
