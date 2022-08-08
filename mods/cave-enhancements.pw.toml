@@ -1,13 +1,13 @@
 name = "Cave Enhancements"
-filename = "ce-mod-1.1.5.jar"
+filename = "cave-enhancements-1.19-FABRIC-1.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6dd9cd52613804267e43f968f8cf3323f5ae311d"
+hash = "3cd98e195d09037614cc37cc414769a2ab1e3f83"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3799339
+file-id = 3920517
 project-id = 597562

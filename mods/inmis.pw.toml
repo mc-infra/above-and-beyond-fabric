@@ -1,13 +1,13 @@
 name = "Inmis"
-filename = "inmis-2.6.0-1.18.2.jar"
+filename = "inmis-2.7.0-1.19.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2c043c9c23d21c7d900637f88bab9d2075eaa124"
+hash = "f6c815958e7a1c495089dd9f45265a3fedb0b392"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3783618
+file-id = 3853651
 project-id = 369254

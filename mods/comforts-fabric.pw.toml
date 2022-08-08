@@ -1,13 +1,13 @@
 name = "Comforts (Fabric)"
-filename = "comforts-fabric-1.1.2-1.18.2.jar"
+filename = "comforts-fabric-6.0.0+1.19.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "17a27e68d2f52005bd1c3ba7fe3cbb20798de573"
+hash = "239ce67461f584c3a2269c64c41565228a27e57e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3682297
+file-id = 3905683
 project-id = 433539
