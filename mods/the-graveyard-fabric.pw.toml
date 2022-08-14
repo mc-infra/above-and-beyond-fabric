@@ -1,0 +1,13 @@
+name = "The Graveyard (FABRIC)"
+filename = "The_Graveyard_1.9_(FABRIC)_for_1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0899830206c2507e1c9577c05ec1c405cc33089a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3818277
+project-id = 514468
