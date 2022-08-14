@@ -1329,6 +1329,10 @@ file = "config/waila/waila_plugins.json"
 hash = "c6c5baa4f586aa0a2c9bb8c1c1bd6a9ce7dd6512d5f63d9b897d1d9a294a98a9"
 
 [[files]]
+file = "config/waystones/config.json"
+hash = "6f9a0db7b2e75c9014b7c67f9f58ced029da7180c907c62ded75b399ccc6a10e"
+
+[[files]]
 file = "config/xaerominimap.txt"
 hash = "ac9f21663ff17f8197054c8a6cfc538efd16eb1fc60703bbca935ac2b57853d1"
 
@@ -1341,13 +1345,13 @@ file = "defaultconfigs/create-server.toml"
 hash = "70e70a154b06bbfb9e83893a26c56cdd781940091871882b0be81a7429b8a4b7"
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
+file = "mods/adorn.pw.toml"
+hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
 metafile = true
 
 [[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "48f377a6673a9cbaa80e6a8fc99a7ac54e42b502ba7365b63db92145ce908bf4"
+file = "mods/advancementinfo.pw.toml"
+hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
 metafile = true
 
 [[files]]
@@ -1501,6 +1505,11 @@ hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
 metafile = true
 
 [[files]]
+file = "mods/fabric-waystones.pw.toml"
+hash = "413d0984a3d66fa6b1136956a77ecafe70e0091ea24da4b016573ee3f1e06d0a"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "0a4db601cda940edb820c7fcfb87e3461075e809e8f6dc8ef33842c2d6403d32"
 metafile = true
@@ -1581,6 +1590,11 @@ hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
+file = "mods/lil-wings.pw.toml"
+hash = "84fd36af4ac8ae290f5f14e6369a428b45741e4084401f7f03729ce93a73373d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
 metafile = true
@@ -1613,11 +1627,6 @@ metafile = true
 [[files]]
 file = "mods/moon-and-space-dimensions-fabric.pw.toml"
 hash = "e054c2574b17da77170e8202bb25e2ac12d8cce95b6315219f385baedf9825f1"
-metafile = true
-
-[[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "29f33b8d3062c01c9f415544c4e7f0f275ee0c352c5feeaad9ecca5eb699dc3e"
 metafile = true
 
 [[files]]
