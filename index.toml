@@ -1837,6 +1837,16 @@ hash = "17c31010674f52c7a709769f0e9d502f5b19d30fac4ab6136dd618ce182012e4"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "ec19bc9cbab9c6d9885b23508db28abdbde3853077849e4abe9e03de144527de"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "8a3b712f870b36fb07b311d5a2edc8059a7843ebfee3b5d4a436d014d48e37ea"
 metafile = true
