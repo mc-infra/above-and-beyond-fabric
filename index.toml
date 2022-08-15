@@ -1757,16 +1757,6 @@ hash = "e8f540789a9fc6a8cc328a30c99b04278f234714d7462e342072007e32727a0e"
 metafile = true
 
 [[files]]
-file = "mods/quarry-reborn.pw.toml"
-hash = "43ca32cb1e3ba894d65af2a98ce3807d0839f83868015197e44a0017d2e66177"
-metafile = true
-
-[[files]]
-file = "mods/reborncore.pw.toml"
-hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "66f45a7fc2ebc338933a90d9385494ea9e0c8aef5cb9e872219904f0d0744335"
 metafile = true
@@ -1809,16 +1799,6 @@ metafile = true
 [[files]]
 file = "mods/starter-kit-fabric.pw.toml"
 hash = "74d5a6efc295d425c3d6c04a58bf921ebe02fc3698a81acb7f0918ef07043efc"
-metafile = true
-
-[[files]]
-file = "mods/tech-reborn-patchouli.pw.toml"
-hash = "97f59fd153bf1a38ecfeb600cb192359fc7c3cbd1f443eec2a8a148b4d5850d0"
-metafile = true
-
-[[files]]
-file = "mods/techreborn.pw.toml"
-hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
 
 [[files]]
