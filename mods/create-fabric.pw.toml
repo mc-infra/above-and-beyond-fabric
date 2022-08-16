@@ -1,13 +1,9 @@
 name = "Create Fabric"
-filename = "create-1.18.2-0.5.0c-708.jar"
+filename = "create-fabric-1.18.2-0.5.0c-710.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "57898d9d6be6dde0b9ed857487d8c6178774cc1a"
-mode = "metadata:curseforge"
+url = "https://mvn.devos.one/snapshots/com/simibubi/create/create-fabric-1.18.2/0.5.0c-710/create-fabric-1.18.2-0.5.0c-710.jar"
 
-[update]
-[update.curseforge]
-file-id = 3913786
-project-id = 624165
+hash-format = "sha256"
+hash = "9EBBA6FC44C9616E5F6F94BDC7C590526B80E49AC03F8A2E2CB0FBB4A22ED3B0"
