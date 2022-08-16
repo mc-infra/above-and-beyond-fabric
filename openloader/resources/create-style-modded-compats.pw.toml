@@ -1,0 +1,13 @@
+name = "Create Style Modded Compats"
+filename = "Create Style Modded Compats v14.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9549d894c28b38f295269fb5a89740b7c7e6747e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3874313
+project-id = 492890

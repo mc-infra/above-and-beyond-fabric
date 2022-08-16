@@ -1,0 +1,13 @@
+name = "Better Dogs"
+filename = "Better_Dogs_V1.19.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aaed55ac10e7a6b08745ccc106b38cd04b7b46b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3886049
+project-id = 407973
