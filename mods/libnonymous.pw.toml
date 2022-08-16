@@ -1,0 +1,13 @@
+name = "Libnonymous"
+filename = "libnonymous-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85dac1ccc7b0b14ff5a61a9dc81a3a22b34f3758"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3677573
+project-id = 357557

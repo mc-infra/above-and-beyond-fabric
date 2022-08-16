@@ -1,0 +1,13 @@
+name = "Lockdown"
+filename = "Lockdown-1.18.2-8.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fbb7deca917a4b3064788cf229e67a1562fb121"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3876284
+project-id = 244019

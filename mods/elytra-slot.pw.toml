@@ -1,0 +1,13 @@
+name = "Elytra Slot (Forge)"
+filename = "curiouselytra-forge-1.18.1-5.0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cef56e74a33672b5112bcb04e7bf2486d9e9f01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3601975
+project-id = 317716
