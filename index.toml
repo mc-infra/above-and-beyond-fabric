@@ -2568,6 +2568,11 @@ hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "84abec9cda0e905d2e503066a11fd6addb6b28e6604c633485993c25850b7198"
 metafile = true
@@ -2610,6 +2615,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f97016f522e10afd1659881de6da1a3698c83c3ac38555b20e73719eac51e4a9"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
 metafile = true
 
 [[files]]
@@ -2673,6 +2683,11 @@ hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "8b73e4851b268861352e394929f0dd808b379c84a50ad7953ab58efad24bfb30"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
 metafile = true
@@ -2723,6 +2738,11 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
 metafile = true
@@ -2730,6 +2750,16 @@ metafile = true
 [[files]]
 file = "mods/diet.pw.toml"
 hash = "25903c13496cb1472f7d866ed09fa3775e775c5df733216b9d4b70dbf8fd33ab"
+metafile = true
+
+[[files]]
+file = "mods/displaycase.pw.toml"
+hash = "c7ff7b33527f0ec10240b6a7e78dc7951b6f814ac21d221a8f40541aad8cc4ee"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "0b395fc14d7d19522be74ea1817af86cf86db00f90722a17555da073c65855cf"
 metafile = true
 
 [[files]]
@@ -2743,6 +2773,11 @@ hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "ce7764f4555f7524f0c9b6f4f1c53c94f520aad620fc2e4a237520083f43aa46"
+metafile = true
+
+[[files]]
 file = "mods/falling-tree.pw.toml"
 hash = "8a1494c34fa08040ce928c6e961baa0ba4dc1d43921cb55a25753e89d21046e7"
 metafile = true
@@ -2753,8 +2788,23 @@ hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
 metafile = true
 
 [[files]]
@@ -2810,6 +2860,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
 metafile = true
 
 [[files]]
@@ -2878,6 +2933,16 @@ hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.pw.toml"
+hash = "7b92dd5ff3da1b9422d1eb4cc71a60d1aa0ed405417277fb638b2ac8885f84ba"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "46bb8bcb817b0d2db855d7eeefb996a2f22711a2134a9d1e1ebaf2892030310d"
 metafile = true
@@ -2903,6 +2968,16 @@ hash = "3fc88eca450f5e1421de45926943a49010e8dbdcf8b71f1728313a3b292e947f"
 metafile = true
 
 [[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "ff66be5e66b2420a5c62bb5733ae944c75d80d7fdc63b711a4b4f0e23b02fdfa"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
+metafile = true
+
+[[files]]
 file = "mods/runelic.pw.toml"
 hash = "f9421682d84321e3d88e00733aa976502ea3d3a8bdfb8a1b9c050604fa8e9694"
 metafile = true
@@ -2918,8 +2993,18 @@ hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "1bf0ec860c221529a273f499943e232d9a719cf24d83acc6f82c2e4047752f4d"
+metafile = true
+
+[[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "e450e4d9c6b32ffa74f7d6869bd166a29e4b6449852a8688573c69d58f9b7446"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "a90fd4fc46dd94ba813e501ac2e25e68a28ee4131959f0236f66aa26e6b41f3d"
 metafile = true
 
 [[files]]
