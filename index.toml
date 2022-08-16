@@ -1350,6 +1350,10 @@ file = "config/starterkit/starterkit.txt"
 hash = "6684a781200743e104da7b6f3daa75d7acd54ba55e74ca7ad163e9cf1878e423"
 
 [[files]]
+file = "config/terrablender.toml"
+hash = "205d52da5f21fac394d5629a4922ee56c9ff9fd9e767a93b6e795c0eba489934"
+
+[[files]]
 file = "config/waila/megane_modules copy.json"
 hash = "81b7f935554af79139783fdaa6cd72a6433093724a9c78b0bfa62e6afe3b0d72"
 
@@ -1853,12 +1857,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d292ddce2d35a03a294fde3a0195800ae348ee06b45b17350180c31d6f0dcb5f"
+hash = "44255e733dbfdc66114b63fd213f5529d88d3ae54498d294820ccc9e176377e3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "07aac5b0e1579af6f3cb233fd7725c25ddbbc6f14941b5bf2d0a38214e5fb556"
+hash = "361431c63a5f00006e30bd651180c0151ac4b6bab72d1ecdcc1762a18d34cf09"
 metafile = true
 
 [[files]]
