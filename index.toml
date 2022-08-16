@@ -2753,6 +2753,21 @@ hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
 
 [[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "5a08532ac9b50717161e618c3c5490d43c281dbe6bde13b5b76a03a58415d89d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-forge.pw.toml"
+hash = "be403df8f2c8bdd2f6b58e27b77fdf45ffd1f8caef497acbdeeee7f79e0c8231"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
+metafile = true
+
+[[files]]
 file = "mods/furnish.pw.toml"
 hash = "dbfe51c20af873dbb75e0fb9b5202286bda617459cebf82347510c278af3aa14"
 metafile = true
@@ -2765,6 +2780,11 @@ metafile = true
 [[files]]
 file = "mods/infernal-expansion.pw.toml"
 hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "ee93d1f6d4b4625863d109ad40b1953b9303812fd80ded5f358345df030f536d"
 metafile = true
 
 [[files]]
@@ -2840,6 +2860,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "46bb8bcb817b0d2db855d7eeefb996a2f22711a2134a9d1e1ebaf2892030310d"
 metafile = true
 
 [[files]]
@@ -2925,6 +2950,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "6b0b17a0123f9108f6ddb24662e701a2380b6a347f72dc132e435ed4bea167b5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "962c4dc2f19f8dd51b5f1e1bc11c433babd2fa232e49b77ae51a70693673d0a5"
 metafile = true
 
 [[files]]
