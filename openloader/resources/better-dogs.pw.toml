@@ -1,6 +1,6 @@
 name = "Better Dogs"
 filename = "Better_Dogs_V1.19.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

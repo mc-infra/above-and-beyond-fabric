@@ -1,6 +1,6 @@
 name = "Create Style Modded Compats"
 filename = "Create Style Modded Compats v14.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

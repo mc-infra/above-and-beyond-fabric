@@ -2061,12 +2061,17 @@ hash = "74fa60032398602ce12c00ede68c0350f238afea172349cf4f79287a1b0b060c"
 
 [[files]]
 file = "openloader/resources/better-dogs.pw.toml"
-hash = "f2843ee0900fcd4bf23c7e715547f6c0aef448e941aaa3a6b142f04e756842be"
+hash = "d2ee857ba24918d0b146ab64a4b62c27d357f60a3528509db5e5438c70491166"
 metafile = true
 
 [[files]]
 file = "openloader/resources/create-style-modded-compats.pw.toml"
-hash = "995035381e75c4437dd4b1eba09b2bee5f4b23fb410cf46ea36ed66706a5f22b"
+hash = "f5fcb74137c732dba4039c47e9732727ec303cf71c90bd2394d9ba4cb3eb924e"
+metafile = true
+
+[[files]]
+file = "openloader/resources/default-dark-mode.pw.toml"
+hash = "347ea710fbbd05e3f87c8a0d76fd3452d089e3874c01188b2beea999acb255cf"
 metafile = true
 
 [[files]]
@@ -2674,13 +2679,13 @@ file = "openloader/resources/simis_edits/pack.mcmeta"
 hash = "9e3a2492ffb7a5c5d0cf6876cb8713bb6009c22deaf582a6aaf298566822b221"
 
 [[files]]
-file = "options.txt"
-hash = "e6db5de9101b1ecb0c7bb2102af0b43fea55644728122e7619611c4bc27ae617"
+file = "openloader/resources/tool-belt-retextured.pw.toml"
+hash = "4378a5c89a58221c3633785b4708eb75c92ad8fc615557a66a0f2d49ea797cc9"
+metafile = true
 
 [[files]]
-file = "resourcepacks/tool-belt-retextured.pw.toml"
-hash = "25a7332ccd294854b2f6ac229e389b09f118f78cfd400e83070f383c9452a77a"
-metafile = true
+file = "options.txt"
+hash = "e6db5de9101b1ecb0c7bb2102af0b43fea55644728122e7619611c4bc27ae617"
 
 [[files]]
 file = "worldshape/data/pack/structure_spawners/broken_windmill.json"
