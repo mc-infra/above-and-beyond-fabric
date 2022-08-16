@@ -1,7 +1,6 @@
 {
   "ui": {
-    "suppressExperimentalDialogOnLoad [default: false]": false,
-    "forceBetterXPreset [default: true]": true
+    "suppressExperimentalDialogOnLoad [default: false]": false
   },
   "auto_sync": {
     "enabled [default: true]": false,
