@@ -1,0 +1,13 @@
+name = "Biome Makeover (Forge)"
+filename = "biomemakeover-FORGE-1.18.2-1.4.30.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ff0847c0a11a57626131cb2b068303dc18eb3aab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3881982
+project-id = 567709

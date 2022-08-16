@@ -2613,6 +2613,11 @@ hash = "f97016f522e10afd1659881de6da1a3698c83c3ac38555b20e73719eac51e4a9"
 metafile = true
 
 [[files]]
+file = "mods/biome-makeover-forge.pw.toml"
+hash = "12ffe7055d5ea3ddbe255549e80265d09f2ddbccf9c80ba2ed67e628e775ac75"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
@@ -2773,6 +2778,11 @@ hash = "dbfe51c20af873dbb75e0fb9b5202286bda617459cebf82347510c278af3aa14"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4ad67ed05a5244c0c027a08c6147076663fd36a1952a9141b4854d92cb6a2f1e"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
 metafile = true
@@ -2815,6 +2825,11 @@ metafile = true
 [[files]]
 file = "mods/libnonymous.pw.toml"
 hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
+metafile = true
+
+[[files]]
+file = "mods/lil-wings.pw.toml"
+hash = "a0ac0bd89c2897bc0df8e29d556f3a46aa2411471fb3b83e5c1be5b41d77a90c"
 metafile = true
 
 [[files]]

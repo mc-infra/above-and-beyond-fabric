@@ -1,0 +1,13 @@
+name = "Lil' Wings"
+filename = "lilwings-forge-1.18.2-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ea4e0bf6caae7471923b8fb625836805b0a87de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855556
+project-id = 561277
