@@ -728,7 +728,7 @@
 		}
 		{
 			title: "Speedrun"
-			icon: "ae2:speed_card"
+			icon: "appliedenergistics2:speed_card"
 			x: 0.0d
 			y: -1.0d
 			shape: "circle"

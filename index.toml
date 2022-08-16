@@ -1,12 +1,64 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CBMicroblock.cfg"
+hash = "a8b9978b0b57003263de3f4e2abe6dc4b0abb412b9782796281db21670a2f7c7"
+
+[[files]]
+file = "config/ChickenChunks.cfg"
+hash = "56eba4fbecafd76d33e3ef3ec278f0b298df2b1312a61ca70559424b4f3dc552"
+
+[[files]]
 file = "config/EnderStorage.cfg"
 hash = "ee18dee1a8206cc3853e156102d70038554a4d0e30937e1e8145ef49086d0670"
 
 [[files]]
+file = "config/Exchangers-1.toml.bak"
+hash = "8bd29b9cceabc642c8c63f49c2ac276d1e017f48b37b462ae95382fc354178ea"
+
+[[files]]
+file = "config/Exchangers.toml"
+hash = "ec413c24a5d5acaf49182d9fcb8985fb399027a83185d098c3579861c6f81543"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
-hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
+hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
+
+[[files]]
+file = "config/PregenConfig.toml"
+hash = "ec101cbc0ba56193116bcae73214b54b302a8d6b8fead442d73a33ec35949513"
+
+[[files]]
+file = "config/ProjectRed.cfg"
+hash = "f7579ae9c04c0b90207f0feb55b1f21ac8b49d298b4c99318262c6f75aa43d01"
+
+[[files]]
+file = "config/abnormals_core-client.toml"
+hash = "5719a7afb03e4677fc9095c169636aa3f51af6d54c5ea3c8c153f00546566d15"
+
+[[files]]
+file = "config/abnormals_core-common.toml"
+hash = "ff182a1390fa32051e60696f323606b177829f80e9f4a1b133ce9fdb5ef26b48"
+
+[[files]]
+file = "config/advancedRocketry.toml"
+hash = "f10d6e84c4c736c5778c4a82c97293ec6ddc32843dead2d3f7493d903dbf65e0"
+
+[[files]]
+file = "config/aiimprovements-common.toml"
+hash = "dc174a3ddfba7dcd0666506656dbfc86af5cd7fbb54cecfa53ab0e12afab1718"
+
+[[files]]
+file = "config/antiqueatlas.client.toml"
+hash = "9b3e554b8c7ce2c377369a5f10d02ccdbd7419f7ee6cb2db7da6c588d5c1715c"
+
+[[files]]
+file = "config/antiqueatlas.common.toml"
+hash = "3784ee357d4676ec155bda1ce4150c7ba15a1ed4e5d692de2ee379460e60e21e"
+
+[[files]]
+file = "config/appleskin-client.toml"
+hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
 [[files]]
 file = "config/appliedenergistics2-client.toml"
@@ -17,192 +69,104 @@ file = "config/appliedenergistics2-common.toml"
 hash = "4372b4633ca643cb78b430cf32d1c9f3d3efe41e09a1398bdbb4decbc45719e5"
 
 [[files]]
-file = "config/backslot.json5"
-hash = "884fd3fd49b5200b125d409b437723c12c3b892c47057f6c68019ebb04db1dad"
+file = "config/aquaculture-common.toml"
+hash = "f7866fc13a97d0211da41892541f09ec4bbd9a72e7afb3bc9623aee3cef1fcbf"
 
 [[files]]
-file = "config/backslotaddon.json5"
-hash = "7834e069cd7e4433ddec915f8838d9aa1cffc5a2c1f86d2a114e1861409b28e8"
+file = "config/archers_paradox-client.toml"
+hash = "fb0393bce1d264da925ecc6e9d2e30e7de8c7f7d80b4304d6850128e24655f8a"
 
 [[files]]
-file = "config/bclib/biomes.json"
-hash = "f93fbf8c2ae5c95297ceffaff21f564622c0d3912b7fb804c96a479e29f80143"
+file = "config/backtools.toml"
+hash = "bdb60735e5d1209f800e7fa1ca26488bd8d29277ed44a5c752cb0c84d5f0e735"
 
 [[files]]
-file = "config/bclib/client.json"
-hash = "bac678d69f4de68da42e49d06b477a6f654e1088df113cb7d494ff720ec3b079"
+file = "config/betteradvancements-client.toml"
+hash = "9376911f8431f28c6d7cef493ac8466491a79961793096385ad2e88aea4ffdf2"
 
 [[files]]
-file = "config/bclib/generator.json"
-hash = "1281f2ea418b98be09e3f431d3c8daa9767a2d8aae3e5c88b341c93ad6642c09"
+file = "config/betterburning-common.toml"
+hash = "a1e5ed2358413eba913387db4a4f714d8e13619ceb9056aa0b4fd058021acb3f"
 
 [[files]]
-file = "config/bclib/main.json"
-hash = "914d4f46f048b89ad5b5b2cca017548ca7452ba39d5a09a9fc1b6de6b60e7972"
+file = "config/biomesoplenty/biomes.json"
+hash = "2a4ca3f04fe79692043c00ec6a4977f4d418023bc6e93f935bba6e1dff1a1fe8"
 
 [[files]]
-file = "config/bclib/recipes.json"
-hash = "969381f8c91a3577ab8173f08d36edecabc8c8b46256b4ca8eb22ed3ad7a73c6"
+file = "config/biomesoplenty/client.toml"
+hash = "38fd5adb6d3817a74f41e21fd859b266f0d9a2ada8a3d7058b49b1cd5af82598"
 
 [[files]]
-file = "config/bclib/server.json"
-hash = "11736fdc03761560e311fffc7239eaabe660d49b4286589ca3056417258b34a9"
+file = "config/biomesoplenty/generation.toml"
+hash = "4e29e7aa1b99b38985934cbcb473b23cc9b0e3ab1b048816911971368f2b6d70"
 
 [[files]]
-file = "config/byg/README.txt"
-hash = "716925cf1fd06d3d981aac5adbdc7a84dae30dbb64b17b0c25a8f739be01883d"
+file = "config/blockcarpentry-common.toml"
+hash = "703d8517c6aa5f598d4822b48cd0594d7580b6eec14f787fde459f2d88bc48bd"
 
 [[files]]
-file = "config/byg/biomepedia.json5"
-hash = "b866ba2a574783ac1cbccd9f97a15438c436ed66d6bc58998283d5db2220738a"
+file = "config/buddycards-client.toml"
+hash = "3944d5df9a4c2c7cf877ac88ddfb67fe11aadea3939a2eb91b69299f9391a7bb"
 
 [[files]]
-file = "config/byg/client/biomepedia_inventory.json5"
-hash = "fe34189905301fc2821a96e626544c1fdfb2da66fda123d7f38886b088c78f97"
+file = "config/bwncr-common.toml"
+hash = "7ee71a1ff11c0c5adfe2040c61d740c749179581f5a2f79043a500572d5109b9"
 
 [[files]]
-file = "config/byg/config_versions.json5"
-hash = "b7145901f650508f5c188bfb2069779beb32a46fc30679a33e9fb95ec686050f"
+file = "config/cavebiomeapi-common.toml"
+hash = "1f1f4c9acc9d357aabc749907284d5aa6f4ca4ff696e795272657338551bb3cc"
 
 [[files]]
-file = "config/byg/end-biomes.json5"
-hash = "8407597137ae1949b059ae55706d8f2b3bbddac0069ddec5ae9df6a23908692c"
+file = "config/cavern-common.toml"
+hash = "0372feb871a6de6a4881dc5fe7208cde5b36f8c446fd68788fe99bc04b7991e2"
 
 [[files]]
-file = "config/byg/growing-patterns.json5"
-hash = "41c19e2ecac7a3f80691cd04254e2532ce886102de60e90b7bde7873db782867"
+file = "config/ccl.cfg"
+hash = "e775804f263a5ff8622f7d5880f977eeda2b4f7a45c0e73eb061b154d23cc682"
 
 [[files]]
-file = "config/byg/nether-biomes.json5"
-hash = "8ab0014c4186c8d80e0ad52ff0be62362fe0b0409c5f0b90d102be77b2a9bcc0"
+file = "config/chiselsandbits-client.toml"
+hash = "6ea45dc73e071831108a02feaffd10c43dabda1cdc54682c1b000ad2af694201"
 
 [[files]]
-file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
-hash = "15e2ac65fd7a32a9240c0a9b450eadd5791a6547568be4220a65e967552957c0"
+file = "config/chiselsandbits-common.toml"
+hash = "e2010c8cd87c32b0f97334cbb3f3fcbe1801b10063d2ae72f57b9cc26748efb1"
 
 [[files]]
-file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5"
-hash = "6dd230fc4c56de80747e8e9c55b819c30a90c04b27694111f0318f6988ca1d33"
+file = "config/cobblegenrandomizer-common.toml"
+hash = "5f865a1364fd5cb7e6b40aed185fb0e13fe60fe87c82ca9aa94e189f69b1f61f"
 
 [[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_1.json5"
-hash = "498379b746679a6a8d3d504e39137c46a0ab4fc7e4e7a348e11ab7145a89d94b"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_2.json5"
-hash = "2ba82a56ac3b6015fceb920c7928211fa217a306525cd8e3d50c43f34a3495d6"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_3.json5"
-hash = "25cc10f089b5c296831894a22ce2f24beafd744a60bd7dfa06b4396cd358244a"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes/middle_biomes_vanilla.json5"
-hash = "f78eacc414033fd7f75d1515835e6952225b9eeb8527db35927f6aba19be2db6"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/middle_biomes_variant/middle_biomes_variant_vanilla.json5"
-hash = "2c98b46f5859bfad90f6381cba3072bc272ea49c59036e85d4bc19c4d78e3bcb"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/oceans/oceans_1.json5"
-hash = "15eefb2eb101d0ae7e317c16607787a42da09c083cab0ca18449afddad7f69f0"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/oceans/oceans_vanilla.json5"
-hash = "e759bdca66716ef1c839a0da99b2dbc30983ac49411773f67df86efc2967575c"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_1.json5"
-hash = "27c4f1ac223676791f862d972f7383be1bbb05dd303e92c910f99ed341d32a1f"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/peak_biomes/peak_biomes_vanilla.json5"
-hash = "1d67c6d3f53e21ea538ff516c56301e334ca509b461e4d0a5cb914e48388e1e9"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/peak_biomes_variant/peak_biomes_variant_vanilla.json5"
-hash = "5eb3f8ee44e14ad8ad7952bf38af861585022222c0458b5241d163adeb1aca2c"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_1.json5"
-hash = "ca2ab4127f58816c0ab0ad1dbc2a87bbefe3620b9d8adfbf8038f11c271c49cc"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_2.json5"
-hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_3.json5"
-hash = "81e7e5301a05ac24b4099eb406a5fe1c0a757e785329d073a7517b3f209fd7d4"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes/plateau_biomes_vanilla.json5"
-hash = "01e9ef99c0ce3d25dbd4f70244add31a7538bd844878de320cd903c74eee36ef"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/plateau_biomes_variant/plateau_biomes_variant_vanilla.json5"
-hash = "efcd0e3145f0b2a9853609e0a89161da94f68bb48104cd105dd61e8eda313c79"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/shattered_biomes/shattered_biomes_vanilla.json5"
-hash = "1af3e3dfc20312ec48227dec225ad4ef2922e5b5fb3e402be3e56ffae73514dd"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5"
-hash = "0ba37f84e834fc492cbd1e95e8a4876fa9bd75b9a6a2777ca3402b60a031e482"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5"
-hash = "49119e306636691780508164929efd5846fb03c9f2c8be13e3b7ee7406563d32"
-
-[[files]]
-file = "config/byg/overworld/biome_selectors/slope_biomes_variant/slope_biomes_variant_vanilla.json5"
-hash = "115c27d732c71b6fcc7daa358607f0ae1f27ac447485f0523e385cd2f085a584"
-
-[[files]]
-file = "config/byg/overworld/byg-overworld-biomes.json5"
-hash = "36979e8631491446dbc5de230cb3aadf7c6440b7a20fcbae045497ba4f3932e5"
-
-[[files]]
-file = "config/byg/overworld/regions/rare_region_1.json5"
-hash = "851179fafbeedbc39bfc88e45619911b26e8414e81310caa0880b8c70e5ef0d6"
-
-[[files]]
-file = "config/byg/overworld/regions/region_1.json5"
-hash = "714f1a362f60ac968f32ba5c593a6831235f26d3c7977ed9b048adafccf0239f"
-
-[[files]]
-file = "config/byg/overworld/regions/region_2.json5"
-hash = "e9d107cc77c0f771458d80c4c852d19d7fbaa4eeb25cab58e866910e04843c00"
-
-[[files]]
-file = "config/byg/overworld/regions/region_3.json5"
-hash = "9ee80b14ed7e84ced12108e7abcf5f4979b5e98d7faffe37c95385920eedb5b1"
-
-[[files]]
-file = "config/byg/settings.json5"
-hash = "c60d4e23d3d8a9c84b97b54a35d02fd822ee7b2d7ce10f45b9daa6185013f4cb"
-
-[[files]]
-file = "config/byg/surface_rules/end_surface_rules.json5"
-hash = "3515ed2d93cf2664da9548beb6871e9f059ff2fcc2d42c52e7aa84307dafc2b2"
-
-[[files]]
-file = "config/byg/surface_rules/nether_surface_rules.json5"
-hash = "1c2e8e069f5b766411dabbe843d0fc905ad94785eaa111a56806e8f96c692461"
-
-[[files]]
-file = "config/byg/surface_rules/overworld_surface_rules.json5"
-hash = "bfc984d665a724ec097a16745db6be175550c3727bafee373fa73d6a07132e63"
-
-[[files]]
-file = "config/byg/trades.json5"
-hash = "c6540c28c3fc593878dc38c982ffb21c33438c4aab71f47ad95b1351d66a28c3"
+file = "config/cofh_core-client.toml"
+hash = "e5770761fa49e61b38f5c0fc2e713f97b044a834cb773733239d775748d6756b"
 
 [[files]]
 file = "config/computercraft-client.toml"
 hash = "b68218c31bae20db566d9da8cbc1839a1feec2dfa82cf52fe60d97ca68d04f11"
+
+[[files]]
+file = "config/configured-client.toml"
+hash = "a2af99b080cf9668f4bf7838f7d1769b2cc4bf5e8f21a3144bdffe6841d76a91"
+
+[[files]]
+file = "config/connectivity-common.toml"
+hash = "4f93594b479374a414088d700ee347694f0b8aeeec88019d6093422ee3d3ea34"
+
+[[files]]
+file = "config/constructionwand-client.toml"
+hash = "49dab16d69ef53b3846431d403918762dc0b22a4efba307c80894eeec64a1118"
+
+[[files]]
+file = "config/cookiecore-client.toml"
+hash = "738d457e0aa9f0e5c67248a24f071dc25d7342cf965c47e93f9ca5c430ecce4a"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+hash = "65cb953917745b54e457acd047257ab452a567875e4c8589d2b8705f52c2877a"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+hash = "4856cc7ed5b933aa1f05f84b84451fbc3db06b85d538d18c4db3b3b270721592"
 
 [[files]]
 file = "config/craftingtweaks-client.toml"
@@ -221,6 +185,18 @@ file = "config/create-common.toml"
 hash = "de8a81bd705f70b09014566b85a823f96545940bc353b60e8e4d63c99d2e1885"
 
 [[files]]
+file = "config/curios-client.toml"
+hash = "b38ea260cde0a1b5d176abc4c5c7ac0f11ff30c972d0ff9cb66c129c4fed67fd"
+
+[[files]]
+file = "config/custom-micromaterials.cfg"
+hash = "99f966a43332756d55420d4fd7ded3221dd6465aa268b8f5e4c0a643b2995a91"
+
+[[files]]
+file = "config/darkerdepths-common.toml"
+hash = "1c30e39a9f5ae3ad7caa8a708cf28deee914bc0648e841535bdd50b59a1edf66"
+
+[[files]]
 file = "config/decorative_blocks-common.toml"
 hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
 
@@ -230,11 +206,39 @@ hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "7af745f0518a0d2800b0b33bca11587872b956bb760602b451ebc333a38e5784"
+hash = "8e0209713b4417b598703f32357a654d592fd6eca97d8644407caabcde32cef3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/dice-common.toml"
+hash = "5902adf05fba1dedd6b56c82731595861237994da81e57ba7a95bfd7946bc917"
+
+[[files]]
+file = "config/dungeon_crawl.toml"
+hash = "26ddc5e2603d31da103b3a836c0fcc144efa97d69177649add1ee4b0bd951809"
+
+[[files]]
+file = "config/endergetic-common.toml"
+hash = "bf0b9695be02081947e0702335844755ee28f8538722d181184e9557c9762b89"
+
+[[files]]
+file = "config/exoticbirds-common.toml"
+hash = "55be3bb7bb91e78d8bb8de80ef2cb1b0ebf405284052721685da5f6677d6ec6a"
+
+[[files]]
+file = "config/extcaves_config.toml"
+hash = "dacd8ab4786f3ed8ace69cd398d3b33a293708c19cc79e81b67260955a2e9f00"
+
+[[files]]
+file = "config/fairylights-client.toml"
+hash = "cad5874b33ea848d77bd11f0a7d78b2d0ecbb05cad6d4451d702cc357c37d33e"
+
+[[files]]
+file = "config/fairylights-common.toml"
+hash = "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -243,6 +247,42 @@ hash = "02dc9ef6a7fae12fe54ccc4eeb6685e7a66e7f0949c9b83c97c11baccde0e0db"
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "60bca90897fd2e13a1897ce9ed65274a0547ac110ea9a2450feafcbec46bd86d"
+
+[[files]]
+file = "config/fastbench.cfg"
+hash = "1aacff411e964c8b95791ac3641568159e73697a3e288c7716d5dfecced3f4e8"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "a55f794ef6b37d50af24c7c07afc2565fdef433522614a13c3e6c8c5227b3b5b"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "c552f640891856a9cbaacf326301b274284932d535ac3a8bca76ce8e6959331e"
+
+[[files]]
+file = "config/fml.toml"
+hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
+
+[[files]]
+file = "config/forbidden_arcanus-client.toml"
+hash = "669da474609fdf11dffbb30d0e5702f3e8a8878e04114a5fe9013d30f2a2ee01"
+
+[[files]]
+file = "config/forbidden_arcanus-common.toml"
+hash = "b5b19e9d214312f15ef49d51fc1c04de92f87d167485eb0028581b584f7577ad"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "dfe6dbf482122593c99bc3adeec43dcdb4cc1e885e2bc48f320a626b64c27344"
+
+[[files]]
+file = "config/forge-common.toml"
+hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
+
+[[files]]
+file = "config/ftbbackups-common.toml"
+hash = "cda0b2a546de30ba5c4c3b9c040384728808d2cee4962270a00ec307eb8239d7"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -254,7 +294,7 @@ hash = "018b4c947a8c25e37739533440f8a0fbe7e75bdefdba5ad2aa59c76faebdab80"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/market.snbt"
-hash = "03b2829daf6755212b92a1e2499a8bee4f37f37e1eccda5d3677976f9e4348b9"
+hash = "8daf0e5f9bf87e69b1956ee38081ea48dd4383afbde0a5f0dd88f45778fb2e00"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/metallurgy.snbt"
@@ -266,27 +306,27 @@ hash = "2f9f5dd9d431f82d872aae5f22f109bada59c93e5e0d452ab3d052d081c47842"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/professions.snbt"
-hash = "be3e501e9fab8651da95253aeb73215481a15ff4e5952441699cee2f046dd56a"
+hash = "87e7de89a7a49da61752c4cfc1c07c2773459c5a72c7540e6bf0177ccac9976e"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shipments.snbt"
-hash = "cb10d4a988412b698bda726c691fb723e7f7267470f3a874d3bae034e9b13d75"
+hash = "6359b89e722e7e0ac950e02b060f470f725983d3c449c849460159e25fa2572b"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_1.snbt"
-hash = "93fc5392146dee4f8bd4fe86e054fb54a4e110d430c9bafc7d216a3bccc2b41f"
+hash = "f3cac145ef91cbf60271d3e21190026e90788983be4b792795fa69193a945104"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_2.snbt"
-hash = "5a7d279d8a5a60481b29cb1e19e2a8e80c6cac491043d6ee0fd5a87a3ebd25af"
+hash = "5453c441b9b938c07d63c2a41819525b8227f1c71997ac4710d99d1a22d141f6"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_3.snbt"
-hash = "832c43a992933c173ceb72c854a9d92877c07d25ca130e5136921c146d2a0143"
+hash = "67fed798661e95bbc9867ccbbbd73fe3b2ee33f513fba0ad7e6d2016ceaa0ed2"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_4.snbt"
-hash = "21f874d10efa67ef05fae1b7dd60e1cddc80cae0c3e84df0c8f5824678acb7e0"
+hash = "779a99f7acc5e19724612e8dcd1174dd84a8e59a827afa320a40d0f09035e306"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_4b.snbt"
@@ -294,7 +334,7 @@ hash = "614900c98ace59e45187710e0ac98a382f23521f5be371f74250f67edfab8d3f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_5.snbt"
-hash = "548cefe284f4466cf0e4f11a67a06ff3a9fd35dfb1a5ffa532fbc96e0029aad0"
+hash = "c66be97c287027ba6e6f129e59a726d9ad07fdb533f82b262b92e046c9ba1137"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
@@ -305,1185 +345,364 @@ file = "config/ftbquests/quests/data.snbt"
 hash = "8f43b84ed4a64baa333c8fec1f9b2286abaa31fd67537045682709a9ee4a5bbc"
 
 [[files]]
+file = "config/grapplemod.toml"
+hash = "bfcd588ac3e8b9d43d1f57d91b2cb84535f08b5bba780cad3b05f0a0ae857095"
+
+[[files]]
+file = "config/ichunutil.toml"
+hash = "66a5061a60c3f22ae2657163c0b7f380da8ee7e35020545db2af86c7ab7a47ef"
+
+[[files]]
+file = "config/ichunutil/themes/aztec.json"
+hash = "ae26e3cc06ab0777afafa00a62a15b56b71776580c772d36baec57c91cbfffac"
+
+[[files]]
+file = "config/ichunutil/themes/blue&black.json"
+hash = "13e937b3ef6e87e0d550e05322a1e3c5a852ba2bbb0f48f6ef8f43efb2b01626"
+
+[[files]]
+file = "config/ichunutil/themes/blue&orange.json"
+hash = "65d0554b3e760ee5ede915cbd809e8ca945c5572b4cf1edcc826ae265045e1aa"
+
+[[files]]
+file = "config/ichunutil/themes/default.json"
+hash = "cd2f69c46722e3882240dade0afbdf3e0325bfdc3a1a6329c1a25cb9cdee6fdf"
+
+[[files]]
+file = "config/ichunutil/themes/grassgreen.json"
+hash = "8ed32cfc881bc532b79950b089f8d44fec99a7e590a19477aa0379caf4f87724"
+
+[[files]]
+file = "config/ichunutil/themes/green&black.json"
+hash = "29efcbeb05a94b32531f45c8b3575086e2fc1e850a23585e183a07acfce6753c"
+
+[[files]]
+file = "config/ichunutil/themes/lazygray.json"
+hash = "cc20f8cc12e65624a859aa000c3cc02db9a04ad104d99ac098b103be32178c62"
+
+[[files]]
+file = "config/ichunutil/themes/monogeneric.json"
+hash = "1c9418749fb1b6ee96037e3531dc1b3daad889c09d27b3352207560970781f41"
+
+[[files]]
+file = "config/ichunutil/themes/nightblack.json"
+hash = "0525205db2fd868b495bd81b4582ed630485b5b7c5c744a7f71b439311035f7e"
+
+[[files]]
+file = "config/ichunutil/themes/red&black.json"
+hash = "9288fea34624050994b851b618ab4fb8ad483f5a38c62123ebdd632dd6936f99"
+
+[[files]]
+file = "config/ichunutil/themes/skyblue.json"
+hash = "cef4bc0ffa98d3e398dee5dd62fc09833ebaa247998d2122988520944f7c9b1d"
+
+[[files]]
+file = "config/ichunutil/themes/whitelight.json"
+hash = "8a2271c43d2d66ab628d3f6d488e3a9760ca5844c14deedcfc455c2c968f6c5d"
+
+[[files]]
+file = "config/improvedbackpacks-common.toml"
+hash = "7c422bd901841ba89435fc2480fed608673ae1828730c4de491a15aece8ffaff"
+
+[[files]]
+file = "config/infinitylib/config-common.toml"
+hash = "113afa8daac4b701518c590310a810d1888316cd55a7b91e4d8580a33056c74c"
+
+[[files]]
+file = "config/jade-common.toml"
+hash = "618e2ac27e2ffb5543d2985a53bffb2c317429a2220cba8b70cb97c77c7a8a43"
+
+[[files]]
+file = "config/jei-client.toml"
+hash = "956e52a20b3847d36c5d9c70f472d6af39d858e0ce05b8aa7f03dc23ac249aa5"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "4e110909033d56695fba19e14d1e6b3b2a8474c4317413073dec3fcf405efd4c"
+
+[[files]]
+file = "config/jei/bookmarks.ini"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "39def546f89b5d1a40250ea32db89d0e407b77f440f02bddd345d8785cf84db8"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "8a02baec846097c89832b5976a6eb4254fdd3067ec52017c50322e7a9bf80325"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "93cf376d63cee2767d08b7e6fd875ee83539c7b676d81995480543e5267c7efc"
+
+[[files]]
+file = "config/libvulpes.toml"
+hash = "c2c2818d9868b377dd507c4498f14166a32a1504a58d4d8fa5888ff6cb3a6f80"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "888900b7d5b192448e30b01c4b0df627640a22063f72254ba75e37cd15985b4f"
+
+[[files]]
+file = "config/magicfeather-common.toml"
+hash = "76aa097fe4922dc33bcc5fdf63df8512542014f70b726ad4109a1b421c564027"
+
+[[files]]
+file = "config/mantle-client.toml"
+hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
+
+[[files]]
+file = "config/moreminecartsconfig.toml"
+hash = "a39a81a26e907262df8a61bdc710ea3d4be9545ec2cb2d6f85f5def9cc4ba53a"
+
+[[files]]
 file = "config/naturescompass-client.toml"
-hash = "7e32b0c42527c8fbe8df27a857140f91c201553a0e4a989f8e703e4dcb29a88a"
+hash = "0a6ab48eaea9ca8d3ace6d9724bdae134ba71e310c9cb44b48c5c06de49b9482"
 
 [[files]]
 file = "config/naturescompass-common.toml"
 hash = "5d47dd0a56c005c033f9ccc4318f275ba5c9e89550ae8a69dbc672e11167ef56"
 
 [[files]]
+file = "config/occultism-client.toml"
+hash = "ddeaf320610cef5b40edebfb44f80a806e43e5fe6995686c14a1f2384b40348e"
+
+[[files]]
+file = "config/occultism-common.toml"
+hash = "0a62ebe05450364557585eda3dd64397ce47de1835fe50da13420ebfb86ebafa"
+
+[[files]]
 file = "config/openloader-common.toml"
 hash = "b74e0274a519e547f1f83322c2de4a3c15f7b497911b03a6d748a5f2e8e75717"
 
 [[files]]
-file = "config/openloader/.cache"
-hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
+file = "config/oretweaker/Info.txt"
+hash = "4d78e293b59eeb1911bb5aa6bd4b599eb10fb9f122925e209ff3a662d17a48f9"
 
 [[files]]
-file = "config/openloader/data/pack/pack.mcmeta"
-hash = "0a9278a428f330c592ba526e1354de32a4d69a630a0f84a37883702176f7f87a"
+file = "config/oretweaker/OreTweaker.toml"
+hash = "7a2428e0a52a94128c481f58a0e05969178580dbe4593575b9fde6d574ac97cf"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/broken_windmill.json"
-hash = "4ffd03c8ad439e08e7bccfee01e5c5a2660db901cd0a8a6e2cad5aa0d8ac01ba"
+file = "config/oretweaker/backup/OreTweaker.json"
+hash = "643dca277e6b6456b1d88f222cf67393f857522d71273d775b0e2b546a47b3bc"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/crashed_rocket.json"
-hash = "0df7771f5de555b0438579910d7e57bb3a3d431a0f0e1068dcb3fba41066cfa4"
+file = "config/oretweaker/data/apatite_ore.json"
+hash = "cdd6bada0278307a0e6129fc69229ba8af08f7638f7e789a5c7d2ab1627f3f96"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/log_cabin.json"
-hash = "fdc8a9559bae334ae6f177c85f2f9f240df3d98b9c0aaf49b463ce1b59b86fde"
+file = "config/oretweaker/data/arcane_crystal_ore.json"
+hash = "3006fb12d5f492ac76a38110c62e6359a59e208ca2cf281e605bdd233d7e6b99"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/moonbase.json"
-hash = "cb0704416bbd22fa713d18b27ec154e9f1d6818552fb8c10127f06a7bb8a62f2"
+file = "config/oretweaker/data/aridrock_redstone_ore.json"
+hash = "2c78573052c4f74af1c6552657413aed654e763ab58fac6293ebd85255a7b5be"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/oil_fountain.json"
-hash = "5fc10abb64d2abe53618187f82058bcae4d21ba757615d5f7241f8c9d13d41d0"
+file = "config/oretweaker/data/aridrock_silver_ore.json"
+hash = "b30501c6a336db4e91e64a040f033d8eee1fc333fe374f3d1fdf2364ebdb0fe1"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/railshaft.json"
-hash = "1cf812114099b964a5f19c4e0e9619d94747b147333cf7b0fb6e3cbec8e58e11"
+file = "config/oretweaker/data/basalt.json"
+hash = "d6d6ea3284ef4d09f46ab8ee51cd2aa9ad7878a8624b27eec02e4d00ea381035"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/ruins.json"
-hash = "4a57ab257b28af21c735d8b0d99c95201d5037d7123ee5597ccb385497465c4f"
+file = "config/oretweaker/data/cinnabar_ore.json"
+hash = "440385f91849278d0ef9b6655c660f018c468ce8f60fb108cbe29f23259295c0"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/slime.json"
-hash = "65b9846d3159fedfb0dfbaaaa8f3f555edbd1da4c76d398004781abd019db5e7"
+file = "config/oretweaker/data/emerald_ore.json"
+hash = "86c3bf3e1baccd5245859f9f7e30fcf67aa4dc3bacac09c541857e66518848d3"
 
 [[files]]
-file = "config/openloader/data/pack/structure_spawners/underground_lab.json"
-hash = "9d9d5e3667d55cc56ff8bc0855f940c5a1cb7747ead9a893cc15cd039f4a6475"
+file = "config/oretweaker/data/lead_ore.json"
+hash = "b0f9296e3285ee66d9659b10a7967b023ee13f5e980d9c3f88bf1d141bb0e5d4"
 
 [[files]]
-file = "config/openloader/data/pack/structures/blacksmith_shop.nbt"
-hash = "d56498be0adbb6353c75ad0b27b048d86da13d77ee89e6bd204136ef71fcadbf"
+file = "config/oretweaker/data/limestone.json"
+hash = "d224dc81a49c1b9d57bbc4f406b79b51b13abee971ce35efc1457d28d2065c70"
 
 [[files]]
-file = "config/openloader/data/pack/structures/broken_windmill.nbt"
-hash = "263b359ed8c179ce4a552b1c8c33e61c88fb8207287f468d9deb9f7d2006cb30"
+file = "config/oretweaker/data/limestone_redstone_ore.json"
+hash = "6392c86a090bfad0dee57c983754b9ed2c488dd8852d09421751658a5bebd0da"
 
 [[files]]
-file = "config/openloader/data/pack/structures/campsite.nbt"
-hash = "9019724102ac5015d2559d06295ea9b621933a3e22edccf4c952b8bcbaefb8b9"
+file = "config/oretweaker/data/limestone_silver_ore.json"
+hash = "5c06ac6677c2957f705977a5ab97c7f26dab6f960eb42d013c6a33cf58ff2684"
 
 [[files]]
-file = "config/openloader/data/pack/structures/crashed_rocket.nbt"
-hash = "23c4b6eb8e1e8633419fc8b672681473e750d5fd3a87f1af0eec7e1f65c11000"
+file = "config/oretweaker/data/marble.json"
+hash = "f9931c4b6a1016c87fed795e1429e3f72268fc198b9e1f3ddd72b3496181bd30"
 
 [[files]]
-file = "config/openloader/data/pack/structures/log_cabin.nbt"
-hash = "2a394b2378cc3f985e9397ac380e3ec205e609001f8392b96285a4bdc8889955"
+file = "config/oretweaker/data/nickel_ore.json"
+hash = "0ef51c651b6d6641ff85fe004b30a04afe4d13956f3a841216a69ae48b2bcf33"
 
 [[files]]
-file = "config/openloader/data/pack/structures/moonbase_cargo.nbt"
-hash = "3fecbd337fc13ad53c2e2625ef3ef0ed556120d9e06831b847b548d509b9057c"
+file = "config/oretweaker/data/niter_ore.json"
+hash = "2d86e88f43f0f33b3041a3465cf295adea3a10d1ce12b7a6e55762feec21f594"
 
 [[files]]
-file = "config/openloader/data/pack/structures/moonbase_me.nbt"
-hash = "09f6b08ab8ca2012237daab85b20c881853c79cd00d75e810d2529445b5f554a"
+file = "config/oretweaker/data/quartz_ore.json"
+hash = "2aedcfad27151790a427678e3dce3d5108a7c4b51c33f1a0f53d044c4a38fbeb"
 
 [[files]]
-file = "config/openloader/data/pack/structures/moonbase_oxygen.nbt"
-hash = "1ed99eed4d47569d1558f5ffd7abaa5b658dcf67c832e3e23046ce4b8c90fdcd"
+file = "config/oretweaker/data/randomium_ore.json"
+hash = "d0aac0dcc99b78fc2e95417773937a8a448c3af44c858fd4ffe8357d630e888a"
 
 [[files]]
-file = "config/openloader/data/pack/structures/moonbase_rusty.nbt"
-hash = "adb4883c4aac0ea6180a63c46bf9e75c1e654383672f25324491132f4605c2f7"
+file = "config/oretweaker/data/redstone_ore.json"
+hash = "5c75186b5d1d024291cfb1a8592cb606fe3eff1c722c07a786463fcbe836e940"
 
 [[files]]
-file = "config/openloader/data/pack/structures/moonbase_wreck.nbt"
-hash = "0c0d40f8fcba0fabbc5298fcf2c11993cb520efd90b07ef66115bbf936d87d3a"
+file = "config/oretweaker/data/ruby_ore.json"
+hash = "b6d1b5af0fef53535b1a6c30592419b2b941aca0254ea85913356969e9a09381"
 
 [[files]]
-file = "config/openloader/data/pack/structures/oil_fountain.nbt"
-hash = "da7422d6feb5d99ee162ef50605624f31ec9b54662efb0e16663612af636bf9c"
+file = "config/oretweaker/data/sapphire_ore.json"
+hash = "3b7be16d7fbaa7005ed505de18393c15c3bd0a14e24213e5871f2859fbc46ab2"
 
 [[files]]
-file = "config/openloader/data/pack/structures/oil_fountain_1.nbt"
-hash = "6f958bdf9e0588b78d2a9eb1ab4edfbbe0d5a876a6d88d9a38bd2ded10389e37"
+file = "config/oretweaker/data/silver_ore.json"
+hash = "51f7681a84ffd9fb87ec0f774ba43f3e423dfc4bf8f1e34793bedab361d43261"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/bad_ending.nbt"
-hash = "9d1fd4e4e17bb5f5e871e8e9014510e8a5056fb4b9a22f879ca48e2cffa799ad"
+file = "config/oretweaker/data/xpetrified_ore.json"
+hash = "82925a491f92173523d48a1f0912463953b09921605e8104565e1665ccc9ea42"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/good_ending.nbt"
-hash = "df5e9f6b8e8846d8716b1f607d95298ca1ac2e28da37bf5f01256d379cf41d78"
+file = "config/oretweaker/templates/collectives/default.json"
+hash = "0ddae6ecc61ad7bad8ac1d061e5c59802d9e560c05e772e743d19951ff4c1616"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/house.nbt"
-hash = "9f468f86d64fa99337b48d027260eba538a3ce9ee4e5c9ee0bfaebafcbf04cb8"
+file = "config/oretweaker/templates/collectives/default_nether.json"
+hash = "b64a5dbde2513170fc2744497ecc7d50973b0da7df2f21e5a59bcd23ecc79568"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/slope_both.nbt"
-hash = "95e5253f181ecaa9edd3a3b62b7936025fc44179799b84015a41834651213441"
+file = "config/oretweaker/templates/collectives/default_overworld.json"
+hash = "aa277b6a22d843f3cdf8ce7d1d74d6face91808294f23232a478740ad21701a3"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/slope_left.nbt"
-hash = "c1bef5ce83069c0f4e50624af9b58fc31008da98f4e7d06851d5e0d13f35c916"
+file = "config/oretweaker/templates/defaults/ancient_debris.json"
+hash = "5240d8c40a7fa3d22734d5e8047cbf86a613fe99ad83328cfa7696ab53e71d8e"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/slope_right.nbt"
-hash = "32c78472e6341989c540f8f6b9bca180512afd816e58d4e02da7c9a3902acda5"
+file = "config/oretweaker/templates/defaults/andesite.json"
+hash = "77788836bfa65ed20d5c0b9a9b67e43ab739b5bfee3388e2f8912c3913ab5ad6"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/slope_straight.nbt"
-hash = "057e6b04e2c2b44018c0e774e72db7fddeee29556e54fb845cc370e77330d805"
+file = "config/oretweaker/templates/defaults/blackstone.json"
+hash = "1a8ff330ed7a62566702fd654853c2b9633063b486e374242e80c647e6ce7977"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/watery.nbt"
-hash = "13236d6f0050517c1a7c3dd61ab0f67a6dc8d0f9a3169a1c7158256350389043"
+file = "config/oretweaker/templates/defaults/coal_ore.json"
+hash = "72ece77cb098dc2bf7ae18b74c4ecf576cc99aef2cd82e2de692ef13c9bf1704"
 
 [[files]]
-file = "config/openloader/data/pack/structures/railshaft/weak_slope.nbt"
-hash = "538fad3c6e2704106a827b4848b0e6beadd335a2d1e8e56e903ee80ec4befe2c"
+file = "config/oretweaker/templates/defaults/diamond_ore.json"
+hash = "077d3f795d0d1d6dbb8336a3161267b49bb07650a69eddf1c2c04558dc58cd3b"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/arch.nbt"
-hash = "228bc65a80a73c9a77897f8e79dbec6a851380f65b4dcfe98298127af95b34ff"
+file = "config/oretweaker/templates/defaults/diorite.json"
+hash = "60ac807864df87135551252e582e0129189ec38d9a8b717f0a850fbbea579c8c"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/bridge.nbt"
-hash = "404d14c557731631b517f6240edd47b02241fb318d75b0e55b7654bbddc4e798"
+file = "config/oretweaker/templates/defaults/dirt.json"
+hash = "77bb133c272c8aad03ff0880d8c08ff54a210dadff9c785a745e6fdb4e96e531"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/crossing.nbt"
-hash = "9bee3e5fb5151709c6ea4c21c47155783bc19d5e8001880be5e3e9616e67f4b5"
+file = "config/oretweaker/templates/defaults/emerald_ore.json"
+hash = "ec3318fc85825dc72f9dd1df63f387b9a3e70440509e50b68d22553c6692a6e2"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/end.nbt"
-hash = "5ea34d7a11be1eb5e2413240d01b7f9d84c5319f429f2ec2c81c4874b3303d32"
+file = "config/oretweaker/templates/defaults/gold_ore.json"
+hash = "69817326796fcb8d648f03ac843ee25936169e078899eb2d30115b9afac4001a"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/foundation.nbt"
-hash = "28de39aa71e986d58ed14eefd0b6c9e977638ffa988446a9f68c1411af68a846"
+file = "config/oretweaker/templates/defaults/granite.json"
+hash = "9555ffb6661845088adcff3448d21fcdb49222bfd87761613578d28c2ce03cf4"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/house.nbt"
-hash = "e6ad2e042b006f0cd22249e4ae2464a00859c2e54e86f1100fbad8a62ba6969a"
+file = "config/oretweaker/templates/defaults/gravel.json"
+hash = "648a977c974493110eccbd0a8b42e0a9473e1fd6d0e867c31ee9416d08ee99ac"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/spires.nbt"
-hash = "2b94c3de0c4961f3712c95fa79044331bc6b7860a5f4e74516ff66d0338b063b"
+file = "config/oretweaker/templates/defaults/infested_stone.json"
+hash = "1fdb2674b746c51911c77f6e9e5c3c5139f16de7fe0dd9c53c45f2f4897ebe3f"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/straight.nbt"
-hash = "e949312aef772f4e9466512f10135ca6de20a6597245391724684eca2373e6fd"
+file = "config/oretweaker/templates/defaults/iron_ore.json"
+hash = "9e2398ef50624edfeaeb9472de2e9940010a24fef7c7094f4029e92d1df38c78"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/tower.nbt"
-hash = "3cc4c7b0f3900ba8d99230504156bc3c3c7beb29d3afca677d5be82696006da6"
+file = "config/oretweaker/templates/defaults/lapis_ore.json"
+hash = "46f04de573490a428cf128b903224f05021881d33fc52ebc75e4da4785f8c4db"
 
 [[files]]
-file = "config/openloader/data/pack/structures/ruins/gabbro/turn.nbt"
-hash = "e7fd5b5372c17311c7f9cb33199d2ff46df71b9dd4e2ab592977456f40a88281"
+file = "config/oretweaker/templates/defaults/magma_block.json"
+hash = "cf960100642eb52a800e0259de2d96b1e647939a89257cb32313a9193ef47187"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/blue.nbt"
-hash = "09566981475e532d08c8354a00f0d83283dc3c668033b61f221fef92942f9d4a"
+file = "config/oretweaker/templates/defaults/nether_gold_ore.json"
+hash = "c5e8ff391af9d48cfb1755e82ec44d5fa5376f03f77aae87f49c0237954c8024"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/blue_1.nbt"
-hash = "5c9c33ba43332d72a14f1cc7b11cb67bc23424ba3411c025ece5e6bcc8a712b7"
+file = "config/oretweaker/templates/defaults/nether_quartz_ore.json"
+hash = "d395ae695e0ee0379af06869c06cf70e95b2c01839d5df1456e6f60c14c02462"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/blue_2.nbt"
-hash = "ceecbde9e4d74bffe4634796da6a02811ebb71b2e7fd969b1c8ad80d154bcbc8"
+file = "config/oretweaker/templates/defaults/redstone_ore.json"
+hash = "59187dd1ede7366781f42cef54dc6b5fa5f635ad213d96a258e130d4a0b48c95"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/blue_small.nbt"
-hash = "de9e0a4108cd1b2fbb99dd180fd5dd4640154c2e0b0ecd74c70af384da871b0b"
+file = "config/oretweaker/templates/defaults/soul_sand.json"
+hash = "874459d8d3c5295df179b42f89892daf309a935fe72c8094e266635410c852b2"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/green.nbt"
-hash = "15b2653825cb32ca4a53cd7987e2c223ac6879fef96eb3624a6aeca02b6dca28"
+file = "config/oretweaker/templates/other/fuck_silverfish.json"
+hash = "0b64fe3c6c6c7933829df010fb524afe8696f7671abee208af3c716e2792cf5a"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/green_small.nbt"
-hash = "e27aec400af41bcf4014630dfb0da59f6a0a97724bdabdfffba285e39816339e"
+file = "config/oretweaker/templates/remove/remove_everything.json"
+hash = "91bb946be9647fb392a053cee87c67a836c87cb645ed57af9dc1b9e545f6d272"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/purple.nbt"
-hash = "0afff39dd0f473c6a6d5a4eb29fca2e42c3f8ea1b686bd9b2d44e2190da7cc08"
+file = "config/oretweaker/templates/remove/remove_everything_nether.json"
+hash = "0545c9802120d153c264283ce36d7b55f23560179fb7cdd471ea0d32bb0989e2"
 
 [[files]]
-file = "config/openloader/data/pack/structures/slime/purple_small.nbt"
-hash = "329adb4777e0ead7cb86644a5b46c690ba93bf01d3dd25d20b489338af45f210"
+file = "config/oretweaker/templates/remove/remove_everything_overworld.json"
+hash = "3a1bb54a4d4c29057efc8a9a02a28f219e6d9ab776f19461b9733ae538939d47"
 
 [[files]]
-file = "config/openloader/data/pack/structures/underground_lab.nbt"
-hash = "035dccdd94a44f7910ce44f350476d90c738ad63e7fcfd77f0eaf36d94373423"
+file = "config/oretweaker/templates/remove/remove_igneous_rocks.json"
+hash = "9dc8a9fca373a527988473158b888a6fe56629c983dfaa4ac92a6675080aaefa"
 
 [[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/moonbase.json"
-hash = "2927a915a1e81c1bce97962efe913007626e623762100a9761f445c3f550a619"
+file = "config/oretweaker/templates/remove/remove_ores.json"
+hash = "ddfbc4d1a4f005976213b356ff403bf914fb3109b52c7f664d98773c4674d640"
 
 [[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/oil_fountain.json"
-hash = "8df40d080efc418e9b09a1ba4617e83cdfbc9e2097da6b05af35c146f1b12dd8"
+file = "config/oretweaker/templates/remove/remove_ores_nether.json"
+hash = "55b8b877a824884b807b8f68dd1bcd82a54b2cc5c0211826bdebf829a507fa84"
 
 [[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/railshaft/after_horizontal.json"
-hash = "e26e40b57e67d5f92f35f7efc2f4e4cb5431c96a225a12d6f4cabe1d74c7899d"
+file = "config/oretweaker/templates/remove/remove_ores_overworld.json"
+hash = "ba10790580d38c0a41d7be397220b24b2c49fda0ccb2439096e7a2cbf9798123"
 
 [[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/railshaft/after_slope.json"
-hash = "7a7088100160bf1ffe7bc94fe72d6029ee29e08f22983eb602c1296578ba4547"
+file = "config/oretweaker/templates/remove/remove_stones.json"
+hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
 
 [[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/railshaft/first.json"
-hash = "2d24c7b2e677153ea0402a0a95e3d250243971ceb69d5df13de10b65a7989a1b"
+file = "config/oretweaker/templates/remove/remove_stones_nether.json"
+hash = "84692d4499fcbb639f406d5031c99c7791a9d58b39497df4016389aa0c7861c7"
 
 [[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/railshaft/house.json"
-hash = "661d65b917a3e5ba96b945abb884b72eb9b0ce7dc14e66e0bf2c7b0a4c44f0f3"
-
-[[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/ruins/any.json"
-hash = "bb60e3652b9a72b2538d8df59f2dba779dada9e9fe253e3c1147bc98258d372c"
-
-[[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/ruins/gabbro.json"
-hash = "a671f6fe38d5fd7d61c04c9e165e6da4a8c49af069a1b2bb211366423c6c574b"
-
-[[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/slime/any.json"
-hash = "b62a61527b71af5b0f0c9bceeb316632023193460f67019f64c1db429d1ae497"
-
-[[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/slime/blue_1.json"
-hash = "a9b48cc7e8a3f0edfdca1227158d30bd8dfd21e6bb464e67673c92f796087d3e"
-
-[[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/slime/blue_2.json"
-hash = "4670ed2ba4f3b4d03ff98872b65ec207f9e0f349cdc65412949343fdb183cf26"
-
-[[files]]
-file = "config/openloader/data/pack/worldgen/template_pool/surface_build.json"
-hash = "02db36fed8254808812cca0e3485205c548504c705bccdd6ada501fd186e4533"
-
-[[files]]
-file = "config/openloader/data/towers-of-the-wild-reworked-datapack.pw.toml"
-hash = "8972b80de06889bd038363045c305294d7ff3d9d71a5e74f8d6c1689fb19db0d"
-metafile = true
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/fueltank.json"
-hash = "e53ce6ebb144ef3db3f3e38b668ca2d106b177de51c5c8672da52553345f9f50"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/launchpad.json"
-hash = "caca6c6bef551fa694f0563e54af4e4a505dfe331a275348de8008a15a54ef78"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/moonturf.json"
-hash = "4d09e465e01eea74027463cf8cbf824ac1a061c628141a115f2196ccb9f87def"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/blockstates/rocketmotor.json"
-hash = "89457069b1c0fd0076e3dc031185cf2fe162f16cc139aecab3d36f27ac12a51b"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/lang/en_us.json"
-hash = "dcf6797a5b666664f68f1fd451a3528dff712ca8f3e739fb272737f47199e7b3"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/fuelingstation.json"
-hash = "ee6713621e6bf418f5731e69eda990623d50bd3b2d734171781eeef6c3f91b49"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/fueltank.json"
-hash = "d36d2cab6992e209bbb9a76e50b41d582aba1c4f213cff3ea859d5f81fca7d35"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/guidancecomputer.json"
-hash = "5ae0689736d2c585a92425b2867b63aae2c26cbb0b1271c6b610ed7dab9dd790"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/launchpad_all.json"
-hash = "476f6de97830dac8fea5eee6774d98bd8fd80954a2a05d708a07456b927a4ff6"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_1.json"
-hash = "73d6a7e26ce603b4c3c9cd0472564c6fedac1b34bff86ca220e64a7ff6eaec0a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/moon_turf_2.json"
-hash = "2750ba3b5c41e04e018bb034c9269541034f4e331605d056493efd25c6746907"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygencharger.json"
-hash = "f68231b1c3a80363ce68f685ff5d2901156a795d585225d72b4b5f7ce92688b8"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/oxygenvent.json"
-hash = "93527139a5a80fe9680e910e7067d7dffc9d909a75dbbc05c2eb215a46476b06"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketbuilder.json"
-hash = "bcc49f1709074d7e8297286c5e196395eda60e74e2628032d638b924a11b8d90"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/rocketmotor.json"
-hash = "a1b77f819f61c134cbd701944c0607d01b80cdc35e445e90294e5d812ba99679"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/seat.json"
-hash = "6065266f3b58c6de230d89bcc37c3a3f4e684836403efd63959ce2a52a53de58"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/block/structuretower.json"
-hash = "4361fdd287bfc8030b6062e725fa2dfa00ffc7f5db856d03fc7fc8229b48efdd"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/item/fueltank.json"
-hash = "37df0482a7795ab4045842b84fdd583a83845aa383f25e73c3d9f4d8ed43308f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/item/launchpad.json"
-hash = "efb9d5aa65cd3124b16628075982f0c01b269dc3e90f4fb3ea8d2808a636095f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/models/item/rocketmotor.json"
-hash = "d774adb41d4bbd9f6096986131a7f2e81fcff6be02e5a80b8c08a4cc396576d2"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1.png"
-hash = "7ac3d475ba451ee266f19b5e701ee91e77023bb84bde75d5af97f83595fdc3a1"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer1_overlay.png"
-hash = "c8cf907b83d78d2329286b2b86e8c25f2e3caf23534d288bef14746fad6f9b07"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2.png"
-hash = "84855bee6ec3c7dd1d8183adfd9622af0bd6be63a7aef84d714e9c6defab0f93"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/armor/spacesuit_layer2_overlay.png"
-hash = "3d68a64b8a6bd29bb95d9b66c6c3ae4d626c32d040457bc9bea259c73cba296f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/assembler.png"
-hash = "b849667bc9f6dd3dcbd3485b77df39730b2b54750f6cbd0a199ca4457e2432d5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png"
-hash = "2a81716cab09ae69507bb2299732411f7e26aac837d20c4f9dc998e30a2e021a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_flow.png.mcmeta"
-hash = "fee047921ccf57b0efc8f8b1ab8ea96ea60a0638501dd32e372965d442e3e698"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png"
-hash = "d98cf5d4d16c9758e96f4621e2cad0caada13bd026f235d9436c2025915a130d"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fluid/oxygen_still.png.mcmeta"
-hash = "fee047921ccf57b0efc8f8b1ab8ea96ea60a0638501dd32e372965d442e3e698"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fuelloader.png"
-hash = "41a93b8ba1f60b1f2fe9385cf14e3fde919c5cce46972b210e780d725e11e2e1"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png"
-hash = "8029d5a807c29410a3db8aa6a1566b86eec96b42f51d1379306ddaa6a028a748"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank.png.mcmeta"
-hash = "09b5741f4abd04ba305d0cb4b91b717c544ccc146534ac6ff53a1256c7f90f1f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_ctm.png"
-hash = "f7146805093141a5084112db8d9f5e12fef97bd8bdb1039e927ae9a4a32bd295"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/fueltank_top.png"
-hash = "f7a76fa2afce80bd14b488a10c9e75888961bed4e7a25dccdd660837c8bb6555"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/gaschargertop.png"
-hash = "66234cccb9579debb45abf9707a2c2fde23d79c533635c895b40adaa8f5e8e65"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/guidancecomputer.png"
-hash = "e9843557d48093d634994b2a36fee87b0f43b31a4df80385a0ebb0989be551b1"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine.png"
-hash = "dd6b9b1b38c47c061a29eb3b27b05abe563fe161bf2d7f2b44b39847e0068581"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machine_end.png"
-hash = "9e6015a08c4b48eedf7e9f1fb1ebe5fbcc8ae7e66682636a65a00694dec47b9e"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent.png"
-hash = "2eaf1db9d53763c409373ab0e071c9df737ea2a6d364c1358aa7ceedccf9919b"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/machinevent_end.png"
-hash = "9e6015a08c4b48eedf7e9f1fb1ebe5fbcc8ae7e66682636a65a00694dec47b9e"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf.png"
-hash = "99edd6588f2c561265513e38615c60fa428175d92ec789ffffb7b01c4f539632"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_1.png"
-hash = "cb74799e71f30fb5b42c719f0023a359780dd2c1a32d0a9e3c9fd8ea775d4f89"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/moon_turf_2.png"
-hash = "a1a4197bd49671ca05988f8df925ae4ed810d5c6bbe9ec35f4ba3857dd72ee7f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/panelside.png"
-hash = "56b69e6792e03b3c565bbaf68872f6d03faddf780340d3986d3fb62a202c68a7"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png"
-hash = "57e33221ce19d11345392567d93aa517f097b38eeeba0eba18fe84cd8ba45c12"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_side.png.mcmeta"
-hash = "393e79d7d12e91ff617a6b9e978de57a2725da61f40de89da8c48868cbbfa1ab"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png"
-hash = "3e7ca5fef9007581ef4feffbfebf9abc9c0f57177db48de94f8d15da93398107"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top.png.mcmeta"
-hash = "73adea4c82d5e632c4ce37bc1dcae2c4e3503acc892a2965edbd5a9ddef034dd"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/rocketpad_top_ctm.png"
-hash = "ecc5536f03831de1b1845340b7a1ad92c7e951d56f1ec13248b4d96fc9f48296"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold-ctm.png"
-hash = "ba44be7d0f653c3e68b1ae6f9c152640780a0b889ef1b4aa27478846368abe56"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png"
-hash = "cdbae25aeb41201cc3ed07f0652439452c971cb0670cb8e42f338e0f7cdb82e7"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/scaffold.png.mcmeta"
-hash = "82716f41da2c82120285e000b151af530e9b33f1cf4c50dbb02156789dc08730"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat.png"
-hash = "6843c788472fc5b3ebf33e3fc2295d9f735aa196e2d3579ed010423975fe67bc"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/seat_top.png"
-hash = "2dda48059c0ccf402add77a008e2783e4f4998ff24575076ee115b6899191855"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/tank_inner.png"
-hash = "5aed630bbc6d86dc2356b60527bbcca7b8d54869c1b770e6aa4515ce315b9921"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster.png"
-hash = "4ba5d932a22f90a0752891e11b72e6e0fa1ae5d323f00dd1c997215f9a2ed2c9"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/blocks/thruster_top.png"
-hash = "820c89810a25e4e712640ad79ca0198b09982a12d52761400a1188cf2451edf3"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun.png"
-hash = "7d0985b35ec46699c0b22fc7acf191859dc91344bf636cd3a59dd3d5832a07f7"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/env/sun2.png"
-hash = "1c8b9faf532571d87e2091282eaef8cb4add9b14b73b82d5ffe9f86161d2bde6"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/gui/rockethud.png"
-hash = "c547a7eb6bddb4ddf8e562d15d854ce602c0ee070ebf2f19b2d3e6c10cd3a745"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/planetidchip.png"
-hash = "47fef3a5421ec72b85639236dbde1b2e05bd80f4345b054b51ffecb252d48e83"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet.png"
-hash = "ad39fe3fe69c4c54ce84827e5e512688052e0666416b81ba9475dc4b1a25d23b"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/spacehelmet_overlay.png"
-hash = "530847e91fbe43ee7e2e633ace5296dac46af64b265544ff94adb6e920c3e016"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_hydrogen.png"
-hash = "16e6feb3baca79393facf8eb540c1d35bce8bcc315adcfb18be81c0d665aa410"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/items/tank_oxygen.png"
-hash = "29517786f0e8e027640f1bd11b8fb73677bfe403d4bb9f00263feddca00b4dba"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/models/girder.png"
-hash = "2f3d41953783432cbd6aa720308f3d31a38978e45228c374d1bc8c7ef7427621"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/models/grid.png"
-hash = "81c9a7980d91ddada4a451902ad6514f654c3c8e9e4362891ff4a261d4b2e713"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/models/round_h.png"
-hash = "0e026e8c8f5aae49ee76c21b376d67425769d0cd5814ec4d254aa80a17f1e879"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/atmosphere2.png"
-hash = "ba62a9655d917e5c948f1ffd1254460f143671fc1050365fb3fbe71b8d71dcbe"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.pdn"
-hash = "a06a231d8fe0c71b95bad15f963377f68539eaf7a76c22d7b527a1f9af695f98"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlike.png"
-hash = "f9841f9a95ffde2d18dcb6569027d31cedc6b1f75b721170a8dacde6682a9802"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikebase.png"
-hash = "a748dde4ff69ac076e18f0a013b78597d3246d25f3d50b3d6ea3eccb46943142"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/earthlikeleo.jpg"
-hash = "5c252129611020cb1d6a52890ad7ecb003d8d92e61f3189a733b8a1e861497f6"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moon.png"
-hash = "ff689d3ae78d2bc1066b731492b940a4f353d910ddead9695a682ab683b279d3"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/moonleo.jpg"
-hash = "a0bb80569fc50466e4ed8432d4f5b7b5b82f63af1e8d0d4a250649877830d798"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadow.png"
-hash = "4fd0ed4f8d00ea38a0699701929056d00eb72628d2adb14aedac02d3d1f4e153"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/advancedrocketry/textures/planets/shadowold.png"
-hash = "9054fd90bcb09b3356e2c634e814b8573283d9bb8c5074d5361e1cf63f467927"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/models/block/charger.json"
-hash = "d3cf01465cd3995c51c0a7e9e8fd63fe8e16adff3a8b789961190d5687fe7cf9"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_base.json"
-hash = "5ee070127a991621e7fd5773eb49a7ebebfcb1ac0925ebf36ab48727b0bf6598"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_pointer.json"
-hash = "277f94223b0f352fa569d38d4fa4eca381a7c1a18e386e48d7b4c1abf1ca2f76"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/charger.png"
-hash = "99ee592f177d8cfd8d6175318135c625109895dca004de13c2e5574306d35f83"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/sky_compass.png"
-hash = "8e44e0ca01f1f76935e8363a80cddfe9aee2926ba5b865a681ac834b577a9e93"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/calculation_processor.png"
-hash = "e806ab2ae269f7f6644764c7517fece648823ee9babc9b2519a95b6ad84f0853"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/printed_calculation_processor.png"
-hash = "ef36d793d83335c4bcbcb31b6f1d48c5a2c3b909023c0e630801e1dd0019f268"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss.png"
-hash = "5efa0795ba4caf73751c2a6e0c7071764e9a6ae36a9b82630330364b53442911"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss_plant.png"
-hash = "41920d6fe104a545add0941976aeb850fba7bc8ae6c306b5e192c425bdee0882"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png"
-hash = "4355329c54c0f386e2a13a36c9a24135175fe6895bedd7728432bfcb8d7a3797"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png.mcmeta"
-hash = "cbba32b62b675f17883a65269e8942c1ee57fb9a59c950956d1f35babd722035"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/cofh_core/textures/gui/elements/scale_compact.png"
-hash = "2082af5626be261ce55ede213a70209af202c3fd3ec562a49776f25e3e0f2050"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/create/lang/en_us.json"
-hash = "b1973c78b4f7a668abab9435b80f124a82c59d9dbb9fe637f13cc11cd64aa872"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/block.json"
-hash = "e9301560d1f20626cf9307509e9280535d6e8b4ac2cdc194ab68d0f81b402586"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/item.json"
-hash = "6a2d721dcb1786461cc0b7f016d2e96e707a74f97b3f58d563cbbbf297bff569"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/create/textures/block/portable_storage_interface.png"
-hash = "e541c36bf11554cfc139f974f510fe6b4d3b25a437aa71095188705dba0e2331"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/create/textures/item/golden_electron_tube_unused.png"
-hash = "6c67ead99bfd6b3f426b87861e833c1135e4e0039c182d82448583dc39075168"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/create/textures/item/incomplete_precision_mechanism.png"
-hash = "2b7803d1723b455200000939f56c794bb8b989dc136f62bdb1ed61df1387221a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/models/enderchest.png"
-hash = "1f1495d06956404754c551e6d85893af4cd824c5ffc3ba6e0c9c1d89c6f49a32"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.bbmodel"
-hash = "506b64bdffccdfb9c8caf98b33ecf339adb5e6585c33bc45d620c7d780a5682c"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.json"
-hash = "55373416f6b3fba274510bb18c3cc08bb2fb79b8780128dab5e0068a89b88cfe"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.mtl"
-hash = "c85e70974a5ba6e07de58d662c79aceac6f34991fdcbec61d78e53385f8e4dfa"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.obj"
-hash = "60bde7104cc892af811ed8c66947807586c7756600270e2edfe4b049ae92c8e2"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/models/endertank.png"
-hash = "2533bb0577442fe4898ca51e97ba316c9475db2f958fabf1fcc3995603617ad2"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/textures/enderchest.png"
-hash = "deeae8644a88ae18be98911c56dcad51ff4dbc2c1e97b9ba721c01449a7f9920"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/enderstorage/textures/endertank.png"
-hash = "7834d42c094b96aad41487742c278ed21da4f8decdac8811586dffa56abf1a75"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/extcaves/blockstates/brokenstone.json"
-hash = "3bf728bca75b8903e65d76078aa551b9ec5626f1cccbe203f5587a99c4fa07d1"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/extcaves/models/block/brokenstone.json"
-hash = "032c2d4495c59d8c229f2f19c20f2dfa82cc4f77dfba83b06935bc9db2bfd446"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/extcaves/textures/block/brokenstone.png"
-hash = "1c2a4a5a0e11af0f931e0cf9b12e928ad17f60466968e18c2245854131e7e2d6"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/libvulpes/lang/en_us.json"
-hash = "f6293909c3618546f3bb7cfe60419e8f4918c9ae66a82a1ce0f3878d0e85a27f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/libvulpes/models/item/linker.json"
-hash = "bd02a2594cf2b1b425f118c339d14a7ad8646f82c769f4f6aa670d35dc021184"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/libvulpes/textures/item/linker.png"
-hash = "6b576a1c9d706691d424b1e6cd3a8e1578e74091a80b5b0168fb1539bd05c65d"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/lang/en_us.json"
-hash = "f909891978e744494198e3cfaf2cea0c25237577c1368b675623b767fb6c2ad0"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_bottom.png"
-hash = "06a4b31612ae8d3ae21206f4bb9216ec1be742d317e9f78aad34c4c26a106c9e"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_side.png"
-hash = "e839aa565893b1f08026063ea1d8838e29494929b360904656dc8275a8dd2d96"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top.png"
-hash = "da24ba540e6b3cfcb31ab35b0290b57f0011ade4773aeec5a96e2d703f505050"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top_open.png"
-hash = "49c07afa917192e95a6ae973330edf95632231bf6ce17a3c3e622e38aa856a4e"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_bottom.png"
-hash = "bc7bbed8d50936babb6cd7104aa48bf87cd400d81b1d31581ada8f8204ff8900"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_side.png"
-hash = "5f33162dfb3f6b3c24c939fffb36bad2c472749b4b09abb99ce254a0330d391f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top.png"
-hash = "d02dc74c728fc04ae4e5b47c09845e8204c891456969766f1655797e9eee0066"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top_open.png"
-hash = "9608d8d8677216b882b13e678771b747a6be7041770d09ac0acb43f6104a8d49"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_bottom.png"
-hash = "43cfedb598d82c36e7f6e4111ea3ca1e60504db9af8374a55678a43c6a9548c9"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_side.png"
-hash = "518681950a7da7b76435e6c35f06caa646754d379362440bdbfecee27aeba0dc"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top.png"
-hash = "9da2626c86eb5d95d019388f6fc5961a0b047e54c61b15a00f1bb46d0ccc83d2"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top_open.png"
-hash = "74ea6c575b5742467344b50c3edc8fa81ab59617e50afe001f46566b09a36c1b"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_bottom.png"
-hash = "ae5f321eb12dc6a57596cd2b3dd2db94cffe6dc7671f77c1dc0eca8ae07e1117"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_side.png"
-hash = "fe613e8e60de5f07eeb2467c3d9524914826e7a53e843fa94e2abc435bcd7c04"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top.png"
-hash = "cfcf76c87d1e2ac3113877b286bd02d186dab181644d37fb403b7a14c106e2d5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top_open.png"
-hash = "3968e4b13247c8c58d95ffa2af07d4b4da7a1e2d4c264c1889ebf001577b6309"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_copper.png"
-hash = "eec40eaf83be7e82089b95edab8d60df4b76e11c3da66f16998d7a0136f6782c"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_gold.png"
-hash = "245867aae2f01ce16054dbf5405374ec886b66758d2295ec9fcfb4f1c29f7ea4"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_iron.png"
-hash = "85f11470523bd0fcbb527f9b32779464fc976e0659f042d9dac73c8eaf756bae"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_silver.png"
-hash = "c82125a03710a6f9933ce825885de995c5b06acbc8f3ecdbf8629d73502fdd12"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/minecraft/texts/splashes.txt"
-hash = "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "469cfba2b5e089e0aafabb4c4ee912f453dd149b90273fb155493bbea758f566"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "a815b4ab8f39525a84cf427a1da3fdfdd427c32f072efe6ae20de3a9d04f900a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "a82c51ef5cc31d31a9b5560d73f48fe4ee06436e98dae5a77a449690bdf7ca8f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "a25b967d212cf23ac4b3909cfe0600f70b0a47b93c1a02d1def4ab8aa7ef12bf"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "ab9124635d718408f6bdeadabc6ff7667f11f3093866d6bb25ecf046d645b8b5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "2f5d101242feb1a1c9b3dd77c68cb718846c8afefce0d5b4b6f1b2ed32e3677a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/occultism/lang/en_us.json"
-hash = "57dc06eb5c4de23cf7c1c3c3e906b80c9e1b1cb82e10a4d491b266e0c55ca3a1"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/occultism/sounds/start_ritual.ogg"
-hash = "abddae34e33bc1e1f1c719f9ae8aae69579d20e28ca333c6dce187329f6f635e"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/blockstates/energy_pipe.json"
-hash = "80afb48b0ef77bed82c8a274807d4745f4d8f04335db6934b19a1850af7700a8"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/lang/en_us.json"
-hash = "e880763ea46c6a5956e60aafd1f554d2338da0b2b33d881c60e91133bb9f70ea"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/bottom_corner.json"
-hash = "9e41ed41ea8b1a0bc77d7ab07f0ec4734f2a4010e94e12930359af0b2cffc2e5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/cover.json"
-hash = "572fb63d9b90f79124fd6827289ff25f9356652e975b960bf5a825ff0121b5b5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/end.json"
-hash = "44e4dc35b3bd279016bae68974937cbdfcc537ad03e0d34d83cf554049278383"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/energy_pipe_extract.json"
-hash = "e32372afbb828117e3365599b1ad691febaeb3fc87a5593e20537f0303c078fe"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/open_end.json"
-hash = "e50c4a403afc41bd8fd5e40d6a3726d43fc09c53fa881cccef1d6bd34995fa52"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/side_corner.json"
-hash = "d9403e732a5bc25ef48295570a73c73c1441ca061a5dfd9224a2c4d65ecf5bc1"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/single.json"
-hash = "9d761ec49ad2ede761314d83c1459bcd1792cee879d22e255fb49fb1876435d7"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/top_corner.json"
-hash = "da0d8d3036c3f85f76e77f0b26e35bac659b74e573d1bae2fb33c8c56214a054"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/block/window.json"
-hash = "662d8c266787f60e6793feb2546e65402e3d65f1000c1a2d7c5ba26c6569f873"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/models/item/energy_pipe.json"
-hash = "9d21ab38cd8960f7dfac8e6caf0d15aee3dd1aa266aee8e48250df3bce76c88a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_cover.png"
-hash = "4cab574e4fa7df77930e8a9a2d2c5caff0fae1f0597e0e200a11a093ecf2d875"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end.png"
-hash = "f3cadc590e636907088161e3079aa9a3e6fb931da12c72d7e2beb29f6830658b"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end_inner.png"
-hash = "0074ada88984af2392a52ed38953e0d69b744bcaf693e68f84c5c074d76fc56c"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_extract_overlay.png"
-hash = "36b0a92f1e4ba6e152e11c8393ff1a98b91d1054d5626a49673b994cb270ff9a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims.png"
-hash = "3bf151e39a3b75d514b1359fde36cf37e48f33b3a61339d425102131924c6d59"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims_inner.png"
-hash = "f35e36923a96483b501efa583a34097d8c1e7d010351d72c1123ca0d7e66b4b9"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/blockstates/pipe.json"
-hash = "6cdde97a607f91ca000ed191cb2f13b4c990012eeedd22844af0881c595c80a6"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/lang/en_us.json"
-hash = "2edab60e687bd28f1aa9d8de3ad629052aad4c06d8810270723c5d288f55d79d"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/andesite_card.json"
-hash = "0608a8c777192e569e10c40bc8c682d41ed0c3168ec70cb07826f10837baa0b6"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/bottom_corner.json"
-hash = "1b527ca4bffc60446429bc5551a5f09d953344909c073da8bca15962172cf1e6"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/cover.json"
-hash = "7da7c60c1db63c3a49d1f0d39543337422e82a53200bdbbc7e16c041aaa65aa2"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/crafting_terminal.json"
-hash = "2cbf94376b3e2c4f0b6634d62512a3d74adb5b1a4427b7045df24313d49c19c5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/end.json"
-hash = "9794bcbb7da272acf6111e3588313f6b263bc63fca4c06466d4c66a8cd2c6890"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/item_terminal.json"
-hash = "0ddeebe48a46347b2f5cca12e96e901d4f1b11c0313321dba0a357e9e93f0650"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/legs.json"
-hash = "e7b302c4f44092282c30309e406611d47b0fd41063378a180a91fb8903de581f"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/open_end.json"
-hash = "b6709b636584624b0513beedb921e7095d20a3eb40f4b67e75db74f902efd293"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/pressurizer.json"
-hash = "b5428cd4e167e0bd4ac9d9b93b2a065825f3cb371cc0fbb9ac5b92d75d8382cf"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/side_corner.json"
-hash = "b7851a981d91c7db1da3c6aa2471080a6a399e3d9ecf996ed49309481f78a710"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/single.json"
-hash = "a8f9471d6d7cf3fd2774717a04bc0e0f1068a645181c63a9aee0738c058a5ccb"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/top_corner.json"
-hash = "70bc94e7e1975ca3f748a729b8615d6b3dc537f2a943533f725016b67c65c8dd"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/block/window.json"
-hash = "9452b6a32b005408afdf9c2dd4e6279384478a6c1b3da5cd57aa773ee25bc2d5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/models/item/pipe.json"
-hash = "c35072d3b28b98d7db396d96db6ad7a1243d628bc0119148d9bec9d11ddc5700"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png"
-hash = "e7f1703eb6713643cdc8ea1ff86b15063b322cd91979c92b202f8fa3aa08cc19"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png.mcmeta"
-hash = "ea6aeef032013c763679ee34ea3d7c0e4741a5ae208146242b8b7b6873d75e10"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_cover.png"
-hash = "173ad26b7006e377147e916a08fc1b2aec729bfeeba3bd13392b14a44eca6118"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end.png"
-hash = "1d006ca9f023aac1a98173485e5c93a971f0ef644db25bfd86522bc240f1ab90"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end_inner.png"
-hash = "bf96158aaa2611b4c03dd4011cf654e257c1cc51bf57c08a883851def20f34a3"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims.png"
-hash = "f9971e9a74ef44ddccf2f003739dabe5d573ec4a951976c6689e1cfa32cc2039"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims_inner.png"
-hash = "74d04558c9efe77584f000e9930129419f31b5e46bdae02c3d61e68b417f39ed"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/block/terminal.png"
-hash = "70052b27bab0b98e204b3461a9fc47fd2a6af203f916139401e34951d681cbed"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/prettypipes/textures/item/pipe_frame.png"
-hash = "3875af4a7cb688ae6dd2aa1fb18411d1d3203e728cb0b2b0800b64d713f18e36"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/projectred-core/lang/en_us.json"
-hash = "1a73da19c2bfd9a57647849578f4ed6fbf4478274a197ee5988f49e28d00be63"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/rubber_duck/sounds/rubber_duck_use.ogg"
-hash = "2d5f4afb520569e6dab398a33962aca83b542f7159499a86cbe8883b0d8027df"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/structurescompass/lang/en_us.json"
-hash = "8222924060614996beb05dbd0cac37d70cf607db9f166ab68b75b24eb2dd30cb"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/tconstruct/lang/en_us.json"
-hash = "783f426596af21ca1beaf09080a685df9fea1fa08a656abb4e2f75ea707410b5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/lang/en_us.json"
-hash = "fb322918e886aa1ba43a1834c55d0e97a68b2296c54cce5e3b22957d6a085b94"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/models/block/machine_press.json"
-hash = "78bd985d888db2d10bb6567d7ac8d07a352ab402d44e3d0e09dd541209c0bf36"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/config/machine_config_accessible.png"
-hash = "a8d5d7b023bba6892da27797fda80c3937acce01cec59e73e3252bfc771ecf12"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector.png"
-hash = "88fe065a2eda8104a4fb56ec7a16762a5ec22bf4246313a8e1adeff249d4ce30"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_active.png"
-hash = "382ce4caa38b9262f994a4bcbf625abaa0a9cbe6aefc0004d7f8c61ccf822e51"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_bottom.png"
-hash = "c19ace8e788044991a8632d515c370cbd6a2b904a7f3a15459fc71ee86585c14"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side.png"
-hash = "1fbf24f60e997880bbb45d26a9f9f6533206acff41b87767d8f78b4ee66e32b5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side_active.png"
-hash = "ef87550bf05649fc61750074dbeda72d30081a256f2b020a8a1abf5b3b13813a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier.png"
-hash = "969bdba091d9724181e8efea4a7f1b05a686c40e40f489a4a947568f84c05b7a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png"
-hash = "4033a1fa2dc3c8c40a85abd92f6677ba7371edd81b5844ccff5f9efec9eb822d"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png.mcmeta"
-hash = "c5cf20d7d913422391981b9ce3ebca583619979a2699fa989fa7d98ef15466ff"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_bottom.png"
-hash = "d89bc7e16fdd667284aa8b6726e3b8d2460ef4dfda06ceafac4c7a349fcbe060"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_side.png"
-hash = "accfca6f9139d64b10301db103400374f584499bbdd7ec135df15dc85fb49b66"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen.png"
-hash = "6e62731be8c1b7238f2403e72387395cf5899ff40287281722407176de539f5a"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png"
-hash = "41eb05fc815d1330d0ddae3875c65871c879b44fff75309020ac6396ddbe61a0"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png.mcmeta"
-hash = "943c8ab02542791e1a1baaf3d309c44d35f8ecc59c50dedaef24bbaedd91b8ba"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_bottom.png"
-hash = "05c988e902c4b35f784e6c62a2d13bf941a2250d83fa9036db6e2b2797cadc7c"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side.png"
-hash = "b7ee50f6f24aaf6baea8a50e6b796cf3ba132c7f4937539d2c794cc936335139"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side_active.png"
-hash = "5abd9fa18faea833366002e579c0b1d34b067e35e3d8cdb03bc79b167e64e5cf"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png"
-hash = "6ad774e6ae01077ff184e6f14ab6c16b888aef079ce3ebd6969a93946ee789ad"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png.mcmeta"
-hash = "e0f0fa3902b18f3dae777234b3e455a91d89971f1542831e08d218bebafcbdc5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_front.png"
-hash = "1018eb8b10892932b4ab2a682f89f31726c9b13f04d1e89a482f3a43553d5d65"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_side.png"
-hash = "f0b9fbe25e44061dd03006b04aede10199c55d09c8cfe2c6278485be76d055d4"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/gui/jei_handler.png"
-hash = "4a67c612501f6687cb7f76a8910b06ebbb602b698eb7b82bf2039c517c6af124"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_1.png"
-hash = "051ef75a654ae84839014217064a2f41d9436971f3971351741c18e9af349e69"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_2.png"
-hash = "b33833f76ea2ecc531715eb83aa4127d21cd6f15f5e6679b98872877f1b1a45d"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/dusts/apatite_dust.png"
-hash = "254cdc6ed92ad13d8b4530cb5551137b93fa21816d5af0b237f32864a701854e"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/dusts/cinnabar_dust.png"
-hash = "ab8acd9ab1c44e9beea84268b228c4e0bdc85103f31186041b5c27267988e174"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/thermal/textures/item/ingots/invar_ingot.png"
-hash = "9ea971450b16ecdef01dfdde3cd3a21384f65b076497c4c636c4a4634e8fccb1"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/lang/en_us.json"
-hash = "5133e56c06614d7e8dd789e9920ea89adbcab393bc4b1aac6b52bda26455dda2"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type5.json"
-hash = "c86fd57f74c699ddf38a47da604a75780103fdb49cc40866fb11a9173a5e2a86"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type7.json"
-hash = "cf0c5467efa163d1cb82b3631d87a1e35e851e13ceb020b2338505c7a9b06211"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_side.png"
-hash = "1708fac3e0b0ed657f9935e71992035e1ab56e97f6e475e2b719f955600aa5c0"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_top.png"
-hash = "5c660789dd145caf167e87ea3d2404f78cfd6074b06db67ec6f23f97e3463414"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman.png"
-hash = "f90803a8e9efe723ff1c3bd1580bda5a490a43c27345aeba74a8f6dacf9046f4"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman_top.png"
-hash = "aeb148fdb831e3df452278144f36f76a252db270dfeb514b2070ef211d97f740"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman.png"
-hash = "dc5764e5d11bd4c1b5281e9b366ba2c1c4ce45445fb6fff08ac1707afc8c7355"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman_reinforced.png"
-hash = "b5a9f3ec46320ce960d5caad0415940959cd6c0656540cda9984a97b666fedfa"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist.png"
-hash = "38c9aa34708f1e6c915a541feae52f221b53ebcdd7eefc75e6ab285b11fef3d4"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png"
-hash = "a810c0d3577f92d33e8a74cca7edc9cf8df344a4836927c93d83f2777ba9295d"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png.mcmeta"
-hash = "ce1d04b7ad2d4d46f0bce8962b747e94b18c6f4e728c457d35a43cb599cf30c5"
-
-[[files]]
-file = "config/openloader/resources/simis_edits/pack.mcmeta"
-hash = "74e6d1e347552f0cbea226b82bd7ba3b754e0f59a747af7f2735456805df46d7"
+file = "config/oretweaker/templates/remove/remove_stones_overworld.json"
+hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
 
 [[files]]
 file = "config/paintings-client.toml"
@@ -1494,583 +713,1935 @@ file = "config/patchouli-client.toml"
 hash = "13ab4823538aa3c136c4fa291e785bff3dd34df3e5a20f0524ab11b0be68fd15"
 
 [[files]]
+file = "config/pathtodirt-common.toml"
+hash = "91bcc6fb218cd2dbc4e73b502ab2cfc3d6d91416232eab84d034a97848aa3e66"
+
+[[files]]
+file = "config/pipez-client.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/ponderjs-client.toml"
+hash = "1f83c0473aadbba336d390c9fc5341c838f424d82c384a4d2b5167e9e0ad318a"
+
+[[files]]
+file = "config/portality/modules.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/portality/portality-1.toml.bak"
+hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
+
+[[files]]
+file = "config/portality/portality.toml"
+hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
+
+[[files]]
+file = "config/randomium-common.toml"
+hash = "0a5844a3b43e609f0adbf01387a7d481878e23652bbd57f995e983d225ce8394"
+
+[[files]]
+file = "config/repurposed_structures-forge/bastions.toml"
+hash = "2916ab6bdb5e4cac4cec46e4a7cfb48ea872544c34006bafb56ff0deb097768b"
+
+[[files]]
+file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
+hash = "1a2a3cda1998a7d215df00134fc9ef9bdf076f1fb127db61d28b31de9d5d6e11"
+
+[[files]]
+file = "config/repurposed_structures-forge/cities.toml"
+hash = "f20e59cda562c64408528da6bb14bbf4203fbdee8f155658127aadf8c887b9be"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/repurposed_structures-forge/dungeons.toml"
+hash = "0efea07fbc0c38d61d535d60d0437100a585a9e666b53be12cd02bdf61e4fa22"
+
+[[files]]
+file = "config/repurposed_structures-forge/fortresses.toml"
+hash = "0a9ed8a993e90df0bfa9601a30de255ca5b33fbc4ae6c8e05c45cb1a4cb6ceda"
+
+[[files]]
+file = "config/repurposed_structures-forge/igloos-1.toml.bak"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/repurposed_structures-forge/igloos.toml"
+hash = "66a0a06587890fbab1994bf85ad25e3854af8564f8319cd25410c0e425f5bf84"
+
+[[files]]
+file = "config/repurposed_structures-forge/mansions.toml"
+hash = "88eb3c724e5ea45e88762ece219d2666f9da704fa84fdc283741ad3d10f7492e"
+
+[[files]]
+file = "config/repurposed_structures-forge/mineshafts.toml"
+hash = "64240f492620565922d89c1eee78ed7e720f4b32fa87a8f9f2f4e3556c2a1138"
+
+[[files]]
+file = "config/repurposed_structures-forge/modded_loot.toml"
+hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
+
+[[files]]
+file = "config/repurposed_structures-forge/natural_mob_spawning_configs.json5"
+hash = "63b9522d954ad4e851e54d8673b48af5640e93b95ce82183f5e2aa45b52f418e"
+
+[[files]]
+file = "config/repurposed_structures-forge/outposts.toml"
+hash = "c749e144b6c3d3efb96d312ef82065bae8a09ef3ba490db3eb7f4598417780f8"
+
+[[files]]
+file = "config/repurposed_structures-forge/pyramids.toml"
+hash = "bcef82552c675857744d1c919dd3a4b526eba1ef8521de128a6a6815559b0a3f"
+
+[[files]]
+file = "config/repurposed_structures-forge/ruined_portals.toml"
+hash = "78ff3a408f5370205f7610122b5c6ba827eaa6d664ad451c460583efa97a55b1"
+
+[[files]]
+file = "config/repurposed_structures-forge/ruins.toml"
+hash = "e54d42ddedd667a2e4c6e182a963d8c234f62e9fc2cd43c7f2faaa91912badec"
+
+[[files]]
+file = "config/repurposed_structures-forge/shipwrecks.toml"
+hash = "bb98bed369ff9f0ac98fa4af2be44eda897bb9c95140a0f205a4a6644556d247"
+
+[[files]]
+file = "config/repurposed_structures-forge/strongholds.toml"
+hash = "b106842bda2e5deb6d7ad40c98151232a9cc844b8b78bd1f4f7d9fb75c9a7986"
+
+[[files]]
+file = "config/repurposed_structures-forge/temples.toml"
+hash = "4f94338b3dabf12b1162225dfd5f941126fe9e54e20f33e6352408fc69fc9307"
+
+[[files]]
+file = "config/repurposed_structures-forge/villages.toml"
+hash = "d535d020541eb11ff635fb8b975928e7620f41ae721b3f75a5ad3081b03e8b02"
+
+[[files]]
+file = "config/repurposed_structures-forge/wells.toml"
+hash = "4d727cd71e4ce5f67f253e6ad6cca8c983c2cd53a55cadf484116b0601b03330"
+
+[[files]]
+file = "config/repurposed_structures-forge/witch_huts.toml"
+hash = "cc4b030cb1a2eb54777ab27031d6278c84d0307ba416378abd132f937ceed057"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "a9de981a5c586367c3e1fb192fd821ce19dc2468830aeb092e698de3f2a33c92"
+
+[[files]]
+file = "config/soundfilters-client.toml"
+hash = "6e8e672264328cdd8d7e235100d4ce4a94afe46d6273e11f8bb41f410723f867"
+
+[[files]]
 file = "config/spark/activity.json"
-hash = "d358ef1b382c51efab862800d222f15bb3a16bf5a95963413aa37afbd7a0e4f4"
+hash = "e0d3fc9b6a8c6f4f92b9f374bc8c343cf4f3f90d4f15358e975eaaeb4b7b621b"
 
 [[files]]
-file = "config/starterkit/starterkit.txt"
-hash = "6684a781200743e104da7b6f3daa75d7acd54ba55e74ca7ad163e9cf1878e423"
+file = "config/storagedrawers-client.toml"
+hash = "6faa59ad785aef88aad21da04ee176f7ca54eb23b4647f7e2045c56db23803c1"
 
 [[files]]
-file = "config/terrablender.toml"
-hash = "205d52da5f21fac394d5629a4922ee56c9ff9fd9e767a93b6e795c0eba489934"
+file = "config/storagedrawers-common.toml"
+hash = "459f803851484347980c94d3dc9424a0165205506c0d769bf239af8c0474e93e"
 
 [[files]]
-file = "config/waila/megane_modules copy.json"
-hash = "81b7f935554af79139783fdaa6cd72a6433093724a9c78b0bfa62e6afe3b0d72"
+file = "config/strawgolem-common.toml"
+hash = "e64bd8b940002554e8dc733091aa83dacb3a2dd8b7e484179fd076348fe32fb3"
 
 [[files]]
-file = "config/waila/megane_modules.json"
-hash = "81b7f935554af79139783fdaa6cd72a6433093724a9c78b0bfa62e6afe3b0d72"
+file = "config/structurescompass-client.toml"
+hash = "7206eaa973103c88c782cbbc3b5690d7b47759b4f1f020f6d7475b63fa2760ed"
+
+[[files]]
+file = "config/structurescompass-common.toml"
+hash = "a8a792eff4c9d96d8559ad1e026d1eb5ed42b6e22aa449f35ae0030d857b8002"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "814b8ad2e4a772a0ddc5695b1b630ecc52380ca84a0aaf8d07a5d6d67ff9f10f"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "ca60798cc0ee4246620fa7d56af82c36744a3cbf8764494867ac208e1ceba7b2"
+
+[[files]]
+file = "config/supplementaries-registry.toml"
+hash = "feb1ec996728700d8b248998a5bfc1b626075ac8d9f2e8fbf72e8a3b761bf2bb"
+
+[[files]]
+file = "config/tconstruct-client.toml"
+hash = "94ca7f1c8b5ea9c2e91bbdb6ed88735404ec15e13a15dfbc7c963b62bdef8dcb"
+
+[[files]]
+file = "config/tconstruct-common.toml"
+hash = "e0e1ddb24132d888c2521c403360e6a1f439818379a3c29cb3cd4e750dfff795"
+
+[[files]]
+file = "config/thermal-client.toml"
+hash = "a6a09cfe3859942830c9813563a688d745e2bdeb81a727a3b958ab231c755ba3"
+
+[[files]]
+file = "config/titanium/modules.toml"
+hash = "a493e791689fdeea01a75f0ff8a3947191fc1942e3b8ef54c1da5581bd112d57"
+
+[[files]]
+file = "config/titanium/resources.toml"
+hash = "074327238b3caed2969c6c953dab2d722b56d538d9c111897a7269f879c34cae"
+
+[[files]]
+file = "config/titanium/titanium-tags.toml"
+hash = "bed71e2722d04afd15e03330d1a157a51077e8fdcd064c80ab4a49bed6a49e59"
+
+[[files]]
+file = "config/titanium/titanium.toml"
+hash = "f93a6921cfe7cd42050497b457416718a91e4d5d7ca5d6e4cb043f2a21e6d421"
+
+[[files]]
+file = "config/torchmaster.toml"
+hash = "dbd82f70778b7a6fb7d96e0cbc2a4d77851a9e6e3953da0e4a935fd9db0ba9e8"
+
+[[files]]
+file = "config/valhelsia_core-client.toml"
+hash = "267d75f89444823bfe0c093d6fe0d35881f4bc110a9f5f73b7c896dcce35d33b"
 
 [[files]]
 file = "config/waila/waila.json"
-hash = "a50e8274146e5dc93c1580d8ab8e6b62defb1d7d5703a28d9432867bfb37b1df"
+hash = "1261516974847aa016f3567c22eccace1cc4000b78b3dc3a781776a7e7989f93"
 
 [[files]]
 file = "config/waila/waila_plugins.json"
-hash = "c6c5baa4f586aa0a2c9bb8c1c1bd6a9ce7dd6512d5f63d9b897d1d9a294a98a9"
+hash = "66584d27d44168844da5b4cec570da81b7866585bd9428df03d2f11a2e59d434"
 
 [[files]]
-file = "config/waystones/config.json"
-hash = "6f9a0db7b2e75c9014b7c67f9f58ced029da7180c907c62ded75b399ccc6a10e"
+file = "config/waterstrainer/waterstrainer.toml"
+hash = "b7502d1be133172dc7d473a438670fd81952c2022f57d2361bb2a4c1028b0a19"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "ac9f21663ff17f8197054c8a6cfc538efd16eb1fc60703bbca935ac2b57853d1"
+file = "config/waterstrainer/waterstrainer_loottables.txt"
+hash = "0146fc9d8f2eebcd006bb488330dee30b4f5cd3616800836531c52a6af7e333d"
 
 [[files]]
-file = "config/xaeroworldmap.txt"
-hash = "3daed2fb60dac84a89a9ede2de0eae99d76fbbae7b5b99398d17e8c1690e9938"
+file = "config/xreliquary-client.toml"
+hash = "08b34c6d39a28aeef60afb486f8ba35bec0d842d4fb5bb94d4b6862c9d0c2e2c"
+
+[[files]]
+file = "config/xreliquary-common.toml"
+hash = "acaeea1f25729007d52669931cd3c66d75f4269f11eb886809c90a42b5ddf7d5"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
 hash = "70e70a154b06bbfb9e83893a26c56cdd781940091871882b0be81a7429b8a4b7"
 
 [[files]]
-file = "mods/adorn.pw.toml"
-hash = "e59138ddd4931750b1e9c0eebc707eeb4ed08d8e2e7edefdc6cc0046505b9e5e"
-metafile = true
+file = "defaultconfigs/occultism-server.toml"
+hash = "7706a597a01b5ba1ba0fdffbee734caf7c61b34b9080fdf4a206a6b303efd942"
 
 [[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "46de5114d8a0017b14c0f6b63401fc7a1cb69b0dce336d36e25e80e91b51319b"
-metafile = true
+file = "defaultconfigs/pipez-server.toml"
+hash = "09bd5d106ddd16b3bcef07c39230c84c5855995a33160b4f4ca86894380251e5"
 
 [[files]]
-file = "mods/applied-botanics-addon.pw.toml"
-hash = "f68a88d276c5f7663f7748865addc677e5e85474921ec1c630c4d98b1fef363a"
-metafile = true
+file = "defaultconfigs/thermal-server.toml"
+hash = "8b00261a58831eb99874e006db5da7199bd33bcea05f6caa7dcdb93d249a3621"
 
 [[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "85c977e4c0b1183e17230521113a89819bd0b4893c15bd8c38230ea6b214ab64"
-metafile = true
+file = "kubejs/README.txt"
+hash = "9b9b1f69f95d8fc859d3861c0b0aef61b0fdd97897b4354d5cfd1b4fdd2f02ea"
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "bf34c6cd09581dbf436b81d6fa3369a903453c973a33dedc2cf701c3dd11082f"
-metafile = true
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "bac6a76645c48064f198e711301492ace386110831d381f33ba68a3db6847bd4"
 
 [[files]]
-file = "mods/arcanus.pw.toml"
-hash = "57e638d3a03d936fbb11cb5878292b3cc809b33351abd631a3fbe999ee8c5dea"
-metafile = true
+file = "kubejs/assets/kubejs/models/block/accellerator.json"
+hash = "2c13f83ebd2f61d9b5b88a1af9b48b88bd6de71ec4f88aff57ab13e71370563d"
 
 [[files]]
-file = "mods/architects-palette-fabric.pw.toml"
-hash = "5d068ee053bfe3b7815d9b28b12144aaf65f9253247eff40480aacf3c2a8e02e"
-metafile = true
+file = "kubejs/assets/kubejs/models/block/andesite_machine.json"
+hash = "7de6ea0ce61a3edb3d38292ec2fad34f25876fff5e219244aa8d5e737fccc5ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/brass_machine.json"
+hash = "1ff99d3720976a445b896217b5e2281ca9299d27fab2b51b37a43da399d424e9"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/catalyst.json"
+hash = "a8d471a6fe58702eea38d0f8684554cc8e42736b4b7041842a81dceeea3ad3e8"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/chaos_catalyst.json"
+hash = "52393fb05b62db6c220c649eb1bda926577e0e2417c09920062c696bc2a10b95"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/copper_machine.json"
+hash = "6b65b67606d038f49b945a77643d0db264064861428b58110d6fbb393227e3ef"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/enderium_casing.json"
+hash = "043a77903ceb38d969b0bcdce879412eb3dce62a2ec8dc5d6ae19af36bc268d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/enderium_machine.json"
+hash = "30de297a6b61607b45960846a89fedbfd631c51a6d977e272e035fc70eadfa59"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/machine.json"
+hash = "d0edce7b9b55793a0309d94d705104d6cb32f3554ed43dc9c8fba4f3c2e2f8de"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/mundane_substrate.json"
+hash = "6ed19f3d4b4fe113fa6792ff6455bdd55ab11f521266c31d03d710736d6137ec"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/ponder_laser_lamp.json"
+hash = "ac2bc21491dd90879019852fa5ef456eed0d672f6b4fd87d51ab3e9de746d8bd"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/ponder_laser_lamp_on.json"
+hash = "2c899b322d4d68245dfc6263348909e7fb2f381f7b625b9581bb6722444af120"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/substrate.json"
+hash = "ecd09c1c13d5114f2b79b895cc441748d994b83648b2593d0a491e1043d6509e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/zinc_machine.json"
+hash = "1b8920edceb8129d830941e43a53526f77ab9faf6b3c85161a698ac95a544d39"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/computation_matrix.json"
+hash = "95755bf27d3dcefa8c2f0689a44a6d5cd583420d264876c48fd14b255bcf920b"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/profession_card.json"
+hash = "6088e643806a713305a6ab33cadc4b640b299205f08aa2beedf1eb182ce1af48"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/trade_card.json"
+hash = "ada86d1570e9b9e16bb8984f1a85fadf3d6e771bd6ab3df7b3d9de2b2095fa8a"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/laser_alchemy.nbt"
+hash = "2f9e9ba82fd23e97d51086f0596fab7c65d47946c91b7906fc3b433b4ccfe46a"
+
+[[files]]
+file = "kubejs/assets/kubejs/ponder/rocket_scene.nbt"
+hash = "795ddb1cbe492a35c542f9ba0045e64c615fbd36a4f1718464fd032c498eab1d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/accellerator_glass.png"
+hash = "3af027e294d37f3b8ed0d240bc3c4a257570a6d4ca3836974e8696570ffb83ff"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/cage_lamp.png"
+hash = "0e34b0781dd85fb044b6fe401bd74eeb8b93563e603f5e65133ccd87d88231d6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/catalyst_glass.png"
+hash = "34bff822d83cc61dc8a8b358620a6aec4c2793adaca3eba2ae279a26d61276fc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/chaos_glass.png"
+hash = "c44756f82b2ffbf5bacb1b36dbd82ec93aa2dbddb6df77ca0e5a4cf87d458436"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/computation_matrix.png"
+hash = "7b7cf0dc36d764103aa4a5357b335ce9af676bae6a52d835cfdc2fe2f5cd1348"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/computation_matrix.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/computation_matrix_2.png"
+hash = "435de10be8c8ba05c5f8529a255f925013c5945fdb127bc3adc70ccab5626ab1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/computation_matrix_2.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_casing.png"
+hash = "e6b17db8c380cbd1a05c187d30c466324735ee6e14b15b3c2b27a4f22bbb5076"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_casing.png.mcmeta"
+hash = "d6a4d1af697ee152c69ee39acb7f2b857f45a0f0edbcb9963b7b7785493f3b32"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_casing_ctm.png"
+hash = "fae8d1444d718f718f9af32943d8fb20a662027800a3662c01c4f51379dd6a54"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_casing_top.png"
+hash = "b2085ce5b46506fb48dc0ffbb5523e37000533c71f00b9ec84b2e3ecd9c5f346"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_casing_top.png.mcmeta"
+hash = "f0ebc4561714b220371f410d61f760b28ea3a6ddb67cd47eda65f9f07470bf97"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_casing_top_ctm.png"
+hash = "cb072f3f122b0b3870187aca55f76f85a9cbc4a9d9fe5b85e1ab3ec3bf45f872"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_machine_bottom.png"
+hash = "c1a498aea64f0025a4f3d117b4f64748469888764931ac1bea822b950c290936"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_machine_inner.png"
+hash = "6b4d5ed5297ddf4902cd2ecf84da6203eed0373e2ce10371acfdd8adabda0976"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_machine_side.png"
+hash = "e6aced19f863a0d354760e6e5d8c858dbd0ba8b5aa8277baad4c76df57411839"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/enderium_machine_top.png"
+hash = "47c20a5fd995263cf5be25b6589e47990d01c0308235916b99580907ee5768b7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/fluix_casing.png"
+hash = "53ac09714a087ad0cefa54e2005ab483e50dba747587174973fc40dba4b82c17"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/fluix_casing.png.mcmeta"
+hash = "f06beb3d0cefa44a977bf5fdbf05defa08fb42b99432989828ef1b893688d216"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/fluix_casing_ctm.png"
+hash = "b90d6379dcab2df62ed206f5fc570c3d644e5f715ed86f61fbc95f007d08426d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/invar_casing.png"
+hash = "2620b642f41f82c2b3e2e71dd1f6a14cbb474400a5863777b627c04bc46fbb96"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/invar_casing.png.mcmeta"
+hash = "b971d253b295d0604c8c7e7ad443d95139837d2716d6ce169aac5e77693e577f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/invar_casing_bottom.png"
+hash = "b9d11adc3683de2ff00faf5bc6711141f6566641df9d2b522e32301b75319765"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/invar_casing_ctm.png"
+hash = "aeb4b70309f5fd832648f47653c613b59e9ffb3208238d95d32931f92de61e8e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/invar_casing_top.png"
+hash = "56ee50026903fb313ca6275f324854660c252bad9ba3894f46b7c0bb947c9c59"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/mundane_glass.png"
+hash = "c053fe68d34f50433beaa5f4aec4dbc58a2351c877807886f6654976c7920000"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/reagent_glass.png"
+hash = "ccab82557e43343126ce3ad49e10aac67c7a71bfac471640b09d03cd3c22f82e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/zinc_casing.png"
+hash = "064d093c0cac59b65bb6b8cb3bedfd160908c9ad6c6b1480c33c604e9e807157"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/zinc_casing.png.mcmeta"
+hash = "a4f158c9d68bf6e0a1576ea8104d22b59c057b9767c93733e949dd6c5c3bb1d9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/zinc_casing_ctm.png"
+hash = "79ddd25d16102cf71fcac59c129a22a57dd626852c279ddbe4d04fec26b9d255"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/zinc_machine_bottom.png"
+hash = "3d3291a47b72d79da271dad105ff743c95d9d5b3a7bcfaaebbcf1dfd0a354338"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/zinc_machine_inner.png"
+hash = "e0b0c181b27a13cef7ddfe5c55f559776eabe089d1795dbfc3d2a26bd67efbbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/zinc_machine_side.png"
+hash = "739a7e651c16ecf2317cd9bd9fac087eba38614300d83c8724e882ef8c7b9c58"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/zinc_machine_top.png"
+hash = "1907eb3c80e9a1683816ee4de1b7be4a5e4c9936a45faeffad7be679552f90de"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png"
+hash = "2da3ef20dd2e5185dcd47a1a98fe539a81323bec29f5ad42c82ba1fb63ef4346"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/fine_sand_flow.png.mcmeta"
+hash = "ed39fbc8bc81aae6e1eebd4a86d2caee28d1f81867c117d4cefd33cad8c8c802"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/fine_sand_still.png"
+hash = "6905baaf9ae047b7cf61a86eece232704a60c49c2876a49a705602fc4c12f5f3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/matrix_flow.png"
+hash = "f91674a6133cf953c44a918b2fd64d6c0f8afa702bfeec6119388f7e59ddc3df"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/matrix_flow.png.mcmeta"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/matrix_still.png"
+hash = "b1e838a80bc281d1a0e503f6becd4c1ef07807100baf4b0d6f00c55c7e8634c3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/matrix_still.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/number_flow.png"
+hash = "2a81716cab09ae69507bb2299732411f7e26aac837d20c4f9dc998e30a2e021a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/number_flow.png.mcmeta"
+hash = "4a5dad045d1c6172b28dca8eda5ee036ecf966137cda30c64770bf48689c92d4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/number_still.png"
+hash = "d98cf5d4d16c9758e96f4621e2cad0caada13bd026f235d9436c2025915a130d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/fluid/number_still.png.mcmeta"
+hash = "49fc4624f6d61129d531f982ca66b24219ed1716c8e736e0b11f34a9a68250ea"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/abstruse_mechanism.png"
+hash = "fddfbd67a4f82dad70fda5ac15376ecbd208a5e8339242638179f4f6a4c53471"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/boot_medium.png"
+hash = "f9d0a4035a7d4213a2d56007a4459233bb03c77ff60b5e2f1664bcff730412a0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/calculation_mechanism.png"
+hash = "8658b698f18f5dbbe629f5705a2d0187063e35fc26dc0a35a33ccf5dfceec34b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/calculator.png"
+hash = "844a7d04ac4eeb6ca0e06519aef7a66225b7904fc591bbdfac1ded3f03f8e66f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/charged_calculator.png"
+hash = "ddfb8fbde8ba2f2823792c4904280717bf03134b3467d07824c5908eb0a488c7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/charged_calculator.png.mcmeta"
+hash = "4de2fc02a986a7f5ac46edfe4936f85152ad025fdb6afd51a688b545be2d0eb7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/chromatic_resonator.png"
+hash = "aec1590203256fd9760e1fc699e016f4a840e32b4a5f20e0ffc746010d92ad27"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/chromatic_resonator.png.mcmeta"
+hash = "8552792149f206f62f26882a4ebe39720b92114330cf42007d13bc344d22f5b2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/circuit_scrap.png"
+hash = "38a8ff95dfde2f41c56f8c71c13750d3e7cdcb49a55a0a0b6789412a55443ed2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/coke_chunk.png"
+hash = "83271c9cbc5764a87a015ad3be95975e5b764ff9b7f6438ba62f47ed98d9aead"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/creosote_pellet.png"
+hash = "5745e508de86ff839fe7eb6a4b69e071213c8f40cac3e6b8751a8a306164d5a9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/divide.png"
+hash = "41ef32c8e4e783529bc20fb5c28cc197d3ee0d6c2339618ac2cd5e08ce09295e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/divide_cast.png"
+hash = "a72592987949e20d34f54e108abf26ceaf7f8b75d078abb09c4852fcf26677ba"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png"
+hash = "ff62c1274a9185a612a4d5fe24ca00513be003e6424b14011d9662a55ac8c746"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dye_entangled_singularity.png.mcmeta"
+hash = "64026175403fa142db0500270b215870537e0c128a0e9b09d6a9d85c4825d480"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/eight.png"
+hash = "f2dd0e68e2e033750623086936123648a5cbe62ec820a212a6c4d84c1f14eea8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/eight_cast.png"
+hash = "dab1c9937360c424bf71b5d7a3adc3f941159688494272fc101be9b9168b8847"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/five.png"
+hash = "30517c065cdadb73b3b8d0cc10b828eb39fcd81ed568e0844a178aa1ab931756"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/four.png"
+hash = "9441b53046a5c9041e1b30fa80ba9265f465c5fb78bb1a63efa27e680f15f9fe"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/ground_slimy_fern.png"
+hash = "5c6e3c945043c21f9bfbf7184c49ecd1f6468710c9ddbb94686461c83b9e3126"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_abstruse_mechanism.png"
+hash = "4c9f7dc7bc4a6df9c5bbef37815b81c9d82d74a6c0ca84452de686d205716510"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_calculation_mechanism.png"
+hash = "4fcfea4acba5f43652d4dcdd8176b0a0d475e5c43516dc0bb9f19e98f8571b84"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_calculation_processor.png"
+hash = "a7dded0c898181e81eed4cdcb0208f6d555631900dc4ae3340bcec28fda1108b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_coke_chunk.png"
+hash = "fdc34da70579cc1ba71b328f5eddb4fc1b164049117bef8aa56654b1925db3b8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_engineering_processor.png"
+hash = "0b07ae96f4d4d51eb6ab4cf51a2e647351d55f2e440495ff549d8eee6df177d1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_inductive_mechanism.png"
+hash = "f43a1d531d23d6b7bd671a1ac62ab351b9be920a9cd329d30c1891a19701f999"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_infernal_mechanism.png"
+hash = "115416c4ca6b0e2c6682db805fd8d674c555ffb29c3730d73ab6fec0f8e32172"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_kinetic_mechanism.png"
+hash = "8fcbac9e3a2cda8e47004aad9928d14b9c2144cdcf1763d83fd9a22ddd477e4e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_logic_processor.png"
+hash = "78c4755e4ada7116fdf83ba0c3d186a95858965422f715be675421a1fe353542"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_sealed_mechanism.png"
+hash = "ae6ac0aae5f0d06c067c78aa1d968164606382e3ac889789f864ec000c1ae12a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/inductive_mechanism.png"
+hash = "b52228a7dd5445819a3919984e2066d521b677b543c78e845c498275362e9238"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/infernal_mechanism.png"
+hash = "d743f3fac69f258e1a6f218fee31bd8631986d5a89fbfba8401bf0d86446ba5b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/invar_compound.png"
+hash = "31738db964f00746d5345a29405ac2e854c96d85a58d082f80493a28288457ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/kinetic_mechanism.png"
+hash = "5245721f0571489fbe4152ab12e71a2d45002f00fa6003375dca45bc6766700b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/matter_plastics.png"
+hash = "aa9ccbd524b5d8b1c2b3d50ebd4868d7c8969d06185686c3a98315f04a23fc6f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/minus.png"
+hash = "3b9f18e673f33ec676eaddeb0a112ea5aa44c2bf46a252f49219d9a8d88e9f0a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/minus_cast.png"
+hash = "af2216dc53790bd551fe4cb95c8a5037fef39cd244462635d15d7bece42480af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/missingno.png"
+hash = "96d73582f96e0e9b1eb0a7194b5adac23b88fafe8586fc4c102d256fc8d5018b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/missingno.png.mcmeta"
+hash = "806a15c83ed1f2b1c7e6c60a9fc443edd193f3d59bda2f90c43fed63879c5c95"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/multiply.png"
+hash = "c16e827eed2225ec99cc9f121313f3b6e6a26ce416fbc17834a7de74a0a3b139"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/multiply_cast.png"
+hash = "948088647ef76df25e7f511367e58d25654ec1c7264822ae61dfd648fafdd971"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nickel_compound.png"
+hash = "8e4fb1f9e87af6ec27e2a35d099dbb67351758acb81b26541f95d904861108aa"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/nine.png"
+hash = "3db7e3d06ce29497d075521b45de19816295ff78c12cdbef047f81a1a94db823"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/one.png"
+hash = "12e2d59c9bcdd0a3c04f45d2d24262b406a7458d28ad461309d071cb0465dcd6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pipe_module_tier_1.png"
+hash = "597cc2581f51eb354807a2377eeef34a13274f99fa8b1f6f68b8d5288dcbcee1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pipe_module_tier_2.png"
+hash = "e9f44bdc52f0dc86bb78aa364460474f1241466011f730dd4c32ffb86067540d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pipe_module_tier_3.png"
+hash = "a4e16a85171a131572d52813552f6ef773ff768870b639acb13f0fb468606a2f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/pipe_module_utility.png"
+hash = "d325d273b4f02117e259dec82dc1d1959732fe61194f699322f4f1f2f50bcf44"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plus.png"
+hash = "ed7aa2bbd469910cdf5dbcfa2966fbacf6e87b23ba4385fa8884e6fbc20b3451"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/plus_cast.png"
+hash = "5dd17fa27ad209d26f5277d3cd156154bef90fc31e7432c7066e3c2c4e196aa5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/profession_card_0.png"
+hash = "3a49959040293c7a3cf9620b3c05871938849a6eb84e8064c93646052e3fe3ce"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/profession_card_1.png"
+hash = "b03e0600c6678cdb6caae8f87a067157e990f6cb13061e0a4c3d244446e80d7c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/profession_card_2.png"
+hash = "7d18fbee32013bc932f162a84d615beae80b99145916cbeeb401db4e50dfa8c2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/purified_sand.png"
+hash = "850da4508df2881a7758193fcc78e3a0db38dce05f0d2a3aec2809d84490e704"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/radiant_coil.png"
+hash = "d2baf29326abcec7e9b22ab00fa032be9a9563cca1e94f08f0f1fc734d7bf6e4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/radiant_sheet.png"
+hash = "d5a94e8f0066a3f0307b1d361331fa510929037d4ada0d77fa8f6f8d394a08f9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/rough_sand.png"
+hash = "6bc7d2e34fb803fa863b1c689fdf6bf8b3b31d9e6079696c1715a2d70d14200e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sand_ball.png"
+hash = "23a10b1114fad05626656b4852e5f113c01b7e379061a299412d81312fc969a1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/sealed_mechanism.png"
+hash = "5322b586fd584392c593a553fb0802c2a849f4156fd287910048eca9b8953115"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/seven.png"
+hash = "da0eb5a17bd31fe1e8d029d18eab450232681995827afd5eb19f4cca5369e622"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silicon_compound.png"
+hash = "e4850ce80a4f51c82d2737f5fdf8fb3c81e5918d17a0e4b6f218394c10970860"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/six.png"
+hash = "f854e8bf958d4ce960a2cfd2a85af4a0be043a4549edb4e400819e4f429bafe7"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/slimy_fern_leaf.png"
+hash = "43908221e938c87ae2be5782f99b542ec7b357a6f9f33e0d998c5f09d07ea746"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/smoke_mote.png"
+hash = "da3747835f357941560c84d4c837552e2ed4409b89716de4a8f77a620e311902"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/thermal_cast.png"
+hash = "1c5faad825af147cfde9f7543cac9bf9413bf8d9a59e11b33d527058e12b900c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/three.png"
+hash = "7ed3dd6eb8e6ee6adb670fca1cdbf38b0090952b969c46bb60394210b4eedb2c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/three_cast.png"
+hash = "fe010f2f1f17726cc977877c7ea14922246e7279bd6e446d54b08d24e2478977"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/trade_card_0.png"
+hash = "221e83e9247ad084c7beeb201a238e738e5808d7eeab62f60c85e9458b965116"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/trade_card_1.png"
+hash = "f46dba0e09d5f2385e9aebf24d62967289ead927fc80d7fd8d8f9a6dd2b4c9de"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/trade_card_2.png"
+hash = "f5b93cb86004d2a3323b92091fffec2f72d5543d29e88a5e201b86b5ee58b632"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/two.png"
+hash = "8a96c041de8cd97ecb225d8b8318cc8d76afeba9254777c2454a43be8e13b323"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/zero.png"
+hash = "f4972e5b065c6b1dd7aba4cf2f455828da72ce1716a3d278b3e39b5a91bcdb30"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/zinc_dust.png"
+hash = "1c1f59ec9b0c7120de38e94bb2216a398e5c1efb7affa20511f5120d11345a78"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/zinc_sheet.png"
+hash = "0b09a3cf07b366b1d34563e3469e1b9052768235a1f73c08be745cc894778abc"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "1c03effb7e5e7b671bfe11d0246d303b695d7f5193c7ceef62306aa8b3a93d5c"
+
+[[files]]
+file = "kubejs/client_scripts/client.js"
+hash = "94e4a8b57fdc5e30dd4b49dd0eda65e430ef4aa1c70fa3e946a5ae3fb6552765"
+
+[[files]]
+file = "kubejs/client_scripts/ponder.js"
+hash = "96ae039638cb637b43ab32a1005a8a620fb4d9e2ecb730e15af8fdf7d04cbdf5"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "45d0fa7987f52a357bd21eab3d8bc3d41d5464656a1d82eec7769105cc255a5b"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "0ce6c9705002b5ed780beee8b337c0cfc4d220c17049541f6c980a19b359401f"
+
+[[files]]
+file = "kubejs/data/architects_palette/loot_modifiers/wither_skeleton_bones.json"
+hash = "b8584eca87818212093c50de288d49add94ee7cf6ed6f6c297a5afd961cc5647"
+
+[[files]]
+file = "kubejs/data/buddycards/loot_tables/inject/fd_buddybeans.json"
+hash = "7e95a5fab594ea40315eb56170e68bc4c68d983d8d62135dfc35343a34ea7631"
+
+[[files]]
+file = "kubejs/data/custom/loot_tables/chests/moon_junk.json"
+hash = "f9b66f33e43e134ac367044e6d13f0cb30bb5c51dd4fc4a30f6e58c78bc359cc"
+
+[[files]]
+file = "kubejs/data/custom/loot_tables/chests/moon_treasure.json"
+hash = "6570a743b418b8c8113a1d6aa65dc595468ef8c181df7cd0486403e3df20a33e"
+
+[[files]]
+file = "kubejs/data/custom/loot_tables/chests/patience_1.json"
+hash = "82d6e486f5cc4e8ea0d3490e02095a1358570593dfa486523f8482cf4274f9ea"
+
+[[files]]
+file = "kubejs/data/custom/loot_tables/chests/patience_2.json"
+hash = "f433fd218f27b7bd63ac85294bb322662cf9099742c980a142e7427bdb9b8792"
+
+[[files]]
+file = "kubejs/data/custom/loot_tables/chests/tinker.json"
+hash = "d36db9587c434e1f58dd5f25c15275532006e913219a3c24a9ae57989cb50aca"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_slab.json"
+hash = "9bee66b819e4d1de78d01ebedea959ed46ecebadec801ae65ea03ec23fd6a441"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_stairs.json"
+hash = "ee25bcd7739b743242ae54f2f8e213e36acc0e9e7e2c9efb5f2fadbebbf5cc62"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone.json"
+hash = "467e9e03e0adbafa84dcafcb807d2657cf48c186282caaf450bad74f5dfe6c84"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_slab.json"
+hash = "4488eed7d736de33ef24e87cb3ad4c8453623c26a546d2380489894136f2f5e9"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_stairs.json"
+hash = "86d6f4304a972b449d0ab1189bfef743b54af346a8710b079c93b14f0d58b222"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot.json"
+hash = "d54543da785452d90c7a973fcd2f28236dc9e03a40b62e357875035f4f6bfe4b"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_long.json"
+hash = "74672c2d69433ee6441beb285f98f362d014807264ad948ee738f4649a8174ef"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_long.json"
+hash = "8e82b34643c6721089b7d1262d88a54d1eecc67f099f24086fcb36a0406e53cb"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_short.json"
+hash = "7da34f9044af66e05a477e9791e0742b9b6bb64646bce17c7607738a6761d73c"
+
+[[files]]
+file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_short.json"
+hash = "e28a4776b1cde0d5791a57f4d8b64234ab38efc2dc6f658897431fbfa91c7012"
+
+[[files]]
+file = "kubejs/data/forbidden_arcanus/loot_tables/inject/abandoned_mineshaft.json"
+hash = "e3e92273e5cafd66c2f3649aae956734203dd47f82c4e37903dbdd55483460fe"
+
+[[files]]
+file = "kubejs/data/occultism/loot_tables/blocks/datura_seed_additions.json"
+hash = "16501789150fc46ee546cbaca45d6e7e4709f125be180fe253f13e7ad8202416"
+
+[[files]]
+file = "kubejs/exported/tags/blocks.txt"
+hash = "3121a7bbd951442d19df73bd21f24a14f1f05ac4623e983d9acdf498bbebe724"
+
+[[files]]
+file = "kubejs/exported/tags/enchantments.txt"
+hash = "fd6f28821f970bfcd11601a3d2d2ae0ef2f0fac1ac1d7f8558deabf12c008911"
+
+[[files]]
+file = "kubejs/exported/tags/entity_types.txt"
+hash = "99787248f750dfb291e7ed6f0acc10e14ffcb61cec8309c2056457f7fbdf549a"
+
+[[files]]
+file = "kubejs/exported/tags/fluids.txt"
+hash = "59fe585f52f77c148e18cbf02ed26b7f31b1b2cf9b42a8e59bd04862e166a3c7"
+
+[[files]]
+file = "kubejs/exported/tags/functions.txt"
+hash = "083cfb70b536cfc2bbc515b2dff3856e9aa07f67faf26531c44c4803ab51de59"
+
+[[files]]
+file = "kubejs/exported/tags/items.txt"
+hash = "397dd2d08a808c4b2bbdf32c038f8c2122b69903456661007f10ec9f7c866431"
+
+[[files]]
+file = "kubejs/exported/tags/potions.txt"
+hash = "fd6f28821f970bfcd11601a3d2d2ae0ef2f0fac1ac1d7f8558deabf12c008911"
+
+[[files]]
+file = "kubejs/exported/tags/tile_entity_types.txt"
+hash = "9f137569f1e938dfa4c2dd64e91cb6826028b7c00dba7e5e914578f7e8c4a029"
+
+[[files]]
+file = "kubejs/server_scripts/better_dynamo_placement.js"
+hash = "931449e391923a28742116891c08a26bc14369267fe9840299945c6d84fbbec4"
+
+[[files]]
+file = "kubejs/server_scripts/bonkers_chemistry.js"
+hash = "e50b9d5a1c120e8100fd825527e073bae597fd4794125342d9aae62e169bfe86"
+
+[[files]]
+file = "kubejs/server_scripts/express_mode.js"
+hash = "52c61e7ba9da0d5ae0a2bed074b3d302126efe1e1d92b0f43d70ae6cd8517e0f"
+
+[[files]]
+file = "kubejs/server_scripts/loot.js"
+hash = "6f23df524a62ccdcb961f5e511040de3722082ef77a7153a6d2f72dd23149907"
+
+[[files]]
+file = "kubejs/server_scripts/quests.js"
+hash = "53bfe71388f200749b12269066b7c2d0806759b1e1dd94f43024114ad71c4979"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "c0cb8026cdb71f2f540a725c77fc17777e5e8a63bbd5213e0db5a90a4b7a4f7e"
+
+[[files]]
+file = "kubejs/startup_scripts/launch.js"
+hash = "286c1ac76fb02f2f389a83b84b6288206e26d95c1adafdccba75a705a344ca4e"
+
+[[files]]
+file = "kubejs/startup_scripts/trading.js"
+hash = "3e3d7e3d1a82b030f4509db624878d244c2161b43a70d3badf82930a2b19eb52"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d73c7811ad35da54efbab975b0367012124a045f09cad6b1e02c5e880449fce5"
+hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
 metafile = true
 
 [[files]]
-file = "mods/backslot.pw.toml"
-hash = "914fff3a542a08420d56634019c6c6f59ddf046c1cb5e3e7c1f0c846043c4b6c"
-metafile = true
-
-[[files]]
-file = "mods/badpackets.pw.toml"
-hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
-metafile = true
-
-[[files]]
-file = "mods/balm-fabric.pw.toml"
-hash = "b807b54b5ddf544e895877d4c40e6f9a23536279f6ac8133f90098f28733d429"
-metafile = true
-
-[[files]]
-file = "mods/bclib.pw.toml"
-hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
-metafile = true
-
-[[files]]
-file = "mods/betterend.pw.toml"
-hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
-metafile = true
-
-[[files]]
-file = "mods/betternether.pw.toml"
-hash = "4282b7fa7650440b13dc25a7a3f9433b69f4e2701a95315629a8b1e98e304891"
-metafile = true
-
-[[files]]
-file = "mods/biome-makeover.pw.toml"
-hash = "7639475415291bd789f96b8c6f151b6e31d9a3223305bf83bd3f7b0ebe834d8e"
-metafile = true
-
-[[files]]
-file = "mods/blockus.pw.toml"
-hash = "333ba62ec673100991f9c654b7e67a37b8394d66dc29453d22df83a9c2212432"
-metafile = true
-
-[[files]]
-file = "mods/bookshelf.pw.toml"
-hash = "e2571519971cf6cf96636b8222f47a1839990d1f2f65ee5cd80c286925f467d9"
-metafile = true
-
-[[files]]
-file = "mods/botania-fabric.pw.toml"
-hash = "abff7ae8e4b78212fb8b770526c7de8ce388ee8f3b4f207124923420254dcee4"
-metafile = true
-
-[[files]]
-file = "mods/carrier.pw.toml"
-hash = "91325a1416599cdd975e90b1ac2435f6c75b6afc7e56b30e9582567d2b02e216"
-metafile = true
-
-[[files]]
-file = "mods/cave-enhancements.pw.toml"
-hash = "372d2c61e6c08730a7547d24520cdba676037981f79b193b9976633e39e5e2be"
-metafile = true
-
-[[files]]
-file = "mods/cc-restitched.pw.toml"
-hash = "1fb3cbb8ef71a59fbbc722afff7f4f9a9bbaa45838caf0a99f1ed4fce96a4c6c"
-metafile = true
-
-[[files]]
-file = "mods/chipped.pw.toml"
-hash = "5b959ed2914ad006d1ad11579656c8a263c9f4293e85c0931da104be20843a10"
-metafile = true
-
-[[files]]
-file = "mods/chunky-pregenerator.pw.toml"
-hash = "8f26d033fa27c4a89a9327ede2edabdf06273bd4b8c6efb2f711ebf35e6108d9"
+file = "mods/chisels-bits.pw.toml"
+hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
 
 [[files]]
-file = "mods/collective-fabric.pw.toml"
-hash = "2d6b666637db70c5d43cd68d90b4075b6ad06adad9b49f2ecfbaf6a42e25dfe9"
-metafile = true
-
-[[files]]
-file = "mods/comforts-fabric.pw.toml"
-hash = "89a198dfecd72beb0d9b599d14188650d503780b6883b4a2c304251105d7a870"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
-metafile = true
-
-[[files]]
-file = "mods/cosmetic-armor.pw.toml"
-hash = "d89f39ca5e29d9d5457c1ab65eb31fba2349bccc03a33c57823dec5823a18904"
-metafile = true
-
-[[files]]
-file = "mods/crawl.pw.toml"
-hash = "60906ae763074f3a483983e31fc771f69181315740579d69e39f961f1aea4731"
+file = "mods/create-chromatic-return.pw.toml"
+hash = "9a3baf483ace6e254cd1baced5e50d9eb464b727bf579feef9a863d3d8864f1f"
 metafile = true
 
 [[files]]
 file = "mods/create-chunkloading.pw.toml"
-hash = "9ab12f6fc06f410774882633ed7544b22c7eb0d12a8418b349b7c4093e42b215"
+hash = "99c9c05bcfaf416d6e807b30d0821de667b283e9c43562bdf4ea384121d77a7d"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "93ede0321cb3525c62a3fbdffcf9a96413b02bbf054be920c92fcbf25a17134b"
+file = "mods/create-confectionery.pw.toml"
+hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
+metafile = true
+
+[[files]]
+file = "mods/create-factory.pw.toml"
+hash = "a667a81f6ee2fbb112e0eda2660b0c44d4fc00cb2794fbb4ec24d30038429350"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "4408f4667a2200114edd9b5ef70e6f24318e07bc01258a7ef05d5b952fc7570c"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "bcd2682f3a80b4ad143f8d8a5f672b7c2beb2ed12dde4a16a52c20d9bcbc748c"
+hash = "144730b736b78ae7fc1640496106096ba23b8233b50b443e6c1bc934d21cf4f6"
 metafile = true
 
 [[files]]
-file = "mods/createplus.pw.toml"
-hash = "84a26eada70c919e518bdc9f51f1df2b5283d98b6b1acd1d0ae33f162b5e26df"
-metafile = true
-
-[[files]]
-file = "mods/dark-enchanting.pw.toml"
-hash = "1965a12b3c48cdefb67492cf848f2e334a234519286de49fd9259bc79742c76b"
-metafile = true
-
-[[files]]
-file = "mods/decorative-blocks.pw.toml"
-hash = "f656cceafd2c7c50a3cca0997da62fdadad4a5525528dafccffc860f2b0f3ffa"
-metafile = true
-
-[[files]]
-file = "mods/default-options-fabric.pw.toml"
-hash = "42844974787f15c97fe72fbdbf2cb0d32f747f6d7e0c2101540973f649cf45d2"
-metafile = true
-
-[[files]]
-file = "mods/earth2java-fabric.pw.toml"
-hash = "7734ab62ce79d98314b447833b6ae710cf7b6c1f325f10d36072d21b8f3824d5"
-metafile = true
-
-[[files]]
-file = "mods/eden-ring.pw.toml"
-hash = "a67a8cbb69525c4b5771ca749290188e59db1b0211bfa6be10d2f8145a4e6a3d"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-descriptions.pw.toml"
-hash = "f268b57b85a75f91428a95c444289a45b5c8018967ed1758821a2f63e4b0944c"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
-metafile = true
-
-[[files]]
-file = "mods/fabric-chisel.pw.toml"
-hash = "7cc2807ba2777fa8303ee16393523a8767fa7f9c49fb71a094e62c1a439a25fd"
-metafile = true
-
-[[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "91520be992ba24e8b7a4e5d5b9dc3f20ad2807d1c789f20eb0583c5fdfaa0401"
-metafile = true
-
-[[files]]
-file = "mods/fabric-waystones.pw.toml"
-hash = "413d0984a3d66fa6b1136956a77ecafe70e0091ea24da4b016573ee3f1e06d0a"
-metafile = true
-
-[[files]]
-file = "mods/factory-blocks.pw.toml"
-hash = "0a4db601cda940edb820c7fcfb87e3461075e809e8f6dc8ef33842c2d6403d32"
-metafile = true
-
-[[files]]
-file = "mods/fallingtree.pw.toml"
-hash = "f4e2a688b20447f37e6cfca27bbf764f3448021a7c93fd54e33fb151bc6fb0db"
-metafile = true
-
-[[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "6b80ea71efc2b7669d5215dab98b10e648fa0a7ffb1da2cab3754dc1fd501ddf"
-metafile = true
-
-[[files]]
-file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
-hash = "c178b68d473bba33bf17fccaccd2ec5c76cd68e9e96accda07145d6f7aef2b8c"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
-metafile = true
-
-[[files]]
-file = "mods/geckolib.pw.toml"
-hash = "f229f210a206b6a902cc60f74ed299b141279695a2f970d9fb3d5445975e02b6"
-metafile = true
-
-[[files]]
-file = "mods/go-fish.pw.toml"
-hash = "6064b8f1be0463783bcd84d401b52bc2b168fc22b27c706713b1e4dbc4bff679"
-metafile = true
-
-[[files]]
-file = "mods/guild.pw.toml"
-hash = "b4745e1dcd7e3869a0047dfcb78eb8cd7d5b528bfb97e544aecfe251cb51f2bc"
-metafile = true
-
-[[files]]
-file = "mods/hotbarcycle.pw.toml"
-hash = "417207595f4f7bad7fd126f074d9b812cf55ffce2584529667c6965e64965862"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
-metafile = true
-
-[[files]]
-file = "mods/inmis.pw.toml"
-hash = "1d0666c8b8bee80277b90ad9c10f0a743657894830bd2f1a5983c4b0013a8682"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs-updated.pw.toml"
-hash = "4260894fd18d9e593e8364a0ac3aab1ac7ba6b654010a928f05f12f1e1a83006"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "2d3c10d8c134ca9e5a24b0aff53bdf17e8702b8b8b5b997a0b8a542e0361587d"
+file = "mods/flywheel.pw.toml"
+hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-create.pw.toml"
-hash = "db91b71e52569b1b2e06b7cd6756cd99bc4795266bb6334abc5cbeff47a6d0f9"
+hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
 metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "50587143a6e103086389a98ede6991470f831811839aed5b4e9e2e7c884cee57"
+hash = "78f183b5f49e725daa7c6576e9f390370a0795bd380d4d96810037d4b6f17b02"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+file = "mods/mantle.pw.toml"
+hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
 
 [[files]]
-file = "mods/lil-wings.pw.toml"
-hash = "84fd36af4ac8ae290f5f14e6369a428b45741e4084401f7f03729ce93a73373d"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
-hash = "5ba9b8d7cc67b41a8a58f5348dee264431c507f6548b39f25e01d9576be31855"
-metafile = true
-
-[[files]]
-file = "mods/macaws-bridges.pw.toml"
-hash = "ebbb66ec2c5d8ec1cbccccc9d93ed170409a0f4abaefda5dac0b921159ce5dac"
-metafile = true
-
-[[files]]
-file = "mods/megane.pw.toml"
-hash = "9a91df0b4bd7070f69ef1010e994626d118e6f02c6871297f567aa994023b062"
-metafile = true
-
-[[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "f61810be98ef52436d3355ecfa4354bc47d142cbe9468fbd14415e5bc6d66125"
-metafile = true
-
-[[files]]
-file = "mods/modmenu.pw.toml"
-hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
-metafile = true
-
-[[files]]
-file = "mods/moon-and-space-dimensions-fabric.pw.toml"
-hash = "e054c2574b17da77170e8202bb25e2ac12d8cce95b6315219f385baedf9825f1"
-metafile = true
-
-[[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
-metafile = true
-
-[[files]]
-file = "mods/numismatic-overhaul.pw.toml"
-hash = "b6c9387c15a451d3c5805a24b4213f644317a796ecd0f2dc53941ff211f967b3"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
-hash = "5fcd8828fdd03f5ad5656d1143ab8c2dfda8415ed210a4ef3602e3562096b423"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "a259b4f251c2f694f3b07f2ef979e726bee9351e9e9af862d6e21eeb9d9fa4f9"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "48c99dfbabd6743d13ce17903a5a3bc27d79d2d6312e311c68e8018514409162"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "997e86885cc636951fa8fa352997faf7f72464aeec93f9c8880be543e95c5292"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.pw.toml"
-hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
-metafile = true
-
-[[files]]
-file = "mods/patchouli.pw.toml"
-hash = "efc2a5c84648fe9d84aaaae5ecdd352f3fff2a81857e53806f6a67d6e67dd845"
-metafile = true
-
-[[files]]
-file = "mods/purpeille.pw.toml"
-hash = "e8f540789a9fc6a8cc328a30c99b04278f234714d7462e342072007e32727a0e"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "66f45a7fc2ebc338933a90d9385494ea9e0c8aef5cb9e872219904f0d0744335"
+file = "mods/ponder.pw.toml"
+hash = "0471838ee06b45e0bb517abefa01189e1b450d43e86caa0baf671c6124b5702e"
 metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "ce702760d6523461d9b563e932273fa507d7c2cee5a2b70c1cdfd7c226528a04"
+hash = "3fc88eca450f5e1421de45926943a49010e8dbdcf8b71f1728313a3b292e947f"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "c3e35edc97f0a420421025be41ba1a3af1cc7c59ccf23143e09ce6c1631ec347"
+file = "mods/tinkers-construct.pw.toml"
+hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "5628d083deceacce3c5927ae23491cd6f2a4382fd9421b3ccc269a5645b211ee"
-metafile = true
-
-[[files]]
-file = "mods/roundaround-inventory-management.pw.toml"
-hash = "e14862433de31f2d93cf5b7458897ea42dd76e2428b3b26802644a697bd995cb"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
-metafile = true
-
-[[files]]
-file = "mods/spark.pw.toml"
-hash = "b55d9d1ea5b5cadde5973123c0c644065f905afff5ea8d3d24c6d6564a7470cd"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
-metafile = true
-
-[[files]]
-file = "mods/starter-kit-fabric.pw.toml"
-hash = "74d5a6efc295d425c3d6c04a58bf921ebe02fc3698a81acb7f0918ef07043efc"
-metafile = true
-
-[[files]]
-file = "mods/terrablender-fabric.pw.toml"
-hash = "f4e0c267402d79fa23c2c439c5776396855f6e5cf4911b38ec664dfcc7caaabb"
-metafile = true
-
-[[files]]
-file = "mods/terrarian-slimes.pw.toml"
-hash = "a90d7b8dcd071f3ee30e9845fb43cb0067ac95d9837338c4ad24793d9666dd92"
-metafile = true
-
-[[files]]
-file = "mods/the-graveyard-fabric.pw.toml"
-hash = "59413db5e1c8787ee09ffdb58ecca16fa6fdd61d8b123ca4c838a6d269c9d869"
-metafile = true
-
-[[files]]
-file = "mods/towers-of-the-wild-additions.pw.toml"
-hash = "ab69426b7e810d0b1812aaaf886ee2034cc8e4dd1b5f8cb000166cdbe54d6cc1"
-metafile = true
-
-[[files]]
-file = "mods/towns-and-towers-structure-add-on.pw.toml"
-hash = "277f342e84421ba39688aee920c71c253cf5f6821f4c4551acd07df58130f3aa"
-metafile = true
-
-[[files]]
-file = "mods/trinkets.pw.toml"
-hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
-metafile = true
-
-[[files]]
-file = "mods/vein-mining-fabric.pw.toml"
-hash = "17c31010674f52c7a709769f0e9d502f5b19d30fac4ab6136dd618ce182012e4"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "ec19bc9cbab9c6d9885b23508db28abdbde3853077849e4abe9e03de144527de"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "8a3b712f870b36fb07b311d5a2edc8059a7843ebfee3b5d4a436d014d48e37ea"
+file = "mods/toms-storage.pw.toml"
+hash = "d6b7c13004c2e6b415fa984ff94baaa74408ecb08038878aa15cc85a4ab438ce"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "44255e733dbfdc66114b63fd213f5529d88d3ae54498d294820ccc9e176377e3"
+hash = "6b0b17a0123f9108f6ddb24662e701a2380b6a347f72dc132e435ed4bea167b5"
 metafile = true
 
 [[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "361431c63a5f00006e30bd651180c0151ac4b6bab72d1ecdcc1762a18d34cf09"
+file = "openloader/.cache"
+hash = "5cd76a7c5fbfa8d048b7f1b5e55da8da4b8ec2e0f87c206ea24f3035aec3f027"
+
+[[files]]
+file = "openloader/data/generated_datapack.zip"
+hash = "74fa60032398602ce12c00ede68c0350f238afea172349cf4f79287a1b0b060c"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/charger.json"
+hash = "c7433225629b44933ef523354dece132e7d88f99f74044ae7840ede59c40e853"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_base.json"
+hash = "d7c688fae57848b1ae892e8d23c65b7af02cae20632d65f2a1f141eca84bd2e9"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/appliedenergistics2/models/block/sky_compass_pointer.json"
+hash = "7c61f063fec3b4da91192597cc0dcf5602dc119563e38efaae9b3a92da2c2cd4"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/charger.png"
+hash = "99ee592f177d8cfd8d6175318135c625109895dca004de13c2e5574306d35f83"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/appliedenergistics2/textures/block/sky_compass.png"
+hash = "8e44e0ca01f1f76935e8363a80cddfe9aee2926ba5b865a681ac834b577a9e93"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/calculation_processor.png"
+hash = "e806ab2ae269f7f6644764c7517fece648823ee9babc9b2519a95b6ad84f0853"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/appliedenergistics2/textures/item/printed_calculation_processor.png"
+hash = "ef36d793d83335c4bcbcb31b6f1d48c5a2c3b909023c0e630801e1dd0019f268"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss.png"
+hash = "5efa0795ba4caf73751c2a6e0c7071764e9a6ae36a9b82630330364b53442911"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/biomesoplenty/textures/block/spanish_moss_plant.png"
+hash = "41920d6fe104a545add0941976aeb850fba7bc8ae6c306b5e192c425bdee0882"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png"
+hash = "4355329c54c0f386e2a13a36c9a24135175fe6895bedd7728432bfcb8d7a3797"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/chisel/textures/block/tyrian/plate.png.mcmeta"
+hash = "cbba32b62b675f17883a65269e8942c1ee57fb9a59c950956d1f35babd722035"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/cofh_core/textures/gui/elements/scale_compact.png"
+hash = "2082af5626be261ce55ede213a70209af202c3fd3ec562a49776f25e3e0f2050"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/create/lang/en_us.json"
+hash = "b1973c78b4f7a668abab9435b80f124a82c59d9dbb9fe637f13cc11cd64aa872"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/block.json"
+hash = "e9301560d1f20626cf9307509e9280535d6e8b4ac2cdc194ab68d0f81b402586"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/create/models/block/portable_storage_interface/item.json"
+hash = "6a2d721dcb1786461cc0b7f016d2e96e707a74f97b3f58d563cbbbf297bff569"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/create/textures/block/portable_storage_interface.png"
+hash = "e541c36bf11554cfc139f974f510fe6b4d3b25a437aa71095188705dba0e2331"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/create/textures/item/golden_electron_tube_unused.png"
+hash = "6c67ead99bfd6b3f426b87861e833c1135e4e0039c182d82448583dc39075168"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/create/textures/item/incomplete_precision_mechanism.png"
+hash = "2b7803d1723b455200000939f56c794bb8b989dc136f62bdb1ed61df1387221a"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/models/enderchest.png"
+hash = "1f1495d06956404754c551e6d85893af4cd824c5ffc3ba6e0c9c1d89c6f49a32"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/models/endertank.bbmodel"
+hash = "1dc182b5681171b00dfec529771f506aeb81d31b05dd5bed9d3d017f32a2cb36"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/models/endertank.json"
+hash = "668add3089b9c6d740f9d5570814a79a67339a33f5ab24d178feb2a3a5f8cf61"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/models/endertank.mtl"
+hash = "a6864f1287257b451a79c7b4f92da11b1c7a549fb727b6c419de3efeadc66c31"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/models/endertank.obj"
+hash = "3fc1f27ae2dc99ab2e58f11b1d61408f2cb4a6dbe2bd6073e591702352acaab9"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/models/endertank.png"
+hash = "2533bb0577442fe4898ca51e97ba316c9475db2f958fabf1fcc3995603617ad2"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/textures/enderchest.png"
+hash = "deeae8644a88ae18be98911c56dcad51ff4dbc2c1e97b9ba721c01449a7f9920"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/enderstorage/textures/endertank.png"
+hash = "7834d42c094b96aad41487742c278ed21da4f8decdac8811586dffa56abf1a75"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/extcaves/blockstates/brokenstone.json"
+hash = "3bf728bca75b8903e65d76078aa551b9ec5626f1cccbe203f5587a99c4fa07d1"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/extcaves/models/block/brokenstone.json"
+hash = "032c2d4495c59d8c229f2f19c20f2dfa82cc4f77dfba83b06935bc9db2bfd446"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/extcaves/textures/block/brokenstone.png"
+hash = "1c2a4a5a0e11af0f931e0cf9b12e928ad17f60466968e18c2245854131e7e2d6"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/libvulpes/lang/en_us.json"
+hash = "f6293909c3618546f3bb7cfe60419e8f4918c9ae66a82a1ce0f3878d0e85a27f"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/libvulpes/models/item/linker.json"
+hash = "bd02a2594cf2b1b425f118c339d14a7ad8646f82c769f4f6aa670d35dc021184"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/libvulpes/textures/item/linker.png"
+hash = "6b576a1c9d706691d424b1e6cd3a8e1578e74091a80b5b0168fb1539bd05c65d"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/lang/en_us.json"
+hash = "f909891978e744494198e3cfaf2cea0c25237577c1368b675623b767fb6c2ad0"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_bottom.png"
+hash = "06a4b31612ae8d3ae21206f4bb9216ec1be742d317e9f78aad34c4c26a106c9e"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_side.png"
+hash = "e839aa565893b1f08026063ea1d8838e29494929b360904656dc8275a8dd2d96"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top.png"
+hash = "da24ba540e6b3cfcb31ab35b0290b57f0011ade4773aeec5a96e2d703f505050"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/copper_barrel_top_open.png"
+hash = "49c07afa917192e95a6ae973330edf95632231bf6ce17a3c3e622e38aa856a4e"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_bottom.png"
+hash = "bc7bbed8d50936babb6cd7104aa48bf87cd400d81b1d31581ada8f8204ff8900"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_side.png"
+hash = "5f33162dfb3f6b3c24c939fffb36bad2c472749b4b09abb99ce254a0330d391f"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top.png"
+hash = "d02dc74c728fc04ae4e5b47c09845e8204c891456969766f1655797e9eee0066"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/gold_barrel_top_open.png"
+hash = "9608d8d8677216b882b13e678771b747a6be7041770d09ac0acb43f6104a8d49"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_bottom.png"
+hash = "43cfedb598d82c36e7f6e4111ea3ca1e60504db9af8374a55678a43c6a9548c9"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_side.png"
+hash = "518681950a7da7b76435e6c35f06caa646754d379362440bdbfecee27aeba0dc"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top.png"
+hash = "9da2626c86eb5d95d019388f6fc5961a0b047e54c61b15a00f1bb46d0ccc83d2"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/iron_barrel_top_open.png"
+hash = "74ea6c575b5742467344b50c3edc8fa81ab59617e50afe001f46566b09a36c1b"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_bottom.png"
+hash = "ae5f321eb12dc6a57596cd2b3dd2db94cffe6dc7671f77c1dc0eca8ae07e1117"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_side.png"
+hash = "fe613e8e60de5f07eeb2467c3d9524914826e7a53e843fa94e2abc435bcd7c04"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top.png"
+hash = "cfcf76c87d1e2ac3113877b286bd02d186dab181644d37fb403b7a14c106e2d5"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/block/silver_barrel_top_open.png"
+hash = "3968e4b13247c8c58d95ffa2af07d4b4da7a1e2d4c264c1889ebf001577b6309"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_copper.png"
+hash = "eec40eaf83be7e82089b95edab8d60df4b76e11c3da66f16998d7a0136f6782c"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_gold.png"
+hash = "245867aae2f01ce16054dbf5405374ec886b66758d2295ec9fcfb4f1c29f7ea4"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_iron.png"
+hash = "85f11470523bd0fcbb527f9b32779464fc976e0659f042d9dac73c8eaf756bae"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/metalbarrels/textures/item/wood_to_silver.png"
+hash = "c82125a03710a6f9933ce825885de995c5b06acbc8f3ecdbf8629d73502fdd12"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/minecraft/texts/splashes.txt"
+hash = "36a9e7f1c95b82ffb99743e0c5c4ce95d83c9a430aac59f84ef3cbfab6145068"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "469cfba2b5e089e0aafabb4c4ee912f453dd149b90273fb155493bbea758f566"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "a815b4ab8f39525a84cf427a1da3fdfdd427c32f072efe6ae20de3a9d04f900a"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "a82c51ef5cc31d31a9b5560d73f48fe4ee06436e98dae5a77a449690bdf7ca8f"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "a25b967d212cf23ac4b3909cfe0600f70b0a47b93c1a02d1def4ab8aa7ef12bf"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "ab9124635d718408f6bdeadabc6ff7667f11f3093866d6bb25ecf046d645b8b5"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "2f5d101242feb1a1c9b3dd77c68cb718846c8afefce0d5b4b6f1b2ed32e3677a"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/occultism/lang/en_us.json"
+hash = "57dc06eb5c4de23cf7c1c3c3e906b80c9e1b1cb82e10a4d491b266e0c55ca3a1"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/occultism/sounds/start_ritual.ogg"
+hash = "abddae34e33bc1e1f1c719f9ae8aae69579d20e28ca333c6dce187329f6f635e"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/blockstates/energy_pipe.json"
+hash = "80afb48b0ef77bed82c8a274807d4745f4d8f04335db6934b19a1850af7700a8"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/lang/en_us.json"
+hash = "e880763ea46c6a5956e60aafd1f554d2338da0b2b33d881c60e91133bb9f70ea"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/bottom_corner.json"
+hash = "7038377b8c7c60f4891215acd3006774da08b0798b679093121523150491aec2"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/cover.json"
+hash = "61acee8b4016b18715949294ca0a1d69ea161affcc34ee05a4912de46e550de3"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/end.json"
+hash = "3d09dbe9fff4d39cb462bcb12282827ee92dcd39a74fa92c2fae28a7ca7e4d23"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/energy_pipe_extract.json"
+hash = "8de7bd76b4e3fb35a8e1d1f73a87f0d836cd40dc966d31490667f8a85fbe43b9"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/open_end.json"
+hash = "006fad4ed128b70da1c2cb0c0e0b3aa3ecdb01dcda6354266d0b04db6812f559"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/side_corner.json"
+hash = "76c5135ff9dbf2bce29c27c2cfe2f57910cf475cc455225044f1305d2b7c104d"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/single.json"
+hash = "39e8f9e767ddbf62677099e4ae034b3abd86efe3fcaa66fc53a80fc0c0154524"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/top_corner.json"
+hash = "7666e163f7061f10634101c9089ed4beb688159a7b8651b3751e84638394b678"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/block/window.json"
+hash = "768e75d61c639d82ee497ce5d80f2ed09d430ae883c12b1dd3875c8376aa5858"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/models/item/energy_pipe.json"
+hash = "5d1b62e45a7f890b840a7fcdce863f41ca4f83fb11837f9233f218cfca232514"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_cover.png"
+hash = "4cab574e4fa7df77930e8a9a2d2c5caff0fae1f0597e0e200a11a093ecf2d875"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end.png"
+hash = "f3cadc590e636907088161e3079aa9a3e6fb931da12c72d7e2beb29f6830658b"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_end_inner.png"
+hash = "0074ada88984af2392a52ed38953e0d69b744bcaf693e68f84c5c074d76fc56c"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_extract_overlay.png"
+hash = "36b0a92f1e4ba6e152e11c8393ff1a98b91d1054d5626a49673b994cb270ff9a"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims.png"
+hash = "3bf151e39a3b75d514b1359fde36cf37e48f33b3a61339d425102131924c6d59"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/pipez/textures/block/pipe_rims_inner.png"
+hash = "f35e36923a96483b501efa583a34097d8c1e7d010351d72c1123ca0d7e66b4b9"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/blockstates/pipe.json"
+hash = "6cdde97a607f91ca000ed191cb2f13b4c990012eeedd22844af0881c595c80a6"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/lang/en_us.json"
+hash = "2edab60e687bd28f1aa9d8de3ad629052aad4c06d8810270723c5d288f55d79d"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/andesite_card.json"
+hash = "87a582eca912b7b43d507af4b04c2214e304379a8f5d3c2dc27aa1effdb1e48d"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/bottom_corner.json"
+hash = "ae22e5c02ce318a40139fefb48880420cbac3ac03ea8437adba67c5cd2382adb"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/cover.json"
+hash = "db70b1422004809936a3a6f9509fa00ba68413634d8e456dc1395812c9c857dd"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/crafting_terminal.json"
+hash = "6a5e17e6e908d77082608fe8ff4ec6c6759c1ec17037f5d94d0712c546f34469"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/end.json"
+hash = "74fb040257e92500b2e8114113aae289a4ba480a63a9dfbcf38bb2fb0dbfa2c4"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/item_terminal.json"
+hash = "6b4f9c801768b8ef8fddfe744dca2b2f732da966611b098cb5e9881bea92ecd3"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/legs.json"
+hash = "acff5cdcd34ecd8252194a90ba19d02c187b9e8cae59f3f3ff95942b8985ecfb"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/open_end.json"
+hash = "6fe5901b73a4beac194c6c778f5ed0bf1e2bce2a341820d7c9ca6df1502f7226"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/pressurizer.json"
+hash = "e0f6ac31adf738bcc894a5563e9bc641ff21bc68d472609642d51818280135c2"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/side_corner.json"
+hash = "af5b1532c9eb6998c6ae8bae0b615d5824644fceeac3d62c0fe4a99a2406cdb4"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/single.json"
+hash = "c6ab66fcfbf0e5a1a13bd5eaa127af934ee6450ffb81592c1c8a2a255255a8b9"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/top_corner.json"
+hash = "4d2828ecea07fcc86e29c02023e027789920c8dbf9a8545336f3174a26d4e4ec"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/block/window.json"
+hash = "6ba2ab9af5a6ac74a4760cb70768d647eadfed26b93f1359a7a373cdbe71e2d8"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/models/item/pipe.json"
+hash = "92adecbb2095799ee5efeb0904afc49567f781b8162cfd830a67fc88123d8911"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png"
+hash = "e7f1703eb6713643cdc8ea1ff86b15063b322cd91979c92b202f8fa3aa08cc19"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/fan.png.mcmeta"
+hash = "1849f79efdde75bbe522109e7d12eb38c1a5644f5e72d84c40e410c5f6190d40"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_cover.png"
+hash = "173ad26b7006e377147e916a08fc1b2aec729bfeeba3bd13392b14a44eca6118"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end.png"
+hash = "1d006ca9f023aac1a98173485e5c93a971f0ef644db25bfd86522bc240f1ab90"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_end_inner.png"
+hash = "bf96158aaa2611b4c03dd4011cf654e257c1cc51bf57c08a883851def20f34a3"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims.png"
+hash = "f9971e9a74ef44ddccf2f003739dabe5d573ec4a951976c6689e1cfa32cc2039"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/pipe_rims_inner.png"
+hash = "74d04558c9efe77584f000e9930129419f31b5e46bdae02c3d61e68b417f39ed"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/block/terminal.png"
+hash = "70052b27bab0b98e204b3461a9fc47fd2a6af203f916139401e34951d681cbed"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/prettypipes/textures/item/pipe_frame.png"
+hash = "3875af4a7cb688ae6dd2aa1fb18411d1d3203e728cb0b2b0800b64d713f18e36"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/projectred-core/lang/en_us.json"
+hash = "1a73da19c2bfd9a57647849578f4ed6fbf4478274a197ee5988f49e28d00be63"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/rubber_duck/sounds/rubber_duck_use.ogg"
+hash = "2d5f4afb520569e6dab398a33962aca83b542f7159499a86cbe8883b0d8027df"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/structurescompass/lang/en_us.json"
+hash = "8222924060614996beb05dbd0cac37d70cf607db9f166ab68b75b24eb2dd30cb"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/tconstruct/lang/en_us.json"
+hash = "783f426596af21ca1beaf09080a685df9fea1fa08a656abb4e2f75ea707410b5"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/lang/en_us.json"
+hash = "fb322918e886aa1ba43a1834c55d0e97a68b2296c54cce5e3b22957d6a085b94"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/models/block/machine_press.json"
+hash = "8e3342cfeb3e360f11fc76df3c3c28ecae4c7aa279df33843ee89aa499126e14"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/config/machine_config_accessible.png"
+hash = "a8d5d7b023bba6892da27797fda80c3937acce01cec59e73e3252bfc771ecf12"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector.png"
+hash = "88fe065a2eda8104a4fb56ec7a16762a5ec22bf4246313a8e1adeff249d4ce30"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_active.png"
+hash = "382ce4caa38b9262f994a4bcbf625abaa0a9cbe6aefc0004d7f8c61ccf822e51"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_bottom.png"
+hash = "c19ace8e788044991a8632d515c370cbd6a2b904a7f3a15459fc71ee86585c14"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side.png"
+hash = "1fbf24f60e997880bbb45d26a9f9f6533206acff41b87767d8f78b4ee66e32b5"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_collector_side_active.png"
+hash = "ef87550bf05649fc61750074dbeda72d30081a256f2b020a8a1abf5b3b13813a"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier.png"
+hash = "969bdba091d9724181e8efea4a7f1b05a686c40e40f489a4a947568f84c05b7a"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png"
+hash = "4033a1fa2dc3c8c40a85abd92f6677ba7371edd81b5844ccff5f9efec9eb822d"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_active.png.mcmeta"
+hash = "cb0ee815edb33ddee8259fde254c6c008e98e3d7db2c8110bb6a470cd020fc01"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_bottom.png"
+hash = "d89bc7e16fdd667284aa8b6726e3b8d2460ef4dfda06ceafac4c7a349fcbe060"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_nullifier_side.png"
+hash = "accfca6f9139d64b10301db103400374f584499bbdd7ec135df15dc85fb49b66"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen.png"
+hash = "6e62731be8c1b7238f2403e72387395cf5899ff40287281722407176de539f5a"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png"
+hash = "41eb05fc815d1330d0ddae3875c65871c879b44fff75309020ac6396ddbe61a0"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_active.png.mcmeta"
+hash = "a1edce9c4e0c08d78bb2d9045c7e680a55f3c234e790d8ff41a3bb50d24bb3ac"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_bottom.png"
+hash = "05c988e902c4b35f784e6c62a2d13bf941a2250d83fa9036db6e2b2797cadc7c"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side.png"
+hash = "b7ee50f6f24aaf6baea8a50e6b796cf3ba132c7f4937539d2c794cc936335139"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/devices/device_rock_gen_side_active.png"
+hash = "5abd9fa18faea833366002e579c0b1d34b067e35e3d8cdb03bc79b167e64e5cf"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png"
+hash = "6ad774e6ae01077ff184e6f14ab6c16b888aef079ce3ebd6969a93946ee789ad"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/machines/machine_sawmill_active.png.mcmeta"
+hash = "e0f0fa3902b18f3dae777234b3e455a91d89971f1542831e08d218bebafcbdc5"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_front.png"
+hash = "1018eb8b10892932b4ab2a682f89f31726c9b13f04d1e89a482f3a43553d5d65"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/block/trading_machine_side.png"
+hash = "f0b9fbe25e44061dd03006b04aede10199c55d09c8cfe2c6278485be76d055d4"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/gui/jei_handler.png"
+hash = "4a67c612501f6687cb7f76a8910b06ebbb602b698eb7b82bf2039c517c6af124"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_1.png"
+hash = "051ef75a654ae84839014217064a2f41d9436971f3971351741c18e9af349e69"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/item/augments/upgrade_augment_2.png"
+hash = "b33833f76ea2ecc531715eb83aa4127d21cd6f15f5e6679b98872877f1b1a45d"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/item/dusts/apatite_dust.png"
+hash = "254cdc6ed92ad13d8b4530cb5551137b93fa21816d5af0b237f32864a701854e"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/item/dusts/cinnabar_dust.png"
+hash = "ab8acd9ab1c44e9beea84268b228c4e0bdc85103f31186041b5c27267988e174"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/thermal/textures/item/ingots/invar_ingot.png"
+hash = "9ea971450b16ecdef01dfdde3cd3a21384f65b076497c4c636c4a4634e8fccb1"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/lang/en_us.json"
+hash = "5133e56c06614d7e8dd789e9920ea89adbcab393bc4b1aac6b52bda26455dda2"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type5.json"
+hash = "c86fd57f74c699ddf38a47da604a75780103fdb49cc40866fb11a9173a5e2a86"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/models/block/strainer_base_type7.json"
+hash = "cf0c5467efa163d1cb82b3631d87a1e35e851e13ceb020b2338505c7a9b06211"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_side.png"
+hash = "1708fac3e0b0ed657f9935e71992035e1ab56e97f6e475e2b719f955600aa5c0"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_base_top.png"
+hash = "5c660789dd145caf167e87ea3d2404f78cfd6074b06db67ec6f23f97e3463414"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman.png"
+hash = "f90803a8e9efe723ff1c3bd1580bda5a490a43c27345aeba74a8f6dacf9046f4"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/blocks/strainer_fisherman_top.png"
+hash = "aeb148fdb831e3df452278144f36f76a252db270dfeb514b2070ef211d97f740"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman.png"
+hash = "dc5764e5d11bd4c1b5281e9b366ba2c1c4ce45445fb6fff08ac1707afc8c7355"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_fisherman_reinforced.png"
+hash = "b5a9f3ec46320ce960d5caad0415940959cd6c0656540cda9984a97b666fedfa"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist.png"
+hash = "38c9aa34708f1e6c915a541feae52f221b53ebcdd7eefc75e6ab285b11fef3d4"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png"
+hash = "a810c0d3577f92d33e8a74cca7edc9cf8df344a4836927c93d83f2777ba9295d"
+
+[[files]]
+file = "openloader/resources/simis_edits/assets/waterstrainer/textures/items/strainer_survivalist_reinforced.png.mcmeta"
+hash = "fc555f618beb394086409ebe2e231b2814ba58aac12f866ac13ca17407a97460"
+
+[[files]]
+file = "openloader/resources/simis_edits/pack.mcmeta"
+hash = "9e3a2492ffb7a5c5d0cf6876cb8713bb6009c22deaf582a6aaf298566822b221"
+
+[[files]]
+file = "options.txt"
+hash = "e6db5de9101b1ecb0c7bb2102af0b43fea55644728122e7619611c4bc27ae617"
+
+[[files]]
+file = "resourcepacks/better-dogs.pw.toml"
+hash = "f2843ee0900fcd4bf23c7e715547f6c0aef448e941aaa3a6b142f04e756842be"
 metafile = true
 
 [[files]]
-file = "mods/yigd.pw.toml"
-hash = "634a2aa1d860cea4d19639bc80730625d3e063db2543b495ac33c60d7447c36b"
+file = "resourcepacks/create-style-modded-compats.pw.toml"
+hash = "995035381e75c4437dd4b1eba09b2bee5f4b23fb410cf46ea36ed66706a5f22b"
 metafile = true
 
 [[files]]
-file = "mods/yungs-api-fabric.pw copy.toml"
-hash = "b5e74fec582f1dc10fda86a3c41c00821f15471285c2570c7c9ace3316a438be"
+file = "worldshape/data/pack/structure_spawners/broken_windmill.json"
+hash = "4ffd03c8ad439e08e7bccfee01e5c5a2660db901cd0a8a6e2cad5aa0d8ac01ba"
 
 [[files]]
-file = "mods/yungs-api-fabric.pw.toml"
-hash = "b5e74fec582f1dc10fda86a3c41c00821f15471285c2570c7c9ace3316a438be"
-metafile = true
+file = "worldshape/data/pack/structure_spawners/crashed_rocket.json"
+hash = "0df7771f5de555b0438579910d7e57bb3a3d431a0f0e1068dcb3fba41066cfa4"
 
 [[files]]
-file = "mods/yungs-better-dungeons-fabric.pw.toml"
-hash = "155eda7a63a53cce08924e9f9c64aa505b5d7a848f1a592e7ec061154012115d"
-metafile = true
+file = "worldshape/data/pack/structure_spawners/log_cabin.json"
+hash = "fdc8a9559bae334ae6f177c85f2f9f240df3d98b9c0aaf49b463ce1b59b86fde"
 
 [[files]]
-file = "mods/yungs-better-mineshafts-fabric.pw.toml"
-hash = "7eb509430f5866b8ebfef43e21cd4b9a73cf6056d18b0cf2cb4ae3cb884dfe06"
-metafile = true
+file = "worldshape/data/pack/structure_spawners/moonbase.json"
+hash = "cb0704416bbd22fa713d18b27ec154e9f1d6818552fb8c10127f06a7bb8a62f2"
 
 [[files]]
-file = "mods/yungs-better-strongholds-fabric.pw.toml"
-hash = "ddb9cf5438bf572b458b64eafcddfb42fb9f719b8cb4bf07412d8da73eb72ce6"
-metafile = true
+file = "worldshape/data/pack/structure_spawners/oil_fountain.json"
+hash = "5fc10abb64d2abe53618187f82058bcae4d21ba757615d5f7241f8c9d13d41d0"
 
 [[files]]
-file = "mods/yungs-bridges-fabric.pw copy.toml"
-hash = "f5e31a96c4fa606b9be31feb224160b35ee7fdfe425aaba792a6a108d706b985"
+file = "worldshape/data/pack/structure_spawners/railshaft.json"
+hash = "1cf812114099b964a5f19c4e0e9619d94747b147333cf7b0fb6e3cbec8e58e11"
 
 [[files]]
-file = "mods/yungs-bridges-fabric.pw.toml"
-hash = "f5e31a96c4fa606b9be31feb224160b35ee7fdfe425aaba792a6a108d706b985"
-metafile = true
+file = "worldshape/data/pack/structure_spawners/ruins.json"
+hash = "4a57ab257b28af21c735d8b0d99c95201d5037d7123ee5597ccb385497465c4f"
 
 [[files]]
-file = "mods/yungs-extras-fabric.pw.toml"
-hash = "43def9ff7e9948695c694d2395f21254fa857d50a4f8bd6f8c40ebd96655769e"
-metafile = true
+file = "worldshape/data/pack/structure_spawners/slime.json"
+hash = "65b9846d3159fedfb0dfbaaaa8f3f555edbd1da4c76d398004781abd019db5e7"
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
-metafile = true
+file = "worldshape/data/pack/structure_spawners/underground_lab.json"
+hash = "9d9d5e3667d55cc56ff8bc0855f940c5a1cb7747ead9a893cc15cd039f4a6475"
+
+[[files]]
+file = "worldshape/data/pack/structures/blacksmith_shop.nbt"
+hash = "d56498be0adbb6353c75ad0b27b048d86da13d77ee89e6bd204136ef71fcadbf"
+
+[[files]]
+file = "worldshape/data/pack/structures/broken_windmill.nbt"
+hash = "263b359ed8c179ce4a552b1c8c33e61c88fb8207287f468d9deb9f7d2006cb30"
+
+[[files]]
+file = "worldshape/data/pack/structures/campsite.nbt"
+hash = "9019724102ac5015d2559d06295ea9b621933a3e22edccf4c952b8bcbaefb8b9"
+
+[[files]]
+file = "worldshape/data/pack/structures/crashed_rocket.nbt"
+hash = "23c4b6eb8e1e8633419fc8b672681473e750d5fd3a87f1af0eec7e1f65c11000"
+
+[[files]]
+file = "worldshape/data/pack/structures/log_cabin.nbt"
+hash = "2a394b2378cc3f985e9397ac380e3ec205e609001f8392b96285a4bdc8889955"
+
+[[files]]
+file = "worldshape/data/pack/structures/moonbase_cargo.nbt"
+hash = "3fecbd337fc13ad53c2e2625ef3ef0ed556120d9e06831b847b548d509b9057c"
+
+[[files]]
+file = "worldshape/data/pack/structures/moonbase_me.nbt"
+hash = "09f6b08ab8ca2012237daab85b20c881853c79cd00d75e810d2529445b5f554a"
+
+[[files]]
+file = "worldshape/data/pack/structures/moonbase_oxygen.nbt"
+hash = "1ed99eed4d47569d1558f5ffd7abaa5b658dcf67c832e3e23046ce4b8c90fdcd"
+
+[[files]]
+file = "worldshape/data/pack/structures/moonbase_rusty.nbt"
+hash = "adb4883c4aac0ea6180a63c46bf9e75c1e654383672f25324491132f4605c2f7"
+
+[[files]]
+file = "worldshape/data/pack/structures/moonbase_wreck.nbt"
+hash = "0c0d40f8fcba0fabbc5298fcf2c11993cb520efd90b07ef66115bbf936d87d3a"
+
+[[files]]
+file = "worldshape/data/pack/structures/oil_fountain.nbt"
+hash = "da7422d6feb5d99ee162ef50605624f31ec9b54662efb0e16663612af636bf9c"
+
+[[files]]
+file = "worldshape/data/pack/structures/oil_fountain_1.nbt"
+hash = "6f958bdf9e0588b78d2a9eb1ab4edfbbe0d5a876a6d88d9a38bd2ded10389e37"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/bad_ending.nbt"
+hash = "9d1fd4e4e17bb5f5e871e8e9014510e8a5056fb4b9a22f879ca48e2cffa799ad"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/good_ending.nbt"
+hash = "df5e9f6b8e8846d8716b1f607d95298ca1ac2e28da37bf5f01256d379cf41d78"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/house.nbt"
+hash = "9f468f86d64fa99337b48d027260eba538a3ce9ee4e5c9ee0bfaebafcbf04cb8"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/slope_both.nbt"
+hash = "95e5253f181ecaa9edd3a3b62b7936025fc44179799b84015a41834651213441"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/slope_left.nbt"
+hash = "c1bef5ce83069c0f4e50624af9b58fc31008da98f4e7d06851d5e0d13f35c916"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/slope_right.nbt"
+hash = "32c78472e6341989c540f8f6b9bca180512afd816e58d4e02da7c9a3902acda5"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/slope_straight.nbt"
+hash = "057e6b04e2c2b44018c0e774e72db7fddeee29556e54fb845cc370e77330d805"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/watery.nbt"
+hash = "13236d6f0050517c1a7c3dd61ab0f67a6dc8d0f9a3169a1c7158256350389043"
+
+[[files]]
+file = "worldshape/data/pack/structures/railshaft/weak_slope.nbt"
+hash = "538fad3c6e2704106a827b4848b0e6beadd335a2d1e8e56e903ee80ec4befe2c"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/arch.nbt"
+hash = "228bc65a80a73c9a77897f8e79dbec6a851380f65b4dcfe98298127af95b34ff"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/bridge.nbt"
+hash = "404d14c557731631b517f6240edd47b02241fb318d75b0e55b7654bbddc4e798"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/crossing.nbt"
+hash = "9bee3e5fb5151709c6ea4c21c47155783bc19d5e8001880be5e3e9616e67f4b5"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/end.nbt"
+hash = "5ea34d7a11be1eb5e2413240d01b7f9d84c5319f429f2ec2c81c4874b3303d32"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/foundation.nbt"
+hash = "28de39aa71e986d58ed14eefd0b6c9e977638ffa988446a9f68c1411af68a846"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/house.nbt"
+hash = "e6ad2e042b006f0cd22249e4ae2464a00859c2e54e86f1100fbad8a62ba6969a"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/spires.nbt"
+hash = "2b94c3de0c4961f3712c95fa79044331bc6b7860a5f4e74516ff66d0338b063b"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/straight.nbt"
+hash = "e949312aef772f4e9466512f10135ca6de20a6597245391724684eca2373e6fd"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/tower.nbt"
+hash = "3cc4c7b0f3900ba8d99230504156bc3c3c7beb29d3afca677d5be82696006da6"
+
+[[files]]
+file = "worldshape/data/pack/structures/ruins/gabbro/turn.nbt"
+hash = "e7fd5b5372c17311c7f9cb33199d2ff46df71b9dd4e2ab592977456f40a88281"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/blue.nbt"
+hash = "09566981475e532d08c8354a00f0d83283dc3c668033b61f221fef92942f9d4a"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/blue_1.nbt"
+hash = "5c9c33ba43332d72a14f1cc7b11cb67bc23424ba3411c025ece5e6bcc8a712b7"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/blue_2.nbt"
+hash = "ceecbde9e4d74bffe4634796da6a02811ebb71b2e7fd969b1c8ad80d154bcbc8"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/blue_small.nbt"
+hash = "de9e0a4108cd1b2fbb99dd180fd5dd4640154c2e0b0ecd74c70af384da871b0b"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/green.nbt"
+hash = "15b2653825cb32ca4a53cd7987e2c223ac6879fef96eb3624a6aeca02b6dca28"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/green_small.nbt"
+hash = "e27aec400af41bcf4014630dfb0da59f6a0a97724bdabdfffba285e39816339e"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/purple.nbt"
+hash = "0afff39dd0f473c6a6d5a4eb29fca2e42c3f8ea1b686bd9b2d44e2190da7cc08"
+
+[[files]]
+file = "worldshape/data/pack/structures/slime/purple_small.nbt"
+hash = "329adb4777e0ead7cb86644a5b46c690ba93bf01d3dd25d20b489338af45f210"
+
+[[files]]
+file = "worldshape/data/pack/structures/underground_lab.nbt"
+hash = "035dccdd94a44f7910ce44f350476d90c738ad63e7fcfd77f0eaf36d94373423"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/moonbase.json"
+hash = "2927a915a1e81c1bce97962efe913007626e623762100a9761f445c3f550a619"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/oil_fountain.json"
+hash = "8df40d080efc418e9b09a1ba4617e83cdfbc9e2097da6b05af35c146f1b12dd8"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/railshaft/after_horizontal.json"
+hash = "e26e40b57e67d5f92f35f7efc2f4e4cb5431c96a225a12d6f4cabe1d74c7899d"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/railshaft/after_slope.json"
+hash = "7a7088100160bf1ffe7bc94fe72d6029ee29e08f22983eb602c1296578ba4547"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/railshaft/first.json"
+hash = "2d24c7b2e677153ea0402a0a95e3d250243971ceb69d5df13de10b65a7989a1b"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/railshaft/house.json"
+hash = "661d65b917a3e5ba96b945abb884b72eb9b0ce7dc14e66e0bf2c7b0a4c44f0f3"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/ruins/any.json"
+hash = "bb60e3652b9a72b2538d8df59f2dba779dada9e9fe253e3c1147bc98258d372c"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/ruins/gabbro.json"
+hash = "a671f6fe38d5fd7d61c04c9e165e6da4a8c49af069a1b2bb211366423c6c574b"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/slime/any.json"
+hash = "b62a61527b71af5b0f0c9bceeb316632023193460f67019f64c1db429d1ae497"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/slime/blue_1.json"
+hash = "a9b48cc7e8a3f0edfdca1227158d30bd8dfd21e6bb464e67673c92f796087d3e"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/slime/blue_2.json"
+hash = "4670ed2ba4f3b4d03ff98872b65ec207f9e0f349cdc65412949343fdb183cf26"
+
+[[files]]
+file = "worldshape/data/pack/worldgen/template_pool/surface_build.json"
+hash = "02db36fed8254808812cca0e3485205c548504c705bccdd6ada501fd186e4533"

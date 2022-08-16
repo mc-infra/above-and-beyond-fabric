@@ -1,9 +1,0 @@
-name = "Towers of the Wild: Reworked (Datapack)"
-filename = "Towers_Of_The_Wild_Reworked_v3.0.0_Waystones.zip"
-side = "both"
-
-[download]
-url = "https://github.com/WaldiNet/Towers_Of_The_Wild_Reworked/releases/download/v3.0.0/Towers_Of_The_Wild_Reworked_v3.0.0_Fabric_Waystones.zip"
-
-hash-format = "sha256"
-hash = "11308EA756B33A4B3D23E4C71E81CCB47D55A207F3212F2B6E732980E64CF425"

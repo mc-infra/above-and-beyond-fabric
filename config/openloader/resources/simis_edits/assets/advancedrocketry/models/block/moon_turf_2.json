@@ -1,6 +1,0 @@
-{
-  "parent": "advancedrocketry:block/moon_turf",
-  "textures": {
-    "all": "advancedrocketry:blocks/moon_turf_2"
-  }
-}

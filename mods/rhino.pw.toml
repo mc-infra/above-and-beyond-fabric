@@ -1,13 +1,13 @@
 name = "Rhino"
-filename = "rhino-fabric-1802.1.14-build.209.jar"
+filename = "rhino-forge-1802.1.14-build.209.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7e442e8dae82697c43c8c238304a16576a62c06c"
+hash = "eb9a1d342075e7ea8923766a53d1fba23bcf3b00"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3919349
+file-id = 3919350
 project-id = 416294

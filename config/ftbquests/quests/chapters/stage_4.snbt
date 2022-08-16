@@ -75,7 +75,7 @@
 			tasks: [{
 				id: "3E607053D3B0C552"
 				type: "item"
-				item: "ae2:controller"
+				item: "appliedenergistics2:controller"
 				consume_items: false
 			}]
 			rewards: [
@@ -88,7 +88,7 @@
 				{
 					id: "1825E20FFD3BEBFF"
 					type: "item"
-					item: "ae2:fluix_crystal"
+					item: "appliedenergistics2:fluix_crystal"
 					random_bonus: 4
 				}
 				{
@@ -467,7 +467,7 @@
 		{
 			title: "Entropy Charger"
 			icon: {
-				id: "ae2:entropy_manipulator"
+				id: "appliedenergistics2:entropy_manipulator"
 				Count: 1b
 				tag: { }
 			}
@@ -486,7 +486,7 @@
 					id: "641183133CA49CCA"
 					type: "item"
 					item: {
-						id: "ae2:entropy_manipulator"
+						id: "appliedenergistics2:entropy_manipulator"
 						Count: 1b
 						tag: { }
 					}
@@ -574,7 +574,7 @@
 		}
 		{
 			title: "Final Induction"
-			icon: "ae2:silicon"
+			icon: "appliedenergistics2:silicon"
 			x: 3.0d
 			y: 5.0d
 			subtitle: "Contraption 39-3"
@@ -588,7 +588,7 @@
 				{
 					id: "263459FBEC9F9868"
 					type: "item"
-					item: "ae2:silicon"
+					item: "appliedenergistics2:silicon"
 					consume_items: false
 				}
 				{
@@ -600,7 +600,7 @@
 		}
 		{
 			title: "Circuit Stamper"
-			icon: "ae2:printed_silicon"
+			icon: "appliedenergistics2:printed_silicon"
 			x: 1.0d
 			y: 6.0d
 			subtitle: "Contraption 40-1"
@@ -615,7 +615,7 @@
 				{
 					id: "12C1BB8D09D664B4"
 					type: "item"
-					item: "ae2:printed_silicon"
+					item: "appliedenergistics2:printed_silicon"
 					consume_items: false
 				}
 				{
@@ -744,7 +744,7 @@
 		}
 		{
 			title: "Unboxing"
-			icon: "ae2:silicon"
+			icon: "appliedenergistics2:silicon"
 			x: -1.0d
 			y: 5.0d
 			subtitle: "Contraption 39-A"
@@ -755,7 +755,7 @@
 				{
 					id: "6FCB9E7E2CC10348"
 					type: "item"
-					item: "ae2:silicon"
+					item: "appliedenergistics2:silicon"
 					consume_items: false
 				}
 				{
@@ -791,19 +791,19 @@
 				{
 					id: "10D5C1E5071B1B53"
 					type: "item"
-					item: "ae2:printed_calculation_processor"
+					item: "appliedenergistics2:printed_calculation_processor"
 					consume_items: false
 				}
 				{
 					id: "32F50DF8BD6E3927"
 					type: "item"
-					item: "ae2:printed_logic_processor"
+					item: "appliedenergistics2:printed_logic_processor"
 					consume_items: false
 				}
 				{
 					id: "2E5AD5026FDB28CB"
 					type: "item"
-					item: "ae2:printed_engineering_processor"
+					item: "appliedenergistics2:printed_engineering_processor"
 					consume_items: false
 				}
 			]
@@ -820,19 +820,19 @@
 				{
 					id: "186FEC9FE047828F"
 					type: "item"
-					item: "ae2:calculation_processor"
+					item: "appliedenergistics2:calculation_processor"
 					consume_items: false
 				}
 				{
 					id: "2DCA8F3CB7884170"
 					type: "item"
-					item: "ae2:logic_processor"
+					item: "appliedenergistics2:logic_processor"
 					consume_items: false
 				}
 				{
 					id: "75950A3A22C9DC8E"
 					type: "item"
-					item: "ae2:engineering_processor"
+					item: "appliedenergistics2:engineering_processor"
 					consume_items: false
 				}
 			]
