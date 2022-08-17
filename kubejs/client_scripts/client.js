@@ -1,13 +1,9 @@
 // priority: 0
 
 onEvent('jei.hide.items', event => {
-	event.hide('appliedenergistics2:facade')
+	event.hide('ae2:facade')
 	event.hide(`#buddycards:cards`)
 	event.hide(`#buddycards:gummy_cards`)
-})
-
-onEvent('jei.subtypes', event => {
-	event.useNBT('advancedrocketry:planet_id_chip')
 })
 
 onEvent('jei.hide.fluids', event => {
@@ -22,16 +18,6 @@ onEvent('jei.add.items', event => {
 	event.add('thermal:sapphire_dust')
 	event.add('thermal:sapphire_ore')
 
-	event.add(Item.of("advancedrocketry:planet_id_chip", { dimId: "custommoon:moon", DimensionName: " The Moon " }))
-	event.add(Item.of("advancedrocketry:planet_id_chip", { dimId: "minecraft:overworld", DimensionName: " Earth " }))
-
-})
-
-onEvent('jei.remove.categories', event => {
-	event.yeetIf(element => {
-		let name = (element.getUid() + "")
-		return name.startsWith('advancedrocketry:') || name.startsWith("thermal:centrifuge")
-	});
 })
 
 onEvent('item.tooltip', tooltip => {
@@ -84,8 +70,8 @@ onEvent('item.tooltip', tooltip => {
 	// not_consumed('create:super_glue')
 	not_consumed('kubejs:chromatic_resonator')
 	not_consumed('kubejs:flash_drive')
-	// not_consumed('xreliquary:mercy_cross')
-	// not_consumed('xreliquary:ender_staff')
+	not_consumed('xreliquary:mercy_cross')
+	not_consumed('xreliquary:ender_staff')
 
 	global.substrates[0].forEach(e => tooltip.add(e.id, [`§8Category: §7Igneous`]));
 	global.substrates[1].forEach(e => tooltip.add(e.id, [`§8Category: §7Herbal`]));

@@ -1,0 +1,13 @@
+name = "KubeJS Debug Adapter"
+filename = "kubejsdebugadapter-1802.1.4-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IS07D77D/versions/beta-1802.1.4/kubejsdebugadapter-1802.1.4-forge.jar"
+hash-format = "sha1"
+hash = "67387e7f8062b63a564b22a4d402049ab3e64704"
+
+[update]
+[update.modrinth]
+mod-id = "IS07D77D"
+version = "KYTzuT2l"

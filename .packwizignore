@@ -14,3 +14,9 @@
 /modlist.html
 /manifest.json
 /_config.yml
+/node_modules
+/.pre-commit-config.yaml
+/.prettierrc
+/.editorconfig
+/scripts
+/src

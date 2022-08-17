@@ -1,8 +1,24 @@
 {
-    "cSpell.words": [
-        "kubejs"
-    ],
-    "explorer.fileNesting.patterns": {
-        "*-common.toml": "${capture}-client.toml"
-      }
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "_config.yml": true
+  },
+  "cSpell.words": [
+    "kubejs"
+  ],
+  "explorer.fileNesting.patterns": {
+    "*-common.toml": "${capture}-client.toml"
+  },
+  "material-icon-theme.folders.associations": {
+    "defaultconfigs": "config",
+    "pkg": "lib",
+    "mods": "plugin",
+    "kubejs": "src",
+    "defaultconfigs": "controller"
+  },
 }

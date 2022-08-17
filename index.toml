@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/launch.json"
+hash = "7714b7587b0ddc257fddc0bd1ee0cf7a403a7fa5aba4b4a6b324df5e6a4675a2"
+
+[[files]]
 file = ".vscode/settings.json"
-hash = "c411c62def5bc30ed76062b99ac609dbfb8897c4c0ecc1e65c4c27862a2066cb"
+hash = "806497e260f21aa830c41c85bbcd9d7b519862697ce980ce96181985462d472c"
+
+[[files]]
+file = "Makefile"
+hash = "98f5fcd94703ed2181882aeeb32af77877d94a0a38811e6919e7ebb37cda89d8"
 
 [[files]]
 file = "config/CBMicroblock.cfg"
@@ -194,7 +202,7 @@ hash = "8e0209713b4417b598703f32357a654d592fd6eca97d8644407caabcde32cef3"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "d7537aa271c36c076d33e084ef3691df0a954390ef98a2e8482d4ee8a0054747"
 
 [[files]]
 file = "config/dice-common.toml"
@@ -1342,8 +1350,8 @@ file = "config/openloader/resources/custom/pack.mcmeta"
 hash = "9e3a2492ffb7a5c5d0cf6876cb8713bb6009c22deaf582a6aaf298566822b221"
 
 [[files]]
-file = "config/openloader/resources/default-dark-mode.pw.toml"
-hash = "347ea710fbbd05e3f87c8a0d76fd3452d089e3874c01188b2beea999acb255cf"
+file = "config/openloader/resources/stoneborn-dwarven-fantasy-inspired-ui-overhaul.pw.toml"
+hash = "f06b145785a96694b5207176318fe29d09769ce1c1396af0818a672aa2bea5f7"
 metafile = true
 
 [[files]]
@@ -1830,8 +1838,8 @@ file = "defaultconfigs/thermal-server.toml"
 hash = "8b00261a58831eb99874e006db5da7199bd33bcea05f6caa7dcdb93d249a3621"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "9b9b1f69f95d8fc859d3861c0b0aef61b0fdd97897b4354d5cfd1b4fdd2f02ea"
+file = "kubejs/README.md"
+hash = "9df7a7684657f62a408e5e1d547c7ceb82124a70a9679f3e2bcedad3bb759a42"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
@@ -2403,7 +2411,7 @@ hash = "1c03effb7e5e7b671bfe11d0246d303b695d7f5193c7ceef62306aa8b3a93d5c"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "cf21c87d64e66316c448764d4881bea478750c219d7825ab6dd420ee6b4971af"
+hash = "a6178422efb1651fad63ec3cb93f8545efd97d9e479c0956fce83cc922cbab41"
 
 [[files]]
 file = "kubejs/client_scripts/ponder.js"
@@ -2973,8 +2981,18 @@ hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-debug-adapter.pw.toml"
+hash = "d4889014bc9e9aa389714c43143e8d67d035f1b2bf8d4842e7491257ae7a7cef"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-thermal.pw.toml"
 hash = "193a24fdf77dc2e55bf25bf602f8592f906344518391b567ad8ac56891842eb0"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-ui.pw.toml"
+hash = "1bfc3bfd36b4ec6584a0b47fff71a4ce8c6b3b752643dabad1a92b1f170a462e"
 metafile = true
 
 [[files]]
@@ -3276,7 +3294,3 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "962c4dc2f19f8dd51b5f1e1bc11c433babd2fa232e49b77ae51a70693673d0a5"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "e6db5de9101b1ecb0c7bb2102af0b43fea55644728122e7619611c4bc27ae617"
