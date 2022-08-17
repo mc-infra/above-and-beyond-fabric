@@ -1,0 +1,13 @@
+name = "Thermal Series - Create Version"
+filename = "Thermal_Create_1.18.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f7b7c00663b5793946cca1021be455b1f0ec328"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3824818
+project-id = 559789

@@ -1348,8 +1348,18 @@ hash = "347ea710fbbd05e3f87c8a0d76fd3452d089e3874c01188b2beea999acb255cf"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/thermal-series-create-version.pw.toml"
+hash = "9bdf4fe52f9d52dc205de55db987630fbff97a2575a673f2e2488f0caea9bccd"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/tool-belt-retextured.pw.toml"
 hash = "4378a5c89a58221c3633785b4708eb75c92ad8fc615557a66a0f2d49ea797cc9"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/vanilla-copper-colors.pw.toml"
+hash = "0e77d34d201ab65a830ef1487808575432ee7d700e329bc8f32546063b6e6644"
 metafile = true
 
 [[files]]
@@ -2904,7 +2914,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "49b7f862fe68e3601d35528fe062b5a68a34887ffc2ea1d852bf92017bd80774"
+hash = "e68051f16b15cb4e01ff789b2a5d9e39916ad288a6f8445c61241bbb9696d700"
 metafile = true
 
 [[files]]
@@ -3119,7 +3129,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-mighty-architect.pw.toml"
-hash = "a98cb859028a1c53221a43f8689b0a8f697eeb4bba787812fa0ce115323b84b7"
+hash = "7cb30ada0549cdd4249ae12c81cabd031ffda35fe8954bd77e99cbaa04dbf910"
 metafile = true
 
 [[files]]
@@ -3195,8 +3205,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "e6db5de9101b1ecb0c7bb2102af0b43fea55644728122e7619611c4bc27ae617"
-
-[[files]]
-file = "resourcepacks/thermal-series-create-version.pw.toml"
-hash = "9bdf4fe52f9d52dc205de55db987630fbff97a2575a673f2e2488f0caea9bccd"
-metafile = true
