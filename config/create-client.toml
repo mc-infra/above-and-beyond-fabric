@@ -41,7 +41,7 @@
 	#Offset the Create config button in the in-game menu by this many pixels on the X axis
 	#The sign (-/+) of this value determines what side of the row the button appears on (left/right)
 	#Range: > -2147483648
-	ingameMenuConfigButtonOffsetX = -4
+	ingameMenuConfigButtonOffsetX = 4
 	# 
 	#Setting this to true will prevent Create from sending you a warning when playing with Fabulous graphics enabled
 	ignoreFabulousWarning = false
@@ -49,7 +49,7 @@
 	#Offset the Create config button in the main menu by this many pixels on the X axis
 	#The sign (-/+) of this value determines what side of the row the button appears on (left/right)
 	#Range: > -2147483648
-	mainMenuConfigButtonOffsetX = -4
+	mainMenuConfigButtonOffsetX = 4
 	# 
 	#Show item descriptions on Shift and controls on Ctrl.
 	enableTooltips = true

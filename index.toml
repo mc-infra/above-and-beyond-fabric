@@ -182,7 +182,7 @@ hash = "5f162c1b1f3ed2cb35ce5be5ab87d04fa55fef02f8bc7728aabfca675b4c07e6"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "6f848d35069f49f3ef5aa8747724d9507b317b12d4ebdaa4aeb77deae1b2cfb2"
+hash = "780dd9aa89e7682a0adda41b58a6abe1b522dabb75ce6424e4c98a7f3b0d9064"
 
 [[files]]
 file = "config/create-common.toml"
@@ -2689,7 +2689,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless.pw.toml"
-hash = "ee84a79e2079e59f32a1246cc98058786d1b59641c48c6cfbd4fbb3df66ccabd"
+hash = "b0ee357b8abc7cbad0d793acd0be87d4d34c1a06a3cc6cb5d37719a691aed525"
 metafile = true
 
 [[files]]
