@@ -1,0 +1,13 @@
+name = "Chipped Create Compatibility"
+filename = "chipped_create_compat_1_18.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95635c75ca9a7c0e2f16b43c528edbc4b13d2ef5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3662843
+project-id = 583341

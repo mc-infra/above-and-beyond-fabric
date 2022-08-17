@@ -734,8 +734,23 @@ hash = "d2ee857ba24918d0b146ab64a4b62c27d357f60a3528509db5e5438c70491166"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/chipped-create-compatibility.pw.toml"
+hash = "0b799317f47f9d99c7a23685c94b9893df4619eab806f56e28348b59c899e0f5"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/computercreate.pw.toml"
+hash = "b32878e3ffc9ecd2c6fc82ca047797ab516f9714442acb9b13622b36496b9d7c"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/create-style-modded-compats.pw.toml"
 hash = "f5fcb74137c732dba4039c47e9732727ec303cf71c90bd2394d9ba4cb3eb924e"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/created-simple-planes.pw.toml"
+hash = "23ae1db1c6b9acfafc8f766f294938d5bf5a9f80e40e7c95b2e9c5fb3c769128"
 metafile = true
 
 [[files]]
@@ -3063,6 +3078,11 @@ hash = "ebd2cf8ffe7da47310c483bc5308c861cd04c8ee4ce97d8dafb754503c0fe9f7"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
@@ -3095,6 +3115,11 @@ metafile = true
 [[files]]
 file = "mods/serene-seasons.pw.toml"
 hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
+metafile = true
+
+[[files]]
+file = "mods/simple-planes.pw.toml"
+hash = "efa003e12613b6870eb368828869e4fd47490988699e602770046ec03e28d5f5"
 metafile = true
 
 [[files]]

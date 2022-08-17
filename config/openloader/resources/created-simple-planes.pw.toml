@@ -1,0 +1,13 @@
+name = "Created Simple Planes"
+filename = "created_simpleplanes-1.16.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a21310f5ecc20edec9c8893a6d87f0ddc0510b49"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3391012
+project-id = 504458
