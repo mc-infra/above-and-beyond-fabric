@@ -1,0 +1,13 @@
+name = "Decorative Blocks Compat"
+filename = "Decorative Blocks Compat-forge-1.18.2-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af26814d488344ad0bef790fd0f8b4d99a2f03f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3723285
+project-id = 365578

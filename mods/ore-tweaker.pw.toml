@@ -1,0 +1,13 @@
+name = "Ore Tweaker"
+filename = "OreTweaker-1.18.2-3.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce3dd82bb40259e35ec6c27715e728d815c9d10d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3758507
+project-id = 242436

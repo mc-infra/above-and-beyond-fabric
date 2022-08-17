@@ -2553,6 +2553,11 @@ file = "kubejs/startup_scripts/trading.js"
 hash = "3e3d7e3d1a82b030f4509db624878d244c2161b43a70d3badf82930a2b19eb52"
 
 [[files]]
+file = "mods/absent-by-design.pw.toml"
+hash = "d1f108d2420df1ab0027cebc4ef8525ac09ace0d3a7e433dade46446708c0dd4"
+metafile = true
+
+[[files]]
 file = "mods/adorn-for-forge.pw.toml"
 hash = "d0b68449192bab34689139a9961cca7d62ad6c7116f26bcf9cdd78dd0e822397"
 metafile = true
@@ -2590,6 +2595,11 @@ metafile = true
 [[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "f5544bc5bf4578ff88fbb4027e29ce376ba1721e916a29f3bace348c3b193828"
+metafile = true
+
+[[files]]
+file = "mods/architects-palette.pw.toml"
+hash = "89cc0eefd627a380274c0dcfb5739fb0ef2b426e62276f7534ba7895e57d74e1"
 metafile = true
 
 [[files]]
@@ -2693,6 +2703,11 @@ hash = "8b73e4851b268861352e394929f0dd808b379c84a50ad7953ab58efad24bfb30"
 metafile = true
 
 [[files]]
+file = "mods/cofh-core.pw.toml"
+hash = "6a6c57d3f0855c6ea489dd74deff8ffbd82cc53a61811f603ed99ea5a0bc45d7"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
 metafile = true
@@ -2703,8 +2718,18 @@ hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "2a49f23b290c80ba274e622397a1241c3ef1e4c9975e4f816e2ccc892c1d114c"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "099af7d0a61fd27c6b6ba26e7e84c4d7cfe5eea78a7102c7eb717528ef6ecc91"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "2bd16e7347caef9518bfc453dc3e7129739b7d121071a98d61d9e3519e4f6914"
 metafile = true
 
 [[files]]
@@ -2745,6 +2770,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks-compat.pw.toml"
+hash = "82336831c90e797799f1bd207bdf66f82aaa51b6f32b24fea054bf25126a15af"
 metafile = true
 
 [[files]]
@@ -2803,6 +2833,11 @@ hash = "7815dd9cf274a1f399ff8827ebce11e6e5bef872e4221410d4c475680bf18284"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "44c2de08592e5c0dad820b217b0fd332db0757a344796f1e01806cfe881206bc"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
@@ -2858,8 +2893,18 @@ hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "06c61b0bf001aa765b6468f4ece4aadab67c6da73515ae19d7bcc74b144fa92a"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "ee93d1f6d4b4625863d109ad40b1953b9303812fd80ded5f358345df030f536d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "49b7f862fe68e3601d35528fe062b5a68a34887ffc2ea1d852bf92017bd80774"
 metafile = true
 
 [[files]]
@@ -2885,6 +2930,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-thermal.pw.toml"
+hash = "193a24fdf77dc2e55bf25bf602f8592f906344518391b567ad8ac56891842eb0"
 metafile = true
 
 [[files]]
@@ -2968,6 +3018,11 @@ hash = "46bb8bcb817b0d2db855d7eeefb996a2f22711a2134a9d1e1ebaf2892030310d"
 metafile = true
 
 [[files]]
+file = "mods/ore-tweaker.pw.toml"
+hash = "50991d48e3a3a1addadcc3b2885bbe40051dc4a83176453be11bac440e3661ba"
+metafile = true
+
+[[files]]
 file = "mods/origins-forge.pw.toml"
 hash = "d0122c5b94c5f79de11c24da6bc12b0cd6c36ca6ef68b6aa55a191dde0989cf0"
 metafile = true
@@ -2980,6 +3035,21 @@ metafile = true
 [[files]]
 file = "mods/ponder.pw.toml"
 hash = "0471838ee06b45e0bb517abefa01189e1b450d43e86caa0baf671c6124b5702e"
+metafile = true
+
+[[files]]
+file = "mods/portality.pw.toml"
+hash = "b63a8bbedf285b2a00856c35f6376f4f767d140a92adb85960d11d35766cb712"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "ebd2cf8ffe7da47310c483bc5308c861cd04c8ee4ce97d8dafb754503c0fe9f7"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures.pw.toml"
+hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
 
 [[files]]
@@ -3043,8 +3113,43 @@ hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
 metafile = true
 
 [[files]]
+file = "mods/the-mighty-architect.pw.toml"
+hash = "a98cb859028a1c53221a43f8689b0a8f697eeb4bba787812fa0ce115323b84b7"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.pw.toml"
+hash = "acde76ce2d1dcf489d3785ef04ebc49c3af7a07132a4d85e35e83fef6a489d8f"
+metafile = true
+
+[[files]]
+file = "mods/thermal-foundation.pw.toml"
+hash = "e8c094b697a3fcce31e7f271984c5ed0c47b766a4c883cce40e1d90537e0b1ac"
+metafile = true
+
+[[files]]
+file = "mods/thermal-innovation.pw.toml"
+hash = "567e153674f4323f64157ee4cfd1f2314953d8049f41aebef68f81fa81c5f311"
+metafile = true
+
+[[files]]
+file = "mods/thermal-integration.pw.toml"
+hash = "a9004238b4abf056c1de8ef6b6466b2d1d085c1d256b5f68b980dc4e034b5c3b"
+metafile = true
+
+[[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "73c95c779a2884fc699b7aa390837dcaca5d9e6d10151cffa092afa8e0037332"
+metafile = true
+
+[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "16b603b8dd4343a9596ca638f3b30b5a3d2b9d78874079db241115f0eac96bf4"
 metafile = true
 
 [[files]]
@@ -3055,6 +3160,11 @@ metafile = true
 [[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "89146989947b537418d4a19f6735d5704080c38eebcc00fdd0890863b8cd8ae0"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
 metafile = true
 
 [[files]]
