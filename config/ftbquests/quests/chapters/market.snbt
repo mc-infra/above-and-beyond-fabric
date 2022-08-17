@@ -59,7 +59,7 @@
 		{
 			title: "Saw everything"
 			icon: {
-				id: "cb_microblock:diamond_saw"
+				id: "thermal:flux_saw"
 				Count: 1b
 				tag: {
 					RepairCost: 0
@@ -84,7 +84,7 @@
 					id: "4C77B71D0EC3B2EA"
 					type: "item"
 					item: {
-						id: "cb_microblock:diamond_saw"
+						id: "thermal:flux_saw"
 						Count: 1b
 						tag: {
 							Damage: 0
@@ -103,7 +103,7 @@
 				id: "56DB21D18FB1FF64"
 				type: "item"
 				item: {
-					id: "cb_microblock:diamond_saw"
+					id: "thermal:flux_saw"
 					Count: 1b
 					tag: {
 						Unbreakable: 1
@@ -125,7 +125,7 @@
 		{
 			title: "Never Screwed"
 			icon: {
-				id: "projectred-core:screwdriver"
+				id: "redstonepen:pen"
 				Count: 1b
 				tag: {
 					Damage: 0
@@ -145,7 +145,7 @@
 					id: "1E25EB2883C9A960"
 					type: "item"
 					item: {
-						id: "projectred-core:screwdriver"
+						id: "redstonepen:pen"
 						Count: 1b
 						tag: {
 							Damage: 0
@@ -164,7 +164,7 @@
 				id: "743730BBE32A0875"
 				type: "item"
 				item: {
-					id: "projectred-core:screwdriver"
+					id: "redstonepen:pen"
 					Count: 1b
 					tag: {
 						Unbreakable: 1

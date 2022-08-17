@@ -278,7 +278,7 @@ hash = "dfe6dbf482122593c99bc3adeec43dcdb4cc1e885e2bc48f320a626b64c27344"
 
 [[files]]
 file = "config/forge-common.toml"
-hash = "7da7a8a2043c5146b6c941631b040a945281943b9ff75a25e9743291959bd2bf"
+hash = "fb25d080c01be901019956fd2261b7f5ff123cec8c6c35f5775a5333c73d8b94"
 
 [[files]]
 file = "config/ftbbackups-common.toml"
@@ -294,7 +294,7 @@ hash = "018b4c947a8c25e37739533440f8a0fbe7e75bdefdba5ad2aa59c76faebdab80"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/market.snbt"
-hash = "8daf0e5f9bf87e69b1956ee38081ea48dd4383afbde0a5f0dd88f45778fb2e00"
+hash = "0b2139f1e4a0efbd8fbc090c8d1895dfcb49f2a413b6eab78a253ed081923d64"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/metallurgy.snbt"
@@ -318,7 +318,7 @@ hash = "f3cac145ef91cbf60271d3e21190026e90788983be4b792795fa69193a945104"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_2.snbt"
-hash = "5453c441b9b938c07d63c2a41819525b8227f1c71997ac4710d99d1a22d141f6"
+hash = "24425ccf013ed6847fa85aa31f4e90b679a532c54b8d73d11cc8d32350bc3b24"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_3.snbt"
@@ -2419,7 +2419,7 @@ hash = "1c03effb7e5e7b671bfe11d0246d303b695d7f5193c7ceef62306aa8b3a93d5c"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "94e4a8b57fdc5e30dd4b49dd0eda65e430ef4aa1c70fa3e946a5ae3fb6552765"
+hash = "cf21c87d64e66316c448764d4881bea478750c219d7825ab6dd420ee6b4971af"
 
 [[files]]
 file = "kubejs/client_scripts/ponder.js"
@@ -2563,7 +2563,7 @@ hash = "53bfe71388f200749b12269066b7c2d0806759b1e1dd94f43024114ad71c4979"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "c0cb8026cdb71f2f540a725c77fc17777e5e8a63bbd5213e0db5a90a4b7a4f7e"
+hash = "2d9208dc2639f566150333a95dda37ad57bb46420e124f65434edb2a7a293cd4"
 
 [[files]]
 file = "kubejs/startup_scripts/launch.js"
@@ -2659,6 +2659,11 @@ hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "31138520439b32230c38ccc6cf9044953f85c476d15cd75c59aeb033662badd6"
+metafile = true
+
+[[files]]
 file = "mods/biome-makeover-forge.pw.toml"
 hash = "12ffe7055d5ea3ddbe255549e80265d09f2ddbccf9c80ba2ed67e628e775ac75"
 metafile = true
@@ -2701,6 +2706,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "5f236f234d031f221d12e077ed27da06adf2808d8538eb98277729e55715ee50"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "4e253e12a9b2702b8708228b9f617fa49510939dfa8ce90d30033573543ec351"
 metafile = true
 
 [[files]]
@@ -2794,6 +2804,11 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
+file = "mods/darker-depths.pw.toml"
+hash = "ae6b9bee511edfb9e921ac2d22698245c208c66b84fd4af8946f60f152623024"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "04ad88c125584479f0854c74f13f7582a1ce20acf8a89e211cc991bd3780c61d"
 metafile = true
@@ -2859,6 +2874,11 @@ hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "7815dd9cf274a1f399ff8827ebce11e6e5bef872e4221410d4c475680bf18284"
 metafile = true
@@ -2876,6 +2896,11 @@ metafile = true
 [[files]]
 file = "mods/flywheel.pw.toml"
 hash = "941abd12feaa28b487e7f354e7f9cb0f266f6bb6329731cd1ee829055b04eae6"
+metafile = true
+
+[[files]]
+file = "mods/forbidden-arcanus.pw.toml"
+hash = "a1043471f97c43e1f70ba9217208233495924ffc83e2b84652a433c3bae3f854"
 metafile = true
 
 [[files]]
@@ -3034,6 +3059,11 @@ hash = "7b92dd5ff3da1b9422d1eb4cc71a60d1aa0ed405417277fb638b2ac8885f84ba"
 metafile = true
 
 [[files]]
+file = "mods/occultism.pw.toml"
+hash = "b6d7f45860db011709514ab1009c8bf7a14756f04515e2786db205e748298402"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
 metafile = true
@@ -3149,6 +3179,11 @@ hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
 metafile = true
 
 [[files]]
+file = "mods/structures-compass.pw.toml"
+hash = "085b625eab66b0979668785503343330c3e07573e7f3775ac92c7c75ae1b7b93"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
 metafile = true
@@ -3231,6 +3266,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "b7a262cd01a422861143e0bd8484545d5ae8ecdfb42f1c7e56de33f3b2482371"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.pw.toml"
+hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
 metafile = true
 
 [[files]]

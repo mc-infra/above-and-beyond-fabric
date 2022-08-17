@@ -655,7 +655,7 @@
 				id: "7DF53EF0CF55B5D7"
 				type: "item"
 				item: {
-					id: "projectred-core:screwdriver"
+					id: "redstonepen:pen"
 					Count: 1b
 					tag: {
 						Damage: 0

@@ -140,7 +140,7 @@ onEvent('item.tags', event => {
 	event.get("minecraft:planks").add("forbidden_arcanus:mysterywood_planks").add("forbidden_arcanus:cherrywood_planks")
 	event.get("minecraft:logs_that_burn").add("#forbidden_arcanus:mysterywood_logs").add("#forbidden_arcanus:cherrywood_logs")
 
-	event.get('forge:saws').add('cb_microblock:stone_saw').add('cb_microblock:iron_saw').add('cb_microblock:diamond_saw')
+	event.get('forge:saws').add('thermal:flux_saw')
 	event.get('forge:screwdrivers').add(PR_C('screwdriver'))
 	event.get('forge:chromatic_resonators').add(KJ('chromatic_resonator'))
 	event.get('forge:flash_drives').add(KJ('flash_drive'))
