@@ -2948,11 +2948,6 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "7163f5e93789818c4f945f1beac1f06af5516a252bac284564fa4b0512563dec"
-metafile = true
-
-[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
 metafile = true
@@ -3219,7 +3214,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "6b0b17a0123f9108f6ddb24662e701a2380b6a347f72dc132e435ed4bea167b5"
+hash = "5d299b509a149662d562bd6837e9fba887b1f45b4b22c0b37c769c55aec05d25"
 metafile = true
 
 [[files]]
