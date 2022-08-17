@@ -1386,10 +1386,6 @@ file = "config/oretweaker/OreTweaker.toml"
 hash = "7a2428e0a52a94128c481f58a0e05969178580dbe4593575b9fde6d574ac97cf"
 
 [[files]]
-file = "config/oretweaker/backup/OreTweaker.json"
-hash = "643dca277e6b6456b1d88f222cf67393f857522d71273d775b0e2b546a47b3bc"
-
-[[files]]
 file = "config/oretweaker/data/apatite_ore.json"
 hash = "cdd6bada0278307a0e6129fc69229ba8af08f7638f7e789a5c7d2ab1627f3f96"
 
@@ -2789,7 +2785,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
+hash = "029252dacfd0ade16df172cd6d7e698c3393af44df4fb555a6022d0cea0ebbfb"
 metafile = true
 
 [[files]]
@@ -2820,6 +2816,11 @@ metafile = true
 [[files]]
 file = "mods/displaycase.pw.toml"
 hash = "c7ff7b33527f0ec10240b6a7e78dc7951b6f814ac21d221a8f40541aad8cc4ee"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-terraforged.pw.toml"
+hash = "31fbd4d3ddf9770d8fad73b7b49450a73829c24b2447459e144c038e0a7df11d"
 metafile = true
 
 [[files]]
@@ -2874,7 +2875,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
+hash = "941abd12feaa28b487e7f354e7f9cb0f266f6bb6329731cd1ee829055b04eae6"
 metafile = true
 
 [[files]]
@@ -3155,6 +3156,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
+metafile = true
+
+[[files]]
+file = "mods/terraforged.pw.toml"
+hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
 metafile = true
 
 [[files]]
