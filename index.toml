@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".vscode/settings.json"
-hash = "f80cce350bbfd9ee04b5370fd3c69834e4c6e919ed164c0413a614e014700d3a"
+hash = "c411c62def5bc30ed76062b99ac609dbfb8897c4c0ecc1e65c4c27862a2066cb"
 
 [[files]]
 file = "config/CBMicroblock.cfg"
@@ -37,28 +37,8 @@ file = "config/ProjectRed.cfg"
 hash = "f7579ae9c04c0b90207f0feb55b1f21ac8b49d298b4c99318262c6f75aa43d01"
 
 [[files]]
-file = "config/abnormals_core-client.toml"
-hash = "5719a7afb03e4677fc9095c169636aa3f51af6d54c5ea3c8c153f00546566d15"
-
-[[files]]
-file = "config/abnormals_core-common.toml"
-hash = "ff182a1390fa32051e60696f323606b177829f80e9f4a1b133ce9fdb5ef26b48"
-
-[[files]]
-file = "config/advancedRocketry.toml"
-hash = "f10d6e84c4c736c5778c4a82c97293ec6ddc32843dead2d3f7493d903dbf65e0"
-
-[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "dc174a3ddfba7dcd0666506656dbfc86af5cd7fbb54cecfa53ab0e12afab1718"
-
-[[files]]
-file = "config/antiqueatlas.client.toml"
-hash = "9b3e554b8c7ce2c377369a5f10d02ccdbd7419f7ee6cb2db7da6c588d5c1715c"
-
-[[files]]
-file = "config/antiqueatlas.common.toml"
-hash = "3784ee357d4676ec155bda1ce4150c7ba15a1ed4e5d692de2ee379460e60e21e"
 
 [[files]]
 file = "config/appleskin-client.toml"
@@ -3125,6 +3105,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "0e6a0f0e1cbc6691ac8df683314e05a92d811c62b4633b5443908ec01ac81148"
+metafile = true
+
+[[files]]
+file = "mods/reliquary-v1-3.pw.toml"
+hash = "959e0c1a70ee32bbf0ce4e9c160fb146997d1d55695d18e4910e539e59961a7d"
 metafile = true
 
 [[files]]

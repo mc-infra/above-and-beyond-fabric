@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
         "kubejs"
-    ]
+    ],
+    "explorer.fileNesting.patterns": {
+        "*-common.toml": "${capture}-client.toml"
+      }
 }
