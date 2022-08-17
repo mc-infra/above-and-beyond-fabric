@@ -2613,6 +2613,11 @@ hash = "71594586d14483f2b666aff7139e0600fdcc0b42b4a8c5acf966757164923f3b"
 metafile = true
 
 [[files]]
+file = "mods/bedspreads.pw.toml"
+hash = "5874d9585fe7aaf21b8873fb70306dd374dadd778758c6dbacf7b128dc092db7"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f97016f522e10afd1659881de6da1a3698c83c3ac38555b20e73719eac51e4a9"
 metafile = true
@@ -2793,6 +2798,11 @@ hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "7815dd9cf274a1f399ff8827ebce11e6e5bef872e4221410d4c475680bf18284"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
 metafile = true
@@ -2825,6 +2835,11 @@ metafile = true
 [[files]]
 file = "mods/furnish.pw.toml"
 hash = "dbfe51c20af873dbb75e0fb9b5202286bda617459cebf82347510c278af3aa14"
+metafile = true
+
+[[files]]
+file = "mods/gamemenumodoption.pw.toml"
+hash = "7912f2c1937e0906997a90ca9ad5bcd5a10799071149c9fca05a1f3e5e9a350c"
 metafile = true
 
 [[files]]
@@ -2930,6 +2945,11 @@ metafile = true
 [[files]]
 file = "mods/nethers-delight.pw.toml"
 hash = "c2d9646b499b29682e9425ecf809be000069ac01eb61430cb367ddf1b7e63255"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "4a685ccd6e720cba65641cb9f6baf37e3d38b546dd6adaa4c97bad99daf5b042"
 metafile = true
 
 [[files]]
