@@ -2778,6 +2778,11 @@ hash = "a667a81f6ee2fbb112e0eda2660b0c44d4fc00cb2794fbb4ec24d30038429350"
 metafile = true
 
 [[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "bf2f0329fd4ab13239fb679383743d780c633634c17f0d75c78d9a65a8781a3c"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "4408f4667a2200114edd9b5ef70e6f24318e07bc01258a7ef05d5b952fc7570c"
 metafile = true
@@ -3078,6 +3083,11 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
+file = "mods/redstone-pen.pw.toml"
+hash = "0e6a0f0e1cbc6691ac8df683314e05a92d811c62b4633b5443908ec01ac81148"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures.pw.toml"
 hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
@@ -3145,6 +3155,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
+metafile = true
+
+[[files]]
+file = "mods/terraria-paintings.pw.toml"
+hash = "239872338f654aa4a41abb6346b77d8f9171b224e8a0b05aa96762dacc044909"
 metafile = true
 
 [[files]]

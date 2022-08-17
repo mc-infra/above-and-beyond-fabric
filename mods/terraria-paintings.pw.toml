@@ -1,0 +1,13 @@
+name = "Terraria Paintings [Forge]"
+filename = "Terraria Paintings 1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7c5fd4c6242a69b774e23506c5166892c5719adb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3695686
+project-id = 526409
