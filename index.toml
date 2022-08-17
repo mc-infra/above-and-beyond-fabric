@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "f80cce350bbfd9ee04b5370fd3c69834e4c6e919ed164c0413a614e014700d3a"
+
+[[files]]
 file = "config/CBMicroblock.cfg"
 hash = "a8b9978b0b57003263de3f4e2abe6dc4b0abb412b9782796281db21670a2f7c7"
 
