@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3680770
 project-id = 280294
+
+[option]
+optional = true
+default = false
+description = "Reduces FPS while Minecraft is in the background."
