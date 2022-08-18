@@ -270,7 +270,7 @@ hash = "dfe6dbf482122593c99bc3adeec43dcdb4cc1e885e2bc48f320a626b64c27344"
 
 [[files]]
 file = "config/forge-common.toml"
-hash = "73c418cc4d3b8859723661e067963fcafb488791906692e44ac4d5352d28a472"
+hash = "83ccd043296763c2efdcf32f5ba3091e3d5eac3d76453bb49a05166a4b306719"
 
 [[files]]
 file = "config/ftbbackups-common.toml"
@@ -2822,6 +2822,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
+metafile = true
+
+[[files]]
+file = "mods/dice.pw.toml"
+hash = "83e5c80c0a5fd94ee0aa6dab45f30fc4b812558a73a629fd937b57879012ce7e"
 metafile = true
 
 [[files]]
