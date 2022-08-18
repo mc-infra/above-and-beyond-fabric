@@ -722,7 +722,7 @@ hash = "943c56d551a07951c87c643ff581119e2b728b44beb35990822d711504d6474f"
 
 [[files]]
 file = "config/openloader/resources/better-dogs.pw.toml"
-hash = "d2ee857ba24918d0b146ab64a4b62c27d357f60a3528509db5e5438c70491166"
+hash = "940a152d875b2bd27bce8d203a15b5b277091e81feda13a4ed5b8e79ec9108fa"
 metafile = true
 
 [[files]]
