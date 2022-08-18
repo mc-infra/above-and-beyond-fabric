@@ -270,7 +270,7 @@ hash = "dfe6dbf482122593c99bc3adeec43dcdb4cc1e885e2bc48f320a626b64c27344"
 
 [[files]]
 file = "config/forge-common.toml"
-hash = "fb25d080c01be901019956fd2261b7f5ff123cec8c6c35f5775a5333c73d8b94"
+hash = "73c418cc4d3b8859723661e067963fcafb488791906692e44ac4d5352d28a472"
 
 [[files]]
 file = "config/ftbbackups-common.toml"
