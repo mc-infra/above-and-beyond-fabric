@@ -2670,6 +2670,11 @@ hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
 
 [[files]]
+file = "mods/bisecthosting-server-integration-menu-forge.pw.toml"
+hash = "320e32fd6f7b17e98b884e9772f4277422d80cab6b3a336c499c22c14aaa72ce"
+metafile = true
+
+[[files]]
 file = "mods/bonsai-trees.pw.toml"
 hash = "f7e254d44fd0bf1f5a249496c4ce598c8d9bc5650c1c6fee6d6fbb92cc5d9c8f"
 metafile = true
@@ -3025,16 +3030,6 @@ hash = "2d5f25cc0d95c8e253a0a9eced958f75faea9b65bfa806302131ceab2494dd8d"
 metafile = true
 
 [[files]]
-file = "mods/macaws-doors.pw.toml"
-hash = "8bfad83ed5c914a968a5813b210b8dc51c6bc781e3acb748b6fd3c29ada6fd45"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs.pw.toml"
-hash = "d1072e7aafd43f05a29b5e210d0f2fd0072d893024816e55e2a300b1d8749f55"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
@@ -3092,11 +3087,6 @@ metafile = true
 [[files]]
 file = "mods/ore-tweaker.pw.toml"
 hash = "50991d48e3a3a1addadcc3b2885bbe40051dc4a83176453be11bac440e3661ba"
-metafile = true
-
-[[files]]
-file = "mods/origins-forge.pw.toml"
-hash = "d0122c5b94c5f79de11c24da6bc12b0cd6c36ca6ef68b6aa55a191dde0989cf0"
 metafile = true
 
 [[files]]
