@@ -2566,6 +2566,10 @@ file = "kubejs/startup_scripts/trading.js"
 hash = "3e3d7e3d1a82b030f4509db624878d244c2161b43a70d3badf82930a2b19eb52"
 
 [[files]]
+file = "modlist.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "d1f108d2420df1ab0027cebc4ef8525ac09ace0d3a7e433dade46446708c0dd4"
 metafile = true
@@ -2902,7 +2906,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "fd64444a5e1d1ec5c9fc4c1d015dc5c731c1f6beeaa63cf4aa359b1cd2841669"
+hash = "f8f12d06f6b8dc0848774bbc9cb1b4b60ddea7d6380e5d8c51af9fcf96a40bff"
 metafile = true
 
 [[files]]
@@ -2978,11 +2982,6 @@ metafile = true
 [[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-debug-adapter.pw.toml"
-hash = "d4889014bc9e9aa389714c43143e8d67d035f1b2bf8d4842e7491257ae7a7cef"
 metafile = true
 
 [[files]]
