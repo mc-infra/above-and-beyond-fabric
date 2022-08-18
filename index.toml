@@ -2826,7 +2826,7 @@ metafile = true
 
 [[files]]
 file = "mods/dice.pw.toml"
-hash = "83e5c80c0a5fd94ee0aa6dab45f30fc4b812558a73a629fd937b57879012ce7e"
+hash = "adcc4c35ddf0da7e7ab12bc56dd2e86ed33d74aa5e56cb4dac06dc3feaeb21a3"
 metafile = true
 
 [[files]]
