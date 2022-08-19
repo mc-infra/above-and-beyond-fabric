@@ -2375,7 +2375,7 @@ hash = "bbb37e1307e00f4f024cb55a2b6f934e9af4c8bf2c796b4e6de8f12e7520c1f9"
 
 [[files]]
 file = "kubejs/client_scripts/ui.js"
-hash = "5a345d59e5af3729c5f19be15f4d59f5a704034d4f677ac4d5f023ee0c87df84"
+hash = "5fa69043816bac461f2a5c7bcf9e9613c2d8636a531a1fb44352afcd7ce81de1"
 
 [[files]]
 file = "kubejs/config/client.properties"

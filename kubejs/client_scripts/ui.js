@@ -2,6 +2,7 @@ onEvent('ui.main_menu', event => {
   event.replace(ui => {
     //ui.background('kubejsui:textures/example_background.png')
     ui.tilingBackground('kubejsui:textures/example_background.png', 256)
+
     ui.minecraftLogo(30)
 
     ui.button(b => {
@@ -9,6 +10,13 @@ onEvent('ui.main_menu', event => {
       b.x = 10
       b.y = 10
       b.action = 'minecraft:singleplayer'
+    })
+
+    ui.button(b => {
+      b.name = 'Multiplayer'
+      b.x = 20
+      b.y = 20
+      b.action = 'minecraft:multiplayer'
     })
 
     ui.button(b => {
