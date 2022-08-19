@@ -2663,6 +2663,11 @@ hash = "d9704218e8f61aa4a028df723dc3562d3be0e60f865ae3c571a896236eb71c7b"
 metafile = true
 
 [[files]]
+file = "mods/buddycards.pw.toml"
+hash = "8b10ffbb6bbcfb0731fa3ee2a13c0c5d87a07564d9c305091990255837e2921e"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
