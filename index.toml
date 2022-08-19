@@ -3048,6 +3048,11 @@ hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
 
 [[files]]
+file = "mods/modern-ui.pw.toml"
+hash = "bfb81b15fe5380e24bb0e99aba7a0abf7807d0abaf019945066b3cf94f8449b4"
+metafile = true
+
+[[files]]
 file = "mods/more-minecarts.pw.toml"
 hash = "5d716e7827b4557b0835f798f71a6ca66e7b407740bcdae4c35396e91114f26e"
 metafile = true
