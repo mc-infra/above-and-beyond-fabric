@@ -1,0 +1,8 @@
+name = "Optifine"
+filename = "OptiFine_1.18_HD_U_H3.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "6BE7B5074D23C887AE82201433BAB04F2F65D9D19F337510354A12892B8FF887"
+url = "http://adfoc.us/serve/sitelinks/?id=475250&url=http://optifine.net/adloadx?f=OptiFine_1.18_HD_U_H3.jar&x=8b4b"
