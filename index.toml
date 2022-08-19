@@ -3090,11 +3090,6 @@ hash = "46bb8bcb817b0d2db855d7eeefb996a2f22711a2134a9d1e1ebaf2892030310d"
 metafile = true
 
 [[files]]
-file = "mods/optifine.pw.toml"
-hash = "216722f747b42fdc3efa68e3f3fa01565eb4b4fe853c57cc0cb13f0d60b343cb"
-metafile = true
-
-[[files]]
 file = "mods/ore-tweaker.pw.toml"
 hash = "50991d48e3a3a1addadcc3b2885bbe40051dc4a83176453be11bac440e3661ba"
 metafile = true
