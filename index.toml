@@ -2367,7 +2367,7 @@ hash = "1c03effb7e5e7b671bfe11d0246d303b695d7f5193c7ceef62306aa8b3a93d5c"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "f53ae9e14d5868dea11bf6ffde1e33ad9a9e51d33f74fb90860f4db64b6680ee"
+hash = "a17eb6e7674cfc72b59a4e18abe2a8c0ebce80382382bc4817c139be4faae71b"
 
 [[files]]
 file = "kubejs/client_scripts/ponder.js"
