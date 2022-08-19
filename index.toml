@@ -3123,16 +3123,6 @@ hash = "261ced73a72ed7f5432e4a4dad40c4be9c37728bb53e7edc541746d761f29513"
 metafile = true
 
 [[files]]
-file = "mods/raven-brews-core.pw.toml"
-hash = "65bff93fa51b372964e87fdf13ab4b6bdf69e53c449c4edafd69b72a7a7e30f6"
-metafile = true
-
-[[files]]
-file = "mods/raven-coffee.pw.toml"
-hash = "30ef9cce6a19ed4e5d786906f9237c64435d9d760f73bf28784a05e08e2dd10d"
-metafile = true
-
-[[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "0e6a0f0e1cbc6691ac8df683314e05a92d811c62b4633b5443908ec01ac81148"
 metafile = true
