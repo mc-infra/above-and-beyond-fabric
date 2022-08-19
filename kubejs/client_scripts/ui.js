@@ -7,15 +7,15 @@ onEvent('ui.main_menu', event => {
 
     ui.button(b => {
       b.name = 'Test'
-      b.x = 10
-      b.y = 10
+      b.x = ui.width/2 - 5
+      b.y = ui.height/2 - 5
       b.action = 'minecraft:singleplayer'
     })
 
     ui.button(b => {
       b.name = 'Multiplayer'
-      b.x = 20
-      b.y = 20
+      b.x = ui.width/2 - 5
+      b.y = ui.height/2 + 5
       b.action = 'minecraft:multiplayer'
     })
 
