@@ -2770,6 +2770,11 @@ hash = "029252dacfd0ade16df172cd6d7e698c3393af44df4fb555a6022d0cea0ebbfb"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
+metafile = true
+
+[[files]]
 file = "mods/culinary-construct.pw.toml"
 hash = "aa1e164c46bde0adc2038aafa1bc71a322623ac61d81b92360d22677df8a1d9f"
 metafile = true
