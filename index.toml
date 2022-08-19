@@ -3283,11 +3283,6 @@ hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
 metafile = true
 
 [[files]]
-file = "mods/tough-as-nails.pw.toml"
-hash = "bf96a2e4c45291ae9b4ad206c0df9f7c9c7fb07f3701495c53d8f8531527f410"
-metafile = true
-
-[[files]]
 file = "mods/travelers-backpack.pw.toml"
 hash = "b7a262cd01a422861143e0bd8484545d5ae8ecdfb42f1c7e56de33f3b2482371"
 metafile = true
