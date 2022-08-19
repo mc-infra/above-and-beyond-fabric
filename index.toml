@@ -2764,7 +2764,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "bf2f0329fd4ab13239fb679383743d780c633634c17f0d75c78d9a65a8781a3c"
+hash = "7dcb9e5889be31a7e7adbf5e88fb09a54c8c3cc3bd8b6bab4d6c0ec6fa2290dd"
 metafile = true
 
 [[files]]
