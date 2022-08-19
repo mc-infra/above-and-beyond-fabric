@@ -173,14 +173,6 @@ file = "config/defaultoptions-common.toml"
 hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
 
 [[files]]
-file = "config/defaultoptions/keybindings.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/defaultoptions/options.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/dice-common.toml"
 hash = "5902adf05fba1dedd6b56c82731595861237994da81e57ba7a95bfd7946bc917"
 
