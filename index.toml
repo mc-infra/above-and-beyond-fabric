@@ -2720,11 +2720,6 @@ hash = "2a49f23b290c80ba274e622397a1241c3ef1e4c9975e4f816e2ccc892c1d114c"
 metafile = true
 
 [[files]]
-file = "mods/controlling.pw.toml"
-hash = "099af7d0a61fd27c6b6ba26e7e84c4d7cfe5eea78a7102c7eb717528ef6ecc91"
-metafile = true
-
-[[files]]
 file = "mods/cookiecore.pw.toml"
 hash = "456395f71f5ee84e6b48fd4d5e83d11dc8b8761555c15065cfc29455469715d8"
 metafile = true
@@ -2815,23 +2810,8 @@ hash = "c7ff7b33527f0ec10240b6a7e78dc7951b6f814ac21d221a8f40541aad8cc4ee"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-view.pw.toml"
-hash = "0b395fc14d7d19522be74ea1817af86cf86db00f90722a17555da073c65855cf"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "50055db9965c9f7995eb2cf489bbe085c45801e8fda7a684547dd63788108ce2"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
 metafile = true
 
 [[files]]
@@ -2850,13 +2830,13 @@ hash = "8a1494c34fa08040ce928c6e961baa0ba4dc1d43921cb55a25753e89d21046e7"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+file = "mods/fancymenu-forge.pw.toml"
+hash = "0377ee598c73f0214f323459d9f08048a1b44575fbb58fbcef1bbb85b0036414"
 metafile = true
 
 [[files]]
-file = "mods/farsight.pw.toml"
-hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
+file = "mods/farmers-delight.pw.toml"
+hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
 metafile = true
 
 [[files]]
@@ -2956,12 +2936,27 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
+hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
 hash = "b61137301d238d28d5f193aae83e5d159299d1367c69467373797babed888154"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-keys.pw.toml"
+hash = "89a3596260264546e1826d1e93a652b450f9c71ba914e75f95bd512856cbe584"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "439ad025cefd111c1fd54229173ef81c9d4d97882915dd3197400c474ad763c6"
 metafile = true
 
 [[files]]
@@ -3060,11 +3055,6 @@ hash = "b6d7f45860db011709514ab1009c8bf7a14756f04515e2786db205e748298402"
 metafile = true
 
 [[files]]
-file = "mods/oculus.pw.toml"
-hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
-metafile = true
-
-[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
@@ -3132,16 +3122,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "3fc88eca450f5e1421de45926943a49010e8dbdcf8b71f1728313a3b292e947f"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "ff66be5e66b2420a5c62bb5733ae944c75d80d7fdc63b711a4b4f0e23b02fdfa"
-metafile = true
-
-[[files]]
-file = "mods/rubidium.pw.toml"
-hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
 metafile = true
 
 [[files]]
