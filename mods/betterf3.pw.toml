@@ -12,6 +12,6 @@ hash = "a099fae06e06c76858da57c46650459658fc578c"
 mod-id = "8shC1gFX"
 version = "Uv4tFOgl"
 
-[options]
+[option]
 optional = true
 default = false
