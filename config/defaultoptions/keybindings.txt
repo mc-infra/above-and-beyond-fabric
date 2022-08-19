@@ -87,7 +87,7 @@ key_mod.chiselsandbits.keys.key.undo:key.keyboard.z:CONTROL
 key_mod.chiselsandbits.keys.key.redo:key.keyboard.y:CONTROL
 key_create.keyinfo.toolmenu:key.keyboard.left.alt:NONE
 key_create.keyinfo.toolbelt:key.keyboard.left.alt:NONE
-key_keybind.xreliquary.fortune_coin:key.keyboard.unknown:NONE
+key_keybind.reliquary.fortune_coin:key.keyboard.unknown:NONE
 key_key.improvedbackpacks.open_backpack:key.keyboard.b:NONE
 key_key.craftingtweaks.rotate:key.keyboard.unknown:NONE
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown:NONE

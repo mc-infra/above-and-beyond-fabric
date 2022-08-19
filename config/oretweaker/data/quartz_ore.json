@@ -1,7 +1,7 @@
 {
   "oreConfig": [
     {
-      "ore": "appliedenergistics2:quartz_ore",
+      "ore": "ae2:quartz_ore",
       "filler": "minecraft:stone",
       "minY": 1,
       "maxY": 30,

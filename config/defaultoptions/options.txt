@@ -157,7 +157,7 @@ key_mod.chiselsandbits.keys.key.measuring-tape.reset:key.mouse.right:SHIFT
 key_mod.chiselsandbits.keys.key.undo:key.keyboard.z:CONTROL
 key_mod.chiselsandbits.keys.key.redo:key.keyboard.y:CONTROL
 key_key.improvedbackpacks.open_backpack:key.keyboard.b
-key_keybind.xreliquary.fortune_coin:key.keyboard.unknown
+key_keybind.reliquary.fortune_coin:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.balance:key.keyboard.unknown

@@ -5,11 +5,11 @@ onEvent('item.registry', event => {
 	let types = ['Nether', 'Certus', 'Fluix']
 	types.forEach(e => {
 		let id = e.toLowerCase()
-		event.create('growing_' + id + '_seed').type('create:sequenced_assembly').texture("appliedenergistics2:item/crystal_seed_" + id).displayName(e + ' Quartz Seed')
-		event.create('tiny_' + id + '_crystal').texture("appliedenergistics2:item/crystal_seed_" + id + "2").displayName('Tiny ' + e + ' Quartz Crystal')
-		event.create('growing_tiny_' + id + '_crystal').type('create:sequenced_assembly').texture("appliedenergistics2:item/crystal_seed_" + id + "2").displayName('Tiny ' + e + ' Quartz Crystal')
-		event.create('small_' + id + '_crystal').texture("appliedenergistics2:item/crystal_seed_" + id + "3").displayName('Small ' + e + ' Quartz Crystal')
-		event.create('growing_small_' + id + '_crystal').type('create:sequenced_assembly').texture("appliedenergistics2:item/crystal_seed_" + id + "3").displayName('Small ' + e + ' Quartz Crystal')
+		event.create('growing_' + id + '_seed').type('create:sequenced_assembly').texture("ae2:item/crystal_seed_" + id).displayName(e + ' Quartz Seed')
+		event.create('tiny_' + id + '_crystal').texture("ae2:item/crystal_seed_" + id + "2").displayName('Tiny ' + e + ' Quartz Crystal')
+		event.create('growing_tiny_' + id + '_crystal').type('create:sequenced_assembly').texture("ae2:item/crystal_seed_" + id + "2").displayName('Tiny ' + e + ' Quartz Crystal')
+		event.create('small_' + id + '_crystal').texture("ae2:item/crystal_seed_" + id + "3").displayName('Small ' + e + ' Quartz Crystal')
+		event.create('growing_small_' + id + '_crystal').type('create:sequenced_assembly').texture("ae2:item/crystal_seed_" + id + "3").displayName('Small ' + e + ' Quartz Crystal')
 	});
 
 	let processors = ["Calculation", "Logic", "Engineering"]
@@ -75,7 +75,7 @@ onEvent('item.registry', event => {
 	event.create('pipe_module_tier_1').texture("kubejs:item/pipe_module_tier_1").displayName('Brass Pipe Module')
 	event.create('pipe_module_tier_2').texture("kubejs:item/pipe_module_tier_2").displayName('Invar Pipe Module')
 	event.create('pipe_module_tier_3').texture("kubejs:item/pipe_module_tier_3").displayName('Enderium Pipe Module')
-	
+
 	event.create('circuit_scrap').texture("kubejs:item/circuit_scrap").displayName('Circuit Scrap')
 	event.create('charged_calculator').texture("kubejs:item/charged_calculator").displayName('Calculator').maxDamage(64)
 	event.create('missingno').texture("kubejs:item/missingno").displayName('∄')
@@ -185,7 +185,7 @@ onEvent('block.registry', event => {
 	let reagent = (c1, c2, id, prefix, ingredient, outputItem) => substrate_base(c1, c2, id, `${prefix} Reagent`, "substrate", ingredient, outputItem)
 	let catalyst = (c1, c2, id, prefix, ingredient) => substrate_base(c1, c2, id, `${prefix} Catalyst`, "catalyst", ingredient)
 
-	reagent(0x5F5F5F, 0x8E8E8E, "andesite", "Andesite", "create:andesite_cobblestone")
+	reagent(0x5F5F5F, 0x8E8E8E, "andesite", "Andesite", "minecraft:andesite")
 	reagent(0x7F7F7F, 0xD4D4D4, "diorite", "Diorite", "create:diorite_cobblestone")
 	reagent(0x563A2F, 0x9A6C5B, "granite", "Granite", "create:granite_cobblestone")
 	reagent(0x585858, 0x646363, "cobblestone", "Stone", "minecraft:cobblestone")
@@ -210,8 +210,8 @@ onEvent('block.registry', event => {
 	reagent(0x27A9BB, 0x2CC7C9, "apatite", "Apatite", "thermal:apatite_dust")
 	reagent(0xC7A94A, 0xEEF071, "sulfur", "Sulfuric", "thermal:sulfur_dust")
 	reagent(0x735A65, 0xB8AFAF, "niter", "Nitric", "thermal:niter_dust")
-	reagent(0x91C5FC, 0xA7CBCF, "certus", "Certus Quartz", "appliedenergistics2:certus_quartz_dust")
-	reagent(0xB19E8F, 0xE7E2DB, "quartz", "Nether Quartz", "appliedenergistics2:nether_quartz_dust")
+	reagent(0x91C5FC, 0xA7CBCF, "certus", "Certus Quartz", "ae2:certus_quartz_dust")
+	reagent(0xB19E8F, 0xE7E2DB, "quartz", "Nether Quartz", "ae2:nether_quartz_dust")
 	category()
 	reagent(0x616A60, 0xD0D2C5, "zinc", "Zinc", "kubejs:zinc_dust")
 	reagent(0xDD7E5D, 0xFCEFBA, "copper", "Copper", "thermal:copper_dust")
@@ -302,7 +302,7 @@ onEvent('fluid.registry', event => {
 onEvent('item.modification', event => {
 	let colors = ["red", "yellow", "green", "blue", "magenta", "black"]
 	colors.forEach(element => {
-		event.modify('appliedenergistics2:' + element + '_paint_ball', item => {
+		event.modify('ae2:' + element + '_paint_ball', item => {
 			item.maxStackSize = 1
 		})
 	});

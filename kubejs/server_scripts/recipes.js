@@ -10,7 +10,7 @@ var log = []
 
 // Mod shortcuts
 let MOD = (domain, id, x) => (x ? `${x}x ` : "") + (id.startsWith('#') ? '#' : "") + domain + ":" + id.replace('#', '')
-let AE2 = (id, x) => MOD("appliedenergistics2", id, x)
+let AE2 = (id, x) => MOD("ae2", id, x)
 let TE = (id, x) => MOD("thermal", id, x)
 let AP = (id, x) => MOD("architects_palette", id, x)
 let LV = (id, x) => MOD("libvulpes", id, x)
@@ -24,7 +24,7 @@ let BOP = (id, x) => MOD("biomesoplenty", id, x)
 let PR_C = (id, x) => MOD("projectred-core", id, x)
 let PR_T = (id, x) => MOD("projectred-transmission", id, x)
 let PR_I = (id, x) => MOD("projectred-illumination", id, x)
-let RQ = (id, x) => MOD("xreliquary", id, x)
+let RQ = (id, x) => MOD("reliquary", id, x)
 let SD = (id, x) => MOD("storagedrawers", id, x)
 let SP = (id, x) => MOD("supplementaries", id, x)
 let F = (id, x) => MOD("forge", id, x)
@@ -113,13 +113,13 @@ onEvent('item.tags', event => {
 	event.get("forge:tools/axes").add(TC("hand_axe"))
 	event.get("forge:vines").add(MC("vine")).add(BOP("willow_vine")).add(BOP("spanish_moss"))
 	event.get("forge:recycling")
-		.add("extcaves:rusty_pickaxe")
-		.add("extcaves:rusty_sword")
-		.add("extcaves:iron_dagger")
-		.add("extcaves:gourmet_spoon")
-		.add("extcaves:gourmet_fork")
-		.add("extcaves:chef_knife")
-		.add("extcaves:butcher_knife")
+		.add("expcaves:rusty_pickaxe")
+		.add("expcaves:rusty_sword")
+		.add("expcaves:iron_dagger")
+		.add("expcaves:gourmet_spoon")
+		.add("expcaves:gourmet_fork")
+		.add("expcaves:chef_knife")
+		.add("expcaves:butcher_knife")
 
 	event.get("forge:circuit_press")
 		.add(AE2("name_press"))
@@ -131,7 +131,7 @@ onEvent('item.tags', event => {
 	event.get("forbidden_arcanus:indestructible_blacklisted")
 		.add(/exchangers:.*/)
 		.add(/advancedrocketry:.*/)
-		.add(/xreliquary:.*/)
+		.add(/reliquary:.*/)
 		.add(/waterstrainer:.*/)
 		.add(OC("#miners/ores"))
 		.add(PR_C("draw_plate"))
@@ -149,8 +149,6 @@ onEvent('item.tags', event => {
 	event.get('forge:super_glues').add(CR('super_glue'))
 	event.get('forge:wrenches').add(CR('wrench'))
 	event.get('forge:tools/wrench').add(CR('wrench'))
-	event.get('forge:ingots/steel').add("xkdeco:steel_ingot")
-	event.get('forge:storage_blocks/steel').add("xkdeco:steel_block")
 	event.get('forge:plates/zinc').add(KJ("zinc_sheet"))
 
 	event.get('thermal:crafting/dies').add('#forge:trade_cards')
@@ -200,8 +198,8 @@ onEvent('item.tags', event => {
 
 	event.get('tconstruct:anvil_metal').add(CR('zinc_block'))
 
-	event.get('chisel:basalt').add('extcaves:lavastone').add('extcaves:polished_lavastone')
-	event.get('chisel:limestone').add('extcaves:sedimentstone').add('darkerdepths:limestone').add('darkerdepths:aridrock')
+	event.get('chisel:basalt').add('expcaves:lavastone').add('expcaves:polished_lavastone')
+	event.get('chisel:limestone').add('expcaves:sedimentstone').add('darkerdepths:limestone').add('darkerdepths:aridrock')
 
 	let stones = ["limestone", "dolomite"]
 	stones.forEach(e => {
@@ -367,7 +365,7 @@ function unwantedRecipes(event) {
 	event.remove({ id: /tconstruct:smeltery\/melting\/ender\/.*/ })
 	event.remove({ id: /tconstruct:smeltery\/casting\/ender\/.*/ })
 	event.remove({ id: /tconstruct:smeltery\/.*\/tin.*/ })
-	event.remove({ id: /appliedenergistics2:tools\/paintballs.*/ })
+	event.remove({ id: /ae2:tools\/paintballs.*/ })
 	event.remove({ id: "grapplemod:repeller" })
 	event.remove({ id: "grapplemod:forcefieldupgradeitem" })
 	event.remove({ id: "grapplemod:rocketupgradeitem" })
@@ -433,17 +431,6 @@ function unwantedRecipes(event) {
 	event.remove({ input: "forbidden_arcanus:edelwood_bucket" })
 	event.remove({ output: "forbidden_arcanus:edelwood_bucket" })
 
-	event.remove({ id: 'ravencoffee:croissant' })
-	event.remove({ input: 'ravencoffee:croissant' })
-	event.remove({ id: 'ravencoffee:bagel' })
-	event.remove({ input: 'ravencoffee:bagel' })
-	event.remove({ id: 'ravencoffee:melon_pan' })
-	event.remove({ id: 'ravencoffee:muffin' })
-	event.remove({ id: 'ravencoffee:popchorus' })
-	event.remove({ id: 'ravencoffee:sandwich_ham' })
-	event.remove({ id: 'ravencoffee:sandwich_beef' })
-	event.remove({ id: 'ravencoffee:sandwich_chicken' })
-
 	native_metals.forEach(e => {
 		event.remove({ type: MC("smelting"), input: F("#dusts/" + e) })
 		event.remove({ type: MC("blasting"), input: F("#dusts/" + e) })
@@ -492,8 +479,6 @@ function tweaks(event) {
 	], {
 		S: F("#rods/wooden")
 	})
-
-	event.stonecutting("xkdeco:small_cushion_spawn_egg", MC("#wool"))
 
 	event.recipes.createCrushing([Item.of(TE("bitumen")), Item.of(TE("bitumen"), 2).withChance(0.75), Item.of(TE("tar"), 1).withChance(0.75), Item.of(MC("sand")).withChance(0.25)], TE("oil_sand"))
 	event.recipes.createCrushing([Item.of(TE("bitumen")), Item.of(TE("bitumen"), 2).withChance(0.75), Item.of(TE("tar"), 1).withChance(0.75), Item.of(MC("red_sand")).withChance(0.25)], TE("oil_red_sand"))
@@ -582,7 +567,7 @@ function tweaks(event) {
 	event.replaceInput({ id: "architects_palette:withered_bone_block" }, AP('withered_bone'), TC('necrotic_bone'))
 	event.remove({ id: "architects_palette:withered_bone" })
 
-	event.remove({ id: "extcaves:pebble_stone" })
+	event.remove({ id: "expcaves:pebble_stone" })
 
 	event.remove({ id: "forbidden_arcanus:edelwood_stick" })
 	event.shaped("3x forbidden_arcanus:edelwood_stick", [
@@ -635,60 +620,6 @@ function tweaks(event) {
 		"temperature": 500,
 		"time": 40
 	})
-
-	event.shaped("xkdeco:steel_armor_helmet", [
-		'SSS',
-		'S S'
-	], { S: "xkdeco:steel_ingot" })
-
-	event.shaped("xkdeco:steel_armor_boots", [
-		'S S',
-		'S S'
-	], { S: "xkdeco:steel_ingot" })
-
-	event.shaped("xkdeco:steel_armor_leggings", [
-		'SSS',
-		'S S',
-		'S S'
-	], { S: "xkdeco:steel_ingot" })
-
-	event.shaped("xkdeco:steel_armor_chestplate", [
-		'S S',
-		'SSS',
-		'SSS'
-	], { S: "xkdeco:steel_ingot" })
-
-	event.shaped("xkdeco:steel_pickaxe", [
-		'SSS',
-		' P ',
-		' P '
-	], { S: "xkdeco:steel_ingot", P: F("#rods/wooden") })
-
-	event.shaped("xkdeco:steel_shovel", [
-		'S',
-		'P',
-		'P'
-	], { S: "xkdeco:steel_ingot", P: F("#rods/wooden") })
-
-	event.shaped("xkdeco:steel_axe", [
-		'SS',
-		'SP',
-		' P'
-	], { S: "xkdeco:steel_ingot", P: F("#rods/wooden") })
-
-	event.shaped("xkdeco:steel_sword", [
-		'S',
-		'S',
-		'P'
-	], { S: "xkdeco:steel_ingot", P: F("#rods/wooden") })
-
-	event.shaped("xkdeco:steel_hoe", [
-		'SS',
-		' P',
-		' P'
-	], { S: "xkdeco:steel_ingot", P: F("#rods/wooden") })
-
-
 
 	event.remove({ output: TE("side_config_augment") })
 	event.shaped(TE("side_config_augment"), [
@@ -811,9 +742,6 @@ function tweaks(event) {
 	event.remove({ id: TC("smeltery/casting/metal/silver/nugget_gold_cast") })
 	event.remove({ id: TC("smeltery/casting/metal/silver/nugget_sand_cast") })
 	event.remove({ id: TC("smeltery/casting/metal/silver/block") })
-
-	cast("ingot", TC("molten_steel"), 144, "xkdeco:steel_ingot", 50)
-	cast_block(TC("molten_steel"), "xkdeco:steel_block")
 
 	cast("ingot", TC("molten_silver"), 144, TE("silver_ingot"), 50)
 	cast("nugget", TC("molten_silver"), 16, TE("silver_nugget"), 17)
@@ -1274,7 +1202,7 @@ function trickierWindmills(event) {
 		'NAN',
 		'SSS'
 	], {
-		A: '#appliedenergistics2:wool',
+		A: '#ae2:wool',
 		N: 'minecraft:iron_nugget',
 		S: 'minecraft:stick'
 	})
@@ -1553,8 +1481,8 @@ function electronTube(event) {
 	let redstone = MC('redstone')
 	event.shapeless('create:rose_quartz', [[MC('quartz'), AE2('certus_quartz_crystal'), AE2('charged_certus_quartz_crystal')], redstone, redstone, redstone, redstone])
 
-	event.recipes.createMilling([AE2('certus_quartz_dust')], '#appliedenergistics2:crystals/certus').processingTime(200)
-	event.recipes.createMilling([AE2('nether_quartz_dust')], '#appliedenergistics2:crystals/nether').processingTime(200)
+	event.recipes.createMilling([AE2('certus_quartz_dust')], '#ae2:crystals/certus').processingTime(200)
+	event.recipes.createMilling([AE2('nether_quartz_dust')], '#ae2:crystals/nether').processingTime(200)
 
 	event.remove({ id: CR('compat/ae2/milling/sky_stone_block') })
 	event.remove({ id: CR('compat/ae2/milling/nether_quartz') })
@@ -2012,7 +1940,7 @@ function invarMachine(event) {
 	invar_machine(TE('dynamo_compression'), 1, TE('rf_coil'))
 	invar_machine('kubejs:pipe_module_tier_2', 4)
 
-	event.replaceInput({ type: "minecraft:crafting_shaped", id: /appliedenergistics2:.*/ }, F("#ingots/iron"), TE("lead_plate"))
+	event.replaceInput({ type: "minecraft:crafting_shaped", id: /ae2:.*/ }, F("#ingots/iron"), TE("lead_plate"))
 
 	// invar_machine(TE('machine_crucible'), 1, MC('nether_bricks'))
 	// invar_machine(TE('machine_furnace'), 1, MC('bricks'))

@@ -644,7 +644,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - create:diorite_bricks_wall
 - create:fancy_diorite_bricks_wall
 - create:paved_diorite_wall
-- create:andesite_cobblestone_wall
+- minecraft:andesite_wall
 - create:andesite_bricks_wall
 - create:fancy_andesite_bricks_wall
 - create:paved_andesite_wall
@@ -1097,7 +1097,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - create:diorite_bricks_stairs
 - create:fancy_diorite_bricks_stairs
 - create:paved_diorite_stairs
-- create:andesite_cobblestone_stairs
+- minecraft:andesite_stairs
 - create:andesite_bricks_stairs
 - create:fancy_andesite_bricks_stairs
 - create:paved_andesite_stairs
@@ -1710,7 +1710,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - create:diorite_bricks_slab
 - create:fancy_diorite_bricks_slab
 - create:paved_diorite_slab
-- create:andesite_cobblestone_slab
+- minecraft:andesite_slab
 - create:andesite_bricks_slab
 - create:fancy_andesite_bricks_slab
 - create:paved_andesite_slab
@@ -2336,8 +2336,8 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - byg:yellow_nether_brick?
 - byg:blue_nether_brick?
 - endergetic:eumus_brick?
-- extcaves:brick_half?
-- extcaves:half_brick?
+- expcaves:brick_half?
+- expcaves:half_brick?
 - environmental:mud_brick?
 - createdeco:red_brick?
 - createdeco:worn_brick?
@@ -3814,7 +3814,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 #forge:cobblestone
 - create:granite_cobblestone
 - create:diorite_cobblestone
-- create:andesite_cobblestone
+- minecraft:andesite
 - create:limestone_cobblestone
 - create:weathered_limestone_cobblestone
 - create:dolomite_cobblestone

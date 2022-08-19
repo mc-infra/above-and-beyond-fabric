@@ -29,5 +29,5 @@
 			#   ["cobblestone", "minecraft:diamond_block", ["minecraft:diamond_block"]],
 			#   ["cobblestone", "minecraft:dirt", ["forge:dirt"]],
 			#   ["cobblestone", "minecraft:white_wool", ["minecraft:wool"]]]
-			custom_generators = [["cobblestone", "minecraft:bedrock", ["create:andesite_cobblestone|25", "create:granite_cobblestone|25", "create:diorite_cobblestone|25", "create:gabbro_cobblestone|25"]], ["stone", "minecraft:bedrock", ["minecraft:andesite|25", "minecraft:granite|25", "minecraft:diorite|25", "create:gabbro|25"]]]
+			custom_generators = [["cobblestone", "minecraft:bedrock", ["minecraft:andesite|25", "create:granite_cobblestone|25", "create:diorite_cobblestone|25", "create:gabbro_cobblestone|25"]], ["stone", "minecraft:bedrock", ["minecraft:andesite|25", "minecraft:granite|25", "minecraft:diorite|25", "create:gabbro|25"]]]
 

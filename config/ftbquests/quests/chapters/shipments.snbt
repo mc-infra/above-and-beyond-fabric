@@ -1644,7 +1644,7 @@
 		}
 		{
 			title: "8x Certus Quartz"
-			icon: "appliedenergistics2:certus_quartz_crystal"
+			icon: "ae2:certus_quartz_crystal"
 			disable_toast: true
 			x: 1.5d
 			y: 8.0d
@@ -1677,7 +1677,7 @@
 		}
 		{
 			title: "8x Fluix Quartz"
-			icon: "appliedenergistics2:fluix_crystal"
+			icon: "ae2:fluix_crystal"
 			disable_toast: true
 			x: 2.5d
 			y: 8.0d
@@ -3558,7 +3558,7 @@
 		}
 		{
 			title: "1x Witch Hat"
-			icon: "xreliquary:witch_hat"
+			icon: "reliquary:witch_hat"
 			disable_toast: true
 			x: 3.5d
 			y: 23.0d
@@ -3591,7 +3591,7 @@
 		}
 		{
 			title: "1x Zombie heart"
-			icon: "xreliquary:zombie_heart"
+			icon: "reliquary:zombie_heart"
 			disable_toast: true
 			x: -3.5d
 			y: 24.0d
@@ -3624,7 +3624,7 @@
 		}
 		{
 			title: "1x Squid Beak"
-			icon: "xreliquary:squid_beak"
+			icon: "reliquary:squid_beak"
 			disable_toast: true
 			x: -2.5d
 			y: 24.0d
@@ -3657,7 +3657,7 @@
 		}
 		{
 			title: "1x Rib Bone"
-			icon: "xreliquary:rib_bone"
+			icon: "reliquary:rib_bone"
 			disable_toast: true
 			x: -1.5d
 			y: 24.0d
@@ -3690,7 +3690,7 @@
 		}
 		{
 			title: "1x Catalyzing Gland"
-			icon: "xreliquary:catalyzing_gland"
+			icon: "reliquary:catalyzing_gland"
 			disable_toast: true
 			x: -0.5d
 			y: 24.0d
@@ -3723,7 +3723,7 @@
 		}
 		{
 			title: "1x Chelicerae"
-			icon: "xreliquary:chelicerae"
+			icon: "reliquary:chelicerae"
 			disable_toast: true
 			x: 0.5d
 			y: 24.0d
@@ -3756,7 +3756,7 @@
 		}
 		{
 			title: "1x Slime Pearl"
-			icon: "xreliquary:slime_pearl"
+			icon: "reliquary:slime_pearl"
 			disable_toast: true
 			x: 1.5d
 			y: 24.0d
@@ -3789,7 +3789,7 @@
 		}
 		{
 			title: "1x Bat Wing"
-			icon: "xreliquary:bat_wing"
+			icon: "reliquary:bat_wing"
 			disable_toast: true
 			x: 2.5d
 			y: 24.0d
@@ -3822,7 +3822,7 @@
 		}
 		{
 			title: "1x Withered Rib"
-			icon: "xreliquary:withered_rib"
+			icon: "reliquary:withered_rib"
 			disable_toast: true
 			x: 3.5d
 			y: 24.0d
@@ -3855,7 +3855,7 @@
 		}
 		{
 			title: "1x Molten Core"
-			icon: "xreliquary:molten_core"
+			icon: "reliquary:molten_core"
 			disable_toast: true
 			x: -3.5d
 			y: 25.0d
@@ -3888,7 +3888,7 @@
 		}
 		{
 			title: "1x Eye of the Storm"
-			icon: "xreliquary:eye_of_the_storm"
+			icon: "reliquary:eye_of_the_storm"
 			disable_toast: true
 			x: -2.5d
 			y: 25.0d
@@ -3921,7 +3921,7 @@
 		}
 		{
 			title: "1x Frozen Core"
-			icon: "xreliquary:frozen_core"
+			icon: "reliquary:frozen_core"
 			disable_toast: true
 			x: -1.5d
 			y: 25.0d
@@ -3954,7 +3954,7 @@
 		}
 		{
 			title: "1x Nebulous Heart"
-			icon: "xreliquary:nebulous_heart"
+			icon: "reliquary:nebulous_heart"
 			disable_toast: true
 			x: -0.5d
 			y: 25.0d
@@ -3987,7 +3987,7 @@
 		}
 		{
 			title: "1x Guardian Spike"
-			icon: "xreliquary:guardian_spike"
+			icon: "reliquary:guardian_spike"
 			disable_toast: true
 			x: 0.5d
 			y: 25.0d

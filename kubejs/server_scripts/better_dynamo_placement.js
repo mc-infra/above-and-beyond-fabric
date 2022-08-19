@@ -16,7 +16,7 @@ function opposite(face) {
 
 onEvent('entity.spawned', event => {
 	let entity = event.getEntity()
-	if (entity.getType() == "appliedenergistics2:singularity") {
+	if (entity.getType() == "ae2:singularity") {
 		let item = entity.getItem()
 		if (item == null)
 			return
@@ -45,61 +45,6 @@ onEvent('entity.spawned', event => {
 	entity.setX(Math.floor(entity.getX()) + .5)
 	entity.setY(Math.floor(entity.getY()) - .5)
 	entity.setZ(Math.floor(entity.getZ()) + .5)
-})
-
-onEvent('server.datapack.first', event => {
-
-	// "Fixes" Extended Caves wiping its config contents
-	let extcaves_conf = java("com.polyvalord.extcaves.config.Config")
-	let suppl_conf = java("net.mehvahdjukaar.supplementaries.configs.ServerConfigs")
-	let no_thankyou = suppl_conf.block.CAGE_ALL_MOBS
-
-	extcaves_conf.gen_block_lavastone = no_thankyou
-	extcaves_conf.gen_block_oldstone = no_thankyou
-	extcaves_conf.gen_vines = no_thankyou
-	extcaves_conf.gen_block_sedimentstone = no_thankyou
-	extcaves_conf.gen_block_dirtstone = no_thankyou
-	extcaves_conf.gen_block_marlstone = no_thankyou
-	extcaves_conf.gen_block_packed_ice = no_thankyou
-	extcaves_conf.gen_mushrooms = no_thankyou
-	extcaves_conf.gen_mosses = no_thankyou
-	extcaves_conf.gen_rock_flints = no_thankyou
-
-})
-
-onEvent('player.tick', event => {
-
-	// Fixes advanced rocketry not applying low gravity on the moon
-	let player = event.getPlayer()
-
-	if (player.minecraftPlayer.field_70173_aa % 10 != 0)
-		return
-
-	let effects = java("net.minecraft.potion.Effects")
-	player.getPotionEffects().add(effects.field_204839_B, 20, 0, false, false) // slow fall
-	player.getPotionEffects().add(effects.field_76430_j, 20, 4, false, false) // jump boost
-
-})
-
-onEvent('player.tick', event => {
-
-	// Fixes advanced rocketry not descending their rocket
-	let player = event.getPlayer()
-	if (player.getY() < 700)
-		return
-
-	let riding = player.getRidingEntity()
-	if (!riding)
-		return
-	if (riding.getType() != "advancedrocketry:rocket")
-		return
-
-	let nbt = riding.getFullNBT()
-	if (nbt["flight"] == 0) {
-		nbt["flight"] = 1
-		riding.setFullNBT(nbt)
-	}
-
 })
 
 onEvent('block.place', event => {
@@ -161,3 +106,4 @@ onEvent('block.place', event => {
 	}
 
 })
+

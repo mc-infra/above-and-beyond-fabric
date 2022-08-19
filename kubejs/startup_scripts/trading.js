@@ -2,7 +2,7 @@
 
 // Mod shortcuts
 let MOD = (domain, id, x) => (x ? `${x}x ` : "") + (id.startsWith('#') ? '#' : "") + domain + ":" + id.replace('#', '')
-let AE2 = (id, x) => MOD("appliedenergistics2", id, x)
+let AE2 = (id, x) => MOD("ae2", id, x)
 let TE = (id, x) => MOD("thermal", id, x)
 let AP = (id, x) => MOD("architects_palette", id, x)
 let LV = (id, x) => MOD("libvulpes", id, x)
@@ -14,7 +14,7 @@ let EG = (id, x) => MOD("endergetic", id, x)
 let FD = (id, x) => MOD("farmersdelight", id, x)
 let BOP = (id, x) => MOD("biomesoplenty", id, x)
 let PR_C = (id, x) => MOD("projectred-core", id, x)
-let RQ = (id, x) => MOD("xreliquary", id, x)
+let RQ = (id, x) => MOD("reliquary", id, x)
 let SD = (id, x) => MOD("storagedrawers", id, x)
 let SP = (id, x) => MOD("supplementaries", id, x)
 let F = (id, x) => MOD("forge", id, x)
@@ -399,7 +399,7 @@ onEvent('item.registry', event => {
 		simple("Scoria", CR('scoria', 16), 3, S, 0x2A130C, 0x553427)
 		simple("Dark Scoria", CR('dark_scoria', 16), 3, S, 0x0D0706, 0x23201A)
 		simple("Obsidian", MC('obsidian', 1), 8, S, 0x05030A, 0x36234C)
-		
+
 		next_group()
 		entry_cost = 10
 		simple("Dead Log", BOP('dead_log', 16), 2, S, 0x3D362D, 0x7A756D)
@@ -411,7 +411,7 @@ onEvent('item.registry', event => {
 		simple("Dark Oak Log", MC('dark_oak_log', 16), 4, S, 0x2C1B0D, 0x422B15)
 		simple("Crimson Stem", MC('crimson_stem', 16), 8, S, 0x442332, 0x7A3852)
 		simple("Warped Stem", MC('warped_stem', 16), 8, S, 0x3E1E2D, 0x347776)
-		
+
 		next_group()
 		entry_cost = 10
 		simple("Iron Ingot", MC('iron_ingot', 8), 16, S, 0xA6A6A6, 0xD5D5D5)
@@ -420,12 +420,12 @@ onEvent('item.registry', event => {
 		simple("Nickel Ingot", TE('nickel_ingot', 8), 32, S, 0x977756, 0xE4D196)
 		simple("Lead Ingot", TE('lead_ingot', 8), 32, S, 0x232456, 0x7C95A4)
 		simple("Gold Ingot", MC('gold_ingot', 8), 48, S, 0xD99413, 0xFAF25E)
-		
+
 		simple("Andesite Alloy", CR('andesite_alloy', 16), 8, S, 0x505050, 0x878787)
 		simple("Silica Steel", "8x moreminecarts:silica_steel", 16, S, 0x3E4644, 0xB8DAC8)
 		simple("Brass Ingot", CR('brass_ingot', 8), 48, S, 0x6F3C2D, 0xFCF085)
 		simple("Invar Ingot", TE('invar_ingot', 4), 64, S, 0x406D6C, 0xC3CAC1)
-		
+
 		entry_cost = 10
 		simple("Coal", MC('coal', 16), 4, S, 0x1C1C1E, 0x383D45)
 		simple("Flint", MC('flint', 16), 4, S, 0x3C3B3B, 0xA6A6A6)
@@ -441,16 +441,16 @@ onEvent('item.registry', event => {
 		simple("Certus Quartz", AE2('certus_quartz_crystal', 8), 24, S, 0x91C5FC, 0xA7CBCF)
 		simple("Fluix Quartz", AE2('fluix_crystal', 8), 32, S, 0x8F5CCB, 0xFC7ED4)
 		simple("Cured Rubber", TE('cured_rubber', 6), 16, S, 0x3D363C, 0x594F55)
-		
+
 		next_group()
 		entry_cost = 10
 		simple("Scaffolding", MC('scaffolding', 16), 2, S, 0x7F5F41, 0xDDC683)
 		simple("Wool", MC('white_wool', 1), 8, S, 0xBEC4C5, 0xE4E4E4)
 		simple("Sponge", MC('sponge', 1), 16, S, 0x8F8234, 0xCDCF4A)
 		simple("Cobweb", MC('cobweb', 1), 16, S, 0xC2CCCF, 0xFCFCFC)
-		
+
 		row += 4
-		
+
 		next_group()
 		entry_cost = 10
 		simple("Rice", FD('rice_bag', 1), 4, S, 0x9F7653, 0xCEC6BC)
@@ -471,7 +471,7 @@ onEvent('item.registry', event => {
 		simple("Sweet Berries", MC('sweet_berries', 8), 11, S, 0x27613F, 0xA30700)
 		simple("Vines", MC('vine', 4), 7, S, 0x183D08, 0x317B10)
 		simple("Tree Fertilizer", CR('tree_fertilizer', 1), 8, S, 0xCF8469, 0x71933A)
-		
+
 		next_group()
 		entry_cost = 10
 		simple("Daub", SP('daub', 16), 5, S, 0xBFBAAA, 0xCBC8B6)
@@ -488,12 +488,12 @@ onEvent('item.registry', event => {
 		simple("Osseous Bricks", AP('osseous_bricks', 32), 8, S, 0x9D976F, 0xD3D0BF)
 		simple("Seared Stone", TC('seared_stone', 16), 32, S, 0x393734, 0x59534F)
 		simple("Scorched Stone", TC('scorched_stone', 16), 32, S, 0x382C25, 0x4C3F37)
-		
+
 		simple("Lantern", MC('lantern', 1), 1, S, 0x484F64, 0xF6C765)
 		simple("Copper Lantern", SP('copper_lantern', 1), 1, S, 0xB36535, 0xF3B154)
 		simple("Brass Lantern", SP('brass_lantern', 1), 1, S, 0xA47C37, 0xFAEACF)
 		simple("Crimson Lantern", SP('crimson_lantern', 1), 1, S, 0x9C0E2C, 0xE7EB56)
-		
+
 		next_group()
 		entry_cost = 10
 		simple("Slime Ball", MC('slime_ball', 4), 24, S, 0x4F7E48, 0x8AD480)
@@ -511,7 +511,7 @@ onEvent('item.registry', event => {
 		simple("Bone", MC('bone', 4), 8, S, 0xC9C4A3, 0xC9C4A3)
 		simple("Prismarine Shard", MC('prismarine_shard', 4), 16, S, 0x2F6355, 0x8FC0AA)
 		simple("Prismarine Crystals", MC('prismarine_crystals', 4), 24, S, 0x71A296, 0xDCE6D9)
-		
+
 		entry_cost = 10
 		simple("Witch Hat", RQ('witch_hat', 1), 1, G, 0x424242, 0x568125)
 		simple("Zombie heart", RQ('zombie_heart', 1), 32, S, 0x532B38, 0x8D584A)

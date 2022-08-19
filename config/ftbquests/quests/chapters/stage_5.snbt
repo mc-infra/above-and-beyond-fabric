@@ -544,7 +544,7 @@
 		}
 		{
 			title: "Upcycle Bin"
-			icon: "appliedenergistics2:matter_ball"
+			icon: "ae2:matter_ball"
 			x: 2.0d
 			y: 3.0d
 			subtitle: "Contraption 47"
@@ -560,7 +560,7 @@
 				{
 					id: "245415CFAEFCA7ED"
 					type: "item"
-					item: "appliedenergistics2:matter_ball"
+					item: "ae2:matter_ball"
 					consume_items: false
 				}
 				{

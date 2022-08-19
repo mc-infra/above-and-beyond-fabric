@@ -102,7 +102,7 @@ hash = "e2010c8cd87c32b0f97334cbb3f3fcbe1801b10063d2ae72f57b9cc26748efb1"
 
 [[files]]
 file = "config/cobblegenrandomizer-common.toml"
-hash = "5f865a1364fd5cb7e6b40aed185fb0e13fe60fe87c82ca9aa94e189f69b1f61f"
+hash = "18ed7a394ac050ecde9339e3cbedde175b49b7cd3990a94367ace00535fedfe8"
 
 [[files]]
 file = "config/cofh_core-client.toml"
@@ -174,11 +174,11 @@ hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "8e0209713b4417b598703f32357a654d592fd6eca97d8644407caabcde32cef3"
+hash = "1cc652be335b5396018278276f05d968b028793b9a55cde5e411b074ec408511"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "d7537aa271c36c076d33e084ef3691df0a954390ef98a2e8482d4ee8a0054747"
+hash = "e5b6b8adbb94a804965c208107fdb1b74d19ed8332f3f32f61050abedf7da924"
 
 [[files]]
 file = "config/dice-common.toml"
@@ -254,7 +254,7 @@ hash = "018b4c947a8c25e37739533440f8a0fbe7e75bdefdba5ad2aa59c76faebdab80"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/market.snbt"
-hash = "0b2139f1e4a0efbd8fbc090c8d1895dfcb49f2a413b6eab78a253ed081923d64"
+hash = "7e0d1a8d2c966c7bde82aa151668a5ddbdc027ac3708ef27fb8489dd4e45aecd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/metallurgy.snbt"
@@ -266,27 +266,27 @@ hash = "2f9f5dd9d431f82d872aae5f22f109bada59c93e5e0d452ab3d052d081c47842"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/professions.snbt"
-hash = "87e7de89a7a49da61752c4cfc1c07c2773459c5a72c7540e6bf0177ccac9976e"
+hash = "06a3b46d916882f1ca8e2892f8eb7d73b1a7ba573608c677226716f4de8f83cd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/shipments.snbt"
-hash = "6359b89e722e7e0ac950e02b060f470f725983d3c449c849460159e25fa2572b"
+hash = "5c0325c92f984e31cf398233cdc0d6a2cb0a5de6ea83936edfbe8d1c008278dd"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_1.snbt"
-hash = "f3cac145ef91cbf60271d3e21190026e90788983be4b792795fa69193a945104"
+hash = "bc7fafb58236736f33fad859c3306d0e079cc9b6828089e5511ed409eeb63e66"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_2.snbt"
-hash = "24425ccf013ed6847fa85aa31f4e90b679a532c54b8d73d11cc8d32350bc3b24"
+hash = "31dd09626104d40817dc1b8d0cda73bcbf6658f125b31ed6ba7ed23b90e20af0"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_3.snbt"
-hash = "67fed798661e95bbc9867ccbbbd73fe3b2ee33f513fba0ad7e6d2016ceaa0ed2"
+hash = "11ba7deffecb545889bba38ab87520f1e422a5606e8ee62f07e3c262d22a532f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_4.snbt"
-hash = "779a99f7acc5e19724612e8dcd1174dd84a8e59a827afa320a40d0f09035e306"
+hash = "d447e246caa175acff930a0d9835b39eea20daaf61a119ffd7137cde5ed1cef1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_4b.snbt"
@@ -294,7 +294,7 @@ hash = "614900c98ace59e45187710e0ac98a382f23521f5be371f74250f67edfab8d3f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/stage_5.snbt"
-hash = "c66be97c287027ba6e6f129e59a726d9ad07fdb533f82b262b92e046c9ba1137"
+hash = "c273d99f1070f9eb6e17bf6367a5011c9a75be2885d8291350b5a45b6e545280"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/welcome.snbt"
@@ -394,7 +394,7 @@ hash = "8a02baec846097c89832b5976a6eb4254fdd3067ec52017c50322e7a9bf80325"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "93cf376d63cee2767d08b7e6fd875ee83539c7b676d81995480543e5267c7efc"
+hash = "f69a986bcb0c8065fc7cb4d7ae26dbf3a16fa49d7d9ca4003e33f4864ca0d798"
 
 [[files]]
 file = "config/libvulpes.toml"
@@ -715,15 +715,15 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/custom/assets/appliedenergistics2/models/block/charger.json"
-hash = "c7433225629b44933ef523354dece132e7d88f99f74044ae7840ede59c40e853"
+hash = "d1152a94ca87959320a25c441b6ac9c66a224e3bf60ad4213f7f7771f6a9a774"
 
 [[files]]
 file = "config/openloader/resources/custom/assets/appliedenergistics2/models/block/sky_compass_base.json"
-hash = "d7c688fae57848b1ae892e8d23c65b7af02cae20632d65f2a1f141eca84bd2e9"
+hash = "69b5f04a7c3aec3ff96297b6cf99ab181cacd4a629406a5c3b7870b7d4bc6b56"
 
 [[files]]
 file = "config/openloader/resources/custom/assets/appliedenergistics2/models/block/sky_compass_pointer.json"
-hash = "7c61f063fec3b4da91192597cc0dcf5602dc119563e38efaae9b3a92da2c2cd4"
+hash = "81cd563e20efca7ff206c68b175ba0df5b67d14ad97e23e7559dd1e316920cc4"
 
 [[files]]
 file = "config/openloader/resources/custom/assets/appliedenergistics2/textures/block/charger.png"
@@ -818,15 +818,15 @@ file = "config/openloader/resources/custom/assets/enderstorage/textures/endertan
 hash = "7834d42c094b96aad41487742c278ed21da4f8decdac8811586dffa56abf1a75"
 
 [[files]]
-file = "config/openloader/resources/custom/assets/extcaves/blockstates/brokenstone.json"
-hash = "3bf728bca75b8903e65d76078aa551b9ec5626f1cccbe203f5587a99c4fa07d1"
+file = "config/openloader/resources/custom/assets/expcaves/blockstates/brokenstone.json"
+hash = "b3cfa90d5d321f7ed0640f919f254091d18a4ea26583edd9c858336015bc7ca5"
 
 [[files]]
-file = "config/openloader/resources/custom/assets/extcaves/models/block/brokenstone.json"
-hash = "032c2d4495c59d8c229f2f19c20f2dfa82cc4f77dfba83b06935bc9db2bfd446"
+file = "config/openloader/resources/custom/assets/expcaves/models/block/brokenstone.json"
+hash = "df63df276c01aacfdea3484f460ccbaf86224cd603ecc8dc995bb2a01e1738ad"
 
 [[files]]
-file = "config/openloader/resources/custom/assets/extcaves/textures/block/brokenstone.png"
+file = "config/openloader/resources/custom/assets/expcaves/textures/block/brokenstone.png"
 hash = "1c2a4a5a0e11af0f931e0cf9b12e928ad17f60466968e18c2245854131e7e2d6"
 
 [[files]]
@@ -1403,7 +1403,7 @@ hash = "2d86e88f43f0f33b3041a3465cf295adea3a10d1ce12b7a6e55762feec21f594"
 
 [[files]]
 file = "config/oretweaker/data/quartz_ore.json"
-hash = "2aedcfad27151790a427678e3dce3d5108a7c4b51c33f1a0f53d044c4a38fbeb"
+hash = "8228589f0b1ac52916ac86c2c92319ea0c1235d24e7b2159b3f41545cc7a816d"
 
 [[files]]
 file = "config/oretweaker/data/randomium_ore.json"
@@ -1715,7 +1715,7 @@ hash = "7206eaa973103c88c782cbbc3b5690d7b47759b4f1f020f6d7475b63fa2760ed"
 
 [[files]]
 file = "config/structurescompass-common.toml"
-hash = "a8a792eff4c9d96d8559ad1e026d1eb5ed42b6e22aa449f35ae0030d857b8002"
+hash = "0f14ed2bc6da628c5e962d0a7285ff1165db4a05b03c9310a5a20dd0a4a1b163"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -1751,7 +1751,7 @@ hash = "074327238b3caed2969c6c953dab2d722b56d538d9c111897a7269f879c34cae"
 
 [[files]]
 file = "config/titanium/titanium-tags.toml"
-hash = "bed71e2722d04afd15e03330d1a157a51077e8fdcd064c80ab4a49bed6a49e59"
+hash = "1451ca535d24b1eff84246dadf9e1e79121027c183d301bcbf549f4b84155fc0"
 
 [[files]]
 file = "config/titanium/titanium.toml"
@@ -1779,7 +1779,7 @@ hash = "b7502d1be133172dc7d473a438670fd81952c2022f57d2361bb2a4c1028b0a19"
 
 [[files]]
 file = "config/waterstrainer/waterstrainer_loottables.txt"
-hash = "0146fc9d8f2eebcd006bb488330dee30b4f5cd3616800836531c52a6af7e333d"
+hash = "5f1721de02c21819e44d933dcff451d71c2e0399f926d09cc16b172b9ca2f507"
 
 [[files]]
 file = "config/xreliquary-client.toml"
@@ -1787,7 +1787,7 @@ hash = "08b34c6d39a28aeef60afb486f8ba35bec0d842d4fb5bb94d4b6862c9d0c2e2c"
 
 [[files]]
 file = "config/xreliquary-common.toml"
-hash = "acaeea1f25729007d52669931cd3c66d75f4269f11eb886809c90a42b5ddf7d5"
+hash = "a50305a9b63fde38bb65a83beac822c33cc9b2b065ecb5a5549608c8a16fa51a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -2379,11 +2379,11 @@ hash = "1c03effb7e5e7b671bfe11d0246d303b695d7f5193c7ceef62306aa8b3a93d5c"
 
 [[files]]
 file = "kubejs/client_scripts/client.js"
-hash = "a6178422efb1651fad63ec3cb93f8545efd97d9e479c0956fce83cc922cbab41"
+hash = "dc5bcc4bfadf72fde7432c5c5589449d3d4bf8b18b2889f86a3e313818122f7f"
 
 [[files]]
 file = "kubejs/client_scripts/ponder.js"
-hash = "96ae039638cb637b43ab32a1005a8a620fb4d9e2ecb730e15af8fdf7d04cbdf5"
+hash = "bbb37e1307e00f4f024cb55a2b6f934e9af4c8bf2c796b4e6de8f12e7520c1f9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2403,11 +2403,11 @@ hash = "7e95a5fab594ea40315eb56170e68bc4c68d983d8d62135dfc35343a34ea7631"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/moon_junk.json"
-hash = "f9b66f33e43e134ac367044e6d13f0cb30bb5c51dd4fc4a30f6e58c78bc359cc"
+hash = "17864a011461c8655e0fb58bb56440cc2540cfe6b71b7c577e69c791dd81f251"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/moon_treasure.json"
-hash = "6570a743b418b8c8113a1d6aa65dc595468ef8c181df7cd0486403e3df20a33e"
+hash = "365733f75ac2d0ecb04385edfbaea4bbbc8f8ea611461083ef08f103d45bb7f6"
 
 [[files]]
 file = "kubejs/data/custom/loot_tables/chests/patience_1.json"
@@ -2422,43 +2422,43 @@ file = "kubejs/data/custom/loot_tables/chests/tinker.json"
 hash = "d36db9587c434e1f58dd5f25c15275532006e913219a3c24a9ae57989cb50aca"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_slab.json"
-hash = "9bee66b819e4d1de78d01ebedea959ed46ecebadec801ae65ea03ec23fd6a441"
+file = "kubejs/data/expcaves/loot_tables/blocks/lavastone_slab.json"
+hash = "5393085bca737ac601a4561db636cef0788ca17bbf4536b2cf6ef27d79868dfb"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/lavastone_stairs.json"
-hash = "ee25bcd7739b743242ae54f2f8e213e36acc0e9e7e2c9efb5f2fadbebbf5cc62"
+file = "kubejs/data/expcaves/loot_tables/blocks/lavastone_stairs.json"
+hash = "5af164f1cee23ff8947a19b69631594b34bd4013e69a2df790d672900616a3e4"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone.json"
-hash = "467e9e03e0adbafa84dcafcb807d2657cf48c186282caaf450bad74f5dfe6c84"
+file = "kubejs/data/expcaves/loot_tables/blocks/polished_lavastone.json"
+hash = "f49a321ea5b5faf2decfe2e3145af41f96adca8f18411816a1935da0c42ba189"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_slab.json"
-hash = "4488eed7d736de33ef24e87cb3ad4c8453623c26a546d2380489894136f2f5e9"
+file = "kubejs/data/expcaves/loot_tables/blocks/polished_lavastone_slab.json"
+hash = "c6e1243534aaffb9a4b5008e8d0b275d6607b96b7789d0d7b63174d42ea8d9df"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/polished_lavastone_stairs.json"
-hash = "86d6f4304a972b449d0ab1189bfef743b54af346a8710b079c93b14f0d58b222"
+file = "kubejs/data/expcaves/loot_tables/blocks/polished_lavastone_stairs.json"
+hash = "929dc6a3e8f1bcab297e6ecce28ea28fe7ba9edf340266050691f0ee966bfbc9"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot.json"
+file = "kubejs/data/expcaves/loot_tables/blocks/treasure_pot.json"
 hash = "d54543da785452d90c7a973fcd2f28236dc9e03a40b62e357875035f4f6bfe4b"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_long.json"
+file = "kubejs/data/expcaves/loot_tables/blocks/treasure_pot_long.json"
 hash = "74672c2d69433ee6441beb285f98f362d014807264ad948ee738f4649a8174ef"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_long.json"
+file = "kubejs/data/expcaves/loot_tables/blocks/treasure_pot_quartz_long.json"
 hash = "8e82b34643c6721089b7d1262d88a54d1eecc67f099f24086fcb36a0406e53cb"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_quartz_short.json"
+file = "kubejs/data/expcaves/loot_tables/blocks/treasure_pot_quartz_short.json"
 hash = "7da34f9044af66e05a477e9791e0742b9b6bb64646bce17c7607738a6761d73c"
 
 [[files]]
-file = "kubejs/data/extcaves/loot_tables/blocks/treasure_pot_short.json"
+file = "kubejs/data/expcaves/loot_tables/blocks/treasure_pot_short.json"
 hash = "e28a4776b1cde0d5791a57f4d8b64234ab38efc2dc6f658897431fbfa91c7012"
 
 [[files]]
@@ -2471,7 +2471,7 @@ hash = "16501789150fc46ee546cbaca45d6e7e4709f125be180fe253f13e7ad8202416"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
-hash = "3121a7bbd951442d19df73bd21f24a14f1f05ac4623e983d9acdf498bbebe724"
+hash = "f178fa7c53593d3dd9f0e7d484e4b0708eeca2a99ded9da3f7bffd41c5643473"
 
 [[files]]
 file = "kubejs/exported/tags/enchantments.txt"
@@ -2491,7 +2491,7 @@ hash = "083cfb70b536cfc2bbc515b2dff3856e9aa07f67faf26531c44c4803ab51de59"
 
 [[files]]
 file = "kubejs/exported/tags/items.txt"
-hash = "397dd2d08a808c4b2bbdf32c038f8c2122b69903456661007f10ec9f7c866431"
+hash = "ba3753b78cd8103293bae7031af64e76c41ea8b24b9b22bc091dff8378d39641"
 
 [[files]]
 file = "kubejs/exported/tags/potions.txt"
@@ -2503,11 +2503,11 @@ hash = "9f137569f1e938dfa4c2dd64e91cb6826028b7c00dba7e5e914578f7e8c4a029"
 
 [[files]]
 file = "kubejs/server_scripts/better_dynamo_placement.js"
-hash = "8bc9abb52598509e2c84753cd4d1728969b08cc8340018f865ef26ae9fb2e9bd"
+hash = "8d5e7cd90bde4988c94f8905f3656a48778d8a31056be62a8bf1a4b3d36ca2cb"
 
 [[files]]
 file = "kubejs/server_scripts/bonkers_chemistry.js"
-hash = "e50b9d5a1c120e8100fd825527e073bae597fd4794125342d9aae62e169bfe86"
+hash = "ce986731282c3521b4566cf219feaacf4e897058306c127077e6cc8d050d395b"
 
 [[files]]
 file = "kubejs/server_scripts/express_mode.js"
@@ -2515,7 +2515,7 @@ hash = "52c61e7ba9da0d5ae0a2bed074b3d302126efe1e1d92b0f43d70ae6cd8517e0f"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"
-hash = "6f23df524a62ccdcb961f5e511040de3722082ef77a7153a6d2f72dd23149907"
+hash = "52b8e614883ee7dc9f518301dde6db63c6043f758670b1c897d6c59a8eee3732"
 
 [[files]]
 file = "kubejs/server_scripts/quests.js"
@@ -2523,15 +2523,15 @@ hash = "70f7d85ec5f93798096a3606286705d626248f6b1c278842f154759e13beebfc"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "b43dc88113907c318394bf81ae7b544822d37ef9d53ccea386988ec0446ec560"
+hash = "412d6be250aafce303749424ec595c9f3fa340f28865c5e12ca620937bf54f86"
 
 [[files]]
 file = "kubejs/startup_scripts/launch.js"
-hash = "286c1ac76fb02f2f389a83b84b6288206e26d95c1adafdccba75a705a344ca4e"
+hash = "4070f634bca06650b5e705f9e3eb3fee6380027ff06ebceef51051d9632fd073"
 
 [[files]]
 file = "kubejs/startup_scripts/trading.js"
-hash = "3e3d7e3d1a82b030f4509db624878d244c2161b43a70d3badf82930a2b19eb52"
+hash = "08b2c2fc33690583770e14d1baf70240f59a257f16a4be5fdfffd5f4cd565d15"
 
 [[files]]
 file = "modlist.toml"

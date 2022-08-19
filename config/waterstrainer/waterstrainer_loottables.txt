@@ -15,7 +15,7 @@
 // <add><strainer>strainer_survivalist_solid</strainer> <chance>20</chance> <item>minecraft:flint</item></add>
 
 // Unused
-// <add><strainer>strainer_survivalist_reinforced</strainer> <chance>99</chance> <item>appliedenergistics2:ender_dust</item></add>
+// <add><strainer>strainer_survivalist_reinforced</strainer> <chance>99</chance> <item>ae2:ender_dust</item></add>
 
 // Fishing Net
 <add><strainer>strainer_fisherman</strainer> <group>FISH</group> <chance>100</chance> <item>minecraft:cod</item> <subchance>60</subchance></add>

@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Aug 18 19:15:08 2022
+# Make data base, printed on Thu Aug 18 23:24:21 2022
 
 # Variables
 
@@ -41,7 +41,7 @@ GOPATH = C:\Users\nbatk\go
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_72240_ZVSOWZYASDBCJTLU
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_84736_UUGEVHONJOJTINHN
 # environment
 TF_LOG = ERROR
 # environment
@@ -93,7 +93,7 @@ MAKEFILE_LIST := Makefile
 # automatic
 @F = $(notdir $@)
 # environment
-VSCODE_PID = 72240
+VSCODE_PID = 84736
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # environment
@@ -205,8 +205,7 @@ SESSIONNAME = Console
 # environment
 CLOUDSDK_METRICS_ENVIRONMENT = cloudcode.vscode
 # default
-.FEATURES := target-specific orde 
-r-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
 # environment
 PROCESSOR_REVISION = a502
 # environment
@@ -270,6 +269,6 @@ all:
 # strcache performance: lookups = 34 / hit rate = 11%
 # hash-table stats:
 # Load=30/8192=0%, Rehash=0, Collisions=0/34=0%
-# Finished Make data base on Thu Aug 18 19:15:08 2022
+# Finished Make data base on Thu Aug 18 23:24:21 2022
 
  

@@ -69,7 +69,7 @@
 			tasks: [{
 				id: "4D592B701A2AE0BC"
 				type: "item"
-				item: "appliedenergistics2:certus_crystal_seed"
+				item: "ae2:certus_crystal_seed"
 				consume_items: false
 			}]
 		}
@@ -105,7 +105,7 @@
 		}
 		{
 			title: "Growth Completed"
-			icon: "appliedenergistics2:purified_certus_quartz_crystal"
+			icon: "ae2:purified_certus_quartz_crystal"
 			x: -2.5d
 			y: 8.0d
 			subtitle: "Contraption 12-4"
@@ -116,7 +116,7 @@
 				{
 					id: "68D808533C34AB5C"
 					type: "item"
-					item: "appliedenergistics2:purified_certus_quartz_crystal"
+					item: "ae2:purified_certus_quartz_crystal"
 					consume_items: false
 				}
 				{
@@ -151,7 +151,7 @@
 		}
 		{
 			title: "Skystone Infini-mill"
-			icon: "appliedenergistics2:sky_dust"
+			icon: "ae2:sky_dust"
 			x: -1.0d
 			y: 4.0d
 			subtitle: "Contraption 11"
@@ -167,7 +167,7 @@
 				{
 					id: "69C6513B25BB6ABA"
 					type: "item"
-					item: "appliedenergistics2:sky_dust"
+					item: "ae2:sky_dust"
 					consume_items: false
 				}
 				{
@@ -298,7 +298,7 @@
 		}
 		{
 			title: "The (Re-)Charger"
-			icon: "appliedenergistics2:charged_certus_quartz_crystal"
+			icon: "ae2:charged_certus_quartz_crystal"
 			x: 1.0d
 			y: 6.0d
 			subtitle: "Contraption 14"
@@ -314,7 +314,7 @@
 				{
 					id: "23DAE14596F025DF"
 					type: "item"
-					item: "appliedenergistics2:charged_certus_quartz_crystal"
+					item: "ae2:charged_certus_quartz_crystal"
 					consume_items: false
 				}
 				{
@@ -407,7 +407,7 @@
 				{
 					id: "7A797A069B28AE89"
 					type: "item"
-					item: "appliedenergistics2:certus_quartz_crystal"
+					item: "ae2:certus_quartz_crystal"
 					random_bonus: 4
 				}
 				{

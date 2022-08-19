@@ -707,7 +707,7 @@
 				{
 					id: "05FA6BA978E2C59F"
 					type: "item"
-					item: "appliedenergistics2:certus_quartz_crystal"
+					item: "ae2:certus_quartz_crystal"
 				}
 				{
 					id: "4DC845907E010B7E"
@@ -1139,7 +1139,7 @@
 				{
 					id: "77DF03F6422FE09D"
 					type: "item"
-					item: "xreliquary:rib_bone"
+					item: "reliquary:rib_bone"
 				}
 				{
 					id: "5B926A8BCD627407"

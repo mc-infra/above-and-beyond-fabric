@@ -164,7 +164,7 @@
               }
             }
           ],
-          "name": "create:andesite_cobblestone"
+          "name": "minecraft:andesite"
         },
         {
           "type": "minecraft:item",
@@ -275,21 +275,6 @@
             }
           ],
           "name": "chisel:factory/dots"
-        },
-        {
-          "type": "minecraft:item",
-          "weight": 15,
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 1.0,
-                "max": 48.0,
-                "type": "minecraft:uniform"
-              }
-            }
-          ],
-          "name": "xkdeco:steel_tiles"
         },
         {
           "type": "minecraft:item",

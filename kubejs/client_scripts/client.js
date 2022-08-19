@@ -30,9 +30,9 @@ onEvent('item.tooltip', tooltip => {
 	tooltip.add("minecraft:redstone_ore", [`§7Does not generate, crush Cinnabar to obtain Redstone.`]);
 
 	ore("forbidden_arcanus:arcane_crystal_ore", 1, 9)
-	ore("appliedenergistics2:charged_quartz_ore", 1, 30)
+	ore("ae2:charged_quartz_ore", 1, 30)
 	ore("forbidden_arcanus:xpetrified_ore", 1, 30)
-	ore("appliedenergistics2:quartz_ore", 1, 30)
+	ore("ae2:quartz_ore", 1, 30)
 	ore("thermal:apatite_ore", 1, 30)
 	ore("thermal:cinnabar_ore", 1, 30)
 	ore("thermal:niter_ore", 1, 30)
@@ -70,8 +70,8 @@ onEvent('item.tooltip', tooltip => {
 	// not_consumed('create:super_glue')
 	not_consumed('kubejs:chromatic_resonator')
 	not_consumed('kubejs:flash_drive')
-	not_consumed('xreliquary:mercy_cross')
-	not_consumed('xreliquary:ender_staff')
+	not_consumed('reliquary:mercy_cross')
+	not_consumed('reliquary:ender_staff')
 
 	global.substrates[0].forEach(e => tooltip.add(e.id, [`§8Category: §7Igneous`]));
 	global.substrates[1].forEach(e => tooltip.add(e.id, [`§8Category: §7Herbal`]));
@@ -85,7 +85,7 @@ onEvent('item.tooltip', tooltip => {
 
 	tooltip.add("magicfeather:magicfeather", [`§6Grants Creative Flight`]);
 
-	tooltip.add("xreliquary:alkahestry_tome", [`§6Cannot be used in Mechanical Crafting`]);
+	tooltip.add("reliquary:alkahestry_tome", [`§6Cannot be used in Mechanical Crafting`]);
 
 	tooltip.add("pipez:energy_pipe", [`§7Connections may have to be`, `§7marked as §fInputs §7by sneak-clicking`, `§7the connection with a §fWrench`]);
 

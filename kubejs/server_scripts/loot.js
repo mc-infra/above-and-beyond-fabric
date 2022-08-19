@@ -334,7 +334,7 @@ onEvent('block.loot_tables', event => {
     event.addJson(MC('andesite'), cobble(MC('andesite'), CR('andesite_cobblestone')))
     event.addJson(MC('diorite'), cobble(MC('diorite'), CR('diorite_cobblestone')))
     event.addJson(MC('granite'), cobble(MC('granite'), CR('granite_cobblestone')))
-    event.addSimpleBlock('chisel:basalt/raw', 'extcaves:lavastone')
+    event.addSimpleBlock('chisel:basalt/raw', 'expcaves:lavastone')
 
     event.addSimpleBlock('minecraft:twisting_vines', 'minecraft:twisting_vines')
     event.addSimpleBlock('minecraft:weeping_vines', 'minecraft:weeping_vines')

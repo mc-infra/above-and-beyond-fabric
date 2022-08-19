@@ -1147,7 +1147,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - create:diorite_bricks_wall
 - create:fancy_diorite_bricks_wall
 - create:paved_diorite_wall
-- create:andesite_cobblestone_wall
+- minecraft:andesite_wall
 - create:andesite_bricks_wall
 - create:fancy_andesite_bricks_wall
 - create:paved_andesite_wall
@@ -1797,7 +1797,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - create:diorite_bricks_stairs
 - create:fancy_diorite_bricks_stairs
 - create:paved_diorite_stairs
-- create:andesite_cobblestone_stairs
+- minecraft:andesite_stairs
 - create:andesite_bricks_stairs
 - create:fancy_andesite_bricks_stairs
 - create:paved_andesite_stairs
@@ -2566,7 +2566,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - create:diorite_bricks_slab
 - create:fancy_diorite_bricks_slab
 - create:paved_diorite_slab
-- create:andesite_cobblestone_slab
+- minecraft:andesite_slab
 - create:andesite_bricks_slab
 - create:fancy_andesite_bricks_slab
 - create:paved_andesite_slab
