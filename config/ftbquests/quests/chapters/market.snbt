@@ -792,7 +792,7 @@
 		}
 		{
 			title: "Expensive Hobby"
-			icon: "buddycards:mystery_pack"
+			icon: "buddycards:buddycard_pack_mystery"
 			x: 0.5d
 			y: 1.5d
 			subtitle: "2 Gold"
@@ -810,7 +810,7 @@
 					id: "198DC310752F341F"
 					type: "item"
 					auto: "enabled"
-					item: "buddycards:mystery_pack"
+					item: "buddycards:buddycard_pack_mystery"
 				}
 				{
 					id: "423CFA69329BD06E"
