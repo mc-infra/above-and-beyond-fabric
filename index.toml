@@ -942,6 +942,10 @@ file = "config/openloader/resources/custom/assets/minecraft/textures/gui/title/b
 hash = "2f5d101242feb1a1c9b3dd77c68cb718846c8afefce0d5b4b6f1b2ed32e3677a"
 
 [[files]]
+file = "config/openloader/resources/custom/assets/morphtool/textures/item/tool.png"
+hash = "8e1bcc53eb6c3ec712868d8953af0d1b2e2e6cb44ec8d60c2b9df764f72b009d"
+
+[[files]]
 file = "config/openloader/resources/custom/assets/occultism/lang/en_us.json"
 hash = "57dc06eb5c4de23cf7c1c3c3e906b80c9e1b1cb82e10a4d491b266e0c55ca3a1"
 
@@ -2518,6 +2522,10 @@ file = "kubejs/server_scripts/recipes.js"
 hash = "59cfd4e731b21a768856a564b830728ff8f43dfd0230d822eb87ffe1bf3aadf7"
 
 [[files]]
+file = "kubejs/server_scripts/starting_items.js"
+hash = "d64a77d7b24019ba289c2589c499ee3494ef6e489c2ac8e94ab64a5bbcbf95e1"
+
+[[files]]
 file = "kubejs/startup_scripts/launch.js"
 hash = "4070f634bca06650b5e705f9e3eb3fee6380027ff06ebceef51051d9632fd073"
 
@@ -2766,7 +2774,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "029252dacfd0ade16df172cd6d7e698c3393af44df4fb555a6022d0cea0ebbfb"
+hash = "048146af0f0149fc5ed176ab1043644ff21943aa97fd791ae7eec0fe795e996f"
 metafile = true
 
 [[files]]
@@ -3130,6 +3138,11 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
+file = "mods/quests-additions.pw.toml"
+hash = "2dcd662451a5b24447ac7cf0a366f7f729184f1da7389783687c170fa6fac8e7"
+metafile = true
+
+[[files]]
 file = "mods/randomium-ore.pw.toml"
 hash = "261ced73a72ed7f5432e4a4dad40c4be9c37728bb53e7edc541746d761f29513"
 metafile = true
@@ -3190,6 +3203,11 @@ hash = "efa003e12613b6870eb368828869e4fd47490988699e602770046ec03e28d5f5"
 metafile = true
 
 [[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "ffea1ea2d4041e89208207944f343f9c413bfbbbd40c824d9009f484ac1d5e43"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "e8fb28e1cb542bda89984dbf4a5ecbb85f29380f58e365b176ae568bb0881a70"
 metafile = true
@@ -3232,6 +3250,11 @@ metafile = true
 [[files]]
 file = "mods/structures-compass.pw.toml"
 hash = "085b625eab66b0979668785503343330c3e07573e7f3775ac92c7c75ae1b7b93"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "d74b966074318c02ac233f1ef9ab85ab59058866459c4bb0b6226f621590c08e"
 metafile = true
 
 [[files]]
@@ -3302,6 +3325,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "df924a41d80f64d6e95eefb2449fa76e843c5a5829ec17d8a2ad8057e3fc04e3"
 metafile = true
 
 [[files]]
