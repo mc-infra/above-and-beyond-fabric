@@ -2774,7 +2774,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "048146af0f0149fc5ed176ab1043644ff21943aa97fd791ae7eec0fe795e996f"
+hash = "7b705f57107935d189436c3ed561c986a6ec84a2d80ff94542a46836ab80ea83"
 metafile = true
 
 [[files]]
@@ -2899,7 +2899,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "941abd12feaa28b487e7f354e7f9cb0f266f6bb6329731cd1ee829055b04eae6"
+hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
 metafile = true
 
 [[files]]
