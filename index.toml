@@ -33,10 +33,6 @@ file = "config/PregenConfig.toml"
 hash = "ec101cbc0ba56193116bcae73214b54b302a8d6b8fead442d73a33ec35949513"
 
 [[files]]
-file = "config/ProjectRed.cfg"
-hash = "f7579ae9c04c0b90207f0feb55b1f21ac8b49d298b4c99318262c6f75aa43d01"
-
-[[files]]
 file = "config/aiimprovements-common.toml"
 hash = "dc174a3ddfba7dcd0666506656dbfc86af5cd7fbb54cecfa53ab0e12afab1718"
 
@@ -74,15 +70,15 @@ hash = "a1e5ed2358413eba913387db4a4f714d8e13619ceb9056aa0b4fd058021acb3f"
 
 [[files]]
 file = "config/biomesoplenty/biomes.json"
-hash = "2a4ca3f04fe79692043c00ec6a4977f4d418023bc6e93f935bba6e1dff1a1fe8"
+hash = "2849e9ff22ea1ae9eb2e3e95d948fd9c0e2317dd087a9ad770277c68fff0fb23"
 
 [[files]]
 file = "config/biomesoplenty/client.toml"
-hash = "38fd5adb6d3817a74f41e21fd859b266f0d9a2ada8a3d7058b49b1cd5af82598"
+hash = "6b1e6a67b5c8812bb1a00bcc7d76653ac9ad116e91bf227aa1ae8a3ad8cde8a3"
 
 [[files]]
 file = "config/biomesoplenty/generation.toml"
-hash = "4e29e7aa1b99b38985934cbcb473b23cc9b0e3ab1b048816911971368f2b6d70"
+hash = "de992b9129675057fdedf3195f58f469d3bef0fc4b597a5f77040c91e48b7ca8"
 
 [[files]]
 file = "config/blockcarpentry-common.toml"
@@ -255,14 +251,6 @@ hash = "669da474609fdf11dffbb30d0e5702f3e8a8878e04114a5fe9013d30f2a2ee01"
 [[files]]
 file = "config/forbidden_arcanus-common.toml"
 hash = "b5b19e9d214312f15ef49d51fc1c04de92f87d167485eb0028581b584f7577ad"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "dfe6dbf482122593c99bc3adeec43dcdb4cc1e885e2bc48f320a626b64c27344"
-
-[[files]]
-file = "config/forge-common.toml"
-hash = "83ccd043296763c2efdcf32f5ba3091e3d5eac3d76453bb49a05166a4b306719"
 
 [[files]]
 file = "config/ftbbackups-common.toml"
@@ -1751,7 +1739,7 @@ hash = "ca60798cc0ee4246620fa7d56af82c36744a3cbf8764494867ac208e1ceba7b2"
 
 [[files]]
 file = "config/supplementaries-registry.toml"
-hash = "feb1ec996728700d8b248998a5bfc1b626075ac8d9f2e8fbf72e8a3b761bf2bb"
+hash = "b3677621e4fd9488fd4907deb98049df7b638bb44e758870519188f671e6a808"
 
 [[files]]
 file = "config/tconstruct-client.toml"
@@ -3187,8 +3175,8 @@ hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
 metafile = true
 
 [[files]]
-file = "mods/terraforged.pw.toml"
-hash = "4c20ef9c03f0955362f40ad8b100b635b58abbe9af00081f50d7da1b98fb2698"
+file = "mods/terralith.pw.toml"
+hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
 metafile = true
 
 [[files]]
@@ -3264,6 +3252,11 @@ metafile = true
 [[files]]
 file = "mods/valhelsia-core.pw.toml"
 hash = "af5288cda5a707bf29d9bedf7c196c7d60cc1d0344c9558a614a63dba91fcd0b"
+metafile = true
+
+[[files]]
+file = "mods/water-strainer.pw.toml"
+hash = "563b1f860076b104c8018d651a73ecc05af8327fcc63b3ac06c7c7bf6845b9b5"
 metafile = true
 
 [[files]]
