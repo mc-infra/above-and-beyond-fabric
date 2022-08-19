@@ -2,8 +2,8 @@
 
 onEvent('jei.hide.items', event => {
 	event.hide('ae2:facade')
-	event.hide(`#buddycards:cards`)
-	event.hide(`#buddycards:gummy_cards`)
+	event.hide(`buddycards:cards`)
+	event.hide(`buddycards:gummy_cards`)
 })
 
 onEvent('jei.hide.fluids', event => {
@@ -21,7 +21,6 @@ onEvent('jei.add.items', event => {
 })
 
 onEvent('item.tooltip', tooltip => {
-	let holds = (id, slots) => tooltip.add("metalbarrels:" + id + "_barrel", [`§7${slots} Slots`])
 	let main_assembly = (id, stage) => tooltip.add(id, [`§7Main Assembly: ${stage == "4" ? "§6Finale" : "§6Chapter " + stage}`, '§8Consider automating this item'])
 	let bonus_assembly = (id, stage) => tooltip.add(id, [`§7Bonus Assembly: §6Chapter ${stage}`])
 	let not_consumed = (id, stage) => tooltip.add(id, [`§7Not consumed in the`, `§7Assembly Process`])
