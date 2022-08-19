@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/configurationCache.log"
+hash = "6157205725e545c94a2ca833c5800acd5bc95c9afbedb89a8cc0b7ff6ed659fa"
+
+[[files]]
+file = ".vscode/dryrun.log"
+hash = "ad9e965564cfa2c046ae779c453682df8719396f289bbc1f003a29cd76e7df40"
+
+[[files]]
 file = ".vscode/launch.json"
 hash = "7714b7587b0ddc257fddc0bd1ee0cf7a403a7fa5aba4b4a6b324df5e6a4675a2"
 
 [[files]]
 file = ".vscode/settings.json"
 hash = "806497e260f21aa830c41c85bbcd9d7b519862697ce980ce96181985462d472c"
+
+[[files]]
+file = ".vscode/targets.log"
+hash = "b122a291b460ac28145e6c02b761b4c14fe1b751478dac7f26616dbb96ce82ec"
 
 [[files]]
 file = "Makefile"
@@ -1719,7 +1731,7 @@ hash = "cc4b030cb1a2eb54777ab27031d6278c84d0307ba416378abd132f937ceed057"
 
 [[files]]
 file = "config/sidebar_buttons.json"
-hash = "a9de981a5c586367c3e1fb192fd821ce19dc2468830aeb092e698de3f2a33c92"
+hash = "24a7b706b8c559af29e5851f7f2bbf453a72caa82de0f9ed8355b5ed50aac42d"
 
 [[files]]
 file = "config/soundfilters-client.toml"
@@ -2700,11 +2712,6 @@ hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
 
 [[files]]
-file = "mods/castle-in-the-sky-the-fairytale-of-laputa.pw.toml"
-hash = "e280e27d4ecb1133c79a47dfb5c298aaa56ffc6b81ab377c9425b9a5b735b768"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "5f236f234d031f221d12e077ed27da06adf2808d8538eb98277729e55715ee50"
 metafile = true
@@ -3087,6 +3094,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/pipez.pw.toml"
+hash = "cdafaa5cc3d15b4d4937db9699bf8d5dbcd194cb9a06b16ceecd30d8143d3016"
 metafile = true
 
 [[files]]
