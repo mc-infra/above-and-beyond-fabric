@@ -28,7 +28,7 @@
 //         return
 
 
-//     block.set("metalbarrels:iron_barrel", block.getProperties())
+//     block.set("sophisticatedstorage:iron_barrel", block.getProperties())
 
 //     let id = item.func_74779_i("id")
 //     let items = ""

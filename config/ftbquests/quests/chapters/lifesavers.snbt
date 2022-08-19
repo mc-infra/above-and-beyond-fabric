@@ -572,19 +572,19 @@
 					tag: {
 						items: [
 							{
-								id: "metalbarrels:gold_barrel"
+								id: "sophisticatedstorage:gold_barrel"
 								Count: 1b
 							}
 							{
-								id: "metalbarrels:iron_barrel"
+								id: "sophisticatedstorage:iron_barrel"
 								Count: 1b
 							}
 							{
-								id: "metalbarrels:silver_barrel"
+								id: "sophisticatedstorage:diamond_barrel"
 								Count: 1b
 							}
 							{
-								id: "metalbarrels:copper_barrel"
+								id: "sophisticatedstorage:netherite_barrel"
 								Count: 1b
 							}
 						]

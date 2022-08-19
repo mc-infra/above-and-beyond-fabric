@@ -242,7 +242,7 @@ hash = "64a0c8e2354c1ccdbb66db1a779414e4579ee95d775f7ad3aaade02a41c0025d"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lifesavers.snbt"
-hash = "018b4c947a8c25e37739533440f8a0fbe7e75bdefdba5ad2aa59c76faebdab80"
+hash = "70595e9423ffc3ab0747f07fe252651555f055c4425632ecaf2004f916bcbaa3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/market.snbt"
@@ -2503,7 +2503,7 @@ hash = "ce986731282c3521b4566cf219feaacf4e897058306c127077e6cc8d050d395b"
 
 [[files]]
 file = "kubejs/server_scripts/express_mode.js"
-hash = "52c61e7ba9da0d5ae0a2bed074b3d302126efe1e1d92b0f43d70ae6cd8517e0f"
+hash = "bab2acafc41a9a4209d58af25b4c521dfb4ba292a0f63fadce496f6badd7fe52"
 
 [[files]]
 file = "kubejs/server_scripts/loot.js"
@@ -2515,7 +2515,7 @@ hash = "70f7d85ec5f93798096a3606286705d626248f6b1c278842f154759e13beebfc"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "412d6be250aafce303749424ec595c9f3fa340f28865c5e12ca620937bf54f86"
+hash = "59cfd4e731b21a768856a564b830728ff8f43dfd0230d822eb87ffe1bf3aadf7"
 
 [[files]]
 file = "kubejs/startup_scripts/launch.js"

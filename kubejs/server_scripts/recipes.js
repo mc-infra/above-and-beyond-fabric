@@ -905,15 +905,15 @@ function barrels(event) {
 	event.remove({ id: TE("dynamo_disenchantment") })
 	smithAndMechCraft(TE("dynamo_disenchantment"), TE("dynamo_compression"), ["forbidden_arcanus:rune"])
 
-	smithAndMechCraft("metalbarrels:copper_barrel", MC("barrel"), TC("tinkers_bronze_ingot"))
-	smithAndMechCraft("metalbarrels:iron_barrel", MC("barrel"), "moreminecarts:silica_steel")
-	smithAndMechCraft("metalbarrels:silver_barrel", MC("barrel"), "forbidden_arcanus:rune")
-	smithAndMechCraft("metalbarrels:gold_barrel", MC("barrel"), TC("cobalt_ingot"))
+	smithAndMechCraft("sophisticatedstorage:netherite_barrel", MC("barrel"), TC("tinkers_bronze_ingot"))
+	smithAndMechCraft("sophisticatedstorage:iron_barrel", MC("barrel"), "moreminecarts:silica_steel")
+	smithAndMechCraft("sophisticatedstorage:diamond_barrel", MC("barrel"), "forbidden_arcanus:rune")
+	smithAndMechCraft("sophisticatedstorage:gold_barrel", MC("barrel"), TC("cobalt_ingot"))
 
-	event.shapeless("metalbarrels:wood_to_copper", ["metalbarrels:copper_barrel"])
-	event.shapeless("metalbarrels:wood_to_iron", ["metalbarrels:iron_barrel"])
-	event.shapeless("metalbarrels:wood_to_silver", ["metalbarrels:silver_barrel"])
-	event.shapeless("metalbarrels:wood_to_gold", ["metalbarrels:gold_barrel"])
+	event.shapeless("metalbarrels:wood_to_copper", ["sophisticatedstorage:netherite_barrel"])
+	event.shapeless("metalbarrels:wood_to_iron", ["sophisticatedstorage:iron_barrel"])
+	event.shapeless("metalbarrels:wood_to_silver", ["sophisticatedstorage:diamond_barrel"])
+	event.shapeless("metalbarrels:wood_to_gold", ["sophisticatedstorage:gold_barrel"])
 }
 
 function rocketScience(event) {
