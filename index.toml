@@ -174,11 +174,11 @@ hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "1cc652be335b5396018278276f05d968b028793b9a55cde5e411b074ec408511"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "e5b6b8adbb94a804965c208107fdb1b74d19ed8332f3f32f61050abedf7da924"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/dice-common.toml"
