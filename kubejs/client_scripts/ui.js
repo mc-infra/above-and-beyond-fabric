@@ -15,22 +15,22 @@ onEvent('ui.main_menu', event => {
     ui.button(b => {
       b.name = 'Multiplayer'
       b.x = ui.width/2
-      b.y = ui.height/2 + 10
+      b.y = ui.height/2 + (b.height+2)
       b.action = 'minecraft:multiplayer'
     })
 
     ui.button(b => {
-      b.name = 'Test but in bottom right corner'
-      b.x = ui.width - b.width - 10
-      b.y = ui.height - b.height - 10
-      b.action = 'https://feed-the-beast.com/'
+      b.name = 'Exit'
+      b.x = ui.width/2
+      b.y = ui.height/2 + (b.height*2+4)
+      b.action = 'minecraft:quit'
     })
 
-    ui.label(l => {
-      l.name = Text.yellow('FTB Stranded')
-      l.x = 2
-      l.y = ui.height - 12
-      l.action = 'https://feed-the-beast.com/'
+    ui.button(b => {
+      b.name = 'Quit'
+      b.x = ui.width - b.width - 10
+      b.y = ui.height - b.height - 10
+      b.action = 'minecraft:exit'
     })
 
     // ui.image(i => {

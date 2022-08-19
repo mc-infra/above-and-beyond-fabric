@@ -1017,7 +1017,7 @@
 		}
 		{
 			title: "8x Copper Ingot"
-			icon: "create:copper_ingot"
+			icon: "minecraft:copper_ingot"
 			disable_toast: true
 			x: -1.5d
 			y: 6.0d

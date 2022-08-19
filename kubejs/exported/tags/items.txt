@@ -907,7 +907,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 
 #forge:ingots/copper
 - tconstruct:copper_ingot
-- create:copper_ingot
+- minecraft:copper_ingot
 - thermal:copper_ingot
 
 #tconstruct:casts/single_use/plate
@@ -1925,7 +1925,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 - biomesoplenty:stripped_jacaranda_wood
 
 #create:create_ingots
-- create:copper_ingot
+- minecraft:copper_ingot
 - create:zinc_ingot
 - create:brass_ingot
 
@@ -2555,7 +2555,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 
 #forge:ores/copper
 - tconstruct:copper_ore
-- create:copper_ore
+- minecraft:copper_ore
 - thermal:copper_ore
 
 #forge:seeds/beetroot
@@ -3850,7 +3850,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 #forge:ores
 - #forge:ores/cobalt
 - #forge:ores/copper
-- create:copper_ore
+- minecraft:copper_ore
 - create:zinc_ore
 - #forge:ores/coal
 - #forge:ores/diamond

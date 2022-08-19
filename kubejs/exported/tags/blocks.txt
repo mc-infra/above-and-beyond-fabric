@@ -614,7 +614,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 
 #forge:ores/copper
 - tconstruct:copper_ore
-- create:copper_ore
+- minecraft:copper_ore
 - thermal:copper_ore
 
 #minecraft:beds
@@ -2758,7 +2758,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Aug
 #forge:ores
 - #forge:ores/cobalt
 - #forge:ores/copper
-- create:copper_ore
+- minecraft:copper_ore
 - create:zinc_ore
 - #forge:ores/coal
 - #forge:ores/diamond

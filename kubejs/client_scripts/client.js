@@ -43,15 +43,13 @@ onEvent('item.tooltip', tooltip => {
 	ore("minecraft:emerald_ore", 1, 30)
 	ore("thermal:sulfur_ore", 12, 36)
 	ore("create:zinc_ore", 15, 70)
-	ore("create:copper_ore", 40, 85)
+	ore("minecraft:copper_ore", 40, 85)
 
 	ore("minecraft:coal_ore", 1, 128)
 	ore("minecraft:iron_ore", 1, 64)
 	ore("minecraft:lapis_ore", 1, 32)
 	ore("minecraft:gold_ore", 1, 32)
 	ore("minecraft:diamond_ore", 1, 16)
-
-	tooltip.add("advancedrocketry:planet_id_chip", [`§3How to Use:`, `1. §7Use the Survival Mode recipes to obtain these`, `2. §7Open the UI of your Rocket`, `3. §7Click on the displayed Guidance Computer item`, `4. §7Insert chip into the empty slot`, "§8§o(Using the Planet Selection menu crashes the game)"]);
 
 	holds('copper', 5 * 9)
 	holds('iron', 6 * 9)
