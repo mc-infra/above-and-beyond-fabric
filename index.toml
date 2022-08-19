@@ -2810,8 +2810,23 @@ hash = "c7ff7b33527f0ec10240b6a7e78dc7951b6f814ac21d221a8f40541aad8cc4ee"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "0b395fc14d7d19522be74ea1817af86cf86db00f90722a17555da073c65855cf"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "50055db9965c9f7995eb2cf489bbe085c45801e8fda7a684547dd63788108ce2"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
 metafile = true
 
 [[files]]
@@ -2837,6 +2852,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+metafile = true
+
+[[files]]
+file = "mods/farsight.pw.toml"
+hash = "b8f1ed5ec382ab2fe868bb07bcef9364f3afaf17cb72afc3051842c96089b76b"
 metafile = true
 
 [[files]]
@@ -3055,6 +3075,11 @@ hash = "b6d7f45860db011709514ab1009c8bf7a14756f04515e2786db205e748298402"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
+metafile = true
+
+[[files]]
 file = "mods/open-loader.pw.toml"
 hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
@@ -3127,6 +3152,16 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "3fc88eca450f5e1421de45926943a49010e8dbdcf8b71f1728313a3b292e947f"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "ff66be5e66b2420a5c62bb5733ae944c75d80d7fdc63b711a4b4f0e23b02fdfa"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "23f8e7273ed94a07a172e3a5f89d3488dd1ca9ee6d04598814054f96b0db6cf0"
 metafile = true
 
 [[files]]
