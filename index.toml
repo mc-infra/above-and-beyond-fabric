@@ -3203,6 +3203,11 @@ hash = "7a67abfc39c52f3981cf66a7590474830d14ba437d3067183f4ec135c6351402"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
+metafile = true
+
+[[files]]
 file = "mods/structures-compass.pw.toml"
 hash = "085b625eab66b0979668785503343330c3e07573e7f3775ac92c7c75ae1b7b93"
 metafile = true
