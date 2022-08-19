@@ -7,15 +7,15 @@ onEvent('ui.main_menu', event => {
 
     ui.button(b => {
       b.name = 'Test'
-      b.x = ui.width/2 - 5
-      b.y = ui.height/2 - 5
+      b.x = ui.width/2
+      b.y = ui.height/2 - 10
       b.action = 'minecraft:singleplayer'
     })
 
     ui.button(b => {
       b.name = 'Multiplayer'
-      b.x = ui.width/2 - 5
-      b.y = ui.height/2 + 5
+      b.x = ui.width/2
+      b.y = ui.height/2 + 10
       b.action = 'minecraft:multiplayer'
     })
 
@@ -33,13 +33,13 @@ onEvent('ui.main_menu', event => {
       l.action = 'https://feed-the-beast.com/'
     })
 
-    ui.image(i => {
-      i.x = (ui.width - 40) / 2
-      i.y = (ui.height - 30) / 2
-      i.width = 40
-      i.height = 30
-      i.action = 'https://feed-the-beast.com/'
-    })
+    // ui.image(i => {
+    //   i.x = (ui.width - 40) / 2
+    //   i.y = (ui.height - 30) / 2
+    //   i.width = 40
+    //   i.height = 30
+    //   i.action = 'https://feed-the-beast.com/'
+    // })
 
     ui.label(l => {
       l.name = Text.aqua('Large label')
