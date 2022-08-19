@@ -2815,11 +2815,6 @@ hash = "c7ff7b33527f0ec10240b6a7e78dc7951b6f814ac21d221a8f40541aad8cc4ee"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-terraforged.pw.toml"
-hash = "31fbd4d3ddf9770d8fad73b7b49450a73829c24b2447459e144c038e0a7df11d"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "0b395fc14d7d19522be74ea1817af86cf86db00f90722a17555da073c65855cf"
 metafile = true
