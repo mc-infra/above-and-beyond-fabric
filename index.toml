@@ -3203,11 +3203,6 @@ hash = "7a67abfc39c52f3981cf66a7590474830d14ba437d3067183f4ec135c6351402"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
-metafile = true
-
-[[files]]
 file = "mods/structures-compass.pw.toml"
 hash = "085b625eab66b0979668785503343330c3e07573e7f3775ac92c7c75ae1b7b93"
 metafile = true
@@ -3220,11 +3215,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
 metafile = true
 
 [[files]]
