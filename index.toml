@@ -2828,11 +2828,6 @@ hash = "0b395fc14d7d19522be74ea1817af86cf86db00f90722a17555da073c65855cf"
 metafile = true
 
 [[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "076fc5c9ce30521075695baaa5ad1692098fed0545411932c5304ce4b6a8e370"
-metafile = true
-
-[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
 metafile = true
