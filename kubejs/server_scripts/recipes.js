@@ -172,7 +172,6 @@ onEvent('item.tags', event => {
 		.add(/itemfilters.*/)
 		.add(/kubejs:failed_alchemy.*/)
 		.add(/ftblibrary.*/)
-		.add(/projectred-core.*/)
 		.add(/waterstrainer.*/)
 		.add(/ftbquests.*/)
 		.add(/occultism.*/)
@@ -2823,9 +2822,9 @@ function trading(event) {
 	});
 }
 
-// Program 
+// Program
 
-events.listen('player.chat', function (event) {
+onEvent('player.chat', function (event) {
 	// Check if message equals creeper, ignoring case
 
 	if (event.message.startsWith('!clear')) {

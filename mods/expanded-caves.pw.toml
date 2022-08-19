@@ -1,0 +1,13 @@
+name = "Expanded Caves [Forge]"
+filename = "expcaves-4.0.1-alpha-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ae6fcc294b3125465261cafb1cfe86984632089"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3694844
+project-id = 558746

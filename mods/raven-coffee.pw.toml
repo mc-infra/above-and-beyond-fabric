@@ -1,0 +1,13 @@
+name = "Raven Coffee"
+filename = "ravencoffee-0.4.1-1.18.2-40.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6114ec6413bb0caac9570ae753cd42dc28554e42"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3836987
+project-id = 469185

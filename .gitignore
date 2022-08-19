@@ -24,3 +24,4 @@ servers.dat_old
 usercache.json
 usernamecache.json
 node_modules
+*.log

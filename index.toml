@@ -69,18 +69,6 @@ file = "config/betterburning-common.toml"
 hash = "a1e5ed2358413eba913387db4a4f714d8e13619ceb9056aa0b4fd058021acb3f"
 
 [[files]]
-file = "config/biomesoplenty/biomes.json"
-hash = "2849e9ff22ea1ae9eb2e3e95d948fd9c0e2317dd087a9ad770277c68fff0fb23"
-
-[[files]]
-file = "config/biomesoplenty/client.toml"
-hash = "6b1e6a67b5c8812bb1a00bcc7d76653ac9ad116e91bf227aa1ae8a3ad8cde8a3"
-
-[[files]]
-file = "config/biomesoplenty/generation.toml"
-hash = "de992b9129675057fdedf3195f58f469d3bef0fc4b597a5f77040c91e48b7ca8"
-
-[[files]]
 file = "config/blockcarpentry-common.toml"
 hash = "703d8517c6aa5f598d4822b48cd0594d7580b6eec14f787fde459f2d88bc48bd"
 
@@ -2515,7 +2503,7 @@ hash = "9f137569f1e938dfa4c2dd64e91cb6826028b7c00dba7e5e914578f7e8c4a029"
 
 [[files]]
 file = "kubejs/server_scripts/better_dynamo_placement.js"
-hash = "931449e391923a28742116891c08a26bc14369267fe9840299945c6d84fbbec4"
+hash = "8bc9abb52598509e2c84753cd4d1728969b08cc8340018f865ef26ae9fb2e9bd"
 
 [[files]]
 file = "kubejs/server_scripts/bonkers_chemistry.js"
@@ -2531,11 +2519,11 @@ hash = "6f23df524a62ccdcb961f5e511040de3722082ef77a7153a6d2f72dd23149907"
 
 [[files]]
 file = "kubejs/server_scripts/quests.js"
-hash = "53bfe71388f200749b12269066b7c2d0806759b1e1dd94f43024114ad71c4979"
+hash = "70f7d85ec5f93798096a3606286705d626248f6b1c278842f154759e13beebfc"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "2d9208dc2639f566150333a95dda37ad57bb46420e124f65434edb2a7a293cd4"
+hash = "b43dc88113907c318394bf81ae7b544822d37ef9d53ccea386988ec0446ec560"
 
 [[files]]
 file = "kubejs/startup_scripts/launch.js"
@@ -2700,6 +2688,11 @@ hash = "6c620e4cf7aacfbca2473bb7278f2cef58f74ed2d8174f78486aeebc6ff6f4b8"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
@@ -2732,6 +2725,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "099af7d0a61fd27c6b6ba26e7e84c4d7cfe5eea78a7102c7eb717528ef6ecc91"
+metafile = true
+
+[[files]]
+file = "mods/cookiecore.pw.toml"
+hash = "456395f71f5ee84e6b48fd4d5e83d11dc8b8761555c15065cfc29455469715d8"
 metafile = true
 
 [[files]]
@@ -2772,6 +2770,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "029252dacfd0ade16df172cd6d7e698c3393af44df4fb555a6022d0cea0ebbfb"
+metafile = true
+
+[[files]]
+file = "mods/culinary-construct.pw.toml"
+hash = "aa1e164c46bde0adc2038aafa1bc71a322623ac61d81b92360d22677df8a1d9f"
 metafile = true
 
 [[files]]
@@ -2830,8 +2833,23 @@ hash = "0e10b7931bc2f9179c236bfd82100342abde84150caef82e788dac0799534a8e"
 metafile = true
 
 [[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "50055db9965c9f7995eb2cf489bbe085c45801e8fda7a684547dd63788108ce2"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "e97e44683de03c125c8117f6ae4c11ecc0de0a74c052afc7c43e86f65fafe57c"
+metafile = true
+
+[[files]]
+file = "mods/expanded-caves.pw.toml"
+hash = "dbc9634294e6a32a482a36da5b1733c3802d5dcd8ee3f1c1881a0d6bd5332ebf"
 metafile = true
 
 [[files]]
@@ -2915,6 +2933,11 @@ hash = "4ad67ed05a5244c0c027a08c6147076663fd36a1952a9141b4854d92cb6a2f1e"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "be1db33a292458ca7b76f40bfd54600d74973ccaedc4394541e9f21d2e350319"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
 metafile = true
@@ -2995,8 +3018,18 @@ hash = "2d5f25cc0d95c8e253a0a9eced958f75faea9b65bfa806302131ceab2494dd8d"
 metafile = true
 
 [[files]]
+file = "mods/magic-feather.pw.toml"
+hash = "699a6de5f7cd292226324dd995de7870d0b3b2c6ebc3b5e254be3cd46bf90770"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
+metafile = true
+
+[[files]]
+file = "mods/more-minecarts.pw.toml"
+hash = "5d716e7827b4557b0835f798f71a6ca66e7b407740bcdae4c35396e91114f26e"
 metafile = true
 
 [[files]]
@@ -3085,6 +3118,21 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
+file = "mods/randomium-ore.pw.toml"
+hash = "261ced73a72ed7f5432e4a4dad40c4be9c37728bb53e7edc541746d761f29513"
+metafile = true
+
+[[files]]
+file = "mods/raven-brews-core.pw.toml"
+hash = "65bff93fa51b372964e87fdf13ab4b6bdf69e53c449c4edafd69b72a7a7e30f6"
+metafile = true
+
+[[files]]
+file = "mods/raven-coffee.pw.toml"
+hash = "30ef9cce6a19ed4e5d786906f9237c64435d9d760f73bf28784a05e08e2dd10d"
+metafile = true
+
+[[files]]
 file = "mods/redstone-pen.pw.toml"
 hash = "0e6a0f0e1cbc6691ac8df683314e05a92d811c62b4633b5443908ec01ac81148"
 metafile = true
@@ -3130,6 +3178,11 @@ hash = "63969990248817c25f62f619d1f955c88d9c5571f7025a95927e985b178508b1"
 metafile = true
 
 [[files]]
+file = "mods/shutup-experimental-settings.pw.toml"
+hash = "89339174b49429b991f3da08eb26ed26511ce1486f8b856f1704e0bdcf12ec13"
+metafile = true
+
+[[files]]
 file = "mods/simple-planes.pw.toml"
 hash = "efa003e12613b6870eb368828869e4fd47490988699e602770046ec03e28d5f5"
 metafile = true
@@ -3152,6 +3205,11 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
+metafile = true
+
+[[files]]
+file = "mods/strawgolem-reborn.pw.toml"
+hash = "7a67abfc39c52f3981cf66a7590474830d14ba437d3067183f4ec135c6351402"
 metafile = true
 
 [[files]]
@@ -3252,6 +3310,11 @@ metafile = true
 [[files]]
 file = "mods/water-strainer.pw.toml"
 hash = "563b1f860076b104c8018d651a73ecc05af8327fcc63b3ac06c7c7bf6845b9b5"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise.pw.toml"
+hash = "b83f8905d9f0b6c63347c384e5c3189bb431df0f4ecf80649eef668f584da654"
 metafile = true
 
 [[files]]

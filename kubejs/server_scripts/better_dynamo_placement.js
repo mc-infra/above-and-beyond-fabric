@@ -74,8 +74,6 @@ onEvent('player.tick', event => {
 
 	if (player.minecraftPlayer.field_70173_aa % 10 != 0)
 		return
-	if (event.world.getDimension() != "custommoon:moon")
-		return
 
 	let effects = java("net.minecraft.potion.Effects")
 	player.getPotionEffects().add(effects.field_204839_B, 20, 0, false, false) // slow fall
@@ -132,7 +130,7 @@ onEvent('block.place', event => {
 		return
 	}
 
-	// Reverse placed Dynamos on Sneak 
+	// Reverse placed Dynamos on Sneak
 	if (event.getEntity() == null)
 		return
 	if (block.getId().startsWith('thermal:dynamo')) {

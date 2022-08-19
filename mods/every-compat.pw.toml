@@ -1,0 +1,13 @@
+name = "Every Compat"
+filename = "everycomp-1.18.2-1.5.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbe930ebaee2d26a97c328d5c758a3bdd2324838"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3916828
+project-id = 628539
