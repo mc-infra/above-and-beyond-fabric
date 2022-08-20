@@ -3336,7 +3336,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "348e6f8ae0758c3e07ffa697bf049b3ad507b2ae3e39e75e7c395261f98412b2"
+hash = "930ae58f62e49f4bfcbd637e8036b0941c0c103e7b627339e3b62f89eb7158ed"
 metafile = true
 
 [[files]]
@@ -3425,11 +3425,6 @@ hash = "cdafaa5cc3d15b4d4937db9699bf8d5dbcd194cb9a06b16ceecd30d8143d3016"
 metafile = true
 
 [[files]]
-file = "mods/ponder.pw.toml"
-hash = "0471838ee06b45e0bb517abefa01189e1b450d43e86caa0baf671c6124b5702e"
-metafile = true
-
-[[files]]
 file = "mods/portality.pw.toml"
 hash = "b63a8bbedf285b2a00856c35f6376f4f767d140a92adb85960d11d35766cb712"
 metafile = true
@@ -3447,11 +3442,6 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
-metafile = true
-
-[[files]]
-file = "mods/quests-additions.pw.toml"
-hash = "2dcd662451a5b24447ac7cf0a366f7f729184f1da7389783687c170fa6fac8e7"
 metafile = true
 
 [[files]]
@@ -3566,7 +3556,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "0b47428289ba4a80e67c672c5452bd793c63a463281fa3f6623317ece3d9b703"
+hash = "f76398afccb613aa2e499fb23d0bc6f4570d44eb0b809cff7de871d2257fa4c6"
 metafile = true
 
 [[files]]
