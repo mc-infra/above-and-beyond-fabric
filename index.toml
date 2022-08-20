@@ -818,6 +818,274 @@ file = "config/openloader/resources/custom/assets/expcaves/textures/block/broken
 hash = "1c2a4a5a0e11af0f931e0cf9b12e928ad17f60466968e18c2245854131e7e2d6"
 
 [[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/circle_border.png"
+hash = "879a72314be9972c5e9f3fd7a207b858a8b0d2211b7d1f11a040948b21a329f4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/circle_mask.png"
+hash = "ead7cd08e0b25c966021a01686748f4944d8c261307dcc27f864f5ff720fe782"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/compass_e.png"
+hash = "cbb63cbcf39c9d8ffa34f3ed85396365aa4332eda52b44aa9cbb942ef898c1bf"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/compass_n.png"
+hash = "42c22102ea3144096c501b0f954e3ce307307213270da429ac87e206f20c7401"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/compass_s.png"
+hash = "609c00a964a77afc53e5584e5b2284a94ff440f58c6be943d2fec8070584c96f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/compass_w.png"
+hash = "df90c73a180c34dcb76aaea024a2cc42af49474f9e775cc5a645c2f17551ff1f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/player.png"
+hash = "b59334ee9f14d0a5dc891681397209d3e663cc6792f10e03e75ea3944caa69a3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/waypoint_death.png"
+hash = "8df7bd578ddf7edada31176161f2619ae03bdc1bacdb927dcee217cc61107ac4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/waypoint_death_old.png"
+hash = "4bbc9154d55188f6d77bc38fd9b2f91b3360b71c068b1af53b726f80be8aba34"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/waypoint_default.png"
+hash = "dd102a12e94110cfead2e445056501e0fd21722717e792407caf58be12260d6f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/waypoint_home.png"
+hash = "3947c9d9b6761c0bbc51e9312694df4d3a323286a6f920ea61081e172d0cdc17"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/waypoint_spawn.png"
+hash = "9870ea57b2d5421c32f64009e0b5b6d22e4d1a35ff2b25868e5bd0ef12aba80b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbchunks/textures/waystone.png"
+hash = "67a9a63cd37fe08797414fc0bfd57b0757bedd07dd937184c1de8ee172180cad"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftblibrary/textures/gui/background_squares.png"
+hash = "7d914954391eee8c1337ad051af6fa261ffd7a0b86d05285b6b4c70c5d1394fa"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftblibrary/textures/icons/support.png"
+hash = "5107cbc19f265c07412f4de8f2edf250d4284f6ab816fac27a7fd674100c5186"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/alert.png"
+hash = "e7f9bc6fa2069bfb8a2a7f83acfe7b3cd402de6d41312434cc404c60e77bd1a7"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/arrow_collapsed.png"
+hash = "3e44278a7c03e90e3d0a0b58aa14fc3e4bae3640301d15c10860e1d5dcba8879"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/arrow_expanded.png"
+hash = "4f845f670c311e5cfc9b8673e295a6c82ff2afc6bc32b115eb8f2096f692362b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/arrow_left.png"
+hash = "3e44278a7c03e90e3d0a0b58aa14fc3e4bae3640301d15c10860e1d5dcba8879"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/arrow_right.png"
+hash = "3e44278a7c03e90e3d0a0b58aa14fc3e4bae3640301d15c10860e1d5dcba8879"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/burger.png"
+hash = "06c6e8fe2d9f5ab96c4f3bcfc15604a36ac3af435f93453ce1f283f14c28cb4c"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/close.png"
+hash = "b9a820b579a1f39a6e7824c3e8ee35f863de442c0b38b71a88bb2e820f110007"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/collect_rewards.png"
+hash = "26d64f4fdf53b2d436832d5eb6fad32d5cbd16213fb5e1da04b8af1c860f24f6"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/dependency.png"
+hash = "29370e48f14758f417f8521c408b3514164ec21c385c7cc85ae6eafdac8a5037"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/emergency_items.png"
+hash = "8c0fd5fa54d6e98b9bb3949cf2592ce3860e5e59915e80f6c38bb560d3fb6980"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/guide.png"
+hash = "e153f2d59b2980c295b51476f6e1d4b51635d1de62e8e166af7e46f2a7b5250a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/info.png"
+hash = "4053ec8f6a45786c58ce14431203c1cb12fabb25c3fdb367e46b591e8ac5e531"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/jei/quest.png"
+hash = "bda8b74d94aff102a92b76c65f9682a68d8916009ff650dcfa5566cfaf53192a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/pin.png"
+hash = "7bb20a22075da19d6f7232b04303ddf691cef9f201051da0d7d4238393390306"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/search.png"
+hash = "b966c62d3e39d44148377d5eda34c87442d6e23a61f726e8c197b746acbcaf8f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/settings.png"
+hash = "90410c70c7649c66c88335a6a6a3af6d036df66d485d887418ad006f9bcd0e7a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/gui/shop.png"
+hash = "e663ba3601e435080d40a62f8daaa9dccd7fc1ff31d8b850c004527d4696a30e"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/circle/background.png"
+hash = "f0219ac88f30a8c8b01c3af8d8b6bff5383a7ec235917394e53997c6eb9e1095"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/circle/outline.png"
+hash = "f0219ac88f30a8c8b01c3af8d8b6bff5383a7ec235917394e53997c6eb9e1095"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/circle/shape.png"
+hash = "b9a955ddf1642f3b7945d7888ef39ed66db54c0cebe41789fc5f31ec92cca5ef"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/diamond/background.png"
+hash = "4ce9e84e43bdaeb542546f3a450fc7198c88daa2c3ec175f2d93597ab8e44d4b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/diamond/outline.png"
+hash = "4ce9e84e43bdaeb542546f3a450fc7198c88daa2c3ec175f2d93597ab8e44d4b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/diamond/shape.png"
+hash = "8e30b346432d7ce39827ff2df9da220f4a5e44e2356801eadc574194ca78124e"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/gear/background.png"
+hash = "7cd9eeae8f14c85543d861fa5eea4616b22b85d902f585f43d0bce5caecdec93"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/gear/outline.png"
+hash = "7cd9eeae8f14c85543d861fa5eea4616b22b85d902f585f43d0bce5caecdec93"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/gear/shape.png"
+hash = "de8506f9c8b5a0b6691d753a1c73be796c7e1d98a3ffcc5a47d7d6fe7fd6d6a6"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/heart/background.png"
+hash = "407d1487907664c313ae8b62a579e04416988c0908ce5eb47dc84d2f1f07b643"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/heart/outline.png"
+hash = "407d1487907664c313ae8b62a579e04416988c0908ce5eb47dc84d2f1f07b643"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/heart/shape.png"
+hash = "f51f16df7539ec061d8d2f03678525f128c808fa6757354924069de564f923b3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/hexagon/background.png"
+hash = "13eadde0595a3cff95b6f2ca59110da881359559cb5316860f8ef30756124f41"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/hexagon/outline.png"
+hash = "13eadde0595a3cff95b6f2ca59110da881359559cb5316860f8ef30756124f41"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/hexagon/shape.png"
+hash = "be1808597b3ccaa8c6780b3852f8d6ed848312b1b61e1a6d9665322dff319ad5"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/octagon/background.png"
+hash = "e6400489832b88b88cb3ab6dbfe749557f519ebe319e8c0f71ba31f7aa4c941f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/octagon/outline.png"
+hash = "e6400489832b88b88cb3ab6dbfe749557f519ebe319e8c0f71ba31f7aa4c941f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/octagon/shape.png"
+hash = "8edf069da61dfd27b5a009a651ce373942aa571d31dd8fdb7707731f0e74e2ee"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/pentagon/background.png"
+hash = "8aadb738ed54f65f2bd12b891748c50b8d875233a73641b34432e20a2068d799"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/pentagon/outline.png"
+hash = "8aadb738ed54f65f2bd12b891748c50b8d875233a73641b34432e20a2068d799"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/pentagon/shape.png"
+hash = "e913d69502e7f273bc8709a4b0c81bb33b09c8501e32d0299ef7818e81c04936"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/rsquare/background.png"
+hash = "90d10d1fc08236cc06fea9692e4d32780ce4aba5c13869d8137f90e42f33a97a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/rsquare/outline.png"
+hash = "90d10d1fc08236cc06fea9692e4d32780ce4aba5c13869d8137f90e42f33a97a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/rsquare/shape.png"
+hash = "02d1f478d6de3671d3b507c88f29da02d4c4389cde7b996e6a2542241d94a176"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/square/background.png"
+hash = "aa3914bb99329ebe9fdca7a188bed115e6071bc97afc0d9ac6be15e31cff29ff"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/square/outline.png"
+hash = "aa3914bb99329ebe9fdca7a188bed115e6071bc97afc0d9ac6be15e31cff29ff"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbquests/textures/shapes/square/shape.png"
+hash = "e35edc389a85a6757c9cafd33c05c3415fc5c64a341f8446424ab48f3a4e00d6"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/lang/en_us.json"
+hash = "b972f336697d708bd9072ad50a4ebaf5e2786fa8e6e93c2c8ef3de7189685677"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/textures/accept.png"
+hash = "66cd46984b838e0b1d7827652e15774aea0eb7c3d9c838612d8623bd6e4f14fd"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/textures/add.png"
+hash = "438232aa4518c6c247fc015650af5114c3e7d07d1741453abdf981f87bde2a90"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/textures/cancel.png"
+hash = "b9a820b579a1f39a6e7824c3e8ee35f863de442c0b38b71a88bb2e820f110007"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/textures/chat.png"
+hash = "327a0d36296d3b021d2a1fa354f0e30ad217908de2c828adfa4901c10eea0bfd"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/textures/members.png"
+hash = "e4262fc39aec5010511e21617c660fcfb59b0d1fa4a15879e1019cb2c36f183c"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/textures/settings.png"
+hash = "90410c70c7649c66c88335a6a6a3af6d036df66d485d887418ad006f9bcd0e7a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/ftbteams/textures/teams.png"
+hash = "e4262fc39aec5010511e21617c660fcfb59b0d1fa4a15879e1019cb2c36f183c"
+
+[[files]]
 file = "config/openloader/resources/custom/assets/libvulpes/lang/en_us.json"
 hash = "f6293909c3618546f3bb7cfe60419e8f4918c9ae66a82a1ce0f3878d0e85a27f"
 
@@ -2593,6 +2861,11 @@ hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
 metafile = true
 
 [[files]]
+file = "mods/auto-sprint.pw.toml"
+hash = "9e14cafe03d01ac623bb617606bf2ed4db76719b6b162db1e695fdbcafef3aa1"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
@@ -2715,6 +2988,11 @@ metafile = true
 [[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "6a6c57d3f0855c6ea489dd74deff8ffbd82cc53a61811f603ed99ea5a0bc45d7"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "415cf3538cdee5caee4cc5050a9019b7136872683b378cec05561fceb929b432"
 metafile = true
 
 [[files]]
@@ -2958,6 +3236,11 @@ hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
 metafile = true
 
 [[files]]
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "207645894b3183548ea60101b331dd528564342f45b6325f05d805400b3ee9e6"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "06c61b0bf001aa765b6468f4ece4aadab67c6da73515ae19d7bcc74b144fa92a"
 metafile = true
@@ -3150,6 +3433,11 @@ metafile = true
 [[files]]
 file = "mods/randomium-ore.pw.toml"
 hash = "261ced73a72ed7f5432e4a4dad40c4be9c37728bb53e7edc541746d761f29513"
+metafile = true
+
+[[files]]
+file = "mods/recast.pw.toml"
+hash = "c9f91c283b6619ce7bfb9ced7f2376226c531ff3a74d07efc39f78c246eef9e1"
 metafile = true
 
 [[files]]

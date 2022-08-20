@@ -1,0 +1,17 @@
+name = "Inventory HUD+"
+filename = "InventoryHud_[1.18].forge-3.4.4.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "3894111fa176a41dccead20e605030c533028a3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3565981
+project-id = 357540
+
+[option]
+optional = true
+default = false

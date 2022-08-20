@@ -1,0 +1,17 @@
+name = "Recast (Forge)"
+filename = "recast_1.18.2-1.6.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "69acea1b88b9a8479c964976bd1f335a35201140"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3669175
+project-id = 444729
+
+[option]
+optional = true
+default = false
