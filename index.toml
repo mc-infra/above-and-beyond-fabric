@@ -1854,10 +1854,6 @@ file = "config/portality/modules.toml"
 hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
-file = "config/portality/portality-1.toml.bak"
-hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
-
-[[files]]
 file = "config/portality/portality.toml"
 hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
 
@@ -2884,6 +2880,11 @@ hash = "b3c2ee2de93406f5c9e7eabfeb67194f45af5fd61fe4a1277bc16d6d606d8225"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "15a8e3759f395da24354f9313aca76449c87a4a69b4a720448f5248c5bcad367"
+metafile = true
+
+[[files]]
 file = "mods/beautify-decorate.pw.toml"
 hash = "71594586d14483f2b666aff7139e0600fdcc0b42b4a8c5acf966757164923f3b"
 metafile = true
@@ -3304,26 +3305,6 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-create.pw.toml"
-hash = "2100e99d7d9dae43f992b3c62ce88374414309b39f0526254ed826f686d3a1bb"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-thermal.pw.toml"
-hash = "193a24fdf77dc2e55bf25bf602f8592f906344518391b567ad8ac56891842eb0"
-metafile = true
-
-[[files]]
-file = "mods/kubejs-ui.pw.toml"
-hash = "1bfc3bfd36b4ec6584a0b47fff71a4ce8c6b3b752643dabad1a92b1f170a462e"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "78f183b5f49e725daa7c6576e9f390370a0795bd380d4d96810037d4b6f17b02"
-metafile = true
-
-[[files]]
 file = "mods/libnonymous.pw.toml"
 hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
@@ -3681,6 +3662,11 @@ metafile = true
 [[files]]
 file = "mods/water-strainer.pw.toml"
 hash = "563b1f860076b104c8018d651a73ecc05af8327fcc63b3ac06c7c7bf6845b9b5"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
