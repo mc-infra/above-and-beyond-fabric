@@ -25,3 +25,4 @@ usercache.json
 usernamecache.json
 node_modules
 *.log
+.vscode/*.log
