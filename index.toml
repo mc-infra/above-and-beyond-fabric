@@ -2449,6 +2449,11 @@ hash = "8a1494c34fa08040ce928c6e961baa0ba4dc1d43921cb55a25753e89d21046e7"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-forge.pw.toml"
+hash = "1cb95c72c48abd5ea1251f485d4721dc587aea37797b32213d908ac20647e0f6"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
 metafile = true
@@ -2566,6 +2571,11 @@ metafile = true
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
 hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "77c73c39d7ced998878e2fb2ac623feae98a39934ea1c0e921d7d064c8ea438f"
 metafile = true
 
 [[files]]
