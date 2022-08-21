@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Oh The Biomes You'll Go"
+filename = "DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "md5"
+hash = "c696abd86c5f1ccc8c006147ffe5216e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3808090
+project-id = 562143

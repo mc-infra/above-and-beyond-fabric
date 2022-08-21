@@ -1,0 +1,13 @@
+name = "Dynamic Trees - Tinker's Construct"
+filename = "DynamicTreesTinkersConstruct-1.12.2-1.2.7.jar"
+side = "both"
+
+[download]
+hash-format = "md5"
+hash = "07307df348633a422b5f480da029342d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3283263
+project-id = 386747
