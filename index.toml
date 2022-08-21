@@ -2394,6 +2394,11 @@ hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
 metafile = true
 
 [[files]]
+file = "mods/dtbop.pw.toml"
+hash = "49df8a077c9f81bd5e4f98d72228b917694b5fd2d7b1bd780dc834be9ca261bb"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-terraforged.pw.toml"
 hash = "31fbd4d3ddf9770d8fad73b7b49450a73829c24b2447459e144c038e0a7df11d"
 metafile = true
@@ -2695,7 +2700,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+hash = "b7d69a920819df26b9a3a5c62ca165742eb8024a0af866e79e6be14da7539c09"
 metafile = true
 
 [[files]]
