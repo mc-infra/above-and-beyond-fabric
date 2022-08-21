@@ -13,4 +13,4 @@ forge = "40.1.73"
 minecraft = "1.18.2"
 
 [options]
-acceptable-game-versions = ["1.18.2", "1.16.5", "1.12.2"]
+acceptable-game-versions = ["1.18.2"]
