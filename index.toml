@@ -2169,6 +2169,11 @@ hash = "43ba9e344d296d84c8cd634b622af4aaef85ccd3ebafa98a14b8967d5d991ac5"
 metafile = true
 
 [[files]]
+file = "mods/better-foliage-renewed.pw.toml"
+hash = "138c6bb44194b2e838df7b2fefa88a2edf8b4ad70ca6ec0c49134eb8b0dbb0ae"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "bcb051c65691caa2fc80c47fecaa669bf8c5b78ea24387199d49c9bf1d8dba70"
 metafile = true
