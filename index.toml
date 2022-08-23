@@ -2663,6 +2663,11 @@ hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
+metafile = true
+
+[[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "e1f1f99dfda551faf2a158a35eed117ef3fa9e8b2071e32081d23c2f012ed904"
 metafile = true
@@ -2885,6 +2890,11 @@ metafile = true
 [[files]]
 file = "mods/terraria-paintings.pw.toml"
 hash = "239872338f654aa4a41abb6346b77d8f9171b224e8a0b05aa96762dacc044909"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
 
 [[files]]
