@@ -1,0 +1,13 @@
+name = "Thermal Cultivation"
+filename = "thermal_cultivation-1.18.2-1.6.3.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "425064c6f3e533792155374daaf7a067118db3f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3837822
+project-id = 271835
