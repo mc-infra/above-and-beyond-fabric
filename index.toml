@@ -2047,7 +2047,7 @@ hash = "5f1721de02c21819e44d933dcff451d71c2e0399f926d09cc16b172b9ca2f507"
 
 [[files]]
 file = "config/waystones/config.json"
-hash = "9b9288ccf935324d179300b838af116554af5dd244f0f0af250c3bdc967f500c"
+hash = "355d8a5a412de4581df58398457945dba531ed950a380a9163125c25af3b7d86"
 
 [[files]]
 file = "config/xreliquary-client.toml"
@@ -2288,6 +2288,11 @@ hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "7b6e63c2a4751ff09cd950ddc780ad00175c8132d3cc0163cba66caa4d04ca8e"
+metafile = true
+
+[[files]]
 file = "mods/construction-wand.pw.toml"
 hash = "2a49f23b290c80ba274e622397a1241c3ef1e4c9975e4f816e2ccc892c1d114c"
 metafile = true
@@ -2345,6 +2350,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0baa50b28cde066737d8ad22068d91bf2a4bc65b684095c823e8f4ba5609c516"
 metafile = true
 
 [[files]]
@@ -2713,6 +2723,11 @@ hash = "cdafaa5cc3d15b4d4937db9699bf8d5dbcd194cb9a06b16ceecd30d8143d3016"
 metafile = true
 
 [[files]]
+file = "mods/playerrevive.pw.toml"
+hash = "64fa5e73b816d77231bc08630a4db09b264d983c6311bb9afd8ec71089c929df"
+metafile = true
+
+[[files]]
 file = "mods/portality.pw.toml"
 hash = "b63a8bbedf285b2a00856c35f6376f4f767d140a92adb85960d11d35766cb712"
 metafile = true
@@ -2878,6 +2893,11 @@ hash = "7cb30ada0549cdd4249ae12c81cabd031ffda35fe8954bd77e99cbaa04dbf910"
 metafile = true
 
 [[files]]
+file = "mods/the-one-probe.pw.toml"
+hash = "8fdad4120ab5b751d18c37a218b6e358bd532c52b2b0c76446e52e7a3d9e7815"
+metafile = true
+
+[[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "acde76ce2d1dcf489d3785ef04ebc49c3af7a07132a4d85e35e83fef6a489d8f"
 metafile = true
@@ -2930,6 +2950,11 @@ metafile = true
 [[files]]
 file = "mods/trash-cans.pw.toml"
 hash = "df924a41d80f64d6e95eefb2449fa76e843c5a5829ec17d8a2ad8057e3fc04e3"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "6cc3cde3c844cfcd108a971cc8493a69aa4159f61bfdae23a498a50cb87a1173"
 metafile = true
 
 [[files]]
