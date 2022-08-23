@@ -2046,6 +2046,10 @@ file = "config/waterstrainer/waterstrainer_loottables.txt"
 hash = "5f1721de02c21819e44d933dcff451d71c2e0399f926d09cc16b172b9ca2f507"
 
 [[files]]
+file = "config/waystones/config.json"
+hash = "9b9288ccf935324d179300b838af116554af5dd244f0f0af250c3bdc967f500c"
+
+[[files]]
 file = "config/xreliquary-client.toml"
 hash = "08b34c6d39a28aeef60afb486f8ba35bec0d842d4fb5bb94d4b6862c9d0c2e2c"
 
