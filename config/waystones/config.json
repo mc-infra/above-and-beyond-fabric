@@ -6,7 +6,7 @@
   "store_waystone_data_on_sneak_break": true,
   "can_owners_redeem_payments": false,
   "cost_amount": 1,
-  "cost_type": "level",
+  "cost_type": "none",
   "cost_item": "minecraft:ender_pearl",
   "waystone_block_hardness": 4.0,
   "waystone_block_required_mining_level": 1,
