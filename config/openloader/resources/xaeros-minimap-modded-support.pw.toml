@@ -1,6 +1,6 @@
 name = "Xaero's Minimap - Modded Support"
 filename = "Xaero's Minimap - Mod Icons.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

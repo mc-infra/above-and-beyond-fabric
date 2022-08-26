@@ -1611,7 +1611,7 @@ metafile = true
 
 [[files]]
 file = "config/openloader/resources/xaeros-minimap-modded-support.pw.toml"
-hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
+hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
