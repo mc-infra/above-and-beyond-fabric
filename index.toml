@@ -2137,11 +2137,6 @@ hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
 metafile = true
 
 [[files]]
-file = "mods/auto-sprint.pw.toml"
-hash = "9e14cafe03d01ac623bb617606bf2ed4db76719b6b162db1e695fdbcafef3aa1"
-metafile = true
-
-[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
@@ -2904,11 +2899,6 @@ metafile = true
 [[files]]
 file = "mods/the-mighty-architect.pw.toml"
 hash = "7cb30ada0549cdd4249ae12c81cabd031ffda35fe8954bd77e99cbaa04dbf910"
-metafile = true
-
-[[files]]
-file = "mods/the-one-probe.pw.toml"
-hash = "8fdad4120ab5b751d18c37a218b6e358bd532c52b2b0c76446e52e7a3d9e7815"
 metafile = true
 
 [[files]]
