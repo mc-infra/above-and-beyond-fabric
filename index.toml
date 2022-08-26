@@ -2667,6 +2667,11 @@ hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
+metafile = true
+
+[[files]]
 file = "mods/nekos-enchanted-books.pw.toml"
 hash = "e1f1f99dfda551faf2a158a35eed117ef3fa9e8b2071e32081d23c2f012ed904"
 metafile = true
