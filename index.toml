@@ -1610,6 +1610,11 @@ hash = "0e77d34d201ab65a830ef1487808575432ee7d700e329bc8f32546063b6e6644"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/xaeros-minimap-modded-support.pw.toml"
+hash = "c3388757d17a46b2dd8923510559fd7d2b64324fd412fb3bceb6d38e89603ffa"
+metafile = true
+
+[[files]]
 file = "config/oretweaker/Info.txt"
 hash = "4d78e293b59eeb1911bb5aa6bd4b599eb10fb9f122925e209ff3a662d17a48f9"
 
