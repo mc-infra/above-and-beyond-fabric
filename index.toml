@@ -2995,3 +2995,7 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f6a83c987ba2375de8a67f217f117e4e75d946cbeb300e37a18ff7f9096ba304"
 metafile = true
+
+[[files]]
+file = "scripts/crafttweaker_crafting_recipes.zs"
+hash = "69f684daa35faaf826653d1f13d98f45ff43609746556a26abd65eac338295d6"
