@@ -2617,6 +2617,16 @@ hash = "a0ac0bd89c2897bc0df8e29d556f3a46aa2411471fb3b83e5c1be5b41d77a90c"
 metafile = true
 
 [[files]]
+file = "mods/little-contraptions.pw.toml"
+hash = "2173881505b6ab22e56c011c63760d9de6d4f07e4e3fb866a93cfeadfd80dc4f"
+metafile = true
+
+[[files]]
+file = "mods/little-logistics.pw.toml"
+hash = "76be9410052988fbc5e72d37118e06d58307803daed9702b8ab4da96c994775f"
+metafile = true
+
+[[files]]
 file = "mods/lockdown.pw.toml"
 hash = "a07d328518de87fa9f47d45fdb273e60ce0427aa276496eb5236d547a456d710"
 metafile = true
