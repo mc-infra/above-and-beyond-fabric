@@ -2119,11 +2119,6 @@ hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
 metafile = true
 
 [[files]]
-file = "mods/alexs-delight.pw.toml"
-hash = "2ff441fbfd7d684ba4182a4ef1c04f597c3787fafd9467d9be4bebffab5743d5"
-metafile = true
-
-[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
