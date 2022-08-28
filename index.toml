@@ -2493,11 +2493,6 @@ hash = "14d58649e9b2addd8ae226cffcf05cac8b102d50f6a6e86af73ac01ae8ff949a"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons.pw.toml"
-hash = "29a8c509ad04d8489521527d98951826d0c8bcdcc920c7e7d959531a48f500a3"
-metafile = true
-
-[[files]]
 file = "mods/create-chromatic-return.pw.toml"
 hash = "9a3baf483ace6e254cd1baced5e50d9eb464b727bf579feef9a863d3d8864f1f"
 metafile = true
