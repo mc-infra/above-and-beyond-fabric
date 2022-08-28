@@ -73,6 +73,10 @@ file = "config/byg/biomepedia.json5"
 hash = "934bf36d0f122e4763e1e7f1bf47834108a5956527fc56ff2ed46683ff7fd1a0"
 
 [[files]]
+file = "config/byg/settings.json5"
+hash = "2c16df39021c5c27dafee6d948c90685d9dd92575af8ffce96c57fea2339a017"
+
+[[files]]
 file = "config/cavebiomeapi-common.toml"
 hash = "1f1f4c9acc9d357aabc749907284d5aa6f4ca4ff696e795272657338551bb3cc"
 
