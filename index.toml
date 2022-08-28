@@ -2392,11 +2392,6 @@ hash = "03c1e22dfba5114d6bef3126deaa8bc652b327def22314ca569bde689d302dbd"
 metafile = true
 
 [[files]]
-file = "mods/dice.pw.toml"
-hash = "adcc4c35ddf0da7e7ab12bc56dd2e86ed33d74aa5e56cb4dac06dc3feaeb21a3"
-metafile = true
-
-[[files]]
 file = "mods/diet.pw.toml"
 hash = "25903c13496cb1472f7d866ed09fa3775e775c5df733216b9d4b70dbf8fd33ab"
 metafile = true
