@@ -1,0 +1,7 @@
+name = "idas-config"
+filename = "idasconfig-1.4.1.zip"
+
+[download]
+url = "https://github.com/mc-infra/minecolonies/releases/download/v0.0.1/idasconfig-1.4.1.zip"
+hash-format = "sha1"
+hash = "3da0336d9a5549c9a337dd69ea5c4df78988ecc1"

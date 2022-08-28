@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Advanced Peripherals Compat Datapack"
+filename = "Repurposed_Structures-Advanced_Peripherals_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fe5493bdbe5e956baf0fadefddd276fc88d0995"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3801384
+project-id = 626693

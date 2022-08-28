@@ -1,0 +1,7 @@
+name = "idas-bop"
+filename = "idasbop-1.4.1.zip"
+
+[download]
+url = "https://github.com/mc-infra/minecolonies/releases/download/v0.0.1/idasbop-1.4.1.zip"
+hash-format = "sha1"
+hash = "ad2d4f0e3c263bc67b7292a6503429213dde2597"
