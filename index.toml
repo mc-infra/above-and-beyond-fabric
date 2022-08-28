@@ -2161,6 +2161,11 @@ hash = "d0b68449192bab34689139a9961cca7d62ad6c7116f26bcf9cdd78dd0e822397"
 metafile = true
 
 [[files]]
+file = "mods/advanced-chimneys.pw.toml"
+hash = "87a73e80f9ea99e51f78f855f1307d33e2226d39d61a2f7eb464d646f4439183"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "3105dfbc5b6658aa30ae11a2098e391c61f58b33b1d9c0ad6e91c933a815bb3d"
 metafile = true
@@ -2616,6 +2621,11 @@ hash = "a1043471f97c43e1f70ba9217208233495924ffc83e2b84652a433c3bae3f854"
 metafile = true
 
 [[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "68323eef6e1e6393ca67355b99753dfa7a45b0b7215741f0cb91fe2ada16d317"
+metafile = true
+
+[[files]]
 file = "mods/fps-reducer.pw.toml"
 hash = "f8f12d06f6b8dc0848774bbc9cb1b4b60ddea7d6380e5d8c51af9fcf96a40bff"
 metafile = true
@@ -2853,6 +2863,11 @@ metafile = true
 [[files]]
 file = "mods/playerrevive.pw.toml"
 hash = "64fa5e73b816d77231bc08630a4db09b264d983c6311bb9afd8ec71089c929df"
+metafile = true
+
+[[files]]
+file = "mods/pollution-of-the-realms.pw.toml"
+hash = "155adb0d08af7b96ecf3702f98099638346a39243b828aee3574ace9b1a059f6"
 metafile = true
 
 [[files]]
