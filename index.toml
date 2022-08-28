@@ -693,11 +693,6 @@ file = "config/openloader/data/custom/pack.mcmeta"
 hash = "943c56d551a07951c87c643ff581119e2b728b44beb35990822d711504d6474f"
 
 [[files]]
-file = "config/openloader/data/idas-bop.pw.toml"
-hash = "30612c570e6cfa8574330db40297c5e967ce31f8a2571fe741d5a05ce002a04c"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/better-dogs.pw.toml"
 hash = "940a152d875b2bd27bce8d203a15b5b277091e81feda13a4ed5b8e79ec9108fa"
 metafile = true
