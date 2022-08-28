@@ -2344,6 +2344,11 @@ hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
@@ -2995,7 +3000,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "68d403f63774b5cd47ef57b271b30d50e1076d217cd341c14d0eeae33291e613"
+hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
 metafile = true
 
 [[files]]
