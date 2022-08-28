@@ -2080,7 +2080,7 @@ hash = "a50305a9b63fde38bb65a83beac822c33cc9b2b065ecb5a5549608c8a16fa51a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "70e70a154b06bbfb9e83893a26c56cdd781940091871882b0be81a7429b8a4b7"
+hash = "3f1c25bf04928a11cf708d4d8190133eddcca6815640288b5ca6a38d07c2c9ed"
 
 [[files]]
 file = "defaultconfigs/occultism-server.toml"
@@ -2116,6 +2116,16 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "c55d8087b3a790472313b0e366fb016acea13dad23b4dfac869422047e7150d0"
+metafile = true
+
+[[files]]
+file = "mods/alexs-delight.pw.toml"
+hash = "2ff441fbfd7d684ba4182a4ef1c04f597c3787fafd9467d9be4bebffab5743d5"
+metafile = true
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
@@ -2269,6 +2279,11 @@ hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
@@ -2344,6 +2359,11 @@ hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
+metafile = true
+
+[[files]]
 file = "mods/create-factory.pw.toml"
 hash = "a667a81f6ee2fbb112e0eda2660b0c44d4fc00cb2794fbb4ec24d30038429350"
 metafile = true
@@ -2369,8 +2389,18 @@ hash = "65e5dbbf95e0508b2f26f078fe40dcf66fb0d49caf48fd880637944f713516d4"
 metafile = true
 
 [[files]]
+file = "mods/createtweaker.pw.toml"
+hash = "09963aad4ac5ef3152ce9a120a83cf72288189210dd8bb0823ca15fdb8a49078"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "0baa50b28cde066737d8ad22068d91bf2a4bc65b684095c823e8f4ba5609c516"
+metafile = true
+
+[[files]]
+file = "mods/ctm.pw.toml"
+hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
 metafile = true
 
 [[files]]
@@ -2546,6 +2576,11 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "be1db33a292458ca7b76f40bfd54600d74973ccaedc4394541e9f21d2e350319"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+hash = "7506ef21500655873fde5850e2cd42a378e3c1d140f6e7bc390c5faa28342b1c"
 metafile = true
 
 [[files]]
