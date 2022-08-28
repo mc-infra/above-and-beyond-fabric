@@ -2513,11 +2513,6 @@ hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
 metafile = true
 
 [[files]]
-file = "mods/create-curios.pw.toml"
-hash = "5c3839736aa5e812ab497b2ffd4c8e09e1591dd02aedee39f7b00f5b5b1d0c95"
-metafile = true
-
-[[files]]
 file = "mods/create-factory.pw.toml"
 hash = "a667a81f6ee2fbb112e0eda2660b0c44d4fc00cb2794fbb4ec24d30038429350"
 metafile = true
