@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = name_of_your_panorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = resources/fancymenu/assets/textures/gui/black.png
+  orientation = top-centered
+  x = -161
+  width = 322
+  action = addtexture
+  actionid = 0cafe4a2-37ff-4810-ab99-f15d70cee1621657532858559
+  y = 0
+  height = %guiheight%
+}
+

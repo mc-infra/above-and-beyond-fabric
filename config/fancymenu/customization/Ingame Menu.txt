@@ -1,0 +1,305 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.PauseScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = element
+  orientation_element = 60bb95d2-f2bd-4682-9fa6-5ca24a798b311657540084590
+  x = 7
+  action = movebutton
+  y = 118
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  width = 166
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\166x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\166x20.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_advancements_button
+  x = -50
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = -1
+  action = movebutton
+  y = 100
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  width = 168
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\166x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\166x20.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=374306%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = 0
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=374306%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\20x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\20x20.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = 50
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  width = 117
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\117x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\117x20.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_stats_button
+  x = 0
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  width = 80
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\80x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\80x20.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = 0
+  action = movebutton
+  y = 50
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  width = 167
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\166x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\166x20.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_stats_button
+  x = 85
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  width = 82
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_lan_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\80x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\80x20.png
+}
+
+customization {
+  identifier = %id=374330%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = 25
+  action = movebutton
+  y = 25
+}
+
+customization {
+  identifier = %id=374330%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = resources\fancymenu\assets\textures\gui\20x20h.png
+  backgroundnormal = resources\fancymenu\assets\textures\gui\20x20.png
+}
+
+customization {
+  path = resources/fancymenu/assets/textures/gui/black.png
+  orientation = top-left
+  x = 29
+  width = 178
+  action = addtexture
+  actionid = 60bb95d2-f2bd-4682-9fa6-5ca24a798b311657540084590
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  path = resources/fancymenu/assets/textures/gui/black.png
+  orientation = top-right
+  x = -82
+  width = 53
+  action = addtexture
+  actionid = 25b68667-ff94-43b5-a2ad-09e8b1e9cea91657540208319
+  y = 0
+  height = %guiheight%
+}
+
+customization {
+  path = resources/fancymenu/assets/textures/gui/title.png
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_pausescreen_return_to_game_button
+  x = -5
+  width = 177
+  action = addtexture
+  actionid = af932f35-9014-430e-97be-c62f0e77f2da1657540347255
+  y = -92
+  height = 100
+}
+
+customization {
+  showname = true
+  orientation = element
+  crouching = false
+  orientation_element = 25b68667-ff94-43b5-a2ad-09e8b1e9cea91657540208319
+  x = 27
+  slim = false
+  actionid = 52097ea3-3fe4-4c7b-9e7b-2134e91e0d601657541021047
+  action = addentity
+  y = 200
+  scale = 30
+  playername = %playername%
+  parrot = false
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\fancymenu\assets\textures\gui\discordhover.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = 52097ea3-3fe4-4c7b-9e7b-2134e91e0d601657541021047
+  x = -16
+  width = 32
+  actionid = 7d2c6284-cdca-459a-8aba-bf131a34810d1657541077058
+  action = addbutton
+  y = 7
+  backgroundnormal = resources\fancymenu\assets\textures\gui\discord.png
+  value = https://discord.gg/UBTdgS76K3
+  height = 32
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = resources\fancymenu\assets\textures\gui\patreonhover.png
+  label = 
+  loopbackgroundanimations = true
+  orientation_element = 52097ea3-3fe4-4c7b-9e7b-2134e91e0d601657541021047
+  x = -8
+  width = 16
+  actionid = b91a9e91-6010-4f87-93c8-86acd9cd2e8a1657541291939
+  action = addbutton
+  y = -85
+  backgroundnormal = resources\fancymenu\assets\textures\gui\patreon.png
+  value = https://patreon.com/pouffy
+  height = 16
+}
+

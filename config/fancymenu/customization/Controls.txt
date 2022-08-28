@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.controls.ControlsScreen
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = name_of_your_panorama
+  action = setbackgroundpanorama
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  path = resources/fancymenu/assets/textures/gui/black.png
+  orientation = top-centered
+  x = -161
+  width = 322
+  action = addtexture
+  actionid = fd0203db-e873-4506-bae2-6aaf7a21ba7a1657532056977
+  y = 0
+  height = %guiheight%
+}
+

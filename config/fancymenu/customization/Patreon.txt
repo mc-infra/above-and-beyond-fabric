@@ -1,0 +1,30 @@
+type = menu
+
+customization-meta {
+  identifier = patreon
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 396
+  width = 100
+  actionid = b9ce26b1-096e-40ce-a95b-3a0a3f33ae741657479658556
+  action = addbutton
+  y = 67
+  label = Patreon Pouffy
+  value = https://patreon.com/pouffy
+  height = 20
+}
+

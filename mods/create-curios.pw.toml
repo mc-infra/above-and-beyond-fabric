@@ -1,0 +1,13 @@
+name = "Create Curios"
+filename = "Create-Curios-1.18.2-v1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5b67b64115a04f6a14578c14ce647685da4390f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3841827
+project-id = 635569

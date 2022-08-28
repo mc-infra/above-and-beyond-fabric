@@ -1,0 +1,29 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.ConnectScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  showname = true
+  orientation = top-left
+  skinpath = resources/fancymenu/assets/textures/gui/cosmonaut.png
+  crouching = false
+  x = 319
+  slim = false
+  actionid = 2be242c1-f122-4067-b546-5fd13e036fa01657530132212
+  action = addentity
+  y = 213
+  scale = 30
+  parrot = false
+}
+

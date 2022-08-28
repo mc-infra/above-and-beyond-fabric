@@ -213,6 +213,150 @@ file = "config/fairylights-common.toml"
 hash = "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "54f474ca20074ee48438564ea1b321b1bc9d7bb7fc2261b4662c24fcb6d4c050"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "33a7538189b104668ba576efd64da9f2dfba1a8ec5e63c99a95eb2085175633a"
+
+[[files]]
+file = "config/fancymenu/customization/Accesibly.txt"
+hash = "fe6e83aa01b4a1afa139a99edeb652405e03aba7b21d8ef4a97ad9dc155a2309"
+
+[[files]]
+file = "config/fancymenu/customization/Connect.txt"
+hash = "ae504dac9edb6dd43958cb1e60323b5bd9e979d5f0448b6097320d7148517160"
+
+[[files]]
+file = "config/fancymenu/customization/Controls.txt"
+hash = "321f0a66fa7fc833f49557b01aa4e570802cfd7cbe011072bbbb88b0c40425c7"
+
+[[files]]
+file = "config/fancymenu/customization/Generation.txt"
+hash = "17ecfed75374935d87aed2becbb27d681505f258a063984837ec2725e9bb4596"
+
+[[files]]
+file = "config/fancymenu/customization/Halp.txt"
+hash = "7293e73df94841a3b1a0e1cb307526e268cfdca945cfff0debc826fe96a72e75"
+
+[[files]]
+file = "config/fancymenu/customization/Ingame Menu.txt"
+hash = "2f8eafa1e168f6191728cff301d144538a026cc0077cfecd920200b7d1213387"
+
+[[files]]
+file = "config/fancymenu/customization/Language.txt"
+hash = "31c598c6dd9553dece0bc16203b0d71154bbb270e6936834b9c804be1d744738"
+
+[[files]]
+file = "config/fancymenu/customization/Patreon.txt"
+hash = "5db3c0d355a333d61eac42666fd8b2d5f8c1f1d72d4f03e22136e236c07ae6b4"
+
+[[files]]
+file = "config/fancymenu/customization/ResPack.txt"
+hash = "c468d5316406c6e64f1c6d02d9fe498d0fcdb49addc12a1a68b0814174d9048f"
+
+[[files]]
+file = "config/fancymenu/customization/Server Connections.txt"
+hash = "e3ac1f4476d2bfec3989f3e24451bd5fd82255df4b530bf7fdf0b7c987071bc8"
+
+[[files]]
+file = "config/fancymenu/customization/Settings.txt"
+hash = "cb07cfabe622bb7922a583ca3bb3425056ae418114e61cf73487a72296f47320"
+
+[[files]]
+file = "config/fancymenu/customization/Skin Custom.txt"
+hash = "8a6484f4cbd1708c9ad913429bbe130953ed232eb06fd086f018bef070c6b9a1"
+
+[[files]]
+file = "config/fancymenu/customization/Volumes.txt"
+hash = "e78d6891e72995b907e5b63b3333a9eb3e710f188782978bec4fa4776cfbbea4"
+
+[[files]]
+file = "config/fancymenu/customization/Welp.txt"
+hash = "4350b68916c5db533aabd61bb2525485250b1c619316a19e599b3834637c4f39"
+
+[[files]]
+file = "config/fancymenu/customization/World Generation.txt"
+hash = "069db230df4cf6beabb5377558e5fe7f5895ce50306ab20a71d8774495c01a7c"
+
+[[files]]
+file = "config/fancymenu/customization/World Itsl.txt"
+hash = "99266b166461a1fe5ed666e5683f400fb4ffdd3abd13a787395c09457d6bf22f"
+
+[[files]]
+file = "config/fancymenu/customization/YA.txt"
+hash = "8ede620d908e206699d3dc95114b7d298da2a8cb363f84e0d44b42c2683b79ac"
+
+[[files]]
+file = "config/fancymenu/customization/d.txt"
+hash = "856b9c7be7891c1de90f4cdbff498b096f9c4f2d0611f4a496003137e6c3315e"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "6e22095baeae6bf7a41555cc5d749e74fbd96182d2c8f5976c2c6f351b48b6d5"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "66d4e9b270d4d92bffd85b13255def475d3ff6c865965deaa700be2ed1b08bc0"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "0b19fc1d8bd8c86435eb39886116aceb3b4554fa749561fc87be2df0157a134c"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
+hash = "bc79dd304690f6ddfcf352eff39696ea9b74d3b7a32520ea41734fdf5bd3d7fc"
+
+[[files]]
+file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
+hash = "a1c7f520f49203681b0d89db67eb7c568e9ef1caf1d45fb505720e7a1bd5feb0"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_0.png"
+hash = "1bc5a437495ad6c50219664a35e51487f58936f61c7c7d84320c8b359fe394d2"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_1.png"
+hash = "12614ad6bfc0857011706172ac4d979a556b01d603565cb5c5b5cb4af20c58ce"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_2.png"
+hash = "cd27b139d7557d81d52097029ff626e917080a09480340dc205055451bce50de"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_3.png"
+hash = "1d8b833e20afa3ad3e22035ddc7dd9ac1b2e2e9daa896714c202af53e12c71f3"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_4.png"
+hash = "2eaa013f99c4c5f2ffa323cde9119374a84a45143963268c431de25dc6a4c1f1"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/panorama/panorama_5.png"
+hash = "a630cbb32d4a389630dfa2940b5e68243582b1d23afc8e04cf4df79721496241"
+
+[[files]]
+file = "config/fancymenu/panoramas/mypanorama/properties.txt"
+hash = "aa77c970d4ad833cd9802c08f3aa3f5365bd9083fd118c38e7c1998c344c4aa4"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
+
+[[files]]
 file = "config/farmersdelight-client.toml"
 hash = "02dc9ef6a7fae12fe54ccc4eeb6685e7a66e7f0949c9b83c97c11baccde0e0db"
 
@@ -2344,6 +2488,16 @@ hash = "a527fbd108976c2a4440bf26556235f2fd23a9090272e8077a3de81a83cbdf56"
 metafile = true
 
 [[files]]
+file = "mods/create-alloyed.pw.toml"
+hash = "14d58649e9b2addd8ae226cffcf05cac8b102d50f6a6e86af73ac01ae8ff949a"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "29a8c509ad04d8489521527d98951826d0c8bcdcc920c7e7d959531a48f500a3"
+metafile = true
+
+[[files]]
 file = "mods/create-chromatic-return.pw.toml"
 hash = "9a3baf483ace6e254cd1baced5e50d9eb464b727bf579feef9a863d3d8864f1f"
 metafile = true
@@ -2356,6 +2510,11 @@ metafile = true
 [[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
+metafile = true
+
+[[files]]
+file = "mods/create-curios.pw.toml"
+hash = "5c3839736aa5e812ab497b2ffd4c8e09e1591dd02aedee39f7b00f5b5b1d0c95"
 metafile = true
 
 [[files]]
@@ -3052,6 +3211,126 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "f6a83c987ba2375de8a67f217f117e4e75d946cbeb300e37a18ff7f9096ba304"
 metafile = true
+
+[[files]]
+file = "resources/fancymenu/assets/splash/splash.txt"
+hash = "701a4a47bbf1aefaac7a72f158888433e5171e2c143740ae2262a9121fd14e45"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/117x20.png"
+hash = "b995e0a0c54aa9937b76bfe4b27d29cfd4977a9cf970e672d7466f1a0e9b3616"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/117x20h.png"
+hash = "fc66c706b9fcdb23dd20fa3c4c90409ba48fc905ce204b219c5d65927725efc7"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/120x20.png"
+hash = "47832d3bc6c1e63bc0073ac7177de3653b3e3b5e7c99922b5b811ae4ea1def13"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/120x20h.png"
+hash = "0f3f2553c017427030f7d3a251a4ac3e8871c746995aadf6f2c90590aa3d2de5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/166x20.png"
+hash = "384f2b531197519b8dc4355ad301d7796763f5dfb53ddd783ea3e0805f3d028e"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/166x20h.png"
+hash = "e035a5fe11b9ffe58a68cc93a88ed504e1087d81ef83751b1d21da19e6600be4"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/170x20.png"
+hash = "55b9701c7e5cd2ee032e1f66a656c5962f3d606721164730a0582dc8963a1776"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/170x20h.png"
+hash = "9e3a553a4d89b7c71269e385b685d3c944d4428c61b7e049145deeac53fd16d3"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/20x20.png"
+hash = "2c616f47793620ac5afb58934421b16df09991e6fb7a09dc424571490ca11c42"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/20x20h.png"
+hash = "fb56bc3562322410b9be6f2762c8c7422fa05a1c95f482cf407019053ff9d15a"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/80x20.png"
+hash = "3eaf8b63d9a1a81faa61bffcceffb27c389283e420199b8392f8c970a15b8a8c"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/80x20h.png"
+hash = "9d5d718575587bc50f73a2ec14ed1fd1e58ba2cfefce263c8f77eb124fe9440a"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/82x20.png"
+hash = "43ae607a44d3b0576b30ddc106905abc48e65a5b8cf8d94468e8064bca0bc390"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/82x20h.png"
+hash = "14fb091f5850b7981ed7a83c2b2a9080c1ece9a8a40465fb95719b88963024a5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/accesability.png"
+hash = "8915940cef773a52aebbb237d3e2233869edd9d9da5c0dd4efffe8e4f06fcd92"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/accesabilityh.png"
+hash = "66acd6e7ff206d0385166ce014047affd17d24d189ad2fa7901bef1410e12b93"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/black.png"
+hash = "f371143122dbc45197feefc04db9db9ccb67dcfb8f59f0a569e157280c1c26df"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/button.png"
+hash = "659bfe55217c88e4d572148f77896b691456cd81d25d36df0815fafc0f21c1a5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/buttonhover.png"
+hash = "0b89c4d20798b3df27334502b6076aef6e2ee93c243018c99416d89eb13b1e88"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/cosmonaut.png"
+hash = "b5641c898c4f6e200dd82242c8c82f0d6f47e741a9fc4dbebc7d6c99432d862b"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/discord.png"
+hash = "3f1c1d82dd0f220e7d06c9423a10bdf84f0544999bdb22396439a7a0f3bfd3e9"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/discordhover.png"
+hash = "3a9e12afb653066d2a584a9c5ac920bc1fe270da7b458171b26b31ecafd12e3f"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/lang.png"
+hash = "ee0ce2cbf66b94190c53aec06b55d7ffc8c5bbef18020f3ae079ed643e0ad2c5"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/langh.png"
+hash = "0c98cbb0332ec3318a7b5c679f29ded08a3fad71bae506de7cb2e9544f18cb6f"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/milkyway.png"
+hash = "40382016051594d84ab1bc634c61d7494165f2f703cb2a2a98e695c3fe356df1"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/patreon.png"
+hash = "0ab3053dcc6dbba3b0eeca38cc3bceefb355debaf96a40eb292ee38fa7c06bc0"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/patreonhover.png"
+hash = "d120799bf3366c521347d5eacc6b1b60b6e28dd2e3015e40ce7c7b8cf7adaee3"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/title.png"
+hash = "94ffe7f0124107d3632dd87bac251cf1d6e34bcf7cdbfdadd30f2fd05bc97b6b"
+
+[[files]]
+file = "resources/fancymenu/assets/textures/gui/widgets.png"
+hash = "6444582425cb8a175637db587a0a563ee7273a439b5f64566d8dfbb2ed6e39e3"
 
 [[files]]
 file = "scripts/crafttweaker_crafting_recipes.zs"
