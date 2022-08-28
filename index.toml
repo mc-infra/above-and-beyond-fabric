@@ -149,12 +149,20 @@ file = "config/craftingtweaks-common.toml"
 hash = "5f162c1b1f3ed2cb35ce5be5ab87d04fa55fef02f8bc7728aabfca675b4c07e6"
 
 [[files]]
+file = "config/create-client copy.toml"
+hash = "b93a4599e90aa93810ca0fff70b17078640cbbec049da8c499ea94d26e1d6fd8"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "780dd9aa89e7682a0adda41b58a6abe1b522dabb75ce6424e4c98a7f3b0d9064"
 
 [[files]]
 file = "config/create-common.toml"
 hash = "de8a81bd705f70b09014566b85a823f96545940bc353b60e8e4d63c99d2e1885"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "99ab247c64b3381f20b5033f54a15a578d01dad544c12c06d2ff3abffb33816c"
 
 [[files]]
 file = "config/curios-client.toml"
@@ -2764,6 +2772,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/radium-reforged.pw.toml"
+hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
