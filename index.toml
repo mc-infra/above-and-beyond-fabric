@@ -2780,6 +2780,11 @@ hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
+file = "mods/radon.pw.toml"
+hash = "050387e709dda272a06b5e3377fe33839f41194e5070be8fcf3e631089c4fe12"
+metafile = true
+
+[[files]]
 file = "mods/randomium-ore.pw.toml"
 hash = "261ced73a72ed7f5432e4a4dad40c4be9c37728bb53e7edc541746d761f29513"
 metafile = true
@@ -2867,11 +2872,6 @@ metafile = true
 [[files]]
 file = "mods/spyglass-improvements.pw.toml"
 hash = "e450e4d9c6b32ffa74f7d6869bd166a29e4b6449852a8688573c69d58f9b7446"
-metafile = true
-
-[[files]]
-file = "mods/starlight-forge.pw.toml"
-hash = "a90fd4fc46dd94ba813e501ac2e25e68a28ee4131959f0236f66aa26e6b41f3d"
 metafile = true
 
 [[files]]
