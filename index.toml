@@ -2810,7 +2810,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium-reforged.pw.toml"
-hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
+hash = "f4d846faf51ae7ee082af5571de146fcfc6cb42ab21f839a4b8a7000688a4a20"
 metafile = true
 
 [[files]]
