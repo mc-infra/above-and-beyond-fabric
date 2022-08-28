@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Makefile"
-hash = "98f5fcd94703ed2181882aeeb32af77877d94a0a38811e6919e7ebb37cda89d8"
+hash = "5183fca6554846d549cd1df9e7d68888cd808d922868deb7729077a8406295f2"
 
 [[files]]
 file = "config/CBMicroblock.cfg"
@@ -1199,6 +1199,10 @@ hash = "c82125a03710a6f9933ce825885de995c5b06acbc8f3ecdbf8629d73502fdd12"
 
 [[files]]
 file = "config/openloader/resources/custom/assets/minecolonies/textures/icons/recruiticon.png"
+hash = "502de55db3fe122e182eac78fe16c3a93dd9fd7c28a2d300581bb451e26cc413"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/minecolonies/textures/icons/warning.png"
 hash = "502de55db3fe122e182eac78fe16c3a93dd9fd7c28a2d300581bb451e26cc413"
 
 [[files]]
