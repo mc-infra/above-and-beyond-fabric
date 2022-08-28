@@ -2249,6 +2249,11 @@ hash = "8b10ffbb6bbcfb0731fa3ee2a13c0c5d87a07564d9c305091990255837e2921e"
 metafile = true
 
 [[files]]
+file = "mods/builders-delight-forge.pw.toml"
+hash = "514f42f10ec0ca169cc4a600470959357427c4d37bbd7f5422c7b2ba70f8f175"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -2400,7 +2405,7 @@ metafile = true
 
 [[files]]
 file = "mods/ctm.pw.toml"
-hash = "aaeab662940679b8ef5074189d480bd04934334bc32d29931538c8bf2d7050cd"
+hash = "038e5127cabdd1b7d2523cde4ae5e3101e8d7ca4a884cc56c5462f93dc1d39d2"
 metafile = true
 
 [[files]]
@@ -3046,11 +3051,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
-metafile = true
-
-[[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "b83f8905d9f0b6c63347c384e5c3189bb431df0f4ecf80649eef668f584da654"
 metafile = true
 
 [[files]]
