@@ -2344,11 +2344,6 @@ hash = "e291d2abb55ebce5c6720fc9157fab57fcd3619de0ee40397ab256185d26097a"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
@@ -3156,26 +3151,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-bridges.pw.toml"
 hash = "2a06398075227d1fea776e7cc5dcce97f1242a53d7697252261f4d9c88d73a92"
-metafile = true
-
-[[files]]
-file = "resourcepacks/idas-bop.pw.toml"
-hash = "30612c570e6cfa8574330db40297c5e967ce31f8a2571fe741d5a05ce002a04c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/idas-config.pw.toml"
-hash = "4f3d16e1bdf08a31641b449170d183d77e9e67228cd1e966360c109a7d90335c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/repurposed-structures-advanced-peripherals-compat.pw.toml"
-hash = "8f693bccea70371254ef5c8152fceb32794fba3f2ccfb1866229022688b387a5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/repurposed-structures-better-strongholds-datapack.pw.toml"
-hash = "2ef086ad05b252dba13f27577a7da2b752c4772b07676842df982e9172f73aa6"
 metafile = true
 
 [[files]]
