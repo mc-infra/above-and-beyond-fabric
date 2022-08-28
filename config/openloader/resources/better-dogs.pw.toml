@@ -1,13 +1,13 @@
 name = "Better Dogs"
-filename = "Better_Dogs_V1.17.1.zip"
+filename = "Better_Dogs_V1.19.1.zip"
 side = "client"
 
 [download]
-hash-format = "md5"
-hash = "9b9f8097fcdd5f73d2fde7dbf56aa1fa"
+hash-format = "sha1"
+hash = "1c919f01bef420efdd1786b4928e10cc4a59cae1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3797982
+file-id = 3952628
 project-id = 407973
