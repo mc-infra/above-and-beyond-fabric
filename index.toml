@@ -1535,6 +1535,14 @@ file = "config/openloader/resources/custom/assets/libvulpes/textures/item/linker
 hash = "6b576a1c9d706691d424b1e6cd3a8e1578e74091a80b5b0168fb1539bd05c65d"
 
 [[files]]
+file = "config/openloader/resources/custom/assets/limitless_rebirth/textures/villager.png"
+hash = "3ad7ade60718251c84ffd244ed91bcb06de11e760aaa8c71597e4ead4b68b59d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/limitless_rebirth/textures/workbench.png"
+hash = "aa20d47e39206e409bbc78112574839c15f3376a70a0cfe872e149b258f16872"
+
+[[files]]
 file = "config/openloader/resources/custom/assets/metalbarrels/lang/en_us.json"
 hash = "f909891978e744494198e3cfaf2cea0c25237577c1368b675623b767fb6c2ad0"
 
@@ -3529,6 +3537,370 @@ hash = "2a06398075227d1fea776e7cc5dcce97f1242a53d7697252261f4d9c88d73a92"
 metafile = true
 
 [[files]]
+file = "patchouli_books/engineers_manual/book.json"
+hash = "e176078f3aab7c56b384162c3fab804f92852386dc8234b95e68acb96673fd23"
+
+[[files]]
+file = "patchouli_books/engineers_manual/credits.txt"
+hash = "9a84624d85768a67b5f335a019eb66681c2b98a3c1027f98056efca7ecda9afa"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/construction.json"
+hash = "fb685bbe4acf7b423e448c7f092bc65e56f05ced2caf72171062c5e5e822f470"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/heavy_machinery.json"
+hash = "2006b7c432e93f99fc787598fb4821eee926c72d871149720e2d9f67d8540e23"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/overview_and_resources.json"
+hash = "8180f416014422d1273915cdd1bbf379e564a375dbdfc960a42a713ec3e9ebce"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/power_wires_generators.json"
+hash = "b019b80a98ae89e56523996da93fb92ef070a2b6fe652c87288adfe543fd0ccd"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/simple_machines.json"
+hash = "120e0c66c4bd29b038940b511221466717347e53c3cfb17802f6dcd2f841b2e7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/categories/tools.json"
+hash = "a63073253a38f1e1a4c03cadb92ce375493a3e70ffd1094ef2c379a381d357d8"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/balloon.json"
+hash = "28a01fc781b30a63deb2079dc062643a7aa209ee79110a45576e47e697a8abd8"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/concrete.json"
+hash = "d05e5f1b37ee6e535e6bbd64f468a38074aa23ddaee7a1894d953277799e1ba9"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/engineered_lighting.json"
+hash = "19d277ef1a8adbee4aea7371e0c8d7192e575852cf35c4f6c9edac9ab3efa191"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/metal_barrel.json"
+hash = "95f0b5e2c67924c17ea6bd59a0d1b39e55deb29fe0ece4931e424e38df7fdb7a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/metal_constructions.json"
+hash = "7693e493c5f0e033ba2673b500d00317c28643a1b44fb3dc57e586271d447440"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/multiblock_constructions.json"
+hash = "ae3dc102fae4ca652b3516cec021ee8490a480c0aad781c9277cc11abc63b736"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/silo.json"
+hash = "c3268ae2bd622fb84adc0fb27d9694f509865f07b8f8d6169a0f69f064f27a1d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/tank.json"
+hash = "43e6eb59cef96ce5f9320dee6a89a8362e0ccf1981d71471b3b95f8d2d460643"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/treated_wood.json"
+hash = "0c2f303b794bfcd6efefebe8a09ab657b954bca5ce7643c1fb5b222329ea76a7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/wooden_barrel.json"
+hash = "64a9ddf7e37a6cd1d8263eb9b3ab12ac3ca3b09633ab42f72987ff483db31c89"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/construction/wooden_storage_crate.json"
+hash = "b342e3e2cc10344ac15d0129686d37ae844cbb2b2a3c806ddcad29967a56cc1e"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/arc_furnace.json"
+hash = "f8497d2b62168a5901bd70321455662b9f76c708dcf1fd444c5f1ed9eb6da8b0"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/assembler.json"
+hash = "bf226590101c369953231607f4c2cf842249e0f88cc1b7cef3ee819d13ce3f3d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/automated_workbench.json"
+hash = "995f248d6735acc0e4eb57afdca042990a4866caa80d54659135c5b4cc3b69e6"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/bottling_machine.json"
+hash = "9592afb029a64e2abd1d87bb7b64868315c75dc75a9ded2967adcb5b462839a2"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/crusher.json"
+hash = "cb43e38a3bc4d483b47f10b6411ab4110200667e5d441a8312ad90827a8a0e4e"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/excavator.json"
+hash = "b845ff5ed304ad0f50608cf61e74a54ef2f695478b1c8db9747ea8e03b06409d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/fermenter.json"
+hash = "66459e671f0fbf41b645acf2699ce4216a136436143439449ab6ea72eced2f58"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/metal_press.json"
+hash = "27d9cce3006bad4e29446c3a83abbad312770296c63ce1e63222f95430786da7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/mixer.json"
+hash = "c2e14a28290c74410ad07b0cbd8294f8b1226b03a987b853367a4ee69c8385e7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/refinery.json"
+hash = "9b22a37214fa045b1bedaa80aee8d35f959e418bf9f1993b94935a82dada4894"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/sawmill.json"
+hash = "d36a705417b59b83e7c23f09214ab72e6e8b778592ada7c6008859595e0836b7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/heavy/squeezer.json"
+hash = "5c4db2d0bb9785f1f44883dc8576820ca86434e709ed6e7a2a2668f6abce381b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/alloy_kiln.json"
+hash = "b3ccd73b383af3a000d61e786504a811c22cef11b185479106e278452a93b77d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/alloys.json"
+hash = "630b3a13604d1b7385f8b720d3608c0180ddb7dc296ffe889c7c33ac296ebc25"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/chemical_ingredients.json"
+hash = "56096607d8386e44e57ee14bd3e5dd0be1dcb8ff8c4bac42385f99c205491aaa"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/coke_oven.json"
+hash = "5ece0473298637779a7703e614458062fa648e73cc80663df8152a3178e1be39"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/crafting_components.json"
+hash = "6e325fe2784cbef267831d95eeb34f3104633a17e136e5c8080e9426e4346065"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/crude_blast_furnace.json"
+hash = "ec4b3a42d88751e61469acd2302e3f9857623da7188ab185b470556e8ac0da33"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/engineers_blueprints.json"
+hash = "cba01aacc8dd91ffd1f8b69265a663f6ca4fbeabe7e87ab09183fee60bd55022"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/engineers_crafting_table.json"
+hash = "96f04e41ff2248c32170ac31f1183fc2e1f1be6e76d30a1ae48f44e449423c57"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/graphite.json"
+hash = "262cb2448ef3c516174f453a2620697598568e94cd0dcf499c667c34a4fe5b9b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/improved_blast_furnace.json"
+hash = "372a72ec1f9b0f63ea231e7fbe0b24b54b37c672b448bb746a33d83ad5fdfc78"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/industrial_hemp.json"
+hash = "2dafc211b087a34011f6d06d956cc5660337705587d4b50b84cecd95ed348b6b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/introduction.json"
+hash = "a76bde81b51d76dc59475d61d5931bf59461cfa107a69c66fbd3604f847ea28b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/metal_plates.json"
+hash = "89e7792640797f477067b1a7d518beefbee0e87bba00a625fbeec64bf0c04495"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/mineral_deposits.json"
+hash = "9e406e07069bb536c45982c5437d12081318e63b87fcfa1363fc6ef96d29993e"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/ores.json"
+hash = "4d6eb7bca5e070ccc9ebc58685fe52b41006968a8b28bd3b34d64c94a6e1e84d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/redstone_acid.json"
+hash = "d81071c2fd8ca94c5a8acfe4eebcd66597d7ade5f0ce45b9457bc4aeb83ce6a5"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/shaders.json"
+hash = "6bdac2e980018e573011aa6c8825ef21ea99205df2c730b12427d47389418da9"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/villagers.json"
+hash = "62270983deacaae13497ca40c99507f77644a7228cf82030a165d1a06af4d995"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/overview/workbench_and_blueprints.json"
+hash = "e26d31e460656242e7424b5d6cf255444aeb6187831c4f44ba283fe6614c784a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/accumulators.json"
+hash = "c63c1d477e39415093ce8b05bbdb38b725a6bff9b0b50f77a0bd687413e1f0ad"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/basic_wiring.json"
+hash = "f9239e9762a19f38998c45d62519f281ddf1036925eaebab86d416b270c52718"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/breaker_switch.json"
+hash = "8a39d7b4b3eb01855a5095e352c44c8540ae0467c8ae9c4bedca1ad06c090f72"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/current_transformer.json"
+hash = "b3b55de9243ceea5a53c245ed9f9e3f9b0c99117ea17e7e8e8357b43909ac57c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/diesel_generator.json"
+hash = "2809475fb1082d68dfaa11e13971798ebb56a0150c6b0b1ac926e168399d328a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/lightning_rod.json"
+hash = "dc4a191e7f190eb3d2790e93cf16d1d3ddd31931f46550c35ce248f4d55269b1"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/logic_circuits.json"
+hash = "02574d320a1dfe3c1ac3b6d90ea7503ad96197a5191534d613e8a187d3175d3d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/power_generation.json"
+hash = "b6450241f164e68887090731c8eaea3f2ea2d22d170be42301d53cb8d215bb0c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/redstone_wires.json"
+hash = "e98ffd00771e86b8e93c86067b46cb8a5acbf8c86fc62a9749728b075e70e37f"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/power/thermoelectric_generator.json"
+hash = "f54aaa30b1b835a2bc1ca701e5568ebe71f2f4e226008f076a6eacf67c064bdd"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/charging_station.json"
+hash = "baf57ab3f0ce900fd073f6b0dcd7ace0124b32cca6883c872be984df2b808d68"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/conveyor_belts.json"
+hash = "1e0d21bc788c4e7a63301a9c2b140a8fe66305d62f14c844544f9e467f0ef28c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/external_heater.json"
+hash = "5029593c998e1dba400bebc3e68004ba163100499a9bee63bbf80eaa38d0a663"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/fluid_router.json"
+hash = "8cc5130f170e5149ba845a2c6c5cd290e087c6dd5857e1694ac3bb170edcb10d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/fluid_transport.json"
+hash = "adbdb4c628c795dc9098b66f225660c95cdd80c1331fd8120622d8b22ad69de6"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/garden_cloche.json"
+hash = "a095e067ddff4bb25a6a5ae5242e9c356fbedbcdebf44a054166790df81ad76b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/item_batcher.json"
+hash = "0b423c52f12e7c1fe6c9354feb51cd0e6d1a65df385dd189ffa5fdba3c52d343"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/item_router.json"
+hash = "2e81309660174cda50c2c3d304155a16ac569e0cafece935a5e35ad520bb4e47"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/razorwire.json"
+hash = "2a1cb839122332f9f14a99f0ebf57fd8f95bc723e02c74f9546831618c162c21"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/tesla_coil.json"
+hash = "c9ed892278a274df96fd83a6a886c9b4b74fc125d3600f65f6d071fcdffdc30a"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/turntable.json"
+hash = "042c7ce47490c0ab6cb839a36926aa5041c6d6354e4c104e2758980ce24d5761"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/simple/turrets.json"
+hash = "702eae2c3028b0e1107897688f17d44b8bdf31e4b6c611bb48fefa57c84788e9"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/accumulator_backpack.json"
+hash = "f168878ec8f46e53d60313e82e08c0c8ace9c0ba4af379a558bdb01ca62e3452"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/buzzsaw.json"
+hash = "a14b1457ee5643c1b6fbffbbe914510fd5ba1647695b25480120420cb53fad80"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/chemical_thrower.json"
+hash = "ed75f23dc24c1a8d977dae6686c9266422d835fe1ad27c4a7c310f860a66bac7"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/ear_defenders.json"
+hash = "60f67e688e9542cd25421f27b1724f453b1e41922acf55bcbeffe7ef64649eba"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/engineers_skyhook.json"
+hash = "b62c8426d6e3d2d48ff9cf7069e363f633ba9f375c6f06e4ff04133747f58dbd"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/engineers_toolbox.json"
+hash = "4bf3aa46d10eaa5230e064ebd5be26bdb59edef4fe22b7db426b9a8ddd0a192b"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/heavy_plated_shield.json"
+hash = "88f25a4b0f5ac89a36a7a378f203ddecdeca413d096e474b0b2fa8113c92d3f3"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/herbicide.json"
+hash = "9984e3a2a1999ffe1a3db275cec4b21c48e06d12dd9756ca038ebf3834403758"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/jerrycan.json"
+hash = "b35d7679d57546df324a3bcaf6538c0115e0ebb3d03800c37fc8e33c933d5cde"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/maintenance_kit.json"
+hash = "23ec1161518b49c634d1bc776ba3bd4eeb966e0a7608b3db4939812ca52ed473"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/mining_drill.json"
+hash = "2c3946ff5a235159e1d0b079e014db23693ab78743a5a87b4823d7f872b03421"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/railgun.json"
+hash = "4b3b496d01d254d6e2ade77ee3629d9813306c5a17c1e83d876952fca92dceea"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/revolver.json"
+hash = "d5476ee4099a8ae172c0f45a582ffb849fa01ee9651667bfc95b982444c3cacb"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/entries/tools/revolver_cartridges.json"
+hash = "eeff8473431190ac6b6d1db884dcdaf66230862c478fec55fbc6f0280a41a40d"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/crafting_multi.json"
+hash = "7a170a7daeaf0ae6e0c93165049352af6e1cdab0e050a65fa34b9030f579f576"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/dual_showcase.json"
+hash = "eb22b92f668b5a0095a2499231bda34072434001428c83b23549376c38f66348"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/engineers_workbench.json"
+hash = "773ce4195b5cd055cb9bdc9d67271a3c8916c6121a365105f0061abe0f95b23c"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/quad_showcase.json"
+hash = "29161a92667825abc6e0642c9492347a509de406db054f0c7caab9e10f89f1a3"
+
+[[files]]
+file = "patchouli_books/engineers_manual/en_us/templates/triple_showcase.json"
+hash = "e5f5e864f5b5a3f46b2724e54d6805ecc115650b32ddab8dae4e0bb282a49ca9"
+
+[[files]]
 file = "resources/fancymenu/assets/splash/splash.txt"
 hash = "701a4a47bbf1aefaac7a72f158888433e5171e2c143740ae2262a9121fd14e45"
 
@@ -3651,3 +4023,7 @@ hash = "6444582425cb8a175637db587a0a563ee7273a439b5f64566d8dfbb2ed6e39e3"
 [[files]]
 file = "scripts/crafttweaker_crafting_recipes.zs"
 hash = "594c0c38f92bfd0eba43ea72590e7fc87cd063cb226b6e7be402092ff90bc263"
+
+[[files]]
+file = "scripts/immersive_engineering/book_removal.zs"
+hash = "6fcb47d98b90114a13fa3a389b07e541dcf9b69309e5b7afbe228863714c8b7e"
