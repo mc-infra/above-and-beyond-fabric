@@ -3307,6 +3307,11 @@ hash = "f9421682d84321e3d88e00733aa976502ea3d3a8bdfb8a1b9c050604fa8e9694"
 metafile = true
 
 [[files]]
+file = "mods/scroll-of-harvests.pw.toml"
+hash = "c766cd541559d7d5fdb71924899b635ed28cb651de8e1023029e1755685f34a9"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
