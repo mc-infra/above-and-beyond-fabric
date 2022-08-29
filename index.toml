@@ -2786,6 +2786,16 @@ hash = "3b8744e493e25555053230b01f86c25cfee8e686d4159db5458478b00e404d58"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-additions.pw.toml"
+hash = "5509ff135d46d354664720f02f182bda6ba8697f22b49a42a8cf02aef6112763"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "ec1b184fe352b65db298ce3c93b66aa2c12a5b0a6ea1ef9a576179a1523b0264"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "74a4aac731aca28b7564ad28d9308d8a2ed838370170aaa4a5e00f31c7ddaae0"
 metafile = true
