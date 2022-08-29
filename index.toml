@@ -3002,6 +3002,11 @@ hash = "be1db33a292458ca7b76f40bfd54600d74973ccaedc4394541e9f21d2e350319"
 metafile = true
 
 [[files]]
+file = "mods/grimoire-of-tetra.pw.toml"
+hash = "b34726babd74fb0e6b700e40d39515ba3e98f24ba778c08fdbcdea301b6928fe"
+metafile = true
+
+[[files]]
 file = "mods/idas.pw.toml"
 hash = "7506ef21500655873fde5850e2cd42a378e3c1d140f6e7bc390c5faa28342b1c"
 metafile = true
