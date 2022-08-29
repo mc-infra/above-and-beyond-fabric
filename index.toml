@@ -3399,6 +3399,11 @@ hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
 
 [[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "38e63604e80a67c80acbd6999e205889fe689dcde127cf55aeb7f12dffb14035"
+metafile = true
+
+[[files]]
 file = "mods/the-mighty-architect.pw.toml"
 hash = "7cb30ada0549cdd4249ae12c81cabd031ffda35fe8954bd77e99cbaa04dbf910"
 metafile = true
