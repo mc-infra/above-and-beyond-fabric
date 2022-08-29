@@ -2792,6 +2792,11 @@ hash = "1a8565df2484344407e2084c27870d9d4b828f520dc16c485c51279616de8c7f"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "c3e8a8237bd14e5f9a62de66980422f1f357e489197a68e4a8a24c7aa68d2c83"
+metafile = true
+
+[[files]]
 file = "mods/create-stuff-additions.pw.toml"
 hash = "4408f4667a2200114edd9b5ef70e6f24318e07bc01258a7ef05d5b952fc7570c"
 metafile = true
