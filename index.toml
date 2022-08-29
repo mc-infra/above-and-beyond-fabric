@@ -3412,6 +3412,11 @@ hash = "239872338f654aa4a41abb6346b77d8f9171b224e8a0b05aa96762dacc044909"
 metafile = true
 
 [[files]]
+file = "mods/tetra-pak.pw.toml"
+hash = "b3140ceb807fa7c2cb475760a25c39c7dd527a51089a716113343d7a2b5df2df"
+metafile = true
+
+[[files]]
 file = "mods/tetra.pw.toml"
 hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
