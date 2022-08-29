@@ -786,11 +786,6 @@ hash = "0febf3851c5b6cbe290db65cedb3b7c1788e4e979e7fcc22468b5a929cfc250e"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/building-gadgets-create-like.pw.toml"
-hash = "9e8d3d433e2dbda916420df56543d8ecfa2075175ebe0f017dd6e313a81d924e"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/chipped-create-compatibility.pw.toml"
 hash = "0b799317f47f9d99c7a23685c94b9893df4619eab806f56e28348b59c899e0f5"
 metafile = true
@@ -850,6 +845,334 @@ hash = "5efa0795ba4caf73751c2a6e0c7071764e9a6ae36a9b82630330364b53442911"
 [[files]]
 file = "config/openloader/resources/custom/assets/biomesoplenty/textures/block/spanish_moss_plant.png"
 hash = "41920d6fe104a545add0941976aeb850fba7bc8ae6c306b5e192c425bdee0882"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/.DS_Store"
+hash = "5486888497a3a9680c8921bd9cf6673a932c0cd775858da980db448aba11d811"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/.DS_Store"
+hash = "12995c7efd22d5b6bca2583b018210c2e5f53917bc3eef71eb8789f3e5cacfdd"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_building.json"
+hash = "d33a45ce6763f238dfe78f5b9ab35291e50a4101c4624b8f957ba76ca07cf68f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_copy_paste.json"
+hash = "5e0d2d1b7a7841425c9ea6b57d39138f9b64a64636d2f27fa96d897216ce5802"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_destruction.json"
+hash = "5c59ea8c62fa87271a8655bf13fc3f1e85914f94ed89b1e6720f609cc695b447"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/models/item/gadget_exchanging.json"
+hash = "be0032c4464c20958f9ebc191530ce664d42f12e114fb488cd049214d95f2774"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/material_list.png"
+hash = "860cad9066e2bcc3f03ac188bd5b1d0c4453413a4f0a9c201566367587bd7c7f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/material_list.xcf"
+hash = "f38f6bbec82ffe95beea3e05c6ccc96f70eae1c07b3c11d9542756002b3b0ae0"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/build_to_me.png"
+hash = "224e6b1693e7f35f72eb26eb515c4c8a5494d45fab0fb05bee852bf615c6c735"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/build_to_me.xcf"
+hash = "46a62dfbb69b3118cacd1d7b0b4217e9732e46bce271a3e89878cd4b867e25b2"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/copy.png"
+hash = "436605ff571f6868c4f2586808e4550fc4e542d2ecdee7158386ea6a33d12eb8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/copy.xcf"
+hash = "0ac88291bd29a52b7fe4285fbaa3d1cb9c33c73f27534c3d4cf3e89abf9f7132"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/grid.png"
+hash = "76ce2427ca5c7a96bcb309b980dcde949b25a8ba7646c490dd61d106fb05b7da"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/grid.xcf"
+hash = "5bd1da70f6b88720bc49fc2a532e9ccd6b98bc6b77f57e0752217946bb2c642c"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_column.png"
+hash = "ad51b056ac095240f96d0cd50dcb8cc47db6ffaedfc4d518aa6ab673684d6ef9"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_column.xcf"
+hash = "7b12ad3ab7dd628d5804446546cabe53c9010c89e6bae0acc6f4788ffa6eaf4f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_wall.png"
+hash = "fda86396c0872bdb658ea2f2ff29328a3bc4d3d3dd2fce19801eb5f4521b319e"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/horizontal_wall.xcf"
+hash = "aa9c91e9983bd420b0fc80f59f3ad45b4a033c6df0458d966a06b0ebde5483c4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/paste.png"
+hash = "8764f1fe5c6948b76e5c6ffcc5cb4e60c3775f7cb448ef3f0babf60cf4fef298"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/paste.xcf"
+hash = "7abe62ef0dda14f0befb8d73b1e9033873cf51f8e80d028224ca23c7d067af39"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/stairs.png"
+hash = "57a3082ee5a766af218e6ab2a5ee6bed8a353d838e10547af191a7bc39d848d8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/stairs.xcf"
+hash = "dd0699cea3be2c6b5234f11cb6ec7d8da12def3dd32c731e4df28577d08f170b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/surface.png"
+hash = "de2036c891fcf714f0fd6b2aae7d6029cc8c1d9dedc8b6345b0054da082e1cdb"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/surface.xcf"
+hash = "d502e0cbbf12bba902934f20857ff0c5509054164efdd7e49006b8f3419569bf"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_column.png"
+hash = "2782ebc7125e1c96654f190390c0855790320d0bc20d68492d2ac94bd0f4c7f5"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_column.xcf"
+hash = "81f380f44c74c82ad73e9d6ec1891367fbe0a280b3a06ddecef23b57ce261912"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_wall.png"
+hash = "e85debd25e8f1cc64239ead7225380ad96b0ecd0b7fd9b022a202c18f39d0084"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/mode/vertical_wall.xcf"
+hash = "d63c0618b85d57a1a05eff08c4ccf624253677b49f7c00eacec19dc50599cdeb"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor.png"
+hash = "a6945be7ea00016fdd2dadeb3e1455500c4c462a13a24e63dba513a31a0968c4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor.xcf"
+hash = "97d8e0f953c2d2b2dd376d5217e1029665247b1a69121f54d5db5ffe633e1c90"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor_selected.png"
+hash = "b0515af9c52763a365dc91fab311f1b96b79dd877bee90ab7f6aad75700380db"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/anchor_selected.xcf"
+hash = "14fa6c5b9c7d34027e145013073cb19040143f2cdeaf21d47727fb51ff872af8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop.png"
+hash = "d8fa5a2279eeb69182cee84a779a48aba6ecddf39824b53447a8f874f104564d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop.xcf"
+hash = "839683b8e127d4365d3d8addb32bcf50953722c21a54dad9b196bbe24f271b2d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop_selected.png"
+hash = "2fc351106485d67f2c488ec349bee2723e9334619498c85e9127d21390edb899"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/building_place_atop_selected.xcf"
+hash = "eeaf4ea4460791247e082d09e793691f8f67348b9fa33ac6f80e550559fffb97"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area.png"
+hash = "49058d42a45e3911b4f8decb95de2fec1f7d3821c11cae01652fd5721d8e8ab5"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area.xcf"
+hash = "f2b9c053471c599fcac4bc5568e253cee49a3e280b075318d8eafec0c433436a"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area_selected.png"
+hash = "b637a98df8a5e1cb50ad3f3d0e122f426a3ed654883673b275477370df4dc795"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/connected_area_selected.xcf"
+hash = "a981b8b7d3edcbd903e9b444db2fae00c4daa5c9b94cb1d6c5ec7ee712ba6f2f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_materiallist.png"
+hash = "6baaf3f66042d9f6d4bc081025e3bef57b7831dc12afb08ef924620523897e29"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_materiallist.xcf"
+hash = "326b069205f4274286a15d9bc687c8e220af09e78b120d5c569a903beca5bacb"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_opengui.png"
+hash = "80fd17a90ea1bbf83497ae103dfad733f4839aa931389ec5f238305c49229ca8"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/copypaste_opengui.xcf"
+hash = "6a81d48edb7631ef9a3284e9d1ca1d35c81ae7790c5c94a3e4df532605644768"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay.png"
+hash = "c1ce40fe63511b542f58b084da7b0073787c219b5784ddab13314619d78fb702"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay.xcf"
+hash = "30a70b2b27a8614b6aafa662b90b252157e38bfdd7a75d6152a661621a15fdae"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay_selected.png"
+hash = "c18ecf21fd758856b0759b680ee2a7506f2891483ce3a5a56a78a85ad34e840b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/destroy_overlay_selected.xcf"
+hash = "268ddd0ae821de4e943a8a16744c998c7511152d221a4f8ad1f1fc6b19b1ab83"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only.png"
+hash = "388b9296ea1cd4cf4a2abbfd97d3986f7b7a319b24b136ecc43fdee2f407743e"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only.xcf"
+hash = "c060eeff298579829175ab686e0803811a15d1cf8d91455565bd761e30d88f01"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only_selected.png"
+hash = "5687bbdea2f1881937742f7111512d214c5083817e32903086dad55a21f5eef5"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fluid_only_selected.xcf"
+hash = "78c00818952f9a899a02238e12fb6918a34634bdfe96fa7836c6e3141ccd63ad"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy.png"
+hash = "aab6d3ea868910c2bf556ed99afb28781ee866bc6bcd840c1f49fbadcc0e9004"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy.xcf"
+hash = "7ab85c4dd0ae88cca85bedc7cae2e03b7954e7bd9143e78e6c1ada422ae0f5a4"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy_selected.png"
+hash = "d3a014166edb0ec9804660a19170d5665db160277b0c4ea2ec698019cfdee0a6"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/fuzzy_selected.xcf"
+hash = "27e7c94540b739d849c7ea3c49670ff7c301937290c02d8d9968f0716dde923d"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/mirror.png"
+hash = "0cbc12097c66b02c058fb021c502df6e89dc4d7330d6a1fc4c47ed58a426b086"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/mirror.xcf"
+hash = "518daa3fda40e09fff536539285393788a1ab317585f82684f275b0fd592e3ef"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid.png"
+hash = "f510666b5b1168626e71b031b2ab55b703cce070ec36804db229139f2555b6cd"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid.xcf"
+hash = "f161f3e58ea1d1fc7bc2d3494e22a920b7e33c74dbf9f8056b8db50e90d5e850"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid_selected.png"
+hash = "588df37c611a3425b2a249437b0b897c1e8494ec7e413453868a0c7c53d54a04"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/raytrace_fluid_selected.xcf"
+hash = "9fe5a02c22967efbff53c92be6491feb340395ad12a1ca694f693f83bab79224"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/rotate.png"
+hash = "e152ae28e19d87941f403863a7c01eea2575f1fb73d94b84784887d163db3be3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/rotate.xcf"
+hash = "85aff16902b38613f166348db47b10e68fd36cf4b101e140ba77646093e7a144"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/undo.png"
+hash = "86f1a34cc699c46b1aad0b9ab6a9d49eb1bdb6f20ad1cc80ec4c1800c7f46fc1"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/setting/undo.xcf"
+hash = "185782abfa35560ecf40fa9067e3987d1e504e8da2cfd5624ec2f2213a41eaf7"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/slot_copy_paste_gadget.png"
+hash = "6cb16263cbf44a7cad7eb65931cb7dbd734c37512dbaec60e85fea17cc4aed69"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/slot_template.png"
+hash = "b091aeeb5f8e006be7a3467032baef76696e68185999e35f7e9ec9566d884a74"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/slot_template.xcf"
+hash = "32f555f41ee04eca2c0566a4e2cfd730462b50c78b884a77ba247c05c66cc7f1"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/gui/template_manager.png"
+hash = "0459c15f01d916fa5a6fb947228819cad3c2a5db2b63bb0de3620feda87614c9"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/.DS_Store"
+hash = "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_building.png"
+hash = "da0d30891e1f1a0da7b595dfc26b00060481e068a49d6a2146414f0aaf18d787"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_building_back.png"
+hash = "66bc49c5fa8aa105975f70d5fa9b0e11b950e90b1f5a5742c4f81a81b9b2d2f0"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_copy_paste.png"
+hash = "7ece243be837b2b512ffce184a8c61969d02e2c82d4ac6a5c30fa47cc909c21b"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_copy_paste_back.png"
+hash = "b2cd3a66f22892c187c64ffda43fc4c23064adaf77cccbba18fd07a7878f2e67"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_destruction.png"
+hash = "9ff87d033a01e66ef0dc2096bd79f16b682a35b346e952dd3b35c9ddad9bac2f"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_destruction_back.png"
+hash = "af93d9d010e204f842fa28e123d47ed191f3f0cacb4d71fc9878a52685972563"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_exchanging.png"
+hash = "3f80a1f1c414185f955a374c1f5896e42f96ff6b4b9e07873e2a6a594c16a9ea"
+
+[[files]]
+file = "config/openloader/resources/custom/assets/buildinggadgets/textures/items/gadget_exchanging_back.png"
+hash = "40f48472119a3c5536731d90b49de123c29a0cc99ff0cb9c31de253b13ac6e81"
 
 [[files]]
 file = "config/openloader/resources/custom/assets/chisel/textures/block/tyrian/plate.png"
