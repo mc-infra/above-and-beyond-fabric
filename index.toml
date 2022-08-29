@@ -786,6 +786,11 @@ hash = "0febf3851c5b6cbe290db65cedb3b7c1788e4e979e7fcc22468b5a929cfc250e"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/building-gadgets-create-like.pw.toml"
+hash = "9e8d3d433e2dbda916420df56543d8ecfa2075175ebe0f017dd6e313a81d924e"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/chipped-create-compatibility.pw.toml"
 hash = "0b799317f47f9d99c7a23685c94b9893df4619eab806f56e28348b59c899e0f5"
 metafile = true
@@ -793,6 +798,11 @@ metafile = true
 [[files]]
 file = "config/openloader/resources/computercreate.pw.toml"
 hash = "b32878e3ffc9ecd2c6fc82ca047797ab516f9714442acb9b13622b36496b9d7c"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/create-style-mekanism-pipes.pw.toml"
+hash = "6c7be09c85c8e476c644ad2054b5253aeba36053d8cc8450833adcfd55febcfe"
 metafile = true
 
 [[files]]
@@ -1705,6 +1715,11 @@ hash = "4378a5c89a58221c3633785b4708eb75c92ad8fc615557a66a0f2d49ea797cc9"
 metafile = true
 
 [[files]]
+file = "config/openloader/resources/updated-engineering.pw.toml"
+hash = "78e9207574e02eb2910a3d3adaf7100232f40f5d212c4ef955c3cb52df18ed13"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/vanilla-copper-colors.pw.toml"
 hash = "0e77d34d201ab65a830ef1487808575432ee7d700e329bc8f32546063b6e6644"
 metafile = true
@@ -2311,6 +2326,11 @@ hash = "514f42f10ec0ca169cc4a600470959357427c4d37bbd7f5422c7b2ba70f8f175"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "d039b9333db26814d7e92f033e295f3ad577a144fc15cc1aa88bf87b0c01a204"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -2653,6 +2673,11 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "7506ef21500655873fde5850e2cd42a378e3c1d140f6e7bc390c5faa28342b1c"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "36e44f8cff135b54b107bc943e796a1e0e874af4848597a2f81d632e6989191e"
 metafile = true
 
 [[files]]

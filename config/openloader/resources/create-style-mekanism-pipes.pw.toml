@@ -1,0 +1,13 @@
+name = "Create Style Mekanism Pipes"
+filename = "MekaCreate.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "95c7533a799320c769b56d55766e4ffe40ca0ebc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3819145
+project-id = 631131
