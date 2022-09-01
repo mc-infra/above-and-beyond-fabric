@@ -1,0 +1,26 @@
+{    
+	"name": "Thermoelectric power",    
+	"icon": "immersiveengineering:thermoelectric_generator",    
+	"category": "patchouli:power_wires_generators",
+	"sortnum": 1,
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Stop and go, Hot and Cold"        
+		},
+		{        
+			"title": "Thermal generator",
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/thermoelectric_generator",
+			"text": "Thermoelectric Generators are another option of power generation and work without the use of any mechanical parts, instead they use the temperature gradients between two sources."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Placing a hot fluid on one side and a colder fluid on the opposing side generates energy based on the difference between the two temperatures. $(br2)The list on the following page contains other, non-fluid blocks, which can be used as sources of temperature."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "$(li)Blue ice - 200 K $(li)Packed Ice - 240 K $(li)Ice - 260 K $(li)Snow - 273K $(li)Magma Block - 1300 K $(li)Block of Uranium - 2000 K"        
+		}
+	]
+}

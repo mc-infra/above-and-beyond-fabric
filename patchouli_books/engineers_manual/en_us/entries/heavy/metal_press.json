@@ -1,0 +1,71 @@
+{    
+	"name": "Metal press",    
+	"icon": "immersiveengineering:metal_press",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Under Pressure!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Metal Press is an automated way of shaping metal. It uses a high pressure piston to press a mold onto an ingot, forming it into a plate, rod or other metal components. $(br)The structure is created as shown on the next page, to form the multiblock, right-click the piston with an Engineer's Hammer."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Metal press",
+			"multiblock": {
+				"pattern": [
+				[" H _"],
+				["CPC_"],
+				["SRS0"]
+				],
+				"mapping": {
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"H": "immersiveengineering:heavy_engineering",
+					"C": "minecraft:magenta_glazed_terracotta[facing=south]",
+					"P": "minecraft:piston[facing=down]"
+				}
+			},
+			"text": "The structure is built from the following $(t:2 Steel Scaffoldings, 1 Redstone Engineering Block, 1 Piston, 1 Heavy Engineering Block and 2 Conveyor Belts)$(#007500)blocks$(). ($(t:Certain blocks crash if rendered in the patchouli multiblock page, in case you're wondering why I'm using this instead)$(#007500)Glazed terracotta$() in place of conveyor belts)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "(Magenta glazed terracotta is used in place of Conveyor belts, as currently conveyor belts cause a crash if you try to load them in Patchouli's multiblock renderer.) $(br2)Power is input through the top, and items through the conveyors, obviously in the direction of movement. The lower middle block is the redstone control port, rightclicking it with an Engineer's Screwdriver allows you to invert the redstone control."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/blueprint_molds",
+			"text": "To actually work, the metal press requires a mold to be attached to the piston. These molds are created in the Engineer's Workbench using the blueprint displayed above."        
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: molds}",
+			"input0": "immersiveengineering:plate_steel#3",
+			"input1": "immersiveengineering:wirecutter",
+			"output": "immersiveengineering:mold_plate",
+			"text": "Using this blueprint in an $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$() will allow you to construct the components at a reduced cost. $(br)This process is the same for all available molds, which will be displayed in the Workbench when the blueprint is inserted."
+		},
+		{
+			"type": "patchouli:triple_showcase",
+			"item1": "immersiveengineering:mold_packing_4",
+			"item2": "immersiveengineering:mold_packing_9",
+			"item3": "immersiveengineering:mold_unpacking",
+			"text": "The packing and unpacking molds can be used to compress 4 or 9 of the same item into their relevant storage form, as well as unpack them again. This can be utilized to store ingots as blocks, or automatically create simple blocks like Sandstone."
+		},
+		{
+			"type": "patchouli:quad_showcase",
+			"item1": "immersiveengineering:mold_plate",
+			"item2": "immersiveengineering:mold_rod",
+			"item3": "immersiveengineering:mold_bullet_casing",
+			"item4": "immersiveengineering:mold_wire",
+			"text": "The crafting component molds can be used to make the crafting components they're named after, including bullet casing, metal rods, metal plates, and electrical wires. $(br)This process is usually more efficient than using a hammer or wire cutters to make the same components."
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "immersiveengineering:mold_gear",
+			"text": "The gear mold is another crafting component mold, however it is only useful if other mods exist that add gears, as Immersive engineering doesn't add gears on its own."
+		}
+	]
+}

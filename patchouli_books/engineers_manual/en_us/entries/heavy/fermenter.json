@@ -1,0 +1,43 @@
+{    
+	"name": "Fermenter",    
+	"icon": "immersiveengineering:fermenter",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Skál!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Fermenter is a multiblock structure that extracts ethanol from certain fruits, grains and vegetables through a fermenting process. The structure is built as shown above and formed by using the Engineer's Hammer on the central cauldron, from the side that has the Engineering Blocks."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Fermenter",
+			"multiblock": {
+				"pattern": [
+				["   _", "II _", "II _"],
+				["  R_", "CC _", "CCL_"],
+				["SFS_", "SFS0", "SSL_"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"C": "minecraft:cauldron",
+					"F": "minecraft:orange_wool",
+					"I": "immersiveengineering:sheetmetal_iron"
+				}
+			},
+			"text": "The structure is built from the following $(t:6 Steel Scaffolding Blocks, 4 Cauldrons, 4 Iron Sheetmetal Blocks, 2 Fluid pipes, 2 Light Engineering Blocks, and A Redstone Engineering Block.)$(#007500)blocks$(). ($(t:Certain blocks crash if rendered in the patchouli multiblock page, in case you're wondering why I'm using this instead)$(#007500)Orange wool$() in place of fluid pipes)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Items can be input into the Fermenter via the two hatches at the back that are marked with blue dots. The hatch with the orange dot serves as an item output and the block below it to output fluids. $(br)Applying a redstone signal to the control panel at the front will halt the machine's process, this behavior can be inverted by use of the Engineer's Screwdriver. $(br)The following list shows various items that can be fermented into ethanol, and the amount they produce."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "$(li)Apple - 80 mB $(li)Sguar Canes - 80 mB $(li)Melon slices - 80 mB $(li)Potatos - 80 mB"        
+		}
+	]
+}

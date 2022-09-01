@@ -1,0 +1,49 @@
+{    
+	"name": "Buzzsaw",    
+	"icon": "immersiveengineering:buzzsaw",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "We Don't Go To Ravenholm"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/buzzsaw",
+			"text": "This large, portable buzzsaw is designed to make quick work of trees and other pieces of foliage that may stand in the way of a pristine factory building."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "After using the $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$() to place a sawblade in it, and loading it with $(l:patchouli:heavy/refinery)Biodiesel$() or another fuel, it can be used to carve through everything from small birches to large jungle trees. $(br2)Like some other tools, the buzzsaw can be modified in the $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$(). These upgrades affect the size of the internal tank and the durability of its sawblade."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/rockcutter",
+			"text": "By replacing the normal saw- blade with a $(#007500)Rockcutter Blade$(), the buzzsaw can be used to cleanly cut cubes of stone from the ground, much like the $(#007500)Silktouch enchantment$()."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "However, the diamond tipped blade is no longer useful in carving through wood or felling trees."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_drill_capacity",
+			"text": "The $(#007500)Large Tank$() increases the fluid capacity of the buzzsaw by 2000 mb."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"title": "Lubrication System",
+			"recipe": "immersiveengineering:crafting/toolupgrade_drill_lube",
+			"text": "The $(#007500)Advanced Lubrication System$() applies additional lubricant to the sawblade, reducing the speed at which it loses durability."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_buzzsaw_spareblades",
+			"text": "By attaching the $(#007500)Blade Quiver$() to the side of the buzzsaw, you can carry two additional sawblades along."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "You can cycle between the stored blades by sneaking and using the scrollwheel, or through use of the keybind Switch Chemthrower Tanks if it has been set in the options."        
+		}
+	]
+}

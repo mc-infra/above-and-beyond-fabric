@@ -1,0 +1,10 @@
+{    
+	"name": "The Engineer's Manual",    
+	"landing_text": "The extensive guide for all things engineering related",    
+	"version": 1,
+	"index_icon": "immersiveengineering:manual",
+	"model": "immersiveengineering:manual",
+	"creative_tab": "immersiveengineering",
+	"advancements_tab": "immersiveengineering:main",
+	"show_progress": false
+}

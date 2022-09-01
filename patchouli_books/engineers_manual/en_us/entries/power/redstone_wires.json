@@ -1,0 +1,55 @@
+{    
+	"name": "Redstone Wires",    
+	"icon": "immersiveengineering:wirecoil_redstone",    
+	"category": "patchouli:power_wires_generators",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Integration takeover"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/wirecoil_redstone",
+			"text": "$(#007500)Redstone Wires$() are aluminium coated in redstone dust. The resulting cables provide an easy way to transfer redstone signals over long distance without losing any signal strength."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"title": "Redstone connector",
+			"recipe": "immersiveengineering:crafting/connector_redstone",
+			"text": "The connectors work like any other wire connector in terms of connecting them, however, redstone wiring does not require relays; connectors and relays are the same block."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "With the Engineer's Screwdriver, the connectors can be configured between in- and output mode and set to one of 16 coloured frequencies."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"title": "Redstone probe",
+			"recipe": "immersiveengineering:crafting/connector_probe",
+			"text": "$(#007500)Redstone Probe Connectors$() have a functionality partially comparable to Redstone Comparators. While they are not able to actively compare signals, they are able to read inventories for how full they are."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Additionally, these probes can operate on two channels, sending their read signal on one, and still receiving signals on another. These channels can be also configured by using the Engineer's Screwdriver. $(br2)Note that many of IE's multiblocks feature comparator-functionality, as described on the following pages. Where available, the redstone control surface of the multiblock is the designated spot to connect a comparator."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "$(l)Tank:$() As detailed in its $(l:patchouli:construction/tank)manual entry$() $(br)$(l)Silo:$() As detailed in its $(l:patchouli:construction/silo)manual entry$() $(br)$(l)Assembler:$() Outputs a signal relative to the fill of the inventory. $(br)$(l)AutoWorkbench:$() Outputs a signal relative to the fill of the inventory. $(br)$(l)Crusher:$() Outputs a signal relative to the fill of the inventory. $(br)$(l)Squeezer:$() Outputs a signal relative to the fill of the inventory."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "$(l)Fermenter:$() Outputs a signal relative to the fill of the inventory. $(br)$(l)Excavator:$() Outputs a signal relative to the remaining ore in the vein. $(br)$(l)ArcFurnace:$() Outputs a signal relative to the fill of the inventory. Additionally, connecting a comparator to the electrodes at the top will send a signal based on their integrity. $(br)$(l)Mixer:$() Outputs a signal relative to the fill of the inventory."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"anchor": "interface",
+			"title": "Redstone interface",
+			"recipe": "immersiveengineering:crafting/connector_bundled",
+			"text": "Redstone Interface Connectors are designed to be attached to other blocks that can make use of the coloured redstone signals."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The interface connector is innert and does not posses a colour, input- or output-state, but it allows blocks such as the $(l:patchouli:simple/item_batcher)Item Batcher$() to interface directly with the wire network."        
+		}
+	]
+}

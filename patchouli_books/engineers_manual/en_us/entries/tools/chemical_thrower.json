@@ -1,0 +1,39 @@
+{    
+	"name": "Chemical thrower",    
+	"icon": "immersiveengineering:chemthrower",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "BURN ALL THE THINGS!"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/chemthrower",
+			"text": "The Chemical Thrower is a device that propels fluids from its internal tank. The device can be loaded with any fluid, liquid or gas, and, on right click, will spray it out."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "It also features a function to ignite the fluid, if it is flammable. To toggle the pilot light, sneak and rightclick. $(br)Like some other tools, the chemical thrower can be modified in the $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$(). These upgrades affect the size of the tank, range and spread."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_drill_capacity",
+			"text": "The $(#007500)Large Tank$() increases the fluid capacity of the Chemical Thrower by 2000 mb."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_chemthrower_focus",
+			"text": "The $(#007500)Focused Nozzle$() decreases the spread of fluids sprayed out and also slightly increases their range, allowing you to hit further targets with more precision."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_chemthrower_multitank",
+			"text": "The $(#007500)Multitank$() allows the Chemthrower to store up to three different Fluids."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "You can select the active tank by sneaking and using the scrollwheel, or through use of the keybind Switch Chemthrower Tanks if it has been set in the options. $(br)This upgrade is mutually exclusive to the $(#007500)Large Tank$()."        
+		}
+	]
+}

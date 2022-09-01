@@ -1,0 +1,44 @@
+{    
+	"name": "Refinery",    
+	"icon": "immersiveengineering:refinery",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Fluid mixing!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Refinery is a complex multiblock that can refine one or two fluids into another. The most common application of this is production of Biodiesel. $(br)To form the structure, rightclick the Heavy Engineering Block on the middle layer."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Refinery",
+			"multiblock": {
+				"pattern": [
+				["II _", "II _", "   _", "II _", "II _"],
+				["IIR_", "II _", "L H_", "II _", "II _"],
+				["SFS_", "SFS_", "LFH0", "SFS_", "SFS_"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"H": "immersiveengineering:heavy_engineering",
+					"F": "minecraft:orange_wool",
+					"I": "immersiveengineering:sheetmetal_iron"
+				}
+			},
+			"text": "The structure is built from the following $(t:16 Iron Sheetmetal, 8 Steel Scaffolding Blocks, 5 Fluid Pipes, 2 Light Engineering Blocks, 2 Heavy Engineering Blocks, and A Redstone Engineering Block.)$(#007500)blocks$(). ($(t:Certain blocks crash if rendered in the patchouli multiblock page, in case you're wondering why I'm using this instead)$(#007500)Orange wool$() in place of fluid pipes)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Fluids are input through the two ports on either side of the block and output through the orange marked port at the front. Using buckets to interact with the refinery's tanks is also possible. $(br)Applying a redstone signal to the control panel at the front will halt the machine's process, this behavior can be inverted by use of the Engineer's Screwdriver."        
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "immersiveengineering:biodiesel_bucket",
+			"text": "Most refinery processes require the addition of a catalyst to enable the reaction. This catalyst is not consumed, but the process will not work without it. $(br2)To produce $(#007500)Biodiesel$(), combine equal parts $(l:patchouli:heavy/squeezer)Plant Oil$() and $(l:patchouli:heavy/fermenter)Ethanol$() while using $(l:patchouli:overview/chemical_ingredients)Nitrate Dust$() as a catalyst."
+		}
+	]
+}

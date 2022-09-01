@@ -1,0 +1,16 @@
+{    
+	"name": "Fluid Router",    
+	"icon": "immersiveengineering:fluid_sorter",    
+	"category": "patchouli:simple_machines",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Milk goes left, acid goes right"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/fluid_sorter",
+			"text": "The Fluid Router works much akin to the $(l:patchouli:simple/item_router)Item Router.$() Fluids input through any side will be redistributed based on how the six side filters are set up. Clicking a bucket or any other type of fluid container into the slots of the GUI will filter to that fluid."        
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{    
+	"name": "Jerrycan",    
+	"icon": "immersiveengineering:jerrycan",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Better than buckets"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/jerrycan",
+			"text": "Jerrycans are simple metal containers used to carry fluids. They can store up to 10 buckets and can pour that fluid into the world as well as into machines. They cannot pick up fluids from the world."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Additionally, they can be used to refill fluid-consuming items like the $(l:patchouli:tools/mining_drill)Mining Drill$() by crafting them together."        
+		}
+	]
+}

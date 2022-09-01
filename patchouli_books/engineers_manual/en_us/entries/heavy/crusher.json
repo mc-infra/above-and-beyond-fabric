@@ -1,0 +1,38 @@
+{    
+	"name": "Crusher",    
+	"icon": "immersiveengineering:crusher",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Keep your hands out!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Crushing an ore is an effective way of increasing their yield, for each ore creates two dusts which you can then smelt. This industrial-size crusher is a quick way of doing so. The machine's processing speed depends on the power supplied to it. $(br)Applying a redstone signal to the control panel at the front will halt the crushers process, this behavior can be inverted by use of the Engineer's Screwdriver."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Crusher",
+			"multiblock": {
+				"pattern": [
+				["   _", "HHH_", "HHH_", "HHH_", "   _"],
+				[" LR_", "FFF_", "FLF_", "FFF_", "LLL_"],
+				["SSS_", "SSS_", "SLL0", "SSS_", "LLL_"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"H": "minecraft:hopper",
+					"F": "immersiveengineering:steel_fence"
+				}
+			},
+			"text": "The structure is built from the following $(t:10 Steel Scaffolding Blocks, 10 Light Engineering Blocks, 9 Hoppers, 8 Steel Fences, and 1 Redstone Engineering Block.)$(#007500)blocks$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The structure is formed by right clicking the central fence of the front of the machine with an Engineer's hammer. The front is the wide side of the structure which has a light engineering block at the bottom. $(br)However, it is not only used for crushing ores. Every living being to fall into the machine will take grave damage and the crusher will output the relevant drops. $(br)Likewise, all items that cannot be processed will be destroyed."        
+		}
+	]
+}

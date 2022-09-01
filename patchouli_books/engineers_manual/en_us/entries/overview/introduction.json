@@ -1,0 +1,30 @@
+{    
+	"name": "Introduction",    
+	"icon": "immersiveengineering:manual",    
+	"category": "patchouli:overview_and_resources",
+	"sortnum": -2,
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Getting into Engineering"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Greetings, fellow engineer, and welcome to Immersive Engineering. This journal shall serve as your guide for setting up all the new machines and functions this mod has to offer. $(br)Let's start with the basics first: Immersive Engineering is built around the concept of retrofuturistic generation and transfer of energy. The energy used in this mod is Forge Energy, a trait shared with many other mods currently available."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Energy is transmitted between connectors by the use of wires. Wires can only bridge a limited distance of blocks, so you will need to use more connectors as relays between the wires. $(br)You have the choice between three different types of wire, which differ in transferrates, 2048, 8192, 32768 Flux/tick. To switch between different types of wire, you will need to use transformers."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/hammer",
+			"text": "The Engineer's Hammer is the most important tool at your disposal. It will be used to form multiblocks like the Coke Oven and Blast Furnace, crushing ores into dust or configuring blocks like Wooden Posts."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/screwdriver",
+			"text": "The Engineer's Screwdriver is another common item in your toolbox, which you'll need to do precise configuration on certain pieces of machinery."        
+		}
+	]
+}

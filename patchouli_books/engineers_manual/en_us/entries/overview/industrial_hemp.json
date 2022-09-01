@@ -1,0 +1,37 @@
+{    
+	"name": "Industrial Hemp",    
+	"icon": "immersiveengineering:hemp_fiber",    
+	"category": "patchouli:overview_and_resources",
+	"sortnum": -1,	
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "530 fabric it"        
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:hemp_fiber",
+			"item2": "immersiveengineering:seed",
+			"text": "Industrial Hemp is a remarkable plant! Not only are its seeds useful for the the creation of $(l:patchouli:heavy/refinery)Biodiesel$(), the hemp fibers are also used for the creation of Tough Fabric. $(br)The seeds can be obtained by breaking tall grass."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/hemp_fabric",
+			"text": "Tough Fabric is a resilient weave made from hemp fiber. It's used to create $(l:patchouli:power/power_generation)Improved Windmills$() as well as $(l:patchouli:construction/balloon)Balloons$() and Jump Cushions."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/cushion",
+			"text": "Jump Cushions are simple blocks created from tough fabric and inflated with air. They are capable of absorbing impacts and prevent falldamage when landed upon, but, unlike slime blocks, will not bounce you back up."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/strip_curtain",
+			"text": "Strip Curtains are pieces of fabric that are mounted to doorframes or other openings to serve in blocking the view. When an entity passes through them, they will emit a redstone signal."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Rightclick them with an Engineer's Screwdriver to enable strong signals. They can be dyed in the same way leather armor can. $(br)They can be dyed in the same way leather armor can."
+		}
+	]
+}

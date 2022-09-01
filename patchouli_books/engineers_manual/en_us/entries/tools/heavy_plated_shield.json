@@ -1,0 +1,35 @@
+{    
+	"name": "Heavy plated shield",    
+	"icon": "immersiveengineering:shield",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "One Soldier Phalanx"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/shield",
+			"text": "The Heavy Plated Shield is a direct upgrade to the normal wooden shields you might be acquainted with."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "In similar fashion, this shield will block most incoming damage from the front, but its durability has been increased considerably, and it can be upgraded."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_shield_flash",
+			"text": "The $(#007500)Flashbulb$() upgrade adds a bright lightbulb and reflector screen to the shield. Upon being attacked, the device will produce a bright, blinding flash, disorienting everyone in front of the user."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_shield_shock",
+			"text": "Adding $(#007500)Shock Emitters$() to the shield allows you to retaliate against attacking enemies. When the shield is struck, it will emit a shock, inflicting minor damage to the aggressor. Additionally, it will vapourize projectiles rather than just stopping them."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_shield_magnet",
+			"text": "The $(#007500)Magnetic Glove$() serves as an easy way to access the shield when threatened. With this upgrade equipped, simply double-tapping the Magnetic Shield Glove (doubletap) Key will have you retrieve the shield from your inventory and place it in your offhand slot."        
+		}
+	]
+}

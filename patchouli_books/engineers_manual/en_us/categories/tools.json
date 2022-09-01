@@ -1,0 +1,6 @@
+{    
+	"name": "Tools",    
+	"description": "Tools that can be used to better control your mechanized creations.",    
+	"icon": "immersiveengineering:hammer",
+	"sortnum": 3
+}

@@ -1,0 +1,39 @@
+{    
+	"name": "Crude Blast Furnace",    
+	"icon": "immersiveengineering:blast_furnace",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Simple Steel"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/blastbrick",
+			"text": "The Crude Blast Furnace is used to increase the carbon contents in iron, turning it into steel. To achieve this, only pure, high-carbon fuels may be used for the furnace, specifically coal coke and charcoal."
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Crude blast furnace",
+			"multiblock": {
+				"pattern": [
+				["BBB_", "BBB_", "BBB_"],
+				["BBB_", "BBB_", "BBB_"],
+				["BBB_", "BBB0", "BBB_"]
+				],
+				"mapping": {
+					"B": "immersiveengineering:blastbrick"
+				}
+			},
+			"text": "The structure is built from the following $(t:27 Blast furnace Bricks)$(#007500)blocks$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "To form the multiblock, right-click the middle block of one side with an Engineer's hammer. $(br2)The Crude Blast Furnace is not automateable. All inputs and outputs must be arranged manually through its GUI. If you want to automate the creation of steel, you should probably look into creating an $(l:patchouli:overview/improved_blast_furnace)Improved Blast Furnace$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Along with steel, the furnace will also create slag, which you must remove or the furnace will cease to function. While technically a waste product, you can use slag to create concrete."        
+		}
+	]
+}

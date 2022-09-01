@@ -1,0 +1,24 @@
+{    
+	"name": "Item batcher",    
+	"icon": "immersiveengineering:item_batcher",    
+	"category": "patchouli:simple_machines",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Come together, right now"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/item_batcher",
+			"text": "The Item Batcher is designed to collect a set of items from an inputting conveyor before sending them onwards, in order to transfer optimized batch sizes to machinery."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Place the block and open its interface to set a variety of filters. Any incoming items will be accepted into the slots directly below the filters, and the collected batch will only be output when all filters are satisfied. This behavior can be adjusted with the button labeled 'Output Mode'. $(br)The default behavior noted above is known as $(#007500)batched mode$(). In $(#007500)single mode$(), any item that satisfies its filtered quantity will be output instead."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Using the 9 buttons below the buffer, you can toggle through the colours of $(l:patchouli:power/redstone_wires)redstone wires$(). By attaching a $(l:patchouli:power/redstone_wires#interface)Redstone Interface Connector$(), the Item Batcher will send signals along the redstone wires when a filter is satisfied. $(br)This allows you to disable any extracting conveyors or producing machinery when your required amount of items is reached. Note that if multiple filters use the same colour, they all need to be satisfied for a signal to be sent."        
+		}
+	]
+}

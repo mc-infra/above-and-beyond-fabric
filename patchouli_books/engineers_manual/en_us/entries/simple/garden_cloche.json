@@ -1,0 +1,24 @@
+{    
+	"name": "Garden Cloche",    
+	"icon": "immersiveengineering:cloche",    
+	"category": "patchouli:simple_machines",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Localized Rainforest"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/cloche",
+			"text": "The Garden Cloche, or Belljar, is a device designed to hasten the growth of plants. It allows even the agriculturally challenged engineer to grow plants and harvest their yield."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The device accepts power, fluid and items through its respective ports. $(br)Water and power are always required, and you may add fertilizer to the slot on the left to increase growth speed. $(br)Soil and seeds are placed in the middle; each seed requires the correct soil to grow on, with dirt being automatically tilled into farmland."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Produced items are stored in the slots on the right, and will be automatically output through the hatch at the front of the glass dome."        
+		}
+	]
+}

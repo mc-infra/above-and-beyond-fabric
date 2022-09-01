@@ -1,0 +1,43 @@
+{    
+	"name": "Improved Blast Furnace",    
+	"icon": "immersiveengineering:advanced_blast_furnace",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Industrialized Refinement"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/blastbrick",
+			"text": "The Improved Blast Furnace is a much more professional way of creating steel. Not only does it allow the automation of in- and outputs, it can also be outfitted with preheaters to speed up the refinement process by addition of hot air."
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Crude blast furnace",
+			"multiblock": {
+				"pattern": [
+				["   _", " H _", "   _"],
+				["BBB_", "BBB_", "BBB_"],
+				["BBB_", "BBB_", "BBB_"],
+				["BBB_", "BBB0", "BBB_"]
+				],
+				"mapping": {
+					"B": "immersiveengineering:blastbrick_reinforced",
+					"H": "minecraft:hopper"
+				}
+			},
+			"text": "The structure is built from the following $(t:27 Reinforced Blast furnace Bricks, and A Hopper)$(#007500)blocks$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "To form the multiblock, right-click the middle block of one side with an Engineer's hammer. $(br2)The furnace is upgraded with steel, so you'd be advised to spend your first batches of steel on this upgrade. $(br)Steel is output at the front of the furnace, slag at the back, and the furnace will automatically output to connected inventories or conveyor belts. Iron and Coal Coke are fed in through the top."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"title": "Furnace preheater",
+			"recipe": "immersiveengineering:crafting/blastfurnace_preheater",
+			"text": "Blast Furnace Preheaters are used to heat up air and then blow it into the furnace to speed up steel production. Each furnace can have up to two preheaters connected to the ports on the each side, and each preheater requires 32 Flux/t to operate."
+		}
+	]
+}

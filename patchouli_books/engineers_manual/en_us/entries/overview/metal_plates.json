@@ -1,0 +1,20 @@
+{    
+	"name": "Metal Plates",    
+	"icon": "immersiveengineering:plate_iron",    
+	"category": "patchouli:overview_and_resources",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Flat as a flounder"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/plate_copper_hammering",
+			"text": "Metal Plates are a crafting material required for the creation of some machines or blocks. They are made by hammering an ingot with an Engineer's Hammer or in a $(l:patchouli:heavy/metal_press)Metal Press$()."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "A list of all metal types that can be used to make plates used in engineering. $(li)Copper $(li)Iron $(li)Gold $(li)Aluminum $(li)Lead $(li)Silver $(li)Nickel $(li)Uranium $(li)Constantan $(li)Electrum $(li)Steel"        
+		}
+	]
+}

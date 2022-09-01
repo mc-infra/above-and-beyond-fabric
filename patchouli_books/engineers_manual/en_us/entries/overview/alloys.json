@@ -1,0 +1,17 @@
+{    
+	"name": "Alloys",    
+	"icon": "immersiveengineering:ingot_electrum",    
+	"category": "patchouli:overview_and_resources",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Mixed Metal Arts"        
+		},
+		{            
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:dust_constantan",
+			"item2": "immersiveengineering:ingot_constantan",
+			"text": "Mixing dusts creates an alloy blend that can then be smelted into alloyed ingots. $(br)Constantan has thermo-electric properties and is used in creating the $(l:patchouli:power/thermoelectric_generator)thermoelectric generator$() and electrum is an excellent electric conductor used in $(l:patchouli:power/basic_wiring)medium-voltage architecture$()."
+		}    
+	]
+}

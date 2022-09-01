@@ -1,0 +1,116 @@
+{    
+	"name": "Revolver Cartridges",    
+	"icon": "immersiveengineering:casull",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Like I always say, a polite society is an armed society"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/blueprint_bullets",
+			"text": "Cartridges are created in the $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$(), by the use of specific Engineer's Blueprints. Blueprints for normal ammunition you can create yourself, but some more advanced types will require you to buy adequate blueprints from someone else."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/empty_casing",
+			"text": "$(#007500)Empty Casings$() and $(#007500)Shells$() are the basis for every projectile. Empty Casings can also be crafted in the $(l:patchouli:heavy/metal_press)Metal Press$(), using the appropriate mold, at a greatly reduced cost."        
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: bullet}",
+			"input2": "immersiveengineering:empty_casing",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:nugget_lead#2",
+			"output": "immersiveengineering:casull",
+			"text": "$(#007500)Casull Cartridges$() are created with a 'Common Projectiles' blueprint. $(br)They are a simple lead projectile inflicting medium damage."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: bullet}",
+			"input2": "immersiveengineering:empty_casing",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:nugget_steel#2",
+			"input5": "immersiveengineering:nugget_constantan#2",
+			"output": "immersiveengineering:armor_piercing",
+			"text": "$(#007500)Armor-Piercing Cartridges$() are created with a 'Common Projectiles' blueprint. $(br)They do the same amount of damage but penetrate armor by sheer kinetic force."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: bullet}",
+			"input2": "immersiveengineering:empty_shell",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:dust_steel#2",
+			"output": "immersiveengineering:buckshot",
+			"text": "$(#007500)Buckshot Cartridges$() are created with a 'Common Projectiles' blueprint. They are filled with multiple small projectiles that are fired out in a cone shape. $(br)This cartridge is highly effective at short range."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: bullet}",
+			"input2": "immersiveengineering:empty_casing",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:nugget_lead#2",
+			"input5": "immersiveengineering:nugget_silver",
+			"output": "immersiveengineering:silver",
+			"text": "$(#007500)Silver Cartridges$() are created with a 'Common Projectiles' blueprint. $(br)They consist of a lead core wrapped in silver, making them highly effective against undead."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: specialBullet}",
+			"input2": "immersiveengineering:empty_casing",
+			"input3": "minecraft:gunpowder",
+			"input4": "minecraft:tnt",
+			"output": "immersiveengineering:he",
+			"text": "$(#007500)High-Explosive Cartridges$() are created with a 'Specialized Projectiles' blueprint. $(br)They fire a projectile that explodes on impact, causing damage to living creatures and terrain."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: specialBullet}",
+			"input2": "immersiveengineering:empty_shell",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:dust_aluminum#4",
+			"output": "immersiveengineering:dragons_breath",
+			"text": "$(#007500)Dragon's Breath Cartridges$() are created with a 'Specialized Projectiles' blueprint. $(br)Similarly to Buckshot, they are effective at short range, but instead of small metal shots, they are filled with a flammable metal dust, creating a blast of flame."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: specialBullet}",
+			"input2": "immersiveengineering:empty_casing",
+			"input3": "minecraft:gunpowder",
+			"input4": "minecraft:glass_bottle",
+			"output": "immersiveengineering:potion",
+			"text": "$(#007500)Phial Cartridges$() are created with a 'Specialized Projectiles' blueprint. $(br)They can be filled with any potion by crafting them together in a crafting grid and this potion will then be applied on impact. Normal potions require a direct hit, splash potions have an area of effect and Lingering Potions will create a temporary, lingering potion cloud."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: specialBullet}",
+			"input2": "immersiveengineering:empty_shell",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:dust_aluminum",
+			"input5": "minecraft:red_dye",
+			"output": "immersiveengineering:potion",
+			"text": "$(#007500)Flare Cartridges$() are created with a 'Specialized Projectiles' blueprint. $(br)When fired, the flare explodes after a certain distance and then slowly sinks to the ground. You can combine the cartridge with dyes in a crafting table to change its colour. $(br)The flare can also be crafted using $(#007500)Green$() or $(#007500)Yellow$() dye, rather than red."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: specialBullet}",
+			"input2": "immersiveengineering:empty_casing",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:nugget_lead#2",
+			"input5": "minecraft:ender_eye",
+			"output": "immersiveengineering:homing",
+			"text": "$(#007500)Homing Cartridges$() are created with a 'Specialized Projectiles' blueprint. $(Br)Using the intriguing properties of an Eye of Ender, these projectiles gain the ability to seek out and chase the closest target."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: specialBullet}",
+			"input2": "immersiveengineering:empty_shell",
+			"input3": "minecraft:gunpowder",
+			"input4": "immersiveengineering:homing",
+			"output": "immersiveengineering:wolfpack",
+			"text": "Wolfpack Cartridges are created with a 'Specialized Projectiles' blueprint. $(br)They consist of a collection of multiple homing shots in a single shell. The initial projectile is unguided, but on impact, it splits into six target seeking shots that shred surrounding enemies."
+		}
+	]
+	
+}

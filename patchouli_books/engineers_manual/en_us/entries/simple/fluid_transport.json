@@ -1,0 +1,24 @@
+{    
+	"name": "Fluid transport",    
+	"icon": "immersiveengineering:fluid_pump",    
+	"category": "patchouli:simple_machines",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Professional Plumber"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/fluid_pipe",
+			"text": "Transporting fluids has become quite essential in the engineering business. Fluid Pipes and Fluid Pumps do exactly that. On their own, Fluid Pipes are quite slow at transferring fluids, but if a pump is used to insert the fluid, it'll move much faster."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "You can rightclick the connection piece of a pipe with an Engineer's Hammer to prevent it from connecting to that side. $(br)Fluid Pipes can be covered with wooden or steel scaffolding. Simply rightclick a piece of scaffolding onto a pipe to cover it. Break the pipe to retrieve the scaffolding. $(br)Additionally, rightclicking a pipe with any dye will color it, to easily identify where it is going."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Colored pipes won't automatically connect to newly placed ones."        
+		}
+	]
+}

@@ -1,0 +1,45 @@
+{    
+	"name": "Revolver",    
+	"icon": "immersiveengineering:revolver",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Wanted: Dead or Alive"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/revolver",
+			"text": "The Revolver, a more elegant weapon from a more civilized age, is an achievement of small mechanics. Small being relative here, since this weapon is chambered for 12-gauge."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Similar to the Mining Drill, the Revolver will allow for modification in the $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$(), as detailed on the last pages. $(br2)Note that firing the revolver is quite noisy, and will attract the attention of hostile mobs in the area! $(br2)There are different $(l:patchouli:tools/revolver_cartridges)types of ammunition$() the Revolver will accept. To load it, sneak + rightclick the weapon, then place cartridges into the slots."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/speedloader",
+			"text": "A loaded $(#007500)Speedloader$() in your inventory will be used to refill the revolver after you've fired your last shot."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_railgun_scope",
+			"text": "The $(#007500)Precision Scope$() allows you to zoom in with the revolver. Use Zoom with the Railgun to use the scope and scroll the mouse wheel to switch between magnification levels."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_revolver_bayonet",
+			"text": "By attaching a $(#007500)bayonet$() to the revolver, you outfit it with close-quarter-combat capabilities, allowing for melee damage as powerful as an Iron Sword."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_revolver_magazine",
+			"text": "The $(#007500)Extended Magazine$() allows loading 6 more cartridges into the revolver. This magazine does not get refilled by a speedloader."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_revolver_electro",
+			"text": "The $(#007500)Amplifying Electron Tubes$() apply an electric shock to fired projectiles. The target will be stunned for a fraction of a second and all powered equipment they may be using will suffer a slight discharge."
+		}
+	]
+}

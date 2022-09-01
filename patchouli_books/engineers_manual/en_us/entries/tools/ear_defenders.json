@@ -1,0 +1,24 @@
+{    
+	"name": "Ear Defenders",    
+	"icon": "immersiveengineering:earmuffs",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "LOUD NOISES!"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/earmuffs",
+			"text": "Ear Defenders are devices for protecting your hearing. They are quite important for engineers that work in close proximity to $(l:patchouli:power/diesel_generator)Diesel Generators$() or other loud machinery."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "While wearing Ear Defenders, all noises are reduced by 90% and they make your ears considerably more warm and fuzzy! :D $(br2)Placing the Ear Defenders in the $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$() allows you to specify which types of noises you want cancelled and by how much their volume should be reduced. $(br)You can dye them like you would leather armor."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Crafting them with any other helmet will attach the defenders to that piece of equipment, crafting the helmet alone will remove the defenders again, to allow further customizing."        
+		}
+	]
+}

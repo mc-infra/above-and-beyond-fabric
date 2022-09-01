@@ -1,0 +1,40 @@
+{    
+	"name": "Bottling Machine",    
+	"icon": "immersiveengineering:bottling_machine",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Fill 'er up!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Bottling Machine fills fluids into containers. $(br)The structure is created as shown above, but can be mirrored. To form it, rightclick the central conveyor with an Engineer's Hammer. The direction of the conveyors is important."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Bottling Machine",
+			"multiblock": {
+				"pattern": [
+				["   _", " G _"],
+				["IFL_", "CCC_"],
+				["ISL_", "SRS0"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"I": "immersiveengineering:sheetmetal_iron",
+					"G": "minecraft:glass",
+					"F": "immersiveengineering:fluid_pump",
+					"C": "minecraft:magenta_glazed_terracotta[facing=south]"
+				}
+			},
+			"text": "The structure is built from the following $(t:3 Steel Scaffolding Blocks, 2 Iron Sheetmetal Blocks, 2 Light Engineering Blocks, 3 Conveyor belts, A Fluid pump, A Glass Block, And a Redstone Engineering Block.)$(#007500)blocks$(). (Glazed terracotta in place of conveyor belts)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Fluid is input through the ports on the lower block of the metal tank. Energy is input through the port at the top of the opposing side. $(br)Generally, the Bottling Machine will be able to fill any container that has a filled version available (bucket, glass bottle). It will also accept other items that can store fluids, like the $(l:patchouli:tools/mining_drill)Mining Drill$() or a $(l:patchouli:tools/jerrycan)Jerrycan$(). $(br)Additionally, special recipes may be available."        
+		}
+	]
+}

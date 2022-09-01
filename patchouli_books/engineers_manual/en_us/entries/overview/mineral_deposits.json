@@ -1,0 +1,127 @@
+{    
+	"name": "Mineral Deposits",    
+	"icon": "immersiveengineering:survey_tools",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Oresome"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The deposits of Ore found around your world are nothing new to you. What you have so far left out of consideration though are mineral veins, which contain a mix of different ores. Due to their wide and thin spread, the average miner can't find them, but a $(l:patchouli:heavy/excavator)special machine$() might be able to assist with that."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/survey_tools",
+			"text": "To begin looking for mineral veins, you'll want to craft some $(#007500)Survey Tools$(). By venturing out and using these tools on various blocks of natural soil, you can identify veins and find their approximate positions."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Each sample you take of the same vein gets you a more accurate read on what it contains and where it origi- nates. Note that veins can overlap, so you may find traces of different veins quite close to each other."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/sample_drill",
+			"text": "After narrowing down the type and position of the vein, use a $(#007500)Core Sample Drill$() to get a precise read on what veins are found at an exact position."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Supply the machine with power and rightclick it or use redstone to activate it. The drill consumes 40 Flux/t to then extract a core sample at its location which provides detailed information on the mineral vein."        
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "immersiveengineering:coresample{dimension:'minecraft:overworld',mineralInfo:[{depletion:5970,mineral:'immersiveengineering:mineral/chalcopyrite',percentage:1.0d,saturation:0.9999948174686085d}]}",
+			"text": "The sample will not only tell you exactly what minerals are found there, including their relative presence, but also their individual $(#007500)saturation$(). A higher saturation means a higher chance for an excavator to fill its bucket wheel."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Sneak + rightclick a core sample to place it in the world, allowing you to read its position and information. Additionally, when placed, you can rightclick it with a map in order to mark its original position on there. $(br2)The following pages list every type of vein and the ores that can be retrieved from them."        
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "minecraft:gravel",
+			"item2": "minecraft:ancient_debris",
+			"text": "$(l)Archaic Digsite$() is a mineral vein that can be found in the Nether. $(br)It consists of $(br2)60.00% Gravel $(br)40.00% Ancient Debris."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "minecraft:copper_ore",
+			"item2": "minecraft:deepslate_gold_ore",
+			"text": "$(l)Auricupride$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)75.00% Copper Ore $(br)25.00% Deepslate Gold Ore."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "minecraft:prismarine",
+			"item2": "minecraft:deepslate_emerald_ore",
+			"text": "$(l)Beryl$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)70.00% Prismarine $(br)30.00% Deepslate Emerald Ore."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "minecraft:coal_ore",
+			"item2": "immersiveengineering:dust_sulfur",
+			"text": "$(l)Bituminous Coal$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)80.00% Coal Ore $(br)20.00% Sulfur Dust."
+		},
+		{
+			"type": "patchouli:triple_showcase",
+			"item1": "minecraft:deepslate_iron_ore",
+			"item2": "minecraft:copper_ore",
+			"item3": "immersiveengineering:dust_sulfur",
+			"text": "$(l)Chalcopyrite$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)35.00% Deepslate Iron Ore $(br)35.00% Copper Ore $(br)30.00% Sulfur Dust."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "minecraft:deepslate_redstone_ore",
+			"item2": "immersiveengineering:dust_sulfur",
+			"text": "$(l)Cinnabar$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)60.00% Deepslate Redstone Ore $(br)40.00% Sulfur Dust."
+		},
+		{
+			"type": "patchouli:triple_showcase",
+			"item1": "immersiveengineering:deepslate_ore_lead",
+			"item2": "immersiveengineering:dust_sulfur",
+			"item3": "immersiveengineering:deepslate_ore_silver",
+			"text": "$(l)Galena$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)40.00% Deepslate Lead Ore $(br)40.00% Sulfur Dust $(br)20.00% Deepslate Silver Ore."
+		},
+		{
+			"type": "patchouli:quad_showcase",
+			"item1": "minecraft:granite",
+			"item2": "minecraft:diorite",
+			"item3": "minecraft:andesite",
+			"item4": "minecraft:obsidian",
+			"text": "$(l)Ingeous Rock$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)30.00% Granite $(br)30.00% Diorite $(br)30.00% Andesite $(br)10.00% Obsidian."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:deepslate_ore_aluminum",
+			"item2": "minecraft:deepslate_iron_ore",
+			"text": "$(l)Laterite$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)77.78% Deepslate Bauxite Ore $(br)22.22% Deepslate Iron Ore."
+		},
+		{
+			"type": "patchouli:triple_showcase",
+			"item1": "minecraft:nether_quartz_ore",
+			"item2": "minecraft:nether_gold_ore",
+			"item3": "immersiveengineering:dust_sulfur",
+			"text": "$(l)Mephic Quarzite$() is a mineral vein that can be found in the Nether. $(br)It consists of $(br2)60.00% Nether Quartz Ore $(br)20.00% Nether Gold Ore $(br)20.00% Sulfur Dust."
+		},
+		{
+			"type": "patchouli:triple_showcase",
+			"item1": "minecraft:deepslate_iron_ore",
+			"item2": "immersiveengineering:deepslate_ore_nickel",
+			"item3": "immersiveengineering:dust_sulfur",
+			"text": "$(l)Pentlandite$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)35.00% Deepslate Iron Ore $(br)35.00% Deepslate Nickel Ore $(br)30.00% Sulfur Dust."
+		},
+		{
+			"type": "patchouli:triple_showcase",
+			"item1": "minecraft:clay",
+			"item2": "minecraft:sand",
+			"item3": "minecraft:gravel",
+			"text": "$(l)Silt$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)50.00% Clay $(br)30.00% Sand $(br)20.00% Gravel."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:deepslate_ore_uranium",
+			"item2": "immersiveengineering:deepslate_ore_lead",
+			"text": "$(l)Uraninite$() is a mineral vein that can be found in the Overworld. $(br)It consists of $(br2)70.00% Deepslate Uranium Ore $(br)22.22% Deepslate Lead Ore."
+		}
+	]
+}

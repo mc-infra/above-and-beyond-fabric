@@ -1,0 +1,35 @@
+{    
+	"name": "Coke Oven",    
+	"icon": "immersiveengineering:coke_oven",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Hot topic!"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/cokebrick",
+			"text": "The Coke Oven is the first important machine you will need to create in order to proceed with Immersive Engineering. Its functionality is simple, it will heat up coal or blocks of coal without supplying it with oxygen, creating Coal Coke, a carbon rich fuel."
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Coke oven",
+			"multiblock": {
+				"pattern": [
+				["CCC_", "CCC_", "CCC_"],
+				["CCC_", "CCC_", "CCC_"],
+				["CCC_", "CCC0", "CCC_"]
+				],
+				"mapping": {
+					"C": "immersiveengineering:cokebrick"
+				}
+			},
+			"text": "The structure is built from the following $(t:27 Coke Oven Bricks)$(#007500)blocks$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "To form the multiblock, right-click the middle block of one side with an Engineer's hammer. $(br2)In addition, this process creates $(l)Creosote Oil$(), which is used as a $(l:patchouli:construction/treated_wood)preservative for wood$(). Similarly you can also burn wooden logs into charcoal with this oven, albeit with a smaller yield of creosote."        
+		}
+	]
+}

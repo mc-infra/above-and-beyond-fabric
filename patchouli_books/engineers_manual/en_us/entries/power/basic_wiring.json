@@ -1,0 +1,67 @@
+{    
+	"name": "Basic Wiring",    
+	"icon": "immersiveengineering:wirecoil_copper",    
+	"category": "patchouli:power_wires_generators",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Bzzzt!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The energy-net of Immersive Engineering has four important blocks: $(l)connectors$() as inputs and outputs for the net, $(l)relays$() to connect wires together and $(l)transformers$() to switch between different levels of wire. $(br)Wires have three different transfer rates, being able to transfer more power per second with each level."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/wirecoil_copper",
+			"text": "Wires are used to connect up to two points on a wire network, with those points either being $(l)connectors$() or $(l)relays$()."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/connector_lv",
+			"text": "Connectors are the end points of $(l)wire$() networks, and can be used to input power into machines or $(l:patchouli:power/accumulators)accumulators$(). Connectors, unlike $(l)relays$() can only have one wire connection."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/connector_lv_relay",
+			"text": "Relays cannot input or output power from sources or machines like $(l)connectors$(), but they can have any number of $(l)wires$() connected to them, making them perfect middle points for wire networks."
+		},
+		{
+			"type": "patchouli:triple_showcase",
+			"item1": "immersiveengineering:wirecoil_copper",
+			"item2": "immersiveengineering:wirecoil_electrum",
+			"item3": "immersiveengineering:wirecoil_steel",
+			"text": "There are three different energy transfer types, LV, MV, and HV, they all carry the same type of power, but at different rates and capacities. They are also only able to connect to components of the same type, for example, LV wire can only connect to LV connectors and relays."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:transformer",
+			"item2": "immersiveengineering:transformer_hv",
+			"anchor": "transformer",
+			"text": "If you want to connect networks that use multiple different voltages, you'll need transformers. $(br)the basic transformer can bridge LV and MV power, while HV transformers can bridge MV and HV power. $(br)Basic transformers can also be placed on the side of wooden poles."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "While transformers and relays allow you to combine multiple wire networks together, you need to be careful, as all wires have a maximum transfer rate, and if that rate is exceeded, the wire will burn up. $(br2)Wires can also transfer energy through unloaded chunks, as long as the input and output chunks are both loaded."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Uninsulated wires connected to an energy source will cause damage to players and mobs too close to them. Insulated wires are available for low and medium voltage. $(br)Sneaking when using the 'Pick Block' function on a connector will pick the connected wire from your inventory. $(br)Wire connections will break if a block obstructing the wire is placed."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/wirecutter",
+			"text": "The Wire Cutters are used to remove all the wires connected to a block by simply rightclicking it."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/voltmeter",
+			"text": "The Voltmeter is used to measure connections. Aiming it at any energy storage or rightclicking it will read its current storage. $(br)Sneak+rightclick two connectors to calculate the average loss between them."
+		},
+		{            
+			"type": "patchouli:spotlight",
+			"item": "immersiveengineering:feedthrough",
+			"text": "Feedthrough Insulators allow connecting wiring from one side of a wall to wiring on the other side without a hole. They can be created with any 'normal' solid block in the middle, by right clicking either of two connectors with an Engineer's hammer. All common types of connectors (power and redstone) can be used to create feedthrough insulators for the corresponding wire type."        
+		}
+	]
+}

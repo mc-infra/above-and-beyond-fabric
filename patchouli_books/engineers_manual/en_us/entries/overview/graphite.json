@@ -1,0 +1,21 @@
+{    
+	"name": "Graphite",    
+	"icon": "immersiveengineering:ingot_hop_graphite",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Coal stuff"        
+		},
+		{            
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:dust_hop_graphite",
+			"item2": "immersiveengineering:ingot_hop_graphite",
+			"text": "Highly Ordered Pyrolytic Graphite (HOP) is a complex, highly compressed, carbon material used in special engineering constructs. $(br)HOP Graphite Dust is created by compressing eight pieces of Coke Dust in the $(l:patchouli:heavy/squeezer)Industrial Squeezer$(). That dust can then be smelted into an ingot."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The most common use for HOP Graphite is the creation of electrodes to be used in the $(l:patchouli:heavy/arc_furnace)Arc Furnace$(). These electrodes are created with an Engineer's Blueprint, which you can find in certain chests or trade with a $(l:patchouli:overview/villagers#graphite)villager$(). $(br)You can also create electrodes in the metal press, using the rod mold on 4 HOP ingots, but the electrodes crafted this way have less durability."        
+		}
+	]
+}

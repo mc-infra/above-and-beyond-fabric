@@ -1,0 +1,20 @@
+{    
+	"name": "Herbicide",    
+	"icon": "immersiveengineering:herbicide_bucket",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "A blight upon the flora"        
+		},
+		{
+			"type": "patchouli:spotlight",
+			"item": "immersiveengineering:herbicide_bucket",
+			"text": "When loaded into a $(l:patchouli:tools/chemical_thrower)Chemical Thrower$() it is dispersed as a fine mist, which withers and destroys any plants it comes in contact with. The fluid will remove leaves from trees, destroy flowers, bushes and crops and strip the grass from dirt."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "It will also dehydrate and ruin farmland. To craft Herbicide, mix half a bucket of $(l:patchouli:heavy/fermenter)Ethanol$() with $(#007500)Copper Dust$() and $(#007500)Sulfur Dust$() in the $(l:patchouli:heavy/mixer)Mixer$()."        
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{    
+	"name": "Redstone Acid",    
+	"icon": "immersiveengineering:redstone_acid_bucket",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Colorful electrolyte"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/redstone_acid",
+			"text": "While the exact properties of Redstone remain a mystery even to the most studied engineers, recent experiments have shown it be an acidic salt, creating Redstone Acid when dissolved in water."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The acid is not strong enough to dissolve organic matter, but it is mildly corrosive to metal and acts as an excellent electrolyte for $(l:patchouli:power/basic_wiring)Accumulators$(). $(br2)For mass production, the acid can be easily created in a $(l:patchouli:heavy/mixer)Mixer$(), using 1 piece of $(#007500)Redstone Dust$() for one quarter of a bucket of water."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "When used in a $(l:patchouli:tools/chemical_thrower)Chemthrower$() it can be used to oxidize copper blocks, producing a beautiful patina. The same effect can be achieved by using a $(l:patchouli:heavy/bottling_machine)Bottling Machine$(), using an eighth of a bucket to age a block of copper."        
+		}
+	]
+}

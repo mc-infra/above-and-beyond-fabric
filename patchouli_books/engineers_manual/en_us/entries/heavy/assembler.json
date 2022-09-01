@@ -1,0 +1,43 @@
+{    
+	"name": "Assembler",    
+	"icon": "immersiveengineering:assembler",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Some assembly required"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Assembler is a complex machine capable of crafting items, similar to how a player would. $(br)To form the structure, build it like demonstrated above and use the hammer on one of the conveyors."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Assembler",
+			"multiblock": {
+				"pattern": [
+				["iii_", "III_", "iii_"],
+				["III_", "CLC_", "III_"],
+				["SRS_", "SLS0", "SRS_"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"I": "immersiveengineering:sheetmetal_iron",
+					"i": "immersiveengineering:slab_sheetmetal_iron",
+					"C": "minecraft:magenta_glazed_terracotta[facing=south]"
+				}
+			},
+			"text": "The structure is built from the following $(t:8 Steel Scaffolding Blocks, 4 Iron Sheetmetal Blocks, 6 Light Engineering Blocks, 2 Heavy Engineering Blocks, 4 Conveyor Belts, and A Redstone Engineering Block.)$(#007500)blocks$(). ($(t:Certain blocks crash if rendered in the patchouli multiblock page, in case you're wondering why I'm using this instead)$(#007500)Glazed terracotta$() in place of conveyor belts)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The conveyor you clicked will be the input side, indicated by the blue marker above it and the arrow on the side ot the machine. $(br)The Assembler allows for up to 3 recipes to be stored inside it that will be performed in order. The outputs of previous recipes can be used as inputs for following recipes. $(br)The 3 crafting grids store the recipes, and the 18 slots below them are the inventory for materials."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The input side, in addition to an item input also features a fluid input to fill the three internal tanks of the machine. Fluid in these tanks can be used to replace fluid containers like water buckets in recipes. $(br)Power for the machine is input through the top center block."        
+		}
+	]
+}

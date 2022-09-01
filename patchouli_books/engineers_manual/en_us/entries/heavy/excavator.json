@@ -1,0 +1,44 @@
+{    
+	"name": "Excavator",    
+	"icon": "immersiveengineering:excavator",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Better than Dwarves"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Excavator is one of the pinnacles of modern engineering. It is able to dig up $(l:patchouli:overview/mineral_deposits)minerals$() from veins inaccessible by normal mining. In return however, the excavator is a complex structure which requires 4096 Flux/t in order to operate."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Excavator",
+			"multiblock": {
+				"pattern": [
+				["        _", "   T    _", "        _"],
+				["        _", " TSSST  _", "        _"],
+				["  LLLrrM_", " SSSSS M_", "  MMMMLM_"],
+				["  LLLMMR_", "TSSTSSTH_", "  HHHMLM_"],
+				["  SSSMMr_", " SSSSS M0", "  SSSMLM_"],
+				["_________", "_TSSST___", "_________"],
+				["_________", "___T_____", "_________"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"H": "immersiveengineering:heavy_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"T": "immersiveengineering:storage_steel",
+					"r": "immersiveengineering:radiator",
+					"M": "immersiveengineering:sheetmetal_steel"
+				}
+			},
+			"text": "The structure is built from the following $(t:26 Steel Scaffolding Blocks, 16 Steel Sheetmetal Blocks, 9 Blocks of Steel, 9 Light Engineering Blocks, 4 Heavy Engineering Blocks, 3 Radiator Blocks, and A Redstone Engineering Block.)$(#007500)blocks$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "To form the multiblock, right-click on the Heavy engineering block on the back of the machine with an Engineer's Hammer. $(br2)The energy input for the engine is on its side, the back features a redstone control panel and the item output. As the excavator digs up ores, the yield of the vein slowly decreases, but a vein of minerals can provide up to 38400 blocks of ore."        
+		}
+	]
+}

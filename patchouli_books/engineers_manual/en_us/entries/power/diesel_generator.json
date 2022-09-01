@@ -1,0 +1,40 @@
+{    
+	"name": "Diesel Generator",    
+	"icon": "immersiveengineering:diesel_generator",    
+	"category": "patchouli:power_wires_generators",
+	"sortnum": 2,
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Better than volume: More volume."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "High-Voltage architecture might be fascinating, but it's not very useful unless you have a generator that can actually create the required output for it. $(br)The Diesel Generator is one of the few ways of generating this sort of energy. It is created as a complex multiblock structure and will run off of $(l:patchouli:heavy/refinery)Biodiesel$() or other types of combustible fuel. Due to its high output, it will work through fuel very quickly, so make sure you have a sufficient fuel production."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Diesel generator",
+			"multiblock": {
+				"pattern": [
+				["R H  _", "RHHH _", "R H  _"],
+				["RHHHG_", "RHHHG_", "RHrHG_"],
+				["RSSSF_", "RFFFG0", "RSSSF_"]
+				],
+				"mapping": {
+					"H": "immersiveengineering:heavy_engineering",
+					"R": "immersiveengineering:radiator",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"F": "minecraft:orange_wool",
+					"G": "immersiveengineering:generator",
+					"r": "immersiveengineering:rs_engineering"
+				}
+			},
+			"text": "The structure is built from the following $(t:13 Heavy Engineering Blocks, 9 Radiator Blocks, 6 Steel Scaffoldings, 5 Fluid Pipes, 4 Generator Blocks, 1 Redstone Engineering block)$(#007500)blocks$(). ($(t:Certain blocks crash if rendered in the patchouli multiblock page, in case you're wondering why I'm using this instead)$(#007500)Orange wool$() in place of fluid pipes)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Arrange them in the shape shown to the left and rightclick the central generator with an Engineer's Hammer. Fuel is to be input at the bottom corners of the generator, whereas energy will be output to up to three connections on the top. The 4096Flux/t the generator outputs will be split between all connected points. The generator will only run when at least one output can accept energy. $(br)The small terminal on the side will turn off the generator if supplied with a redstone signal, this behavior can be inverted by use of the Engineer's Screwdriver."        
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{    
+	"name": "Accumulators",    
+	"icon": "immersiveengineering:capacitor_lv",    
+	"category": "patchouli:power_wires_generators",
+	"sortnum": 3,
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Power 2 go"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/capacitor_lv",
+			"text": "Accumulators serve as energy storage units. You can use the hammer to adjust the configuration of each side, with blue designating an input, orange an output and no colour marking preventing any connection at all."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Sneak while using the hammer to configure the side opposite of the one you clicked."
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{    
+	"name": "Power and wiring",    
+	"description": "All available wiring options and generators.",    
+	"icon": "immersiveengineering:wirecoil_electrum",
+	"sortnum": 2
+}

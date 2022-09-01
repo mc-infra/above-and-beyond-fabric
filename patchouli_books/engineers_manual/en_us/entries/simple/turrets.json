@@ -1,0 +1,40 @@
+{    
+	"name": "Turrets",    
+	"icon": "immersiveengineering:turret_gun",    
+	"category": "patchouli:simple_machines",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Are you still there?"        
+		},
+		{            
+			"type": "patchouli:text",
+			"text": "Turrets are the next step is automated defense of your factory. They feature a complex optical system combined with a mechanical 'brain' to effectively distinguish and acquire targets and use the inbuilt weaponry to neutralize them. $(br)All turrets feature energy ports at their base, and require a redstone signal to be active, although this behavior can be inverted by sneaking and rightclicking it with an Engineer's Screwdriver."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Upon being placed, Turrets will remember their owner and will not allow other users to break or modify them. Rightclicking the turret brings up the GUI which features a list of names with an entry field, as well as multiple targeting options. $(br)By the default the list is a blacklist of targets that may not be attacked. This list utilizes creature names, so whitelisting animals is possible."        
+		},
+		{
+			"type": "patchouli:empty"
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/turret_chem",
+			"text": "The Chemthrower Turret utilizes the fluid propelling capabilities of the $(l:patchouli:tools/chemical_thrower)eponymous tool$() to cover targets in anything, ranging from water to douse flames, to diesel oil to start them."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "This Turret features a fluid port in the bottom and back of the base to allow pipes to connect to it. Additionally, the GUI has a button on the left which dis- or enables the pilot flame, igniting the dispensed fluid, provided that it is flammable. $(br2)$(o)The providers of this blueprint are not liable for any damage to user, neighbours or various farm animals that may incur.$()"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/turret_gun",
+			"text": "The Gun Turret features a heavily modified version of the $(l:patchouli:tools/revolver)Revolver's$() internals in a far bigger and more imposing casing. The construction also involves an extended magazine to allow for increased internal storage of ammunition."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "A port for the automatic insertion of ammo and extraction of spent casing is located within the back and bottom of the base. This Turret can store up to a full stack of cartridges and the GUI features a button to toggle the automatic expulsion of spent casings. $(br2)$(o)Note that certain ammunitions may cause collateral damage to the user or their property.$()"        
+		}
+	]
+}

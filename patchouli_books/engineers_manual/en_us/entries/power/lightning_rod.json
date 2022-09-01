@@ -1,0 +1,40 @@
+{    
+	"name": "Lightning Rod",    
+	"icon": "immersiveengineering:lightning_rod",    
+	"category": "patchouli:power_wires_generators",
+	"sortnum": 3,
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Thunderstruck!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Lightning is a phenomenon of nature. It contains a huge amount of raw power, and this lightning rod is able to harness that power. $(br)By stacking a lot of steel fences on this multiblock, you increase the chance of a lightning bolt striking it during rain or thunderstorms. When the steel pole is struck, the huge amounts of energy created are stored in the base of the lightning rod and then slowly distributed to the energy connections at the sides."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Lightning Rod",
+			"multiblock": {
+				"pattern": [
+				["CCC_", "CVC_", "CCC_"],
+				["TLT_", "LVL_", "TLT_"],
+				["SHS_", "HVH0", "SHS_"]
+				],
+				"mapping": {
+					"C": "immersiveengineering:coil_lv",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"H": "immersiveengineering:capacitor_hv",
+					"L": "immersiveengineering:light_engineering",
+					"T": "immersiveengineering:treated_fence",
+					"V": "immersiveengineering:coil_hv"
+				}
+			},
+			"text": "The structure is built from the following $(t:8 Copper coil Blocks, 4 Steel Scaffoldings, 4 HV Capacitors, 4 Light Engineering Blocks, 4 Treated Wood Fences, and 3 High-voltage Coil Blocks)$(#007500)blocks$()"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "You can improve the chances of the Lightning Rod getting struck by creating a 'net' of steel fences connected to the topmost fence."        
+		}
+	]
+}

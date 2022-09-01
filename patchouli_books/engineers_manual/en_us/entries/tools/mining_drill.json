@@ -1,0 +1,50 @@
+{    
+	"name": "Mining drill",    
+	"icon": "immersiveengineering:drill",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "My drill will pierce the Bedrock!"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/drill",
+			"text": "The handheld, diesel-powered drill is a big advancement in mining. With exchangeable drill heads and upgrades, its properties are almost entirely modifiable. To modify it, place it in an $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$()."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The drill runs off of $(l:patchouli:heavy/refinery)Biodiesel$() and can be filled directly in the refinery."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/drillhead_iron",
+			"text": "The $(#007500)Drill Head$() determines the base $(#007500)mining level$(), $(#007500)speed$(), and $(#007500)size$(), as well as the $(#007500)attack damage$(). As you dig blocks, the drill head takes damage, but it can be repaired in an anvil."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_drill_waterproof",
+			"text": "As the drill is powered by a combustion engine, it will not run underwater unless you equip it with the $(#007500)Pressurized Air Tank Upgrade$()."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "In addition, with this upgrade equipped, it will not only run while submerged, but also ignore the slowdown usually experienced when digging in water."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"title": "Lubrication System",
+			"recipe": "immersiveengineering:crafting/toolupgrade_drill_lube",
+			"text": "The $(#007500)Advanced Lubrication System$() applied additional lubricant to the drill at a regular basis, decreasing the durability loss of the drill head."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_drill_waterproof",
+			"text": "By adding $(#007500)Additional Augers$() to the drill, its destructive potential is increased, increasing its damage against living creatures and allowing it to run and dig faster. The upgrade stacks up to three times."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_drill_capacity",
+			"text": "The $(#007500)Large Fuel Tank$() allows the drill to store more fuel internally, extending the time you can use it before refilling."
+		}
+	]
+}

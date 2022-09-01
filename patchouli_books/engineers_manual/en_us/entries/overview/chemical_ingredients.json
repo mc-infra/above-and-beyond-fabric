@@ -1,0 +1,31 @@
+{    
+	"name": "Chemical Ingredients",    
+	"icon": "immersiveengineering:dust_sulfur",    
+	"category": "patchouli:overview_and_resources",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "6.022x10²³"        
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:dust_saltpeter",
+			"item2": "immersiveengineering:dust_sulfur",
+			"text": "Not all materials in engineering are as straightforward as wood, stone and various metals. A basic understanding of chemical processes is essential to appreciate the breadth of materials available to you."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/fertilizer",
+			"text": "Nitrate Dust (also known as saltpeter) is an alkali salt found by processing Sandstone in a $(l:patchouli:heavy/crusher)Crusher$(). $(br)It is used as a catalyst in the creation of $(l:patchouli:heavy/refinery)Biodiesel$(), and can be used to craft Fertilizer as shown above."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/gunpowder_from_dusts",
+			"text": "Sulfur Dust is a powder found in certain ores and commonly in $(l:patchouli:overview/mineral_deposits)Mineral Deposits$(). It can be found occasionally by $(l:patchouli:heavy/crusher)crushing$() $(#007500)Lapis Lazuli$() or $(#007500)Coal Ore$() blocks and more commonly in $(#007500)Nether Quartz Ore$(). It can also be extracted reliably from $(#007500)Blaze Rods$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Mixing Nitrate, Sulfur and Charcoal allows for the creation of gunpowder, a far more scientific process than looting it from slain monsters."        
+		}
+	]
+}

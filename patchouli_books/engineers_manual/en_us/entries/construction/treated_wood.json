@@ -1,0 +1,35 @@
+{    
+	"name": "Treated Wood",    
+	"icon": "immersiveengineering:treated_wood_horizontal",    
+	"category": "patchouli:construction",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Highly Durable"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/treated_wood_horizontal",
+			"text": "Treated Wood is, quite simply, wooden planks covered in creosote oil. It is however, one of the most important materials you will be using in Immersive Engineering, so you'd better be prepared to create a lot of it."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/treated_fence",
+			"recipe2": "immersiveengineering:crafting/stairs_treated_wood_horizontal"
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/treated_post",
+			"text": "Posts made from treated wood make for excellent attachment points for your Wire Connectors. They are 4 blocks high, so you won't be able to place them without the proper clearance. "
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Using the hammer on the sides of the topmost block of the treated post will attach an arm to the post. $(br)You can also place $(l:patchouli:power/basic_wiring#transformer)transformers$() on the pole, which makes it less obtrusive. $(br)Placing blocks below the arms of the wooden post will flip the arms upside down."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/treated_wallmount",           
+			"text": "Treated wood can also be used to craft $(#007500)Wallmounts$(), which can be very useful to mount connectors in a visually attractive way without using posts."
+		}
+	]
+}

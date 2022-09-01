@@ -1,0 +1,41 @@
+{    
+	"name": "Ores",    
+	"icon": "immersiveengineering:ore_aluminum",    
+	"category": "patchouli:overview_and_resources",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Diggy diggy hole"        
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:ore_aluminum",
+			"item2": "immersiveengineering:ingot_aluminum",
+			"text": "Bauxite Ore is found in the world between layers 32 and 112, and requires a Stone Pickaxe to harvest. $(br)The raw ore will smelt into aluminium ingots, which is an integral part of high-voltage architecture."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:ore_lead",
+			"item2": "immersiveengineering:ingot_lead",
+			"text": "Lead Ore is found in the world between layers -32 and 80, and requires an Iron Pickaxe to harvest. $(br)The raw ore will smelt into lead ingots, which are used in creating early accumulators."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:ore_silver",
+			"item2": "immersiveengineering:ingot_silver",
+			"text": "Silver Ore is found in the world between layers -48 and 32, and requires an Iron Pickaxe to harvest. $(br)The raw ore will smelt into silver ingots, which alloy with gold to create electrum, a far more effective conductor."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:ore_nickel",
+			"item2": "immersiveengineering:ingot_nickel",
+			"text": "Nickel Ore is found in the world between layers -64 and 24, but more abundantly below -8. It requires an Iron Pickaxe to harvest. $(br)The raw ore will smelt into nickel ingots, which alloy with copper to create constantan, a heat resistant conductor used in the construction of $(l:patchouli:power/thermoelectric_generator)Thermoelectric Generators$()."
+		},
+		{
+			"type": "patchouli:dual_showcase",
+			"item1": "immersiveengineering:ore_uranium",
+			"item2": "immersiveengineering:ingot_uranium",
+			"text": "Uranium Ore is found in the world between layers -64 and -16, and requires an Iron Pickaxe to harvest. $(br)The raw ore will smelt into uranium ingots, but there are currently not many uses for the metal. A uranium block can serve as a heatsource for the $(l:patchouli:power/thermoelectric_generator)Thermoelectric Generator$() and the metal will be used in future endeavours."
+		}
+	]
+}

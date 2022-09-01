@@ -1,0 +1,6 @@
+{    
+	"name": "Heavy machinery",    
+	"description": "Larger multiblocks that require a lot of power.",    
+	"icon": "immersiveengineering:heavy_engineering",
+	"sortnum": 5
+}

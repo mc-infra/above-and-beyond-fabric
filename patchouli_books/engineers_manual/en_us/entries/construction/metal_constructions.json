@@ -1,0 +1,43 @@
+{    
+	"name": "Metal Constructions",    
+	"icon": "immersiveengineering:steel_scaffolding_standard",    
+	"category": "patchouli:construction",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Riveting"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Apart from Treated Wood, processed metals make for common construction blocks. You can craft almost any metal into blocks and slabs, or hammer iron ingots into a sheetmetal block."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/steel_fence",
+			"recipe2": "immersiveengineering:crafting/steel_post"
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/steel_wallmount",
+			"recipe2": "immersiveengineering:crafting/steel_scaffolding_standard"
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Steel is not only an integral part of high-voltage architectures, it is also quite useful in, well, architecture. Steel scaffolding can be used to quickly create climbable structures, steel fencing keeps baddies at bay and structural arms make for great attachment points for your HV relays."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/connector_structural",
+			"text": "Structural Connectors work similarly to normal connectors, but instead of transferring energy, they are purely decorative. They won't accept normal wires, but Hemp Rope and Steel Cable (see next page)."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "You can also rotate them by rightclicking them with an Engineer's Hammer."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/metal_ladder_none",
+			"text": "Metal ladders are...well, ladders made from metal. You can climb them, and they look cool. $(br)You can also combine them with Scaffolding to make them into Covered Ladders."
+		}
+	]
+}

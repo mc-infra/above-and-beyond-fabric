@@ -1,0 +1,39 @@
+{    
+	"name": "Mixer",    
+	"icon": "immersiveengineering:mixer",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Vats of cookie dough!"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Mixer is a multiblock structure that dissolves solids in fluids, mixing them together. The structure is built as shown above and formed by using the Engineer's Hammer on the central sheetmetal block. $(br)The most common uses for this machine are the mixing of Liquid Concrete, or the creation of potions from water and their various ingredients."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Mixer",
+			"multiblock": {
+				"pattern": [
+				[" f _", " L _", "   _"],
+				[" LL_", "II _", "IIR_"],
+				["SFL_", "SFF0", "SSS_"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"f": "immersiveengineering:steel_fence",
+					"F": "minecraft:orange_wool",
+					"I": "immersiveengineering:sheetmetal_iron"
+				}
+			},
+			"text": "The structure is built from the following $(t:3 Fluid Pipes, 4 Iron Sheetmetal Blocks, 4 Light Engineering Blocks, 1 Steel Fence, 5 Steel Scaffolding Blocks, and A Redstone Engineering Blocks)$(#007500)blocks$(). ($(t:Certain blocks crash if rendered in the patchouli multiblock page, in case you're wondering why I'm using this instead)$(#007500)Orange wool$() in place of fluid pipes)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Fluids are input into the mixer through the port at the bottom of its powersupply. Items can be input via the two hatches at the back. The fluid port at the front serves as the fluid output. $(br)Applying a redstone signal to the control panel at the front will halt the machine's process, this behavior can be inverted by use of the Engineer's Screwdriver."        
+		}
+	]
+}

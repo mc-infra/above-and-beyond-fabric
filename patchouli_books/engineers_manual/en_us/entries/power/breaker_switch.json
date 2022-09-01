@@ -1,0 +1,25 @@
+{    
+	"name": "Breaker Switch",    
+	"icon": "immersiveengineering:breaker_switch",    
+	"category": "patchouli:power_wires_generators",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Clap on - Clap off"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/breaker_switch",
+			"text": "Breaker Switches are simply switches that can stop the flow of power through wires. They can connect two wires of the same type and will only allow power to pass when activated."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "This can be used to separate power-hungry machinery from the network or hook up an additional set of generators when needed! Due to the high risk, these switches will not accept HV wires. $(br)They will also emit a redstone signal when they are switched on; this behaviour can be inverted by clicking the switch with an Engineer's Screwdriver. $(br)Additionally they are an excellent way to control your $(l:patchouli:construction/engineered_lighting)powered lights$()!"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/redstone_breaker",
+			"text": "The Redstone Breaker is similar to a normal breaker switch, but cannot be operated manually. Instead, it will require a redstone signal to break the connection. In return, this device is insulated well enough to allow the connection of HV wires as well!"
+		}
+	]
+}

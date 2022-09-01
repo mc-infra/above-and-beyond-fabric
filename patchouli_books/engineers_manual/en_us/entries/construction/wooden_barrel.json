@@ -1,0 +1,20 @@
+{    
+	"name": "Wooden Barrel",    
+	"icon": "immersiveengineering:wooden_barrel",    
+	"category": "patchouli:construction",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Doesn't roll"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/wooden_barrel",
+			"text": "Wooden barrels are simple containers that can store fluid. They will store up to 12 buckets, but because they are wooden, they can't store any gasses or hot fluids."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Rightclicking the top or bottom side of the barrel with a Hammer will switch between in-, output or no connection."        
+		}
+	]
+}

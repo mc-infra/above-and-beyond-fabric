@@ -1,0 +1,29 @@
+{    
+	"name": "Engineer's blueprints",    
+	"icon": "immersiveengineering:blueprint",    
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Back to the drawing board"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The upcoming pages feature all Engineer's Blueprints that can be crafted by normal means."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/blueprint_bannerpatterns",
+			"recipe2": "immersiveengineering:crafting/blueprint_bullets"
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/blueprint_components",
+			"recipe2": "immersiveengineering:crafting/blueprint_molds"
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Other Blueprints may need to be acquired from villagers or found in the world. All of these can be used in an $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$() to craft the items they describe."        
+		}
+	]
+}

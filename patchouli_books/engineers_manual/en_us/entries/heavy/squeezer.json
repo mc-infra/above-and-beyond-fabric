@@ -1,0 +1,44 @@
+{    
+	"name": "Squeezer",    
+	"icon": "immersiveengineering:squeezer",    
+	"category": "patchouli:heavy_machinery",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Pressing matters"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The Squeezer is a multiblock structure that presses juice or oil out of organic materials by use of a big piston. The structure is built as shown on the next page and formed by using the Engineer's Hammer on the central wooden barrel, from the side that has the Engineering Blocks."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Squeezer",
+			"multiblock": {
+				"pattern": [
+				["   _", "fP _", "ff _"],
+				["  R_", "WW _", "WWL_"],
+				["SFS_", "SFS0", "SSL_"]
+				],
+				"mapping": {
+					"L": "immersiveengineering:light_engineering",
+					"R": "immersiveengineering:rs_engineering",
+					"S": "immersiveengineering:steel_scaffolding_standard",
+					"W": "immersiveengineering:wooden_barrel",
+					"F": "minecraft:orange_wool",
+					"f": "immersiveengineering:steel_fence",
+					"P": "minecraft:piston[facing=down]"
+				}
+			},
+			"text": "The structure is built from the following $(t:6 Steel Scaffolding Blocks, 4 Wooden Barrels, 3 Steel fences, 2 Fluid pipes, 2 Light Engineering Blocks, A Piston, and A Redstone Engineering Block.)$(#007500)blocks$(). ($(t:Certain blocks crash if rendered in the patchouli multiblock page, in case you're wondering why I'm using this instead)$(#007500)Orange wool$() in place of fluid pipes)"        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Items can be input into the Squeezer via the two hatches at the back that are marked with blue dots. The hatch with the orange dot serves as an item output and the block below it to output fluids. $(br)Applying a redstone signal to the control panel at the front will halt the machine's process, this behavior can be inverted by use of the Engineer's Screwdriver. $(br)The following page shows a list of various items that can be squeezed into plant oil, and the amount they produce."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "$(li)Melon Seeds - 20 mB $(li)Pumpkin Seeds - 40 mB $(li)Beetroot Seeds - 60 mB $(li)Wheat seeds - 80 mB $(li)Hemp Seeds - 120 mB"        
+		}
+	]
+}

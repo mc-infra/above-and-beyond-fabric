@@ -1,0 +1,70 @@
+{
+    "components":[
+        {
+            "type": "patchouli:image",
+            "image": "limitless_rebirth:textures/workbench.png",
+            "width": 256,
+            "height": 64,
+            "texture_height": 64,
+            "scale": 0.65,
+            "u": 40
+        },
+        {
+            "type": "patchouli:item",
+            "item": "#blueprint",
+            "x": 14,
+            "y": 3
+        },
+        {
+            "type": "patchouli:item",
+            "item": "#input0",
+            "x": 45,
+            "y": 12
+        },
+        {
+            "type": "patchouli:item",
+            "item": "#input1",
+            "x": 65,
+            "y": 12
+        },
+		{
+            "type": "patchouli:item",
+            "item": "#input2",
+            "x": 45,
+            "y": 3
+        },
+        {
+            "type": "patchouli:item",
+            "item": "#input3",
+            "x": 65,
+            "y": 3
+        },
+		{
+            "type": "patchouli:item",
+            "item": "#input4",
+            "x": 45,
+            "y": 19
+        },
+		{
+            "type": "patchouli:item",
+            "item": "#input5",
+            "x": 65,
+            "y": 19
+        },
+		{
+			"type": "patchouli:item",
+			"item": "#output",
+			"x": 90,
+            "y": 12
+		},
+		{
+			"type": "patchouli:separator",
+			"y": 45
+		},
+        {
+            "type": "patchouli:text",
+            "text": "#text",
+            "y": 50
+        }
+    ]
+}

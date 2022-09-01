@@ -1,0 +1,21 @@
+{    
+	"name": "Metal Barrel",    
+	"icon": "immersiveengineering:metal_barrel",    
+	"category": "patchouli:construction",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Doesn't roll"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"title": "Redstone connector",
+			"recipe": "immersiveengineering:crafting/metal_barrel",
+			"text": "Metal barrels work exactly like $(l:patchouli:construction/wooden_barrel)Wooden Barrels$()."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "They store the same amount of fluid and their in- and outputs are configured the same way, but unlike the wooden version, these can store gasses and hot fluids, and won't output automatically if they are disabled by a redstone signal."        
+		}
+	]
+}

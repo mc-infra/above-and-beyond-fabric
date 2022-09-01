@@ -1,0 +1,16 @@
+{    
+	"name": "Current Transformer",    
+	"icon": "immersiveengineering:current_transformer",    
+	"category": "patchouli:power_wires_generators",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "88 Flux per hour!"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/current_transformer",
+			"text": "The Current Transformer is a measurement device for electrical power. It can be hooked up in any powerline and will keep track of energy transferred through it, returning an average Flux/t upon rightclick."
+		}
+	]
+}

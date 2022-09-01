@@ -1,0 +1,34 @@
+{    
+	"name": "Railgun",    
+	"icon": "immersiveengineering:railgun",    
+	"category": "patchouli:tools",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Velocitas Eradico"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/railgun",
+			"text": "The Railgun (or more accurately the Portable Induction Catapult) is a marvel of engineering. It consists of two rails through which an electric current flows and accelerates a sled, and by that, a projectile."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The process is energy intensive but will accelerate various projectiles to high speeds. $(br)To launch a projectile from your inventory, click and hold the use button till the charge level reaches 99, then release. $(br2)Common projectiles include $(#007500)iron$(), $(#007500)aluminum$() and $(#007500)steel rods$(), as well as $(#007500)graphite electrodes$(). However, you may also fire more exotic projectiles, such as $(#007500)$(l:patchouli:tools/buzzsaw)sawblades$() or $(#007500)tridents$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "To switch between projectiles, sneak and scroll the mouse wheel or use the keybind Switch Chemthrower Tanks if it has been set in the options. Due to the low internal energy storage, it is recommended to use the railgun along with a $(l:patchouli:tools/accumulator)Accumulator Backpack$(). $(br)As with other IE tools, the railgun can be modified in the $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$() and be customized with $(l:patchouli:overview/shaders)Shaders$()."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_railgun_capacitors",
+			"text": "The $(#007500)Advanced Heatsinks$() help mitigate the heat buildup during the chargup process, greatly reducing the railgun's charge time."        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/toolupgrade_railgun_scope",
+			"text": "The $(#007500)Precision Scope$() allows you to zoom in with the railgun. Use the 'Zoom with the Railgun' key to use the scope and scroll the mouse wheel to switch between magnification levels."        
+		}
+	]
+}

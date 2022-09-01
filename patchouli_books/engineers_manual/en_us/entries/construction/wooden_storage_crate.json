@@ -1,0 +1,30 @@
+{    
+	"name": "Wooden crate",    
+	"icon": "immersiveengineering:crate",    
+	"category": "patchouli:construction",
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Move that gear up!"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/crate",
+			"text": "Wooden storage crates are blocks quite similar to a chest. Crafted with treated wood, they offer 27 slots of storage, however, when broken, they will keep that storage, allowing you to move them together with their contents."
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "Like chests, they will output a comparator signal based on the amount of items stored."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"title": "Reinforced Crate",
+			"recipe": "immersiveengineering:crafting/reinforced_crate",
+			"text": "The reinforced storage crate offers the same capacity as a normal crate, but unlike them, these creates are impervious to explosions. No longer will pesky creepers or ill-placed mining charges destroy your valueables!"
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "The upgrade recipe from basic to reinforced crates will keep the contents of the crate."
+		}
+	]
+}

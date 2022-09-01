@@ -1,0 +1,34 @@
+{    
+	"name": "Alloy Kiln",    
+	"icon": "immersiveengineering:alloy_smelter",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [
+		{            
+			"type": "patchouli:text",            
+			"text": "Mixin Metals"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/alloybrick",
+			"text": "The Alloy Kiln is a simple furnace made out of heat resistant sandstone and bricks. Within it, temperatures are high enough to allow metals to be melted into a fluid state and mixed, creating an $(l:patchouli:overview/alloys)Alloy$(/l)."        
+		},
+		{            
+			"type": "patchouli:multiblock",
+			"name": "Alloy Kiln",
+			"multiblock": {
+				"pattern": [
+				["KK ", "KK "],
+				["KK ", "KK0"]
+				],
+				"mapping": {
+					"K": "immersiveengineering:alloybrick"
+				}
+			},
+			"text": "The structure is built from the following $(t:8 Alloy Kiln Bricks)$(#007500)blocks$()."        
+		},
+		{            
+			"type": "patchouli:text",            
+			"text": "To form the multiblock, right-click the top block of one side with an Engineer's hammer."        
+		}
+	]
+}

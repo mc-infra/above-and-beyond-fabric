@@ -1,0 +1,49 @@
+{    
+	"name": "Crafting components",    
+	"icon": "immersiveengineering:component_iron",
+	"category": "patchouli:overview_and_resources",    
+	"pages": [        
+		{            
+			"type": "patchouli:text",            
+			"text": "Integral Pieces"        
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/component_iron",
+			"text": "Many items are constructed from metal components. Some of these you will have to use frequently, which is why they have their own entry in this book. The Iron and Steel Mechanical Components are integral to the majority of Multiblocks and machinery."
+		},
+		{            
+			"type": "patchouli:crafting",
+			"recipe": "immersiveengineering:crafting/blueprint_components",
+			"text": "As you will find yourself creating these components more frequently, it may be advisable to draft a $(l:patchouli:overview/engineers_blueprints)Blueprint$() for them."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: components}",
+			"input0": "minecraft:iron_ingot#2",
+			"input1": "minecraft:copper_ingot",
+			"output": "immersiveengineering:component_iron",
+			"text": "Using this blueprint in an $(l:patchouli:overview/workbench_and_blueprints)Engineer's Workbench$() will allow you to construct the components at a reduced cost."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: components}",
+			"input2": "minecraft:glass",
+			"input3": "immersiveengineering:plate_nickel",
+			"input4": "immersiveengineering:wire_copper",
+			"input5": "minecraft:redstone",
+			"output": "immersiveengineering:electron_tube",
+			"anchor": "tube",
+			"text": "Another, albeit less frequently used component are $(#007500)Vacuum Tubes$(). These glass tubes are used as elements in electronic machinery and used in $(l:patchouli:construction/engineered_lighting)light emitting devices$()."
+		},
+		{
+			"type": "patchouli:engineers_workbench",
+			"blueprint": "immersiveengineering:blueprint{blueprint: components}",
+			"input0": "immersiveengineering:insulating_glass",
+			"input1": "immersiveengineering:plate_copper",
+			"output": "immersiveengineering:circuit_board",
+			"anchor": "plate",
+			"text": "A rarely used, but crucial component is the $(#007500)Circuit Backplane$(). This insulated copper board has a variety of components soldered to it in order to create $(l:patchouli:power/logic_circuits)Logic Circuits$(), or serves as component in 'smart' contraptions."
+		}
+	]
+}

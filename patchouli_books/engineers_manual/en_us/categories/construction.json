@@ -1,0 +1,6 @@
+{    
+	"name": "Construction",    
+	"description": "A brief list of the various resources used by Engineers.",    
+	"icon": "immersiveengineering:treated_wood_horizontal",
+	"sortnum": 1
+}
