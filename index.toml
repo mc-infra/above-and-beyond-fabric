@@ -2903,7 +2903,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "50055db9965c9f7995eb2cf489bbe085c45801e8fda7a684547dd63788108ce2"
+hash = "f6e63a22b7937b441a01504a0c1e893e3ee73d49f47cc6e179f0c240939d4819"
 metafile = true
 
 [[files]]
@@ -3082,6 +3082,11 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "06e0c9b33671fa736affcb3afbfb89099a2eee409141a3916ead18ed762a2641"
+metafile = true
+
+[[files]]
 file = "mods/libnonymous.pw.toml"
 hash = "35fabe0ac1bebd7cd8530db45a164838ee1a5687cefcb6bbef2b5d42afac8701"
 metafile = true
@@ -3133,7 +3138,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "74a4aac731aca28b7564ad28d9308d8a2ed838370170aaa4a5e00f31c7ddaae0"
+hash = "930ae58f62e49f4bfcbd637e8036b0941c0c103e7b627339e3b62f89eb7158ed"
 metafile = true
 
 [[files]]
@@ -3378,7 +3383,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "e7c98953cef9e9fd975c71acd8d6766b2ac940c2536b777ac09c0652efd2df2c"
+hash = "f76398afccb613aa2e499fb23d0bc6f4570d44eb0b809cff7de871d2257fa4c6"
 metafile = true
 
 [[files]]
