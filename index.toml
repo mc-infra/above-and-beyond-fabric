@@ -13,6 +13,10 @@ file = "config/ChickenChunks.cfg"
 hash = "56eba4fbecafd76d33e3ef3ec278f0b298df2b1312a61ca70559424b4f3dc552"
 
 [[files]]
+file = "config/Mekanism/additions.toml"
+hash = "6d5273c169f18ea14de6b9f8b2640226ce06b20a17b0acecd92505781a2005b6"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
