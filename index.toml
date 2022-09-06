@@ -785,6 +785,11 @@ hash = "2ef086ad05b252dba13f27577a7da2b752c4772b07676842df982e9172f73aa6"
 metafile = true
 
 [[files]]
+file = "config/openloader/data/repurposed-structures-immersive-engineering.pw.toml"
+hash = "326901c31999d0fc161512fe0385a83ee0aed670d1742eea1cae475012245048"
+metafile = true
+
+[[files]]
 file = "config/openloader/resources/better-dogs.pw.toml"
 hash = "0febf3851c5b6cbe290db65cedb3b7c1788e4e979e7fcc22468b5a929cfc250e"
 metafile = true
@@ -3378,11 +3383,6 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "b5e478bee6fd909d03453c2bdac37211e65d983a92a383ae4cb8975a9e493ad9"
-metafile = true
-
-[[files]]
-file = "mods/strawgolem-reborn.pw.toml"
-hash = "7a67abfc39c52f3981cf66a7590474830d14ba437d3067183f4ec135c6351402"
 metafile = true
 
 [[files]]
