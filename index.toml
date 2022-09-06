@@ -2566,6 +2566,11 @@ hash = "6e8eca661f6e9a5dabe7abdd55ec88b1d56b442da5f2f575ba8fe5089cb5011c"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
