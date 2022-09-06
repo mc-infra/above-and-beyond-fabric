@@ -2567,7 +2567,7 @@ metafile = true
 
 [[files]]
 file = "mods/attributefix.pw.toml"
-hash = "902e82fd9cff5ba26db563e0995ab8c4f632cb68f26bc05c2ce6ed6aae30a425"
+hash = "0536b481da9150a2036ac489e252684d6a64cd16f1aee3edaa7cb8964b2ce1d7"
 metafile = true
 
 [[files]]

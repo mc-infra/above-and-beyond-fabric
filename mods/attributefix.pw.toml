@@ -3,8 +3,8 @@ filename = "AttributeFix-Forge-1.18.2-14.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "33b1dc72bb681768c4faa603a73c26ebba833b41"
+hash-format = "md5"
+hash = "b3c46689c40a827b38beec4b24b5b0d3"
 mode = "metadata:curseforge"
 
 [update]
