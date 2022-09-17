@@ -2318,6 +2318,10 @@ file = "config/portality/portality.toml"
 hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "307c6b40a0cdeb2b2aad817ca567f1920dbc6a8c816106d1f5c3eba51ba62a54"
+
+[[files]]
 file = "config/repurposed_structures-forge/bastions.toml"
 hash = "2916ab6bdb5e4cac4cec46e4a7cfb48ea872544c34006bafb56ff0deb097768b"
 
@@ -2856,11 +2860,6 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
-file = "mods/dark-mode-everywhere.pw.toml"
-hash = "2c392f357b0d57c85373f66df6f062384cd8547888fbb6a99b0537bc0a7a6770"
-metafile = true
-
-[[files]]
 file = "mods/darker-depths.pw.toml"
 hash = "ae6b9bee511edfb9e921ac2d22698245c208c66b84fd4af8946f60f152623024"
 metafile = true
@@ -3048,6 +3047,11 @@ metafile = true
 [[files]]
 file = "mods/infernal-expansion.pw.toml"
 hash = "26457da7fedb3defabbca3a33fbf84de926057f2ed7e50feeb52df3cdd8de9e0"
+metafile = true
+
+[[files]]
+file = "mods/inventorio-forge.pw.toml"
+hash = "d155b998f34c09c59e4d320e142db389ef49a2135b7a3e87422748374e320144"
 metafile = true
 
 [[files]]
@@ -3433,11 +3437,6 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "a6b52fbac8ba8c697c5d7243abb9c8c0a4d9f437d27b4afd9f08a0d1aa13eea8"
-metafile = true
-
-[[files]]
-file = "mods/thermal-cultivation.pw.toml"
-hash = "d44c1f319c15d77748c757c0d298768b041104a8ae0a22a4a754ce82923104cb"
 metafile = true
 
 [[files]]
