@@ -2536,6 +2536,11 @@ hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "ea221ca4c151e6d62590de2370c309c20e5fb66a6ef93e101cc3043d162d9671"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "5262b40999a9c2e60b43561067f5f199814627eaaee3d193c92ef8b99f20fe61"
 metafile = true
@@ -2578,11 +2583,6 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
-metafile = true
-
-[[files]]
-file = "mods/backpacked.pw.toml"
-hash = "b3c2ee2de93406f5c9e7eabfeb67194f45af5fd61fe4a1277bc16d6d606d8225"
 metafile = true
 
 [[files]]
@@ -2936,11 +2936,6 @@ hash = "dbc9634294e6a32a482a36da5b1733c3802d5dcd8ee3f1c1881a0d6bd5332ebf"
 metafile = true
 
 [[files]]
-file = "mods/falling-tree.pw.toml"
-hash = "8a1494c34fa08040ce928c6e961baa0ba4dc1d43921cb55a25753e89d21046e7"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu-forge.pw.toml"
 hash = "1cb95c72c48abd5ea1251f485d4721dc587aea37797b32213d908ac20647e0f6"
 metafile = true
@@ -2983,11 +2978,6 @@ metafile = true
 [[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "a1043471f97c43e1f70ba9217208233495924ffc83e2b84652a433c3bae3f854"
-metafile = true
-
-[[files]]
-file = "mods/forgeendertech.pw.toml"
-hash = "68323eef6e1e6393ca67355b99753dfa7a45b0b7215741f0cb91fe2ada16d317"
 metafile = true
 
 [[files]]
@@ -3058,31 +3048,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e68051f16b15cb4e01ff789b2a5d9e39916ad288a6f8445c61241bbb9696d700"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "43bd658177949fbe857b5a50fc93fd9acf8cdbe04fedba41031e28f6d2b3a3e0"
-metafile = true
-
-[[files]]
-file = "mods/jeitweaker.pw.toml"
-hash = "df2cae32830ff833abb3c2897cc34d569623b44c196028af677770f0c83c0da4"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "b61137301d238d28d5f193aae83e5d159299d1367c69467373797babed888154"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-keys.pw.toml"
-hash = "89a3596260264546e1826d1e93a652b450f9c71ba914e75f95bd512856cbe584"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
@@ -3161,11 +3126,6 @@ hash = "bfb81b15fe5380e24bb0e99aba7a0abf7807d0abaf019945066b3cf94f8449b4"
 metafile = true
 
 [[files]]
-file = "mods/more-minecarts.pw.toml"
-hash = "5d716e7827b4557b0835f798f71a6ca66e7b407740bcdae4c35396e91114f26e"
-metafile = true
-
-[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "e595b7223439bd5526304657fa34cfc7ed514475dd6e0c5ec30ef27a1cdfb9b3"
 metafile = true
@@ -3218,6 +3178,11 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "b5385a79aac3ae8bb708f707b66213125bc7569654ef8da9365164f7abbeec6f"
+metafile = true
+
+[[files]]
+file = "mods/odysseyhud.pw.toml"
+hash = "b7a754f78b37b842f4e8dccdcc9c0549ed7994eaabd8d99a4d00b9b802e8d787"
 metafile = true
 
 [[files]]
@@ -3306,6 +3271,21 @@ hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "6785d1f8da7d59ccdab6399c8e6c47953b2a1d9227f385e69d97b6b71b0701d8"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "ade57ee091aeadeddffb8997479dac8ee38daf49d324e489cac07844fc4925b2"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "53988cf2f6c3095930b03fd7f00c34dd403c497f6402dac9244ee64e76fce05a"
+metafile = true
+
+[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "4217260f684976f4915d22f2a2b2c43268b3d0e8bb830e19c3ace167efc9dbdf"
 metafile = true
@@ -3318,11 +3298,6 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "f9421682d84321e3d88e00733aa976502ea3d3a8bdfb8a1b9c050604fa8e9694"
-metafile = true
-
-[[files]]
-file = "mods/scroll-of-harvests.pw.toml"
-hash = "c766cd541559d7d5fdb71924899b635ed28cb651de8e1023029e1755685f34a9"
 metafile = true
 
 [[files]]
@@ -3486,18 +3461,8 @@ hash = "d6b7c13004c2e6b415fa984ff94baaa74408ecb08038878aa15cc85a4ab438ce"
 metafile = true
 
 [[files]]
-file = "mods/tool-belt.pw.toml"
-hash = "89146989947b537418d4a19f6735d5704080c38eebcc00fdd0890863b8cd8ae0"
-metafile = true
-
-[[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "46204c853fc8f350b4cdc244c843763c9d0f58dafdbb39479f889e92801c4618"
-metafile = true
-
-[[files]]
-file = "mods/trash-cans.pw.toml"
-hash = "df924a41d80f64d6e95eefb2449fa76e843c5a5829ec17d8a2ad8057e3fc04e3"
 metafile = true
 
 [[files]]
@@ -3513,11 +3478,6 @@ metafile = true
 [[files]]
 file = "mods/viescraft-airships.pw.toml"
 hash = "7d651612898cd34831516e4d9662d48e2b0a9756d87a71a7bcd55f1de429ed1c"
-metafile = true
-
-[[files]]
-file = "mods/water-strainer.pw.toml"
-hash = "563b1f860076b104c8018d651a73ecc05af8327fcc63b3ac06c7c7bf6845b9b5"
 metafile = true
 
 [[files]]
