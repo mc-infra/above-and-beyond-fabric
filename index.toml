@@ -2521,6 +2521,11 @@ hash = "599624c3298fabe04f3c427db1d366bc736aa483df8624482daedded3eaea3cf"
 metafile = true
 
 [[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "6049ce25c35da23208c19374bc6870064144df1f7aabac29f0115af03c8ad9e8"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
 metafile = true
@@ -3033,6 +3038,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
+metafile = true
+
+[[files]]
+file = "mods/immersiveposts.pw.toml"
+hash = "6f679ecef8f40832d535fc8d277ea3a4d686a5751c3372370d55d29d3fc44f8a"
 metafile = true
 
 [[files]]
