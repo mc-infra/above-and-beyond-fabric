@@ -2846,6 +2846,11 @@ hash = "f1e831b83e7e2d9158db8392feb3c513aa3dd36606e937be508a15709f6f0010"
 metafile = true
 
 [[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "5314c3ce18754c478ee7419c7822715544e316e752aa1eb4e2e676311025ef2e"
+metafile = true
+
+[[files]]
 file = "mods/darker-depths.pw.toml"
 hash = "ae6b9bee511edfb9e921ac2d22698245c208c66b84fd4af8946f60f152623024"
 metafile = true
