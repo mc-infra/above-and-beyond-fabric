@@ -1,15 +1,15 @@
 name = "Collective (Forge)"
-filename = "collective-1.18.2-4.51.jar"
+filename = "collective-1.18.2-4.56.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "edbb13983a98a6a2adc08c0fa947064ce05399e2"
+hash = "4f2b3696e6e77e5c981c26bc88b2cdf630c5a8d7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3969668
+file-id = 3991460
 project-id = 342584
 
 [option]
