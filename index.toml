@@ -2561,6 +2561,11 @@ hash = "933eda2028cd9d87fa8b82453c50c606679a5289ff66935947e5ab669159706c"
 metafile = true
 
 [[files]]
+file = "mods/applied-mekanistics.pw.toml"
+hash = "1440014a95f25f1d02b824e63f8dcd3654f042cc6058718d7c626f61e05a04ac"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "f43243c797ca68e3a1a55e4cf3f97e82c1403c25ca38fc77a2d2e76b9675041d"
 metafile = true
