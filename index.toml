@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Makefile"
-hash = "5183fca6554846d549cd1df9e7d68888cd808d922868deb7729077a8406295f2"
-
-[[files]]
 file = "config/CBMicroblock.cfg"
 hash = "a8b9978b0b57003263de3f4e2abe6dc4b0abb412b9782796281db21670a2f7c7"
 
@@ -43,10 +39,6 @@ hash = "4372b4633ca643cb78b430cf32d1c9f3d3efe41e09a1398bdbb4decbc45719e5"
 [[files]]
 file = "config/aquaculture-common.toml"
 hash = "f7866fc13a97d0211da41892541f09ec4bbd9a72e7afb3bc9623aee3cef1fcbf"
-
-[[files]]
-file = "config/archers_paradox-client.toml"
-hash = "fb0393bce1d264da925ecc6e9d2e30e7de8c7f7d80b4304d6850128e24655f8a"
 
 [[files]]
 file = "config/backtools.toml"
@@ -130,7 +122,7 @@ hash = "4856cc7ed5b933aa1f05f84b84451fbc3db06b85d538d18c4db3b3b270721592"
 
 [[files]]
 file = "config/craftingtweaks-client.toml"
-hash = "1b585a9754d011ab9cc49c2b6637ed2be68204cd52886c0050710f6bad3d339b"
+hash = "c4c31f38ec9f76dad96db48af5b4485a91c091cc1687fcac5563591e908f673d"
 
 [[files]]
 file = "config/craftingtweaks-common.toml"
@@ -191,14 +183,6 @@ hash = "55be3bb7bb91e78d8bb8de80ef2cb1b0ebf405284052721685da5f6677d6ec6a"
 [[files]]
 file = "config/extcaves_config.toml"
 hash = "dacd8ab4786f3ed8ace69cd398d3b33a293708c19cc79e81b67260955a2e9f00"
-
-[[files]]
-file = "config/fairylights-client.toml"
-hash = "cad5874b33ea848d77bd11f0a7d78b2d0ecbb05cad6d4451d702cc357c37d33e"
-
-[[files]]
-file = "config/fairylights-common.toml"
-hash = "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -481,16 +465,8 @@ file = "config/lootr-common.toml"
 hash = "888900b7d5b192448e30b01c4b0df627640a22063f72254ba75e37cd15985b4f"
 
 [[files]]
-file = "config/magicfeather-common.toml"
-hash = "76aa097fe4922dc33bcc5fdf63df8512542014f70b726ad4109a1b421c564027"
-
-[[files]]
 file = "config/mantle-client.toml"
 hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
-
-[[files]]
-file = "config/moreminecartsconfig.toml"
-hash = "a39a81a26e907262df8a61bdc710ea3d4be9545ec2cb2d6f85f5def9cc4ba53a"
 
 [[files]]
 file = "config/naturescompass-client.toml"
@@ -2302,10 +2278,6 @@ file = "config/patchouli-client.toml"
 hash = "13ab4823538aa3c136c4fa291e785bff3dd34df3e5a20f0524ab11b0be68fd15"
 
 [[files]]
-file = "config/pathtodirt-common.toml"
-hash = "91bcc6fb218cd2dbc4e73b502ab2cfc3d6d91416232eab84d034a97848aa3e66"
-
-[[files]]
 file = "config/pipez-client.toml"
 hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
@@ -2319,7 +2291,7 @@ hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "307c6b40a0cdeb2b2aad817ca567f1920dbc6a8c816106d1f5c3eba51ba62a54"
+hash = "7b78cbbef4f66d1082adbc5893e5fe384e5398fa0c6ca92663f5fc7c957030e7"
 
 [[files]]
 file = "config/repurposed_structures-forge/bastions.toml"
@@ -2410,12 +2382,12 @@ file = "config/repurposed_structures-forge/witch_huts.toml"
 hash = "cc4b030cb1a2eb54777ab27031d6278c84d0307ba416378abd132f937ceed057"
 
 [[files]]
-file = "config/soundfilters-client.toml"
-hash = "6e8e672264328cdd8d7e235100d4ce4a94afe46d6273e11f8bb41f410723f867"
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "54e54197ad2ce0b2e44e0a7c4b670f40c90e0f58f6ffcc8fe43b924c0e48c4c9"
 
 [[files]]
-file = "config/spark/activity.json"
-hash = "e0d3fc9b6a8c6f4f92b9f374bc8c343cf4f3f90d4f15358e975eaaeb4b7b621b"
+file = "config/soundfilters-client.toml"
+hash = "6e8e672264328cdd8d7e235100d4ce4a94afe46d6273e11f8bb41f410723f867"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -2491,7 +2463,7 @@ hash = "a50305a9b63fde38bb65a83beac822c33cc9b2b065ecb5a5549608c8a16fa51a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "3f1c25bf04928a11cf708d4d8190133eddcca6815640288b5ca6a38d07c2c9ed"
+hash = "efada0b6b5e5d937cebd28b81ed8791945a42b9a719c24df0a7df4cab8059e0c"
 
 [[files]]
 file = "defaultconfigs/occultism-server.toml"
@@ -2504,10 +2476,6 @@ hash = "09bd5d106ddd16b3bcef07c39230c84c5855995a33160b4f4ca86894380251e5"
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
 hash = "8b00261a58831eb99874e006db5da7199bd33bcea05f6caa7dcdb93d249a3621"
-
-[[files]]
-file = "modlist.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
