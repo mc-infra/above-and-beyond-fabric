@@ -2627,7 +2627,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "f69417f07731012b1e972f60096567d22975841fa275b9b73643ef3da601392a"
+hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
 metafile = true
 
 [[files]]
@@ -2847,7 +2847,7 @@ metafile = true
 
 [[files]]
 file = "mods/dark-mode-everywhere.pw.toml"
-hash = "5314c3ce18754c478ee7419c7822715544e316e752aa1eb4e2e676311025ef2e"
+hash = "2c392f357b0d57c85373f66df6f062384cd8547888fbb6a99b0537bc0a7a6770"
 metafile = true
 
 [[files]]
@@ -3122,7 +3122,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "2455c03c47472cf317f7a04962125da95f4d0ddbefc6925c2b99cb183718a833"
+hash = "930ae58f62e49f4bfcbd637e8036b0941c0c103e7b627339e3b62f89eb7158ed"
 metafile = true
 
 [[files]]
@@ -3372,7 +3372,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "aaf973dfb10f4f2cc638eaa6746f6a99f4a0b7a27e9fe1bdf91db20916af8f5a"
+hash = "f76398afccb613aa2e499fb23d0bc6f4570d44eb0b809cff7de871d2257fa4c6"
 metafile = true
 
 [[files]]
