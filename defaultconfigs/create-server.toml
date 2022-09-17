@@ -23,7 +23,7 @@ allowBiggerFireworksInCrafter = false
 allowShapedSquareInPress = true
 #
 #Allow the Mechanical Press to process entire stacks at a time.
-bulkPressing = false
+bulkPressing = true
 #
 #The amount of Light sources destroyed before Chromatic Compound turns into Refined Radiance.
 #Range: > 1
