@@ -2773,6 +2773,11 @@ hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "d4f26000a9053d0ac8f76d779a0b52124c9b472faced12fc48a53346359900dc"
+metafile = true
+
+[[files]]
 file = "mods/create-factory.pw.toml"
 hash = "a667a81f6ee2fbb112e0eda2660b0c44d4fc00cb2794fbb4ec24d30038429350"
 metafile = true
