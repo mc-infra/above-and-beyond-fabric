@@ -3008,11 +3008,6 @@ hash = "56d54fdf30c9a679203b4c3fec19780ee2378aef4a722ad7d239bc221364be01"
 metafile = true
 
 [[files]]
-file = "mods/immersive-weathering-forge.pw.toml"
-hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
-metafile = true
-
-[[files]]
 file = "mods/immersiveposts.pw.toml"
 hash = "6f679ecef8f40832d535fc8d277ea3a4d686a5751c3372370d55d29d3fc44f8a"
 metafile = true
