@@ -2558,6 +2558,16 @@ hash = "a4b435f93d0a70d1d71359024fbf3d4eff8ec653f6f4e90acdfe9c6dce656634"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "68cd9a9231b5198c0b71f123ca56c9fdc819644617a6adcd2274dbe85494ee5e"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4935a09a71f0032aa6a98618f0a7632ac1a3db30586cccda3a4c1a8994b0e52e"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "0536b481da9150a2036ac489e252684d6a64cd16f1aee3edaa7cb8964b2ce1d7"
 metafile = true
