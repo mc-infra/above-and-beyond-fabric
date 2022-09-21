@@ -30,13 +30,13 @@ bulkPressing = true
 lightSourceCountForRefinedRadiance = 4
 #
 #Allow the Mechanical Saw to process entire stacks at a time.
-bulkCutting = false
+bulkCutting = true
 #
 #Allow any stonecutting recipes to be processed by a Mechanical Saw.
 allowStonecuttingOnSaw = true
 #
 #Allow the standard in-world Shadow Steel recipe.
-enableShadowSteelRecipe = false
+enableShadowSteelRecipe = true
 #
 #Allow allows any shapeless crafting recipes to be processed by a Mechanical Mixer + Basin.
 allowShapelessInMixer = true
@@ -167,7 +167,7 @@ maxBlocksMoved = 2048
 #
 #Configure how Spawner blocks can be moved by contraptions.
 #Allowed Values: MOVABLE, NO_PICKUP, UNMOVABLE
-movableSpawners = "NO_PICKUP"
+movableSpawners = "MOVABLE"
 #
 #Maximum allowed distance of two coupled minecarts.
 #Range: > 1

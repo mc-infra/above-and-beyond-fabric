@@ -361,7 +361,7 @@ file = "config/forbidden_arcanus-common.toml"
 hash = "b5b19e9d214312f15ef49d51fc1c04de92f87d167485eb0028581b584f7577ad"
 
 [[files]]
-file = "config/forge-common.toml"
+file = "config/forge-common.toml.old"
 hash = "288568f9cf2906ca96d5ddfd615151fe9c14296c84de0c8fb46a19cf682b77bd"
 
 [[files]]
@@ -2463,7 +2463,7 @@ hash = "a50305a9b63fde38bb65a83beac822c33cc9b2b065ecb5a5549608c8a16fa51a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
-hash = "efada0b6b5e5d937cebd28b81ed8791945a42b9a719c24df0a7df4cab8059e0c"
+hash = "bc2478a4de0882f3f3b9961a79b86aa6fecedee0c1fba3ed07953e9267533be0"
 
 [[files]]
 file = "defaultconfigs/occultism-server.toml"
