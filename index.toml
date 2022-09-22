@@ -2518,7 +2518,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "eb1e4428222e5cdb7d8c4971f99735f606c76dadfcf91c1651ee7de703adc376"
+hash = "b384458a02e0d38b35e39d7b94a25b42fa311fc80a7da252dc3853fae780210d"
 metafile = true
 
 [[files]]
@@ -3378,7 +3378,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "69d06ddacec01d95fa77be07b7303b7cd10362dca922d13509649cb9ef8dbdc5"
+hash = "9afb6c32f2acc73e446f410faadb6bd29cf068e062462148e294164a201ad545"
 metafile = true
 
 [[files]]
