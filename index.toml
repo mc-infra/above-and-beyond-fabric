@@ -25,6 +25,10 @@ file = "config/akashictome-common.toml"
 hash = "711b53644097b632037eb8d8de9682b5a440aaa07d9ae7d983cc12597fce0259"
 
 [[files]]
+file = "config/almostunified/unify.json"
+hash = "96355ac3174b70feeb54c674f521963e0026f5616c8b00f1dc96855a9178f90c"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
 
