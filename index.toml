@@ -2514,7 +2514,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "ea221ca4c151e6d62590de2370c309c20e5fb66a6ef93e101cc3043d162d9671"
+hash = "b384458a02e0d38b35e39d7b94a25b42fa311fc80a7da252dc3853fae780210d"
 metafile = true
 
 [[files]]
@@ -2619,7 +2619,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.pw.toml"
-hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
+hash = "f69417f07731012b1e972f60096567d22975841fa275b9b73643ef3da601392a"
 metafile = true
 
 [[files]]
@@ -2719,7 +2719,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "34f87a9cb98cc9da55e68c6fffa309b756a083ce434365c6508ba34b97fbc915"
+hash = "bf669103e4ff077f237d5f9d3333dc4bbd172817a2be2ced40fca13c876ab9b8"
 metafile = true
 
 [[files]]
@@ -2754,7 +2754,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "da9949e19f007194a550d46e41495ea15c258866ca77e876af3828b8295e126b"
+hash = "3e3f4539c3627337fce9cc5c7367812584974f73a560b738bb3929ffb4954d69"
 metafile = true
 
 [[files]]
@@ -2799,12 +2799,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-misc-and-things.pw.toml"
-hash = "4e9f632b271317a77b2184b404fbcc14abe9e566c836d83c91f1069706f1073a"
+hash = "6eaadfb8a91d1c96b8ef1ffdd24be9efe860703b30001667c5049a5732ff64d8"
 metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.pw.toml"
-hash = "e4c23da3c4d2e70a2aac89a28e47d59d9b0c9aea6776cb19565507df0b5ac287"
+hash = "c58bc9d68aa15d5a4548c02ec18f9c06897bedcd30560be77465818d3a79cb42"
 metafile = true
 
 [[files]]
@@ -2914,7 +2914,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "f6e63a22b7937b441a01504a0c1e893e3ee73d49f47cc6e179f0c240939d4819"
+hash = "051c7f12860f27c4b512865259fc76cd80bd73be84efb35dadb47e3708512965"
 metafile = true
 
 [[files]]
@@ -2939,7 +2939,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+hash = "546cf7bd63e02041e8d159ecc5326fde952aaeaf0d8517b5eb5f552a84fcf12a"
 metafile = true
 
 [[files]]
@@ -3009,7 +3009,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "6516b28cc51ed7517291e3ebd8b7abc2402f6499b7f143a5fa1cae096b2a4654"
+hash = "e7e54f051a260beda4d06f5c9afff6b157d67d9adc276d751647b209dad294e7"
 metafile = true
 
 [[files]]
@@ -3044,7 +3044,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-filters.pw.toml"
-hash = "ee93d1f6d4b4625863d109ad40b1953b9303812fd80ded5f358345df030f536d"
+hash = "77a607b67dcf3363a5cccda9341900f9711346e9a7b6a0ff3cc7f58b81bf48bd"
 metafile = true
 
 [[files]]
@@ -3119,7 +3119,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "930ae58f62e49f4bfcbd637e8036b0941c0c103e7b627339e3b62f89eb7158ed"
+hash = "e60d308fde1f60782042dec6287b706ef6ea434665fd342936fb3046b84800af"
 metafile = true
 
 [[files]]
@@ -3174,7 +3174,7 @@ metafile = true
 
 [[files]]
 file = "mods/occultism.pw.toml"
-hash = "342a8fe2b2a75d1f89efd4c2b341dd0ea9f8977d747cbd5465e3175bc319bc03"
+hash = "6fa0235aa1895a65a194fbaa2711e260083cb90ebf6ee59aa6d314a8d12351b5"
 metafile = true
 
 [[files]]
@@ -3219,7 +3219,7 @@ metafile = true
 
 [[files]]
 file = "mods/playerrevive.pw.toml"
-hash = "64fa5e73b816d77231bc08630a4db09b264d983c6311bb9afd8ec71089c929df"
+hash = "c84f12044516e4e3a6bbf898767cd3f6483af2634792ded971ca5f6687c1c3a4"
 metafile = true
 
 [[files]]
@@ -3369,7 +3369,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "f76398afccb613aa2e499fb23d0bc6f4570d44eb0b809cff7de871d2257fa4c6"
+hash = "69d06ddacec01d95fa77be07b7303b7cd10362dca922d13509649cb9ef8dbdc5"
 metafile = true
 
 [[files]]
@@ -3379,7 +3379,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "8f9058b0180cce1e40523e95a4558abe9147a1f928e8fba05704deeb29637f78"
+hash = "d71c01fdea9aa7fc640c24a2366d1d3fd3cfe69a1f81e056ff2e5a37cf4c5bfa"
 metafile = true
 
 [[files]]
@@ -3414,7 +3414,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
-hash = "a6b52fbac8ba8c697c5d7243abb9c8c0a4d9f437d27b4afd9f08a0d1aa13eea8"
+hash = "34ea4985b3c7035cf0b7444a9d019582c83526782c02e1f448e1b837b656d046"
 metafile = true
 
 [[files]]
@@ -3444,7 +3444,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "4275242bc6cd5ff6a7b23463f3921fc3bced4b9fc2e5f4a634ec5be96d0e21e2"
+hash = "5cef47ebec6f02511be3efd5d6b65ff3bf7ba9593958d13a6784e45621b4ba1f"
 metafile = true
 
 [[files]]
