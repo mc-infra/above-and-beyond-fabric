@@ -1,0 +1,13 @@
+name = "Create Ender Storage"
+filename = "Create Ender Storage v1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfd25daba573e181b889ba72645ae5c27de3830f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3807299
+project-id = 628273
