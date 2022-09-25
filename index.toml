@@ -3497,11 +3497,6 @@ hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
-metafile = true
-
-[[files]]
 file = "mods/worldeditcui-forge-edition-3.pw.toml"
 hash = "9064f183672fc7c8f02873ba8e8d188fe4a57729eea42ea91c4d9b4feb4d79b5"
 metafile = true
