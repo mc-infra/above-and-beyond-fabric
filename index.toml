@@ -775,11 +775,6 @@ hash = "b7dc02c920b7732444d2b725e90b5e82093a4037b3b4cd7d393f8ded8d9cc695"
 metafile = true
 
 [[files]]
-file = "config/openloader/resources/building-gadgets-create-like.pw.toml"
-hash = "9e8d3d433e2dbda916420df56543d8ecfa2075175ebe0f017dd6e313a81d924e"
-metafile = true
-
-[[files]]
 file = "config/openloader/resources/chipped-create-compatibility.pw.toml"
 hash = "0b799317f47f9d99c7a23685c94b9893df4619eab806f56e28348b59c899e0f5"
 metafile = true
