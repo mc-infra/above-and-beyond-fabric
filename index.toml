@@ -2547,11 +2547,6 @@ hash = "1510ae4689809d36ed37b81f8bdef180ba8b3eda83b1bd8e8cb79ea8e371d4b0"
 metafile = true
 
 [[files]]
-file = "mods/architects-palette.pw.toml"
-hash = "89cc0eefd627a380274c0dcfb5739fb0ef2b426e62276f7534ba7895e57d74e1"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "51498f3b961807fbb2d973226ee89ef4bc74c71ea35cb95d7037b9a6e2e022bc"
 metafile = true
@@ -2687,11 +2682,6 @@ hash = "7ecbf5bd076dcec257a31cbc5c0a6e0bd34e12fd29313c3cdbe9ac549d61fd1e"
 metafile = true
 
 [[files]]
-file = "mods/cofh-core.pw.toml"
-hash = "6a6c57d3f0855c6ea489dd74deff8ffbd82cc53a61811f603ed99ea5a0bc45d7"
-metafile = true
-
-[[files]]
 file = "mods/collective.pw.toml"
 hash = "59407be779adccf3774d72e458a34586ebce14e3224163a09d238f2402f3f360"
 metafile = true
@@ -2717,68 +2707,8 @@ hash = "4f69aaaafb229e3063f529b5402a8c74fe44bd01fd276022773b983f84a3d719"
 metafile = true
 
 [[files]]
-file = "mods/cookiecore.pw.toml"
-hash = "456395f71f5ee84e6b48fd4d5e83d11dc8b8761555c15065cfc29455469715d8"
-metafile = true
-
-[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "4fb4d04aa0d2b367d14f651deddd793fb6a143a46760b9e6340f304589c212bf"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "3e3f4539c3627337fce9cc5c7367812584974f73a560b738bb3929ffb4954d69"
-metafile = true
-
-[[files]]
-file = "mods/create-alloyed.pw.toml"
-hash = "14d58649e9b2addd8ae226cffcf05cac8b102d50f6a6e86af73ac01ae8ff949a"
-metafile = true
-
-[[files]]
-file = "mods/create-broken-bad.pw.toml"
-hash = "b81be18546b2bafd4482e683844f9ebf37c2b942d7364cf0c7032591f8c2cb56"
-metafile = true
-
-[[files]]
-file = "mods/create-chromatic-return.pw.toml"
-hash = "9a3baf483ace6e254cd1baced5e50d9eb464b727bf579feef9a863d3d8864f1f"
-metafile = true
-
-[[files]]
-file = "mods/create-chunkloading.pw.toml"
-hash = "99c9c05bcfaf416d6e807b30d0821de667b283e9c43562bdf4ea384121d77a7d"
-metafile = true
-
-[[files]]
-file = "mods/create-confectionery.pw.toml"
-hash = "3129a246581ef4ce97d572b7b62fccd9e1002a26fe222c7a1ba070fc0c402356"
-metafile = true
-
-[[files]]
-file = "mods/create-deco.pw.toml"
-hash = "d4f26000a9053d0ac8f76d779a0b52124c9b472faced12fc48a53346359900dc"
-metafile = true
-
-[[files]]
-file = "mods/create-factory.pw.toml"
-hash = "a667a81f6ee2fbb112e0eda2660b0c44d4fc00cb2794fbb4ec24d30038429350"
-metafile = true
-
-[[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "27c2437c9c91f34088bc1bda1da1bc1552e78a4188ef04bde42fb37e4fe8014a"
-metafile = true
-
-[[files]]
-file = "mods/create-misc-and-things.pw.toml"
-hash = "6eaadfb8a91d1c96b8ef1ffdd24be9efe860703b30001667c5049a5732ff64d8"
-metafile = true
-
-[[files]]
-file = "mods/create-stuff-additions.pw.toml"
-hash = "c58bc9d68aa15d5a4548c02ec18f9c06897bedcd30560be77465818d3a79cb42"
 metafile = true
 
 [[files]]
@@ -2787,28 +2717,8 @@ hash = "2e22deeb09b0e45ae67c0747a9845e7d4817311328354eeb620f4fe9d32c0370"
 metafile = true
 
 [[files]]
-file = "mods/createaddition.pw.toml"
-hash = "ff745296f5266df1aed9a33bb42a32cf95fb82ced0abd038cc629e729905f055"
-metafile = true
-
-[[files]]
-file = "mods/createtweaker.pw.toml"
-hash = "09963aad4ac5ef3152ce9a120a83cf72288189210dd8bb0823ca15fdb8a49078"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "867eed98191a9e072f1ed53a361e1f971c2a65b67fc2df85bf5735454b4c6dd4"
-metafile = true
-
-[[files]]
-file = "mods/ctm.pw.toml"
-hash = "038e5127cabdd1b7d2523cde4ae5e3101e8d7ca4a884cc56c5462f93dc1d39d2"
-metafile = true
-
-[[files]]
-file = "mods/culinary-construct.pw.toml"
-hash = "aa1e164c46bde0adc2038aafa1bc71a322623ac61d81b92360d22677df8a1d9f"
 metafile = true
 
 [[files]]
@@ -2827,18 +2737,8 @@ hash = "e186b52cfcf099d3cbe4992268e09bf7cdfa6e281837808a086ee5009ffd35f1"
 metafile = true
 
 [[files]]
-file = "mods/decorative-blocks-compat.pw.toml"
-hash = "82336831c90e797799f1bd207bdf66f82aaa51b6f32b24fea054bf25126a15af"
-metafile = true
-
-[[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "b33441b07f85bd9d3a7757020afcc01b80a44cc376b29475ed246b0f97ec7d11"
-metafile = true
-
-[[files]]
-file = "mods/diet.pw.toml"
-hash = "25903c13496cb1472f7d866ed09fa3775e775c5df733216b9d4b70dbf8fd33ab"
 metafile = true
 
 [[files]]
@@ -2852,28 +2752,8 @@ hash = "c23852aab7f61c170d1449a4fc31f250591ba9454749bff49cf3ff0903d8ac72"
 metafile = true
 
 [[files]]
-file = "mods/dtbop.pw.toml"
-hash = "49df8a077c9f81bd5e4f98d72228b917694b5fd2d7b1bd780dc834be9ca261bb"
-metafile = true
-
-[[files]]
-file = "mods/dynamic-trees-terraforged.pw.toml"
-hash = "31fbd4d3ddf9770d8fad73b7b49450a73829c24b2447459e144c038e0a7df11d"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "64e919364086f659b6b9ab8a14c42ab4c76139d100d934971f88d9deb3b4ccc2"
-metafile = true
-
-[[files]]
-file = "mods/dynamictrees.pw.toml"
-hash = "076fc5c9ce30521075695baaa5ad1692098fed0545411932c5304ce4b6a8e370"
-metafile = true
-
-[[files]]
-file = "mods/dynamictreesplus.pw.toml"
-hash = "9db493f26defa80d28a513277d840b9f949961617e0f780566266397612a3700"
 metafile = true
 
 [[files]]
@@ -2937,11 +2817,6 @@ hash = "963632013806d8f5864fc9d6f0bd54f7122c2d73f68e2dec805aad1f552f637c"
 metafile = true
 
 [[files]]
-file = "mods/flywheel.pw.toml"
-hash = "83489107b570fe15f8e6dfb3993beb5241bc47ca4c2b8a6fe50d4b81697ca09c"
-metafile = true
-
-[[files]]
 file = "mods/forbidden-arcanus.pw.toml"
 hash = "2dbbc55e634f7997e48acb071115bf3194008def760434bc904533dbb7341c1d"
 metafile = true
@@ -2969,11 +2844,6 @@ metafile = true
 [[files]]
 file = "mods/grappling-hook-mod.pw.toml"
 hash = "ca7d4d2ba868dc18cca73af3567b7df52b4ed2cdf8190e7acde8f3343747beb5"
-metafile = true
-
-[[files]]
-file = "mods/grimoire-of-tetra.pw.toml"
-hash = "b34726babd74fb0e6b700e40d39515ba3e98f24ba778c08fdbcdea301b6928fe"
 metafile = true
 
 [[files]]
