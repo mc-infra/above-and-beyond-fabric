@@ -1,6 +1,6 @@
 name = "Shutup Experimental Settings!"
 filename = "shutupexperimentalsettings-1.0.5.jar"
-side = "client"
+side = "both"
 
 [download]
 hash-format = "sha1"

@@ -1,15 +1,15 @@
 name = "Oh The Biomes You'll Go"
-filename = "Oh_The_Biomes_You'll_Go-forge-1.18.2-1.4.4.jar"
+filename = "Oh_The_Biomes_You'll_Go-forge-1.19.2-2.0.0.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c813b326d5c0808275876fd9a25b6517a1e2abd7"
+hash = "e9931776ad717844130d2101b96a872492f7eed2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3956521
+file-id = 3970266
 project-id = 247560
 
 [option]

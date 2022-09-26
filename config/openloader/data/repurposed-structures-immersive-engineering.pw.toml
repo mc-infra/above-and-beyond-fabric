@@ -1,13 +1,13 @@
 name = "Repurposed Structures - Immersive Engineering Compat Datapack"
-filename = "Repurposed_Structures-Immersive_Engineering_v4.zip"
+filename = "Repurposed_Structures-Immersive_Engineering_v5.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "72125d7ecbc99b01d2975b8364209bfde8be4697"
+hash = "45af8c3084082190d124542f7342cafc18004b15"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3776337
+file-id = 3963981
 project-id = 554344

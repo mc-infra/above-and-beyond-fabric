@@ -1,17 +1,16 @@
 name = "Radium Reforged"
-filename = "radium-0.7.10.jar"
+filename = "radium-0.8.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5ef8ecf547ceebc4d1e678b6cd2441756e283e48"
+hash = "01ab088bd92b744e1eec0aba63fb470ac2d38ddf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3707226
+file-id = 3949703
 project-id = 570017
 
 [option]
 optional = true
-default = false

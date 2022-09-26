@@ -1,13 +1,13 @@
 name = "Beautify !"
-filename = "beautify-1.18.2-1.4.0.jar"
+filename = "Beautify 1.19.1-V.1.4.1 [Forge].jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "b23c543602c04b800b80a93a5781b234757c8814"
+hash = "692219997d886ec4a8a49f62179e901c07b1a01c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3945974
+file-id = 3971678
 project-id = 633252

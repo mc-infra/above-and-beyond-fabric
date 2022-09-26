@@ -1,13 +1,13 @@
 name = "Furnish"
-filename = "furnish-1.18-0.6-fix1.jar"
+filename = "furnish-1.19-0.6.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c8ebc963a7181dd3d4a64cc37a8d668cb3f9e710"
+hash = "412fa352f95e4181ce9f8282b0507a85c7d68b8c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3893519
+file-id = 4005856
 project-id = 547069

@@ -1,13 +1,13 @@
 name = "Torchmaster"
-filename = "torchmaster-18.1.0.jar"
+filename = "torchmaster-19.2.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "de042e7bd650f6ee00959cd32b6e53cb12a25413"
+hash = "1b030fdbdc5783c0619ccaea8c315820071bb63b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3724596
+file-id = 3965528
 project-id = 254268
