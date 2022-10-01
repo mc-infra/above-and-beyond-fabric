@@ -1,13 +1,13 @@
 name = "Configured"
-filename = "configured-1.5.8-1.19.jar"
+filename = "configured-2.0.1-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "2b3923c608bf5eed506d76241c3377f2e759baa7"
+hash = "a4828aa661a2b9761044aefc35bfd2cb9908836c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3947885
+file-id = 4011355
 project-id = 457570
