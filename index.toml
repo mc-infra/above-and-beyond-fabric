@@ -1812,11 +1812,6 @@ hash = "f29314b6e27525761a07f7b74802818ce3da9c51c9f6d21cb81f870121e57db2"
 metafile = true
 
 [[files]]
-file = "mods/quark-oddities.pw.toml"
-hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
-metafile = true
-
-[[files]]
 file = "mods/quark.pw.toml"
 hash = "a5be73aa9c5366b4039c2fd1770c70f2790194f0a9321ec4fed13de826779157"
 metafile = true
