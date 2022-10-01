@@ -1,15 +1,15 @@
 name = "Create Minecolonies"
 author = "appkins"
-version = "1.4"
+version = "1.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e86a192ce5be24623fdc8b662796aeec0de592d5bc1de8950e4dc3b00034307b"
+hash = "3aa98aed7a6b9839f77fc6f24151968a3df0a7c6c292d7f2ef41636ee17ea39c"
 
 [versions]
-forge = "40.1.80"
+forge = "43.1.1"
 minecraft = "1.19.2"
 
 [options]
