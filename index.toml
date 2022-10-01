@@ -433,32 +433,12 @@ file = "config/improvedbackpacks-common.toml"
 hash = "7c422bd901841ba89435fc2480fed608673ae1828730c4de491a15aece8ffaff"
 
 [[files]]
-file = "config/infinitylib/config-common.toml"
-hash = "113afa8daac4b701518c590310a810d1888316cd55a7b91e4d8580a33056c74c"
-
-[[files]]
 file = "config/jade-common.toml"
 hash = "618e2ac27e2ffb5543d2985a53bffb2c317429a2220cba8b70cb97c77c7a8a43"
 
 [[files]]
 file = "config/jei-client.toml"
 hash = "956e52a20b3847d36c5d9c70f472d6af39d858e0ce05b8aa7f03dc23ac249aa5"
-
-[[files]]
-file = "config/jei/blacklist.cfg"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "8a02baec846097c89832b5976a6eb4254fdd3067ec52017c50322e7a9bf80325"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "f69a986bcb0c8065fc7cb4d7ae26dbf3a16fa49d7d9ca4003e33f4864ca0d798"
 
 [[files]]
 file = "config/libvulpes.toml"
@@ -2303,94 +2283,6 @@ file = "config/quark-common.toml"
 hash = "7b78cbbef4f66d1082adbc5893e5fe384e5398fa0c6ca92663f5fc7c957030e7"
 
 [[files]]
-file = "config/repurposed_structures-forge/bastions.toml"
-hash = "2916ab6bdb5e4cac4cec46e4a7cfb48ea872544c34006bafb56ff0deb097768b"
-
-[[files]]
-file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
-hash = "1a2a3cda1998a7d215df00134fc9ef9bdf076f1fb127db61d28b31de9d5d6e11"
-
-[[files]]
-file = "config/repurposed_structures-forge/cities.toml"
-hash = "f20e59cda562c64408528da6bb14bbf4203fbdee8f155658127aadf8c887b9be"
-
-[[files]]
-file = "config/repurposed_structures-forge/dungeons-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/repurposed_structures-forge/dungeons.toml"
-hash = "0efea07fbc0c38d61d535d60d0437100a585a9e666b53be12cd02bdf61e4fa22"
-
-[[files]]
-file = "config/repurposed_structures-forge/fortresses.toml"
-hash = "0a9ed8a993e90df0bfa9601a30de255ca5b33fbc4ae6c8e05c45cb1a4cb6ceda"
-
-[[files]]
-file = "config/repurposed_structures-forge/igloos-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/repurposed_structures-forge/igloos.toml"
-hash = "66a0a06587890fbab1994bf85ad25e3854af8564f8319cd25410c0e425f5bf84"
-
-[[files]]
-file = "config/repurposed_structures-forge/mansions.toml"
-hash = "88eb3c724e5ea45e88762ece219d2666f9da704fa84fdc283741ad3d10f7492e"
-
-[[files]]
-file = "config/repurposed_structures-forge/mineshafts.toml"
-hash = "64240f492620565922d89c1eee78ed7e720f4b32fa87a8f9f2f4e3556c2a1138"
-
-[[files]]
-file = "config/repurposed_structures-forge/modded_loot.toml"
-hash = "2e19ce956057b47999b99180c57c3cc591a58b7eeec739aa70c3c88c5adbcce5"
-
-[[files]]
-file = "config/repurposed_structures-forge/natural_mob_spawning_configs.json5"
-hash = "63b9522d954ad4e851e54d8673b48af5640e93b95ce82183f5e2aa45b52f418e"
-
-[[files]]
-file = "config/repurposed_structures-forge/outposts.toml"
-hash = "c749e144b6c3d3efb96d312ef82065bae8a09ef3ba490db3eb7f4598417780f8"
-
-[[files]]
-file = "config/repurposed_structures-forge/pyramids.toml"
-hash = "bcef82552c675857744d1c919dd3a4b526eba1ef8521de128a6a6815559b0a3f"
-
-[[files]]
-file = "config/repurposed_structures-forge/ruined_portals.toml"
-hash = "78ff3a408f5370205f7610122b5c6ba827eaa6d664ad451c460583efa97a55b1"
-
-[[files]]
-file = "config/repurposed_structures-forge/ruins.toml"
-hash = "e54d42ddedd667a2e4c6e182a963d8c234f62e9fc2cd43c7f2faaa91912badec"
-
-[[files]]
-file = "config/repurposed_structures-forge/shipwrecks.toml"
-hash = "bb98bed369ff9f0ac98fa4af2be44eda897bb9c95140a0f205a4a6644556d247"
-
-[[files]]
-file = "config/repurposed_structures-forge/strongholds.toml"
-hash = "b106842bda2e5deb6d7ad40c98151232a9cc844b8b78bd1f4f7d9fb75c9a7986"
-
-[[files]]
-file = "config/repurposed_structures-forge/temples.toml"
-hash = "4f94338b3dabf12b1162225dfd5f941126fe9e54e20f33e6352408fc69fc9307"
-
-[[files]]
-file = "config/repurposed_structures-forge/villages.toml"
-hash = "d535d020541eb11ff635fb8b975928e7620f41ae721b3f75a5ad3081b03e8b02"
-
-[[files]]
-file = "config/repurposed_structures-forge/wells.toml"
-hash = "4d727cd71e4ce5f67f253e6ad6cca8c983c2cd53a55cadf484116b0601b03330"
-
-[[files]]
-file = "config/repurposed_structures-forge/witch_huts.toml"
-hash = "cc4b030cb1a2eb54777ab27031d6278c84d0307ba416378abd132f937ceed057"
-
-[[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "54e54197ad2ce0b2e44e0a7c4b670f40c90e0f58f6ffcc8fe43b924c0e48c4c9"
 
@@ -2449,14 +2341,6 @@ hash = "1261516974847aa016f3567c22eccace1cc4000b78b3dc3a781776a7e7989f93"
 [[files]]
 file = "config/waila/waila_plugins.json"
 hash = "66584d27d44168844da5b4cec570da81b7866585bd9428df03d2f11a2e59d434"
-
-[[files]]
-file = "config/waterstrainer/waterstrainer.toml"
-hash = "b7502d1be133172dc7d473a438670fd81952c2022f57d2361bb2a4c1028b0a19"
-
-[[files]]
-file = "config/waterstrainer/waterstrainer_loottables.txt"
-hash = "5f1721de02c21819e44d933dcff451d71c2e0399f926d09cc16b172b9ca2f507"
 
 [[files]]
 file = "config/waystones/config.json"
