@@ -1,24 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/CBMicroblock.cfg"
-hash = "a8b9978b0b57003263de3f4e2abe6dc4b0abb412b9782796281db21670a2f7c7"
-
-[[files]]
-file = "config/ChickenChunks.cfg"
-hash = "56eba4fbecafd76d33e3ef3ec278f0b298df2b1312a61ca70559424b4f3dc552"
-
-[[files]]
 file = "config/Mekanism/additions.toml"
 hash = "6d5273c169f18ea14de6b9f8b2640226ce06b20a17b0acecd92505781a2005b6"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/aiimprovements-common.toml"
-hash = "dc174a3ddfba7dcd0666506656dbfc86af5cd7fbb54cecfa53ab0e12afab1718"
 
 [[files]]
 file = "config/akashictome-common.toml"
@@ -29,112 +17,12 @@ file = "config/almostunified/unify.json"
 hash = "96355ac3174b70feeb54c674f521963e0026f5616c8b00f1dc96855a9178f90c"
 
 [[files]]
-file = "config/appleskin-client.toml"
-hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
-
-[[files]]
 file = "config/appliedenergistics2-client.toml"
 hash = "8d7e91306e5f4acffc6e5a4fd597b3e0d0acaf8c93641511f80a120d7f0fcf90"
 
 [[files]]
 file = "config/appliedenergistics2-common.toml"
 hash = "4372b4633ca643cb78b430cf32d1c9f3d3efe41e09a1398bdbb4decbc45719e5"
-
-[[files]]
-file = "config/aquaculture-common.toml"
-hash = "f7866fc13a97d0211da41892541f09ec4bbd9a72e7afb3bc9623aee3cef1fcbf"
-
-[[files]]
-file = "config/backtools.toml"
-hash = "bdb60735e5d1209f800e7fa1ca26488bd8d29277ed44a5c752cb0c84d5f0e735"
-
-[[files]]
-file = "config/betteradvancements-client.toml"
-hash = "9376911f8431f28c6d7cef493ac8466491a79961793096385ad2e88aea4ffdf2"
-
-[[files]]
-file = "config/betterburning-common.toml"
-hash = "a1e5ed2358413eba913387db4a4f714d8e13619ceb9056aa0b4fd058021acb3f"
-
-[[files]]
-file = "config/blockcarpentry-common.toml"
-hash = "703d8517c6aa5f598d4822b48cd0594d7580b6eec14f787fde459f2d88bc48bd"
-
-[[files]]
-file = "config/buddycards-client.toml"
-hash = "3944d5df9a4c2c7cf877ac88ddfb67fe11aadea3939a2eb91b69299f9391a7bb"
-
-[[files]]
-file = "config/bwncr-common.toml"
-hash = "7ee71a1ff11c0c5adfe2040c61d740c749179581f5a2f79043a500572d5109b9"
-
-[[files]]
-file = "config/cavebiomeapi-common.toml"
-hash = "1f1f4c9acc9d357aabc749907284d5aa6f4ca4ff696e795272657338551bb3cc"
-
-[[files]]
-file = "config/cavern-common.toml"
-hash = "0372feb871a6de6a4881dc5fe7208cde5b36f8c446fd68788fe99bc04b7991e2"
-
-[[files]]
-file = "config/ccl.cfg"
-hash = "e775804f263a5ff8622f7d5880f977eeda2b4f7a45c0e73eb061b154d23cc682"
-
-[[files]]
-file = "config/chiselsandbits-client.toml"
-hash = "6ea45dc73e071831108a02feaffd10c43dabda1cdc54682c1b000ad2af694201"
-
-[[files]]
-file = "config/chiselsandbits-common.toml"
-hash = "e2010c8cd87c32b0f97334cbb3f3fcbe1801b10063d2ae72f57b9cc26748efb1"
-
-[[files]]
-file = "config/cobblegenrandomizer-common.toml"
-hash = "18ed7a394ac050ecde9339e3cbedde175b49b7cd3990a94367ace00535fedfe8"
-
-[[files]]
-file = "config/cofh_core-client.toml"
-hash = "e5770761fa49e61b38f5c0fc2e713f97b044a834cb773733239d775748d6756b"
-
-[[files]]
-file = "config/computercraft-client.toml"
-hash = "b68218c31bae20db566d9da8cbc1839a1feec2dfa82cf52fe60d97ca68d04f11"
-
-[[files]]
-file = "config/configured-client.toml"
-hash = "a2af99b080cf9668f4bf7838f7d1769b2cc4bf5e8f21a3144bdffe6841d76a91"
-
-[[files]]
-file = "config/connectivity-common.toml"
-hash = "4f93594b479374a414088d700ee347694f0b8aeeec88019d6093422ee3d3ea34"
-
-[[files]]
-file = "config/constructionwand-client.toml"
-hash = "49dab16d69ef53b3846431d403918762dc0b22a4efba307c80894eeec64a1118"
-
-[[files]]
-file = "config/cookiecore-client.toml"
-hash = "738d457e0aa9f0e5c67248a24f071dc25d7342cf965c47e93f9ca5c430ecce4a"
-
-[[files]]
-file = "config/cosmeticarmorreworked-client.toml"
-hash = "65cb953917745b54e457acd047257ab452a567875e4c8589d2b8705f52c2877a"
-
-[[files]]
-file = "config/cosmeticarmorreworked-common.toml"
-hash = "4856cc7ed5b933aa1f05f84b84451fbc3db06b85d538d18c4db3b3b270721592"
-
-[[files]]
-file = "config/craftingtweaks-client.toml"
-hash = "c4c31f38ec9f76dad96db48af5b4485a91c091cc1687fcac5563591e908f673d"
-
-[[files]]
-file = "config/craftingtweaks-common.toml"
-hash = "5f162c1b1f3ed2cb35ce5be5ab87d04fa55fef02f8bc7728aabfca675b4c07e6"
-
-[[files]]
-file = "config/create-client copy.toml"
-hash = "b93a4599e90aa93810ca0fff70b17078640cbbec049da8c499ea94d26e1d6fd8"
 
 [[files]]
 file = "config/create-client.toml"
@@ -149,44 +37,8 @@ file = "config/createaddition-common.toml"
 hash = "99ab247c64b3381f20b5033f54a15a578d01dad544c12c06d2ff3abffb33816c"
 
 [[files]]
-file = "config/curios-client.toml"
-hash = "b38ea260cde0a1b5d176abc4c5c7ac0f11ff30c972d0ff9cb66c129c4fed67fd"
-
-[[files]]
-file = "config/custom-micromaterials.cfg"
-hash = "99f966a43332756d55420d4fd7ded3221dd6465aa268b8f5e4c0a643b2995a91"
-
-[[files]]
-file = "config/darkerdepths-common.toml"
-hash = "1c30e39a9f5ae3ad7caa8a708cf28deee914bc0648e841535bdd50b59a1edf66"
-
-[[files]]
-file = "config/decorative_blocks-common.toml"
-hash = "45935895d117bb33a0495c5c2c129a3c8c8d328b3c225fb808ba48a0b57c7108"
-
-[[files]]
 file = "config/defaultoptions-common.toml"
 hash = "02a3e1b7896f271e2d49fa940b7385cece07c8d9f40004272bc2015f892f3027"
-
-[[files]]
-file = "config/dice-common.toml"
-hash = "5902adf05fba1dedd6b56c82731595861237994da81e57ba7a95bfd7946bc917"
-
-[[files]]
-file = "config/dungeon_crawl.toml"
-hash = "26ddc5e2603d31da103b3a836c0fcc144efa97d69177649add1ee4b0bd951809"
-
-[[files]]
-file = "config/endergetic-common.toml"
-hash = "bf0b9695be02081947e0702335844755ee28f8538722d181184e9557c9762b89"
-
-[[files]]
-file = "config/exoticbirds-common.toml"
-hash = "55be3bb7bb91e78d8bb8de80ef2cb1b0ebf405284052721685da5f6677d6ec6a"
-
-[[files]]
-file = "config/extcaves_config.toml"
-hash = "dacd8ab4786f3ed8ace69cd398d3b33a293708c19cc79e81b67260955a2e9f00"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -333,140 +185,16 @@ file = "config/fancymenu/user_variables.db"
 hash = "d2d55a621e0ca0765db2ffc20084e053b090e9076516e83b88a65b57a6d33557"
 
 [[files]]
-file = "config/farmersdelight-client.toml"
-hash = "02dc9ef6a7fae12fe54ccc4eeb6685e7a66e7f0949c9b83c97c11baccde0e0db"
-
-[[files]]
-file = "config/farmersdelight-common.toml"
-hash = "60bca90897fd2e13a1897ce9ed65274a0547ac110ea9a2450feafcbec46bd86d"
-
-[[files]]
-file = "config/fastbench.cfg"
-hash = "1aacff411e964c8b95791ac3641568159e73697a3e288c7716d5dfecced3f4e8"
-
-[[files]]
 file = "config/ferritecore-mixin.toml"
 hash = "a55f794ef6b37d50af24c7c07afc2565fdef433522614a13c3e6c8c5227b3b5b"
 
 [[files]]
-file = "config/flywheel-client.toml"
-hash = "c552f640891856a9cbaacf326301b274284932d535ac3a8bca76ce8e6959331e"
-
-[[files]]
-file = "config/fml.toml"
-hash = "7b7d580fbddb34b59cfa2b08130e4514d7f84ddf33bd61e03c25299997ab5f4c"
-
-[[files]]
-file = "config/forbidden_arcanus-client.toml"
-hash = "669da474609fdf11dffbb30d0e5702f3e8a8878e04114a5fe9013d30f2a2ee01"
-
-[[files]]
-file = "config/forbidden_arcanus-common.toml"
-hash = "b5b19e9d214312f15ef49d51fc1c04de92f87d167485eb0028581b584f7577ad"
-
-[[files]]
-file = "config/forge-common.toml.old"
-hash = "288568f9cf2906ca96d5ddfd615151fe9c14296c84de0c8fb46a19cf682b77bd"
-
-[[files]]
-file = "config/ftbbackups-common.toml"
-hash = "cda0b2a546de30ba5c4c3b9c040384728808d2cee4962270a00ec307eb8239d7"
+file = "config/forge-common.toml"
+hash = "f3e84008e6625f62f42631aa5d0bea44f3ec3125320498531ef014f20613bcfb"
 
 [[files]]
 file = "config/grapplemod.toml"
 hash = "bfcd588ac3e8b9d43d1f57d91b2cb84535f08b5bba780cad3b05f0a0ae857095"
-
-[[files]]
-file = "config/ichunutil.toml"
-hash = "66a5061a60c3f22ae2657163c0b7f380da8ee7e35020545db2af86c7ab7a47ef"
-
-[[files]]
-file = "config/ichunutil/themes/aztec.json"
-hash = "ae26e3cc06ab0777afafa00a62a15b56b71776580c772d36baec57c91cbfffac"
-
-[[files]]
-file = "config/ichunutil/themes/blue&black.json"
-hash = "13e937b3ef6e87e0d550e05322a1e3c5a852ba2bbb0f48f6ef8f43efb2b01626"
-
-[[files]]
-file = "config/ichunutil/themes/blue&orange.json"
-hash = "65d0554b3e760ee5ede915cbd809e8ca945c5572b4cf1edcc826ae265045e1aa"
-
-[[files]]
-file = "config/ichunutil/themes/default.json"
-hash = "cd2f69c46722e3882240dade0afbdf3e0325bfdc3a1a6329c1a25cb9cdee6fdf"
-
-[[files]]
-file = "config/ichunutil/themes/grassgreen.json"
-hash = "8ed32cfc881bc532b79950b089f8d44fec99a7e590a19477aa0379caf4f87724"
-
-[[files]]
-file = "config/ichunutil/themes/green&black.json"
-hash = "29efcbeb05a94b32531f45c8b3575086e2fc1e850a23585e183a07acfce6753c"
-
-[[files]]
-file = "config/ichunutil/themes/lazygray.json"
-hash = "cc20f8cc12e65624a859aa000c3cc02db9a04ad104d99ac098b103be32178c62"
-
-[[files]]
-file = "config/ichunutil/themes/monogeneric.json"
-hash = "1c9418749fb1b6ee96037e3531dc1b3daad889c09d27b3352207560970781f41"
-
-[[files]]
-file = "config/ichunutil/themes/nightblack.json"
-hash = "0525205db2fd868b495bd81b4582ed630485b5b7c5c744a7f71b439311035f7e"
-
-[[files]]
-file = "config/ichunutil/themes/red&black.json"
-hash = "9288fea34624050994b851b618ab4fb8ad483f5a38c62123ebdd632dd6936f99"
-
-[[files]]
-file = "config/ichunutil/themes/skyblue.json"
-hash = "cef4bc0ffa98d3e398dee5dd62fc09833ebaa247998d2122988520944f7c9b1d"
-
-[[files]]
-file = "config/ichunutil/themes/whitelight.json"
-hash = "8a2271c43d2d66ab628d3f6d488e3a9760ca5844c14deedcfc455c2c968f6c5d"
-
-[[files]]
-file = "config/improvedbackpacks-common.toml"
-hash = "7c422bd901841ba89435fc2480fed608673ae1828730c4de491a15aece8ffaff"
-
-[[files]]
-file = "config/jade-common.toml"
-hash = "618e2ac27e2ffb5543d2985a53bffb2c317429a2220cba8b70cb97c77c7a8a43"
-
-[[files]]
-file = "config/jei-client.toml"
-hash = "956e52a20b3847d36c5d9c70f472d6af39d858e0ce05b8aa7f03dc23ac249aa5"
-
-[[files]]
-file = "config/libvulpes.toml"
-hash = "c2c2818d9868b377dd507c4498f14166a32a1504a58d4d8fa5888ff6cb3a6f80"
-
-[[files]]
-file = "config/lootr-common.toml"
-hash = "888900b7d5b192448e30b01c4b0df627640a22063f72254ba75e37cd15985b4f"
-
-[[files]]
-file = "config/mantle-client.toml"
-hash = "4eb31565ff6cb05edf5a4111eef5603f59b9f9a46d3682dd9f537dfe9a53e1cc"
-
-[[files]]
-file = "config/naturescompass-client.toml"
-hash = "0a6ab48eaea9ca8d3ace6d9724bdae134ba71e310c9cb44b48c5c06de49b9482"
-
-[[files]]
-file = "config/naturescompass-common.toml"
-hash = "5d47dd0a56c005c033f9ccc4318f275ba5c9e89550ae8a69dbc672e11167ef56"
-
-[[files]]
-file = "config/occultism-client.toml"
-hash = "ddeaf320610cef5b40edebfb44f80a806e43e5fe6995686c14a1f2384b40348e"
-
-[[files]]
-file = "config/occultism-common.toml"
-hash = "0a62ebe05450364557585eda3dd64397ce47de1835fe50da13420ebfb86ebafa"
 
 [[files]]
 file = "config/openloader-common.toml"
@@ -2035,230 +1763,6 @@ hash = "9caa583ff6112e5b2f0a9ca3971d6da940b789eb61f549a2c1e49be861e3d64f"
 metafile = true
 
 [[files]]
-file = "config/oretweaker/Info.txt"
-hash = "4d78e293b59eeb1911bb5aa6bd4b599eb10fb9f122925e209ff3a662d17a48f9"
-
-[[files]]
-file = "config/oretweaker/OreTweaker.toml"
-hash = "7a2428e0a52a94128c481f58a0e05969178580dbe4593575b9fde6d574ac97cf"
-
-[[files]]
-file = "config/oretweaker/data/apatite_ore.json"
-hash = "cdd6bada0278307a0e6129fc69229ba8af08f7638f7e789a5c7d2ab1627f3f96"
-
-[[files]]
-file = "config/oretweaker/data/arcane_crystal_ore.json"
-hash = "3006fb12d5f492ac76a38110c62e6359a59e208ca2cf281e605bdd233d7e6b99"
-
-[[files]]
-file = "config/oretweaker/data/aridrock_redstone_ore.json"
-hash = "2c78573052c4f74af1c6552657413aed654e763ab58fac6293ebd85255a7b5be"
-
-[[files]]
-file = "config/oretweaker/data/aridrock_silver_ore.json"
-hash = "b30501c6a336db4e91e64a040f033d8eee1fc333fe374f3d1fdf2364ebdb0fe1"
-
-[[files]]
-file = "config/oretweaker/data/basalt.json"
-hash = "d6d6ea3284ef4d09f46ab8ee51cd2aa9ad7878a8624b27eec02e4d00ea381035"
-
-[[files]]
-file = "config/oretweaker/data/cinnabar_ore.json"
-hash = "440385f91849278d0ef9b6655c660f018c468ce8f60fb108cbe29f23259295c0"
-
-[[files]]
-file = "config/oretweaker/data/emerald_ore.json"
-hash = "86c3bf3e1baccd5245859f9f7e30fcf67aa4dc3bacac09c541857e66518848d3"
-
-[[files]]
-file = "config/oretweaker/data/lead_ore.json"
-hash = "b0f9296e3285ee66d9659b10a7967b023ee13f5e980d9c3f88bf1d141bb0e5d4"
-
-[[files]]
-file = "config/oretweaker/data/limestone.json"
-hash = "d224dc81a49c1b9d57bbc4f406b79b51b13abee971ce35efc1457d28d2065c70"
-
-[[files]]
-file = "config/oretweaker/data/limestone_redstone_ore.json"
-hash = "6392c86a090bfad0dee57c983754b9ed2c488dd8852d09421751658a5bebd0da"
-
-[[files]]
-file = "config/oretweaker/data/limestone_silver_ore.json"
-hash = "5c06ac6677c2957f705977a5ab97c7f26dab6f960eb42d013c6a33cf58ff2684"
-
-[[files]]
-file = "config/oretweaker/data/marble.json"
-hash = "f9931c4b6a1016c87fed795e1429e3f72268fc198b9e1f3ddd72b3496181bd30"
-
-[[files]]
-file = "config/oretweaker/data/nickel_ore.json"
-hash = "0ef51c651b6d6641ff85fe004b30a04afe4d13956f3a841216a69ae48b2bcf33"
-
-[[files]]
-file = "config/oretweaker/data/niter_ore.json"
-hash = "2d86e88f43f0f33b3041a3465cf295adea3a10d1ce12b7a6e55762feec21f594"
-
-[[files]]
-file = "config/oretweaker/data/quartz_ore.json"
-hash = "8228589f0b1ac52916ac86c2c92319ea0c1235d24e7b2159b3f41545cc7a816d"
-
-[[files]]
-file = "config/oretweaker/data/randomium_ore.json"
-hash = "d0aac0dcc99b78fc2e95417773937a8a448c3af44c858fd4ffe8357d630e888a"
-
-[[files]]
-file = "config/oretweaker/data/redstone_ore.json"
-hash = "5c75186b5d1d024291cfb1a8592cb606fe3eff1c722c07a786463fcbe836e940"
-
-[[files]]
-file = "config/oretweaker/data/ruby_ore.json"
-hash = "b6d1b5af0fef53535b1a6c30592419b2b941aca0254ea85913356969e9a09381"
-
-[[files]]
-file = "config/oretweaker/data/sapphire_ore.json"
-hash = "3b7be16d7fbaa7005ed505de18393c15c3bd0a14e24213e5871f2859fbc46ab2"
-
-[[files]]
-file = "config/oretweaker/data/silver_ore.json"
-hash = "51f7681a84ffd9fb87ec0f774ba43f3e423dfc4bf8f1e34793bedab361d43261"
-
-[[files]]
-file = "config/oretweaker/data/xpetrified_ore.json"
-hash = "82925a491f92173523d48a1f0912463953b09921605e8104565e1665ccc9ea42"
-
-[[files]]
-file = "config/oretweaker/templates/collectives/default.json"
-hash = "0ddae6ecc61ad7bad8ac1d061e5c59802d9e560c05e772e743d19951ff4c1616"
-
-[[files]]
-file = "config/oretweaker/templates/collectives/default_nether.json"
-hash = "b64a5dbde2513170fc2744497ecc7d50973b0da7df2f21e5a59bcd23ecc79568"
-
-[[files]]
-file = "config/oretweaker/templates/collectives/default_overworld.json"
-hash = "aa277b6a22d843f3cdf8ce7d1d74d6face91808294f23232a478740ad21701a3"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/ancient_debris.json"
-hash = "5240d8c40a7fa3d22734d5e8047cbf86a613fe99ad83328cfa7696ab53e71d8e"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/andesite.json"
-hash = "77788836bfa65ed20d5c0b9a9b67e43ab739b5bfee3388e2f8912c3913ab5ad6"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/blackstone.json"
-hash = "1a8ff330ed7a62566702fd654853c2b9633063b486e374242e80c647e6ce7977"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/coal_ore.json"
-hash = "72ece77cb098dc2bf7ae18b74c4ecf576cc99aef2cd82e2de692ef13c9bf1704"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/diamond_ore.json"
-hash = "077d3f795d0d1d6dbb8336a3161267b49bb07650a69eddf1c2c04558dc58cd3b"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/diorite.json"
-hash = "60ac807864df87135551252e582e0129189ec38d9a8b717f0a850fbbea579c8c"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/dirt.json"
-hash = "77bb133c272c8aad03ff0880d8c08ff54a210dadff9c785a745e6fdb4e96e531"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/emerald_ore.json"
-hash = "ec3318fc85825dc72f9dd1df63f387b9a3e70440509e50b68d22553c6692a6e2"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/gold_ore.json"
-hash = "69817326796fcb8d648f03ac843ee25936169e078899eb2d30115b9afac4001a"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/granite.json"
-hash = "9555ffb6661845088adcff3448d21fcdb49222bfd87761613578d28c2ce03cf4"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/gravel.json"
-hash = "648a977c974493110eccbd0a8b42e0a9473e1fd6d0e867c31ee9416d08ee99ac"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/infested_stone.json"
-hash = "1fdb2674b746c51911c77f6e9e5c3c5139f16de7fe0dd9c53c45f2f4897ebe3f"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/iron_ore.json"
-hash = "9e2398ef50624edfeaeb9472de2e9940010a24fef7c7094f4029e92d1df38c78"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/lapis_ore.json"
-hash = "46f04de573490a428cf128b903224f05021881d33fc52ebc75e4da4785f8c4db"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/magma_block.json"
-hash = "cf960100642eb52a800e0259de2d96b1e647939a89257cb32313a9193ef47187"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/nether_gold_ore.json"
-hash = "c5e8ff391af9d48cfb1755e82ec44d5fa5376f03f77aae87f49c0237954c8024"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/nether_quartz_ore.json"
-hash = "d395ae695e0ee0379af06869c06cf70e95b2c01839d5df1456e6f60c14c02462"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/redstone_ore.json"
-hash = "59187dd1ede7366781f42cef54dc6b5fa5f635ad213d96a258e130d4a0b48c95"
-
-[[files]]
-file = "config/oretweaker/templates/defaults/soul_sand.json"
-hash = "874459d8d3c5295df179b42f89892daf309a935fe72c8094e266635410c852b2"
-
-[[files]]
-file = "config/oretweaker/templates/other/fuck_silverfish.json"
-hash = "0b64fe3c6c6c7933829df010fb524afe8696f7671abee208af3c716e2792cf5a"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_everything.json"
-hash = "91bb946be9647fb392a053cee87c67a836c87cb645ed57af9dc1b9e545f6d272"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_everything_nether.json"
-hash = "0545c9802120d153c264283ce36d7b55f23560179fb7cdd471ea0d32bb0989e2"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_everything_overworld.json"
-hash = "3a1bb54a4d4c29057efc8a9a02a28f219e6d9ab776f19461b9733ae538939d47"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_igneous_rocks.json"
-hash = "9dc8a9fca373a527988473158b888a6fe56629c983dfaa4ac92a6675080aaefa"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_ores.json"
-hash = "ddfbc4d1a4f005976213b356ff403bf914fb3109b52c7f664d98773c4674d640"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_ores_nether.json"
-hash = "55b8b877a824884b807b8f68dd1bcd82a54b2cc5c0211826bdebf829a507fa84"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_ores_overworld.json"
-hash = "ba10790580d38c0a41d7be397220b24b2c49fda0ccb2439096e7a2cbf9798123"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_stones.json"
-hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_stones_nether.json"
-hash = "84692d4499fcbb639f406d5031c99c7791a9d58b39497df4016389aa0c7861c7"
-
-[[files]]
-file = "config/oretweaker/templates/remove/remove_stones_overworld.json"
-hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
-
-[[files]]
 file = "config/paintings-client.toml"
 hash = "3a061cf93df17f94c375bef31cf2f5f4821457d7061fdeb3d581de8a03e04d6f"
 
@@ -2267,72 +1771,12 @@ file = "config/patchouli-client.toml"
 hash = "13ab4823538aa3c136c4fa291e785bff3dd34df3e5a20f0524ab11b0be68fd15"
 
 [[files]]
-file = "config/pipez-client.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "config/portality/modules.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
-
-[[files]]
-file = "config/portality/portality.toml"
-hash = "e3ac6c0ed82a0037a57df96c55b52951ca18e6ab8e7db0c7d71283af0c698730"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "7b78cbbef4f66d1082adbc5893e5fe384e5398fa0c6ca92663f5fc7c957030e7"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
 hash = "54e54197ad2ce0b2e44e0a7c4b670f40c90e0f58f6ffcc8fe43b924c0e48c4c9"
-
-[[files]]
-file = "config/soundfilters-client.toml"
-hash = "6e8e672264328cdd8d7e235100d4ce4a94afe46d6273e11f8bb41f410723f867"
-
-[[files]]
-file = "config/supplementaries-client.toml"
-hash = "814b8ad2e4a772a0ddc5695b1b630ecc52380ca84a0aaf8d07a5d6d67ff9f10f"
-
-[[files]]
-file = "config/supplementaries-common.toml"
-hash = "ca60798cc0ee4246620fa7d56af82c36744a3cbf8764494867ac208e1ceba7b2"
-
-[[files]]
-file = "config/supplementaries-registry.toml"
-hash = "b3677621e4fd9488fd4907deb98049df7b638bb44e758870519188f671e6a808"
-
-[[files]]
-file = "config/tconstruct-client.toml"
-hash = "94ca7f1c8b5ea9c2e91bbdb6ed88735404ec15e13a15dfbc7c963b62bdef8dcb"
-
-[[files]]
-file = "config/tconstruct-common.toml"
-hash = "e0e1ddb24132d888c2521c403360e6a1f439818379a3c29cb3cd4e750dfff795"
-
-[[files]]
-file = "config/thermal-client.toml"
-hash = "a6a09cfe3859942830c9813563a688d745e2bdeb81a727a3b958ab231c755ba3"
-
-[[files]]
-file = "config/titanium/modules.toml"
-hash = "a493e791689fdeea01a75f0ff8a3947191fc1942e3b8ef54c1da5581bd112d57"
-
-[[files]]
-file = "config/titanium/resources.toml"
-hash = "074327238b3caed2969c6c953dab2d722b56d538d9c111897a7269f879c34cae"
-
-[[files]]
-file = "config/titanium/titanium-tags.toml"
-hash = "1451ca535d24b1eff84246dadf9e1e79121027c183d301bcbf549f4b84155fc0"
-
-[[files]]
-file = "config/titanium/titanium.toml"
-hash = "f93a6921cfe7cd42050497b457416718a91e4d5d7ca5d6e4cb043f2a21e6d421"
-
-[[files]]
-file = "config/torchmaster.toml"
-hash = "dbd82f70778b7a6fb7d96e0cbc2a4d77851a9e6e3953da0e4a935fd9db0ba9e8"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -2345,14 +1789,6 @@ hash = "66584d27d44168844da5b4cec570da81b7866585bd9428df03d2f11a2e59d434"
 [[files]]
 file = "config/waystones/config.json"
 hash = "355d8a5a412de4581df58398457945dba531ed950a380a9163125c25af3b7d86"
-
-[[files]]
-file = "config/xreliquary-client.toml"
-hash = "08b34c6d39a28aeef60afb486f8ba35bec0d842d4fb5bb94d4b6862c9d0c2e2c"
-
-[[files]]
-file = "config/xreliquary-common.toml"
-hash = "a50305a9b63fde38bb65a83beac822c33cc9b2b065ecb5a5549608c8a16fa51a"
 
 [[files]]
 file = "defaultconfigs/create-server.toml"
@@ -2373,6 +1809,11 @@ hash = "8b00261a58831eb99874e006db5da7199bd33bcea05f6caa7dcdb93d249a3621"
 [[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "f29314b6e27525761a07f7b74802818ce3da9c51c9f6d21cb81f870121e57db2"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
 metafile = true
 
 [[files]]
