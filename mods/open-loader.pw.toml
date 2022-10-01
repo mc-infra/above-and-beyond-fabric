@@ -1,0 +1,13 @@
+name = "Open Loader"
+filename = "OpenLoader-Forge-1.19.2-15.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "93867029b52f6ebf3b850f5b34199e777a596ec5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3943067
+project-id = 354339

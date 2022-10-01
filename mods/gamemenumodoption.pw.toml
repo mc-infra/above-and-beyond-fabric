@@ -1,0 +1,13 @@
+name = "Game Menu Mod Option [Forge]"
+filename = "GameMenuModOption-1.19-1.18.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8815d9aadd6cda0b24f6464d9dfa7605d9cdba2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3904123
+project-id = 353051

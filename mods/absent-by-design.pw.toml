@@ -1,0 +1,13 @@
+name = "Absent by Design"
+filename = "absentbydesign-1.19-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42ccc9cea4edfcf68d432c927570e77b91311844"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3835331
+project-id = 305840

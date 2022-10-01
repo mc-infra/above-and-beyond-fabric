@@ -1,0 +1,13 @@
+name = "Pipez"
+filename = "pipez-1.19.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e646e7b98278084f4ef9181f62cef28ac456d15a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3920730
+project-id = 443900

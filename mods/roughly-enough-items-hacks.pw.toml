@@ -1,0 +1,13 @@
+name = "REI Plugin Compatibilities"
+filename = "REIPluginCompatibilities-forge-9.0.16.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9bdf69d8a9c9a16e5c74351081a6f50e49b7b124"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4010435
+project-id = 521393

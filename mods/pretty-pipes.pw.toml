@@ -1,0 +1,13 @@
+name = "Pretty Pipes"
+filename = "PrettyPipes-1.13.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc96ab1603f380f55db92d6e41e291f35df98c39"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3965134
+project-id = 376737
